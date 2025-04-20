@@ -75,35 +75,49 @@ Podcast_Neo4j/
 
 ## Scripts & Modules
 
-### Data Scraping (`scripts/scrape.py`)
-[View script](scripts/scrape.py)
-- Functions to send HTTP requests, parse HTML, and extract references from podcast posts.
-
-### Reference Collection (`scripts/collect_references.py`)
+### collect_references.py
 [View script](scripts/collect_references.py)
-- Collects all podcast post URLs, scrapes references, and saves to CSV.
+- Extracts references from individual podcast episode pages on the B9 website.
+- Includes functions to fetch HTML, locate the references section, and parse all references for a given episode.
 
-### CSV Normalization & Cleaning (`scripts/normalize_and_clean.py`)
-[View script](scripts/normalize_and_clean.py)
-- Cleans and normalizes CSVs for graph import.
+### scrape.py
+[View script](scripts/scrape.py)
+- Scrapes podcast episode URLs from the B9 website across multiple pages.
+- Aggregates all episode links, extracts references, and saves the results to a structured CSV file.
 
-### Neo4j Graph Import (`scripts/neo4j_graph_import.py`)
+### normalize_data.py
+[View script](scripts/normalize_data.py)
+- Converts wide-format reference CSVs into a normalized long format suitable for further processing.
+- Combines, deduplicates, and sorts reference data from multiple sources.
+
+### data_cleaning.py
+[View script](scripts/data_cleaning.py)
+- Cleans and prepares the combined references dataset for analysis and import.
+- Handles text cleaning, title/URL separation, episode number extraction, reference type classification, and outputs master tables for episodes, episode-to-episode references, and external references.
+
+### neo4j_graph_import.py
 [View script](scripts/neo4j_graph_import.py)
-- Loads normalized CSV, builds graph in Neo4j, creates nodes and relationships.
+- Imports cleaned data into a Neo4j graph database.
+- Handles database connection, constraint creation, node and relationship creation, and validation queries.
 
-### Transcript Embedding (`scripts/transcript_embedding.py`)
+### episodes_transcriptions_retrieve.py
+[View script](scripts/episodes_transcriptions_retrieve.py)
+- Downloads and processes YouTube transcripts for podcast episodes.
+- Extracts video URLs from a playlist, retrieves transcripts (including auto-generated), and saves them in a structured format.
+
+### transcript_embedding.py
 [View script](scripts/transcript_embedding.py)
-- Parses transcript files, generates embeddings, and imports transcript data into Neo4j.
-
-### Utilities (`scripts/utils.py`)
-[View script](scripts/utils.py)
-- Shared helper functions used across modules.
+- Processes transcript text files, chunks and embeds them using a transformer model.
+- Imports transcript segments and their embeddings into Neo4j, linking them to the appropriate episode nodes.
 
 ## Datasets
-- Place reference CSVs in the `datasets/` directory.
+- Place raw reference CSVs in the `data/raw/` directory.
+- Place cleaned and processed CSVs in the `data/processed/` directory.
+- Scripts such as `normalize_data.py` and `data_cleaning.py` will read from and write to these folders as part of the data pipeline.
 
 ## Transcripts
-- Place transcript files in the `transcripts/` directory.
+- Place transcript text files for each episode in the `transcripts/` directory.
+- Scripts like `episodes_transcriptions_retrieve.py` and `transcript_embedding.py` will read from and write to this folder.
 
 ## Future Directions
 - Retrieval-Augmented Generation (RAG) for podcast summaries

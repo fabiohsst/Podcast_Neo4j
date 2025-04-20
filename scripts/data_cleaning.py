@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-DATA_DIR = 'datasets/'
+DATA_DIR = 'data/processed/'
 
 def clean_and_prepare_datasets():
     logger.info("Loading original dataset...")

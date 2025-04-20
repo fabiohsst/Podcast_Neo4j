@@ -23,11 +23,11 @@ def process_file_to_long_format(file_path):
 
 # Process both files
 print("Processing references2.csv...")
-df2 = process_file_to_long_format('references2.csv')
+df2 = process_file_to_long_format('data/raw/references2.csv')
 print(f"Shape of references2.csv after processing: {df2.shape}")
 
 print("\nProcessing references3.csv...")
-df3 = process_file_to_long_format('references3.csv')
+df3 = process_file_to_long_format('data/raw/references3.csv')
 print(f"Shape of references3.csv after processing: {df3.shape}")
 
 # Combine the dataframes
@@ -43,11 +43,11 @@ combined_df = combined_df.sort_values('Episode')
 print("\nFinal combined dataset:")
 print("Shape:", combined_df.shape)
 print("\nFirst few rows:")
-display(combined_df.head(10))
+print(combined_df.head(10))
 
 # Save to a new CSV file
-combined_df.to_csv('combined_references_long_format.csv', index=False)
-print("\nSaved to combined_references_long_format.csv")
+combined_df.to_csv('data/processed/combined_references_long_format.csv', index=False)
+print("\nSaved to data/processed/combined_references_long_format.csv")
 
 # Display some statistics
 print("\nNumber of references per episode:")
