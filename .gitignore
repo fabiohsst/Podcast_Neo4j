@@ -3,3 +3,8 @@
 
 # Ignore environment variables file
 .env.txt
+
+# Ignore Python virtual environments and cache
+venv/
+.venv/
+__pycache__/
