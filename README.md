@@ -28,28 +28,42 @@ This repository provides a robust pipeline for collecting, cleaning, and importi
 ```
 Podcast_Neo4j/
 │
-├── data/                   # Raw and processed data (CSV, transcripts, etc.)
-│   ├── raw/
-│   ├── processed/
+├── data/                   # Project data (see subfolders)
+│   ├── raw/                # Raw input data (e.g., scraped CSVs)
+│   └── processed/          # Cleaned/normalized data for analysis/import
 │
-├── notebooks/              # Jupyter notebooks for exploration and documentation
-│   └── data_extraction_import_neo4j.ipynb
+├── documentation/          # Project documentation and reference notebooks
+│   ├── data_extraction_import_neo4j.ipynb
+│   └── transcript_import_performance_comparison.txt
 │
-├── scripts/                # Python scripts for modularized code
-│   ├── scrape.py                   # Data scraping functions
-│   ├── collect_references.py       # Collect podcast post URLs and references
-│   ├── normalize_and_clean.py      # CSV normalization and cleaning
-│   ├── neo4j_graph_import.py       # Neo4j import and graph creation
-│   ├── transcript_embedding.py     # Transcript parsing and embedding
-│   └── utils.py                    # Shared utility functions
+├── queries/                # Query results and analysis CSVs
+│   ├── duplicated_segments.csv
+│   ├── duplicated_segments_after.csv
+│   ├── n_duplicated_segments.csv
+│   └── n_duplicated_segments_after.csv
 │
-├── datasets/               # Reference CSVs
-├── transcripts/            # Transcript files
+├── scripts/                # Python scripts for all processing steps
+│   ├── collect_references.py           # Collect podcast post URLs and references
+│   ├── data_cleaning.py                # Data cleaning and preparation
+│   ├── episodes_transcriptions_retrieve.py # Retrieve and process YouTube transcripts
+│   ├── neo4j_graph_import.py           # Neo4j import and graph creation
+│   ├── normalize_data.py               # CSV normalization utilities
+│   ├── scrape.py                       # Data scraping functions
+│   ├── transcript_embedding.py         # Transcript parsing and embedding
+│
+├── transcripts/            # Transcript files for each episode
+│   └── ...
+│
+├── legacy/                 # Old or superseded scripts and files kept for reference
+│   └── data_extraction_markdown.py     # Exported notebook as script (legacy)
+│
 ├── .env                    # Environment variables (Neo4j credentials, etc.)
+├── .gitignore              # Git ignore rules
+├── README.md               # Project documentation (this file)
 ├── requirements.txt        # Python dependencies
-├── README.md
 └── 
 ```
+*Note: Files and folders listed in .gitignore (e.g., venv/, .venv/, __pycache__/, .ipynb_checkpoints) are not shown in this structure.*
 
 ## Environment & Dependencies
 - Python 3.x
