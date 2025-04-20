@@ -48,7 +48,7 @@ Podcast_Neo4j/
 ├── .env                    # Environment variables (Neo4j credentials, etc.)
 ├── requirements.txt        # Python dependencies
 ├── README.md
-└── ...
+└── 
 ```
 
 ## Environment & Dependencies
