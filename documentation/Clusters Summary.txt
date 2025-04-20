@@ -1,0 +1,157 @@
+Cluster 0 summary:
+### Summary
+This cluster of podcast episodes explores various scientific curiosities, including language, perception, and the impact of biases on decision-making.
+
+### Topics Table
+| Topic | Description |
+|-------|-------------|
+| Manga reading habits | Influence of reading direction on proficiency. |
+| Writing systems | Evolution of Japanese and Western writing styles. |
+| Hair growth | Intrinsic factors affecting hair development. |
+| Inclusivity in media | Enhancements for accessibility in podcasting. |
+| Probability theory | Understanding lottery odds and decision-making. |
+| Confirmation bias | How biases affect beliefs and social media interactions. |
+| Optical illusions | Perception differences in visual stimuli. |
+| Sleep paralysis | Physiological explanations for waking paralysis. |
+| Allergies vs. colds | Distinctions between allergic reactions and viral infections. |
+| Atomic structure | Advances in microscopy and atomic visualization. |
+| Emotional impact of words | Effects of positive and negative language on matter. |
+| Alcohol and language | Influence of alcohol on foreign language fluency. |
+
+Cluster 1 summary:
+### Cluster summary
+These podcast episodes focus on health-related topics, particularly the ongoing discussions around HIV/AIDS, vaccination, and the long-term effects of COVID-19.
+
+### Topics Table
+| Topic                | Description                                      |
+|----------------------|--------------------------------------------------|
+| HIV/AIDS research     | Current developments in HIV/AIDS treatment.      |
+| Vaccination issues    | Public perceptions and importance of vaccinations.|
+| Long COVID            | Effects and management of post-COVID conditions. |
+| Health communication  | Strategies for effective public health messaging. |
+| Disease prevention    | Importance of preventive measures in healthcare.  |
+| Mental health         | Addressing mental health during health crises.    |
+
+Cluster 2 summary:
+### Cluster summary
+These podcast episodes explore various scientific topics, including cancer research, the placebo effect, and the nature of belief in alternative therapies, while addressing listener questions on health and biology.
+
+### Topics Table
+| Topic                     | Description                                      |
+|---------------------------|--------------------------------------------------|
+| Cancer research           | Discussion on the causes and misconceptions.     |
+| Placebo effect            | How belief influences health outcomes.            |
+| Homeopathy                | Examination of its efficacy and scientific basis. |
+| Gender identity           | Differences between sex, gender, and expression.  |
+| Tardigrades               | Unique survival mechanisms of these organisms.    |
+| Reiki                     | Overview of energy healing practices.             |
+| Handedness                | Exploration of left-handedness and its implications.|
+| Skin moles                | Reasons for the appearance of moles over time.   |
+| Bacterial survival        | Effects of pressure on bacteria.                  |
+| Soap efficacy             | Comparison of soap and water in handwashing.      |
+
+Cluster 3 summary:
+### Summary
+This cluster explores the concept of infinity in mathematics, discussing its properties and implications.
+
+### Topics Table
+| Topic                  | Description                                         |
+|------------------------|-----------------------------------------------------|
+| Infinity                | Understanding infinity as a concept, not a number. |
+| Cardinality            | The lack of cardinality in infinite sets.           |
+| Summation of numbers   | Challenges in summing infinite series.              |
+| Algebra requirements    | Necessary algebra knowledge to understand concepts.  |
+| Mathematical proofs    | Demonstrating results using formal mathematical proofs.|
+
+Cluster 4 summary:
+### Summary
+These podcast episodes explore themes of wealth, social empathy, personality assessments, and the impact of scientific understanding on societal issues.
+
+### Topics Table
+| Topic                       | Description                                         |
+|-----------------------------|-----------------------------------------------------|
+| Wealth and empathy          | The relationship between wealth and social empathy. |
+| Personality tests           | Discussion on MBTI and other personality assessments. |
+| Psychological experiments    | Overview of famous psychological studies and their implications. |
+| Science and society         | The role of science in understanding social issues. |
+| Family therapy              | Insights into family dynamics and therapy approaches. |
+| Gratification delay         | Analysis of the marshmallow experiment and its findings. |
+| Pseudoscience concerns      | Critique of pseudoscientific practices in psychology. |
+| Cultural influences on behavior | How culture shapes individual behavior and perceptions. |
+
+Cluster 5 summary:
+### Summary
+This cluster of podcast episodes explores the complexities of memory, dreams, and the functioning of the brain, addressing listener questions about how these processes work and their implications.
+
+### Topics Table
+| Topic               | Description                                      |
+|---------------------|--------------------------------------------------|
+| Memory formation     | How memories are created and stored in the brain. |
+| Childhood memories   | Exploration of early memory and its significance.  |
+| Dream analysis       | Understanding the nature and purpose of dreams.    |
+| Lucid dreaming       | Awareness and control during dreaming states.       |
+| Brain function       | Differences between human brains and computers.     |
+| Multitasking         | Effects of performing multiple tasks simultaneously. |
+| Emotional vs. rational brain | Distinction between emotional and rational thought processes. |
+| Decision-making      | How decision-making capacity changes throughout the day. |
+| Hypnosis             | Theories and effects of hypnotic states on perception. |
+| Memory myths         | Debunking common misconceptions about memory.       |
+
+Cluster 6 summary:
+### Summary
+These podcast episodes explore the emotional and physiological responses to music, particularly the phenomenon of experiencing chills or "frisson" when listening to certain pieces.
+
+### Topics Table
+| Topic                | Description                                      |
+|----------------------|--------------------------------------------------|
+| Emotional response    | How music evokes feelings and physical reactions. |
+| Chills and frisson    | The science behind experiencing chills from music. |
+| Personal anecdotes     | Guests share their own music-related experiences.  |
+| Music theory           | Basic concepts explaining musical structure.      |
+| Historical context     | The social relevance of singing throughout history. |
+| Listening habits       | Patterns in how people engage with music over time. |
+| Music and memory       | Connection between music and personal memories.    |
+| Influence of composers | Impact of composers like Mozart on listeners.     |
+
+Cluster 7 summary:
+### Summary
+This cluster of podcast episodes explores the psychological and social dynamics of human behavior, including reactions to humor, social media influences, and the complexities of identity and perception.
+
+### Topics Table
+| Topic                     | Description                                      |
+|---------------------------|--------------------------------------------------|
+| Social media impact       | Effects of social media on impulsive behavior.   |
+| Humor psychology          | Understanding why we laugh at different stimuli. |
+| Identity perception       | Challenges in recognizing individuals from cultures. |
+| Fear and vertigo         | Psychological responses to heights and danger.   |
+| Imaginary friends         | The role and significance of imaginary companions. |
+| Voice and identity        | Discrepancies between voice and physical appearance. |
+| Gagging and singing       | Why some people overcome stuttering while singing. |
+
+Cluster 8 summary:
+### Cluster summary
+This cluster of podcast episodes addresses mental health issues, particularly focusing on suicide prevention, the impact of societal taboos, and the importance of open discussions about mental well-being.
+
+### Topics Table
+| Topic                     | Description                                      |
+|---------------------------|--------------------------------------------------|
+| Suicide prevention        | Discussing strategies and importance of prevention. |
+| Mental health awareness    | Raising awareness about mental health issues.     |
+| Societal taboos          | Exploring the stigma surrounding mental health.   |
+| Existential discussions    | Examining the existential aspects of suicide.     |
+| Personal experiences      | Sharing listener stories related to mental health. |
+| Sleep disorders           | Discussing issues like sleep paralysis and insomnia. |
+| Procrastination           | Analyzing psychological causes of procrastination. |
+| Representation in media   | Importance of diverse voices in mental health discussions. |
+
+Cluster 9 summary:
+### Summary
+These episodes explore the origins and meanings of terms like "Black Friday" and "hoax," highlighting cultural interpretations and historical contexts.
+
+### Topics Table
+| Topic           | Description                                         |
+|-----------------|-----------------------------------------------------|
+| Black Friday    | Historical origins and meanings of the term.      |
+| Hoax            | Definition and cultural implications of internet hoaxes. |
+| Japanese culture | Insights into Japanese perceptions of credibility.  |
+| Market speculation | Historical events influencing market terminology.   |
