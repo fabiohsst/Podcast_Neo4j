@@ -1,0 +1,1813 @@
+Title: Naruhodo #118 - Como se prevê a probabilidade de chuva?
+URL: https://www.youtube.com/watch?v=PUTwXjsbCd4
+Language: pt
+Extracted on: 2025-04-06 16:48:01
+================================================================================
+
+[00:00] como se prevê a probabilidade de chuva
+
+[00:04] [Música]
+
+[00:06] não encontram bem vinda não rodou
+
+[00:12] podcast para quem tem fome de aprender
+
+[00:14] eu sou ken fujioka eu só saí de souza e
+
+[00:17] hoje é dia de que a gente entra na
+
+[00:22] potência alta e 3 recadinhos rápidos da
+
+[00:25] paróquia mas ele já sabe
+
+[00:29] a número 1 se você quer colaborar com o
+
+[00:32] a produção na roda podcast e ajudar ele
+
+[00:35] a se manter no ar vai lá no apoia
+
+[00:37] aponta-se e barra na rodovia podcast
+
+[00:39] faça sua colaboração total com um número
+
+[00:42] 2 não vai custar nada é só ir lá e tem
+
+[00:45] uma história e deixar cinco estrelinhas
+
+[00:47] e o seu comentário e nunca te pedimos
+
+[00:50] nada ea terceira e última também tem
+
+[00:53] custo zero a é só apresentar o podcast
+
+[00:56] rodou por uma amiga ou por um amigo que
+
+[00:59] não conhece na rodovia estadual a
+
+[01:02] proposta não conhece o podcast é a
+
+[01:04] proposta do naruto exatamente essa
+
+[01:05] comoção episódios mais curtinhos é para
+
+[01:07] introduzir as pessoas aponta esfera é
+
+[01:09] isso aí então gente vão para a pauta
+
+[01:11] hora antes da pauta mais um recado claro
+
+[01:16] rodou está abrindo espaço para o podcast
+
+[01:18] das minas porque representatividade é
+
+[01:22] importante também na ponta esfera
+
+[01:24] o destaque de hoje vai para o podcast
+
+[01:26] pergunta de quinta comandado pela mona
+
+[01:29] moto e mi
+
+[01:30] ouço recado que ela deixou pra você
+
+[01:31] ouvinte do narrador e conheça o podcast
+
+[01:34] pergunta de quinta com sax feminista e o
+
+[01:37] pt que vê gremista
+
+[01:39] oi eu sou a mona moto ele do podcast
+
+[01:41] pergunta de quinta
+
+[01:43] nós respondemos pergunta sobre o
+
+[01:45] veganismo e feminismo os quadros weg
+
+[01:47] responde e saque feminista mas essa
+
+[01:49] pergunta pra gente
+
+[01:50] você nos encontra no spotify saúde
+
+[01:52] cláudia itunes ou no seu agregador
+
+[01:54] favorito no pedido é pau é pedra o
+
+[01:56] podcast colaborativa feito pelos patrões
+
+[01:58] durante cast caso tenha interesse em
+
+[02:00] conhecer mulheres podcasts acesse a
+
+[02:02] hashtag mulheres podcasts pergunta de
+
+[02:05] quinta eo é pau é pedra apóiam esta
+
+[02:07] iniciativa é uma ação de iniciativa do
+
+[02:09] programa ponto g é divulgar o trabalho
+
+[02:11] de mulheres na mídia podcast
+
+[02:13] mostrar para todo 20 que sempre existiu
+
+[02:15] mulheres na comunidade de podcast do
+
+[02:18] brasil
+
+[02:18] em altay hoje temos a pergunta de um
+
+[02:22] ouvinte uma pergunta chuvosa
+
+[02:26] prevemos trovões e relâmpagos bagaceira
+
+[02:31] altair pergunta vendo ajuricaba júnior
+
+[02:35] ajuricaba é o nome dele é diferente né
+
+[02:39] ele tem 24 anos faz engenharia civil e
+
+[02:43] de dourados mato grosso do sul e também
+
+[02:47] com 11 alcançando vim com ele o brasil
+
+[02:49] exatamente alta é a mensagem do
+
+[02:52] ajuricaba a seguinte gostaria de
+
+[02:54] entender como funciona a famigerada
+
+[02:56] probabilidade de chuva ele mandou um
+
+[02:59] print né de um daqueles aplicativos de
+
+[03:01] celular né que mostra a temperatura e
+
+[03:05] uma probabilidade de chuva em forma de
+
+[03:06] porcentagem não tem ao longo dos dias na
+
+[03:09] exato é pergunta dele é como eu leio
+
+[03:11] esses dados
+
+[03:12] ok às 18 horas existe uma chance de 40%
+
+[03:16] que chova e às 19 horas também mas esse
+
+[03:19] é de fato chover às 18 horas será então
+
+[03:22] que as 19 existe 40% de chances de
+
+[03:24] continuar chovendo ou será que essa
+
+[03:27] probabilidade vai cair uma vez que a
+
+[03:29] chuva já desceu bom deu para entender e
+
+[03:32] eu aqui estou confuso ao trair é uma
+
+[03:35] ótima pergunta é uma boa pergunta
+
+[03:36] a ré não quer dizer a gente cada um de
+
+[03:39] nós tem um jeito de ler esse número e
+
+[03:41] ela tenta adivinhar o que ele significa
+
+[03:44] que não fica com a sensação assim quando
+
+[03:46] você nem o boletim do tempo na tv ou
+
+[03:48] mesmo na internet que parece tem que ter
+
+[03:50] que você tem que ter um doutorado em
+
+[03:51] teologia pretender é verdade
+
+[03:53] especialmente a probabilidade de chuva
+
+[03:55] né ea temperatura parece uma coisa mais
+
+[03:57] concreta sim né
+
+[03:59] mas ele fala bom nesse horário a
+
+[04:02] probabilidade de chuva é de 20% ea
+
+[04:04] ignorar o seguinte na faixa etária
+
+[04:06] seguinte essa propriedade muda para 40
+
+[04:08] né e aí o que a gente faz a gente fala
+
+[04:11] folha de s
+
+[04:14] os mais cuidadosos bom se não é zero e
+
+[04:17] ter melhor levar guarda-chuva é alguns
+
+[04:20] carregam guarda-chuva eternamente dentro
+
+[04:22] da pasta o carro quanto nunca levam
+
+[04:24] resgatar a mãe de silva que faz até
+
+[04:27] então mas esse é um ponto importante do
+
+[04:28] que por exemplo imaginando a
+
+[04:30] probabilidade você tem 50% de chance de
+
+[04:33] chover das 12 às 13 horas do dia né
+
+[04:37] o que isso quer dizer será que quer
+
+[04:39] dizer que vai chover durante os 50 por
+
+[04:41] cento do tempo pois essa seja a
+
+[04:44] interpretação exata será que esse não
+
+[04:46] for isso será que quer dizer que existe
+
+[04:48] 50% de chance que vai chover em algum
+
+[04:51] período do tempo desta uma hora também
+
+[04:53] uma interpretação possível então essas
+
+[04:55] duas são contraditórias do meio confuso
+
+[04:58] né e ea outra é joga um dado ea metade
+
+[05:02] existe metade já estiverem metade não é
+
+[05:04] o xavi não é então as três são erradas
+
+[05:08] caso não é bem assim então dias as três
+
+[05:11] que são o senso comum história tão
+
+[05:13] errado assim a leitura correta e se você
+
+[05:15] acha que merece
+
+[05:16] a previsão é então na verdade as pessoas
+
+[05:18] não conseguem usar as informações
+
+[05:20] adequadamente da previsão do tempo e aí
+
+[05:23] o que as pessoas falam né então elas
+
+[05:25] preferem culpa o outro do que em
+
+[05:27] capacidade delas de entender a
+
+[05:28] probabilidade de você então ela sempre
+
+[05:30] falamos humanas e exatas urbanas fazendo
+
+[05:32] ser humanista depois é e aí o que
+
+[05:35] acontece há como não consegui entender
+
+[05:36] não quer dizer que eu preciso eu podia
+
+[05:39] pesquisar um pouco mais para entender
+
+[05:40] como funciona para o cálculo da
+
+[05:42] probabilidade não os meteorologistas
+
+[05:44] fazer tudo errado eles não sabem do que
+
+[05:46] estão falando eles erram tudo leva o
+
+[05:48] tempo todo e tal
+
+[05:49] então a idéia é desmistificar isso e
+
+[05:52] tentar mostrar como que é a explicação
+
+[05:54] formal do cálculo da probabilidade até
+
+[05:57] porque meu tá aí a gente embora a gente
+
+[05:59] seja uma piada cultural não só no brasil
+
+[06:03] inclusive de que os homens do tempo
+
+[06:07] os meteorologistas eles erram muito
+
+[06:10] muito né
+
+[06:12] na verdade não é bem assim no hotel não
+
+[06:14] é não é bem assim
+
+[06:16] na verdade a gente de novo por um verso
+
+[06:17] de memória a gente lembra mais muito
+
+[06:19] mais dúvidas que eles erraram do que das
+
+[06:21] vezes que eles acertaram lá isso esse
+
+[06:23] raciocínio que a gente tem
+
+[06:25] aparecem vários outros episódios por
+
+[06:27] exemplo da febre amarela que saiu há
+
+[06:28] pouco tempo
+
+[06:29] o dodô medo de avião também aparece
+
+[06:32] então a gente porque a gente tem medo de
+
+[06:34] avião porque a gente entende a lembrar
+
+[06:36] mais de quando o avião cair do que
+
+[06:38] quando ele não cai que nem isso é
+
+[06:39] publicizado mais
+
+[06:40] então a gente é mais saliente para a
+
+[06:43] gente perceber que pô
+
+[06:44] hoje eu li na previsão do tempo que não
+
+[06:46] ia chover choveu novo assim né então
+
+[06:49] estão erradas e você não lembra de todas
+
+[06:51] as vezes que deu certo né porque era pra
+
+[06:53] ser não é nada além da obrigação né é
+
+[06:55] muito muito coisa daquele do é muito
+
+[06:57] aquela sensação do pai que é muito
+
+[06:59] exigente sabe então se você fez de
+
+[07:01] errado com pessoas que você fez certo
+
+[07:03] essa obrigação mas que obriga a data
+
+[07:07] então é complicado mesmo né e tem uma
+
+[07:09] coisa mais importante que diz respeito a
+
+[07:12] como a gente se comporta frente a
+
+[07:14] probabilidade
+
+[07:15] então por exemplo quando chega pra você
+
+[07:17] e digo ó é segundo a previsão do tempo
+
+[07:20] existe 50% de chance de chover né tá e
+
+[07:24] pede para você mesmo então você está
+
+[07:26] lendo hoje de manhã existe 50% de chance
+
+[07:30] de chover hoje você sair com guarda
+
+[07:32] chuva não eu nunca saí com o gaúcho
+
+[07:34] então exato exato mas tem muita gente
+
+[07:36] que sempre sai do guarda chuva não é
+
+[07:38] então isso é uma coisa muito
+
+[07:40] interessante porque como a probabilidade
+
+[07:41] é calculado na sua cabeça e como ela é
+
+[07:44] transformada em comportamentos tá
+
+[07:46] quando eu digo pra você que tem 50% de
+
+[07:48] chance de chover quando você converte
+
+[07:51] isso pra comportamento ou você leva o
+
+[07:53] guarda-chuva ou não então você vai
+
+[07:55] emitir o comportamento com 100% de
+
+[07:58] certeza frente uma probabilidade porque
+
+[08:01] não existe levar 30 por cento do ano e
+
+[08:03] isso é o que não é exato não foi um bom
+
+[08:05] pedaço da chuva né levar o novo a chuva
+
+[08:08] binário não
+
+[08:09] leva você não leva isso então os
+
+[08:11] comportamentos em geral eles são
+
+[08:13] binários a probabilidade de ocorrência
+
+[08:15] deles é probabilísticas mais uma vez que
+
+[08:18] ele começa ele ocorre com 100% de
+
+[08:21] certeza só que ocorre e é isso que gera
+
+[08:24] a sensação negativa das pessoas porque
+
+[08:26] pô eu eu achava que não ia chover mas
+
+[08:29] choveu só que chove com uma
+
+[08:31] probabilidade mas você age com certeza
+
+[08:33] então tem um custo da sua ação então
+
+[08:36] toda vez que você
+
+[08:37] isso acaba gerando essa memória legault
+
+[08:39] isso exato de erro é de que foi um erro
+
+[08:42] de julgamento mas na verdade não é então
+
+[08:44] na verdade você tem a percepção do
+
+[08:46] julgamento ea execução do comportamento
+
+[08:49] isso é diferente né isso o coitado dos
+
+[08:52] meteorologistas tipo a área de
+
+[08:54] meteorologia superou avançada é muito
+
+[08:56] útil muito importante para várias coisas
+
+[08:58] até quero fazer um resumo da área como
+
+[09:01] ela funciona mais ou menos antes de
+
+[09:03] calcular a mostrar o cálculo da
+
+[09:05] probabilidade em si mas hoje vou deixar
+
+[09:08] a mensagem aqui
+
+[09:09] apesar de você entender como calcula a
+
+[09:11] probabilidade mesmo que se entendesse
+
+[09:13] cast perfeitamente primeira coisa pode
+
+[09:16] ser que você veja a previsão do tempo e
+
+[09:18] aconteceu o contrário porque a
+
+[09:19] probabilidade não é 100% então aí né
+
+[09:22] a mesma coisa que ganhar na mega sena
+
+[09:23] lembra a gente fez um episódio sobre
+
+[09:25] como a matemática ajuda prevê ou se você
+
+[09:28] vai ganhar na mega sena é o episódio lá
+
+[09:30] atrás se você vê por exemplo existe 10%
+
+[09:32] de chance de chover lá embaixo né então
+
+[09:35] você guarda chuva mas pode ser que chova
+
+[09:38] óbvio né esse fica irritado ele não é
+
+[09:42] pra você ficar irritado é dada
+
+[09:43] informação disponível como eu consigo
+
+[09:45] prever o futuro
+
+[09:46] não é a bola da vez aos 10 66% por isso
+
+[09:50] é então na verdade você vai tomar uma
+
+[09:52] decisão em função da informação que está
+
+[09:55] disponível certo que ela pode ser
+
+[09:57] contraditória ou não não agregar tanta
+
+[10:00] informação suficiente ainda faz parte
+
+[10:02] tá então não fique bravo com os
+
+[10:04] meteorologistas eles são muito legais e
+
+[10:06] fazer um trabalho muito legal
+
+[10:07] inclusive eu não sei se você sabe na usp
+
+[10:09] neta em um curso de meteorologia
+
+[10:11] e ele tem 11 um chavão deles né
+
+[10:14] a mattel é mais legal é verdade
+
+[10:17] legais mesmo é a escola de metodologia é
+
+[10:20] explicado em ág metal é mais legal ea
+
+[10:22] verdade um abraço pra ele eu gosto muito
+
+[10:24] pessoal do metal e eu escrevo justificar
+
+[10:26] isso logo mais
+
+[10:27] então vamos fazer um triângulo nessa vai
+
+[10:29] contar um pouco sobre a história da
+
+[10:30] meteorologia que é muito legal
+
+[10:32] a metodologia começou na grécia tá não é
+
+[10:34] na verdade desde a origem da escrita
+
+[10:37] você e já tinha relatos de pessoas que
+
+[10:39] viram o céu e faziam algum tipo de
+
+[10:42] previsão baseada na observação das
+
+[10:44] nuvens e do vento enfim né
+
+[10:46] mas os babilônios por exemplo usava
+
+[10:48] algumas informações mas não avançaram
+
+[10:50] muito
+
+[10:51] a primeira civilização que realmente um
+
+[10:52] peso para o estudo da meteorologia foram
+
+[10:55] os gregos e sobretudo aristóteles né
+
+[10:58] então há estoque ele foi o primeiro que
+
+[10:59] fez uma descrição das nuvens por exemplo
+
+[11:03] dos tipos de nuvens é tem nuvens mais
+
+[11:05] pesadas mais leves é porque é que isso
+
+[11:07] acontecia quando eu vi uma nuvem muito
+
+[11:10] carregada e isso levava a crer que ia
+
+[11:13] chover depois então ele vive essas
+
+[11:15] relações de causa e efeito observado não
+
+[11:19] determinística sobre as condições
+
+[11:21] climáticas
+
+[11:22] então ele escreveu um livro que chamava
+
+[11:24] meteorologia mesmo e esse livro é um
+
+[11:26] livro de provérbios quero escrever um
+
+[11:28] livro meteorologia na grande na grécia
+
+[11:30] antiga mas é um livro de provérbios
+
+[11:32] então era um livro de frases e essas
+
+[11:34] frases que eles tipo descreviam as
+
+[11:36] relações que ele vivia então há toda vez
+
+[11:39] que ver uma nuvem assim vai acontecer
+
+[11:41] tal coisa né é a visão de um filósofo
+
+[11:43] sobre o futuro de vista mas é uma visão
+
+[11:45] descritiva uma entre aspas mas
+
+[11:47] científica assim ele não era uma coisa
+
+[11:49] que ele tirava da cabeça ele observava
+
+[11:50] aparelho celular vai tentando criar uma
+
+[11:52] relação entre causa e conseqüência disso
+
+[11:54] ele observava várias vezes num dia só
+
+[11:56] uma vez né então um é tanto a história é
+
+[12:00] considerado o pai da meteorologia
+
+[12:02] porque inclusive as observações dele tem
+
+[12:04] observações erradas óbvio mas sem muitas
+
+[12:06] que são apuradas e tal
+
+[12:08] e esse livro dele né da descrição das
+
+[12:10] nuvens e tal
+
+[12:11] ele foi utilizado né até o renascimento
+
+[12:14] por muito tempo e foi utilizado em toda
+
+[12:17] a idade média
+
+[12:18] não se teve um avanço muito grande né do
+
+[12:21] dos estudos em meteorologia né
+
+[12:23] só no século 18 que tem o jean batiste
+
+[12:27] the money e que foi um cara que tem um
+
+[12:29] caráter mais
+
+[12:30] típico para aos estudos meteorológicos e
+
+[12:32] depois veio muita gente sabe claro vale
+
+[12:35] a pena mencionar pessoas que
+
+[12:36] contribuíram indiretamente para isso o
+
+[12:38] primeiro eo nilton e precisa das leis de
+
+[12:40] newton para entender por lavagem
+
+[12:42] numérica né
+
+[12:43] as leis de newton não só pelas leis de
+
+[12:45] newton do ponto de vista físico mas
+
+[12:47] também pela contribuição do cálculo e
+
+[12:49] nem nilton e lá é bonito
+
+[12:50] hoje em dia os modelos avançados de
+
+[12:53] clima eles usam equações diferenciais
+
+[12:55] graças à invenção do cálculo
+
+[12:58] então sem o cálculo ea evolução física
+
+[13:00] não tinha como ter a metodologia hoje
+
+[13:02] mesmo
+
+[13:03] tá mas vale lembrar outra coisa também
+
+[13:05] mais cultural que por exemplo é se você
+
+[13:08] olha bíblia e néon óleo velho testamento
+
+[13:10] não é não é previu olhando as nuvens
+
+[13:13] previu e 40 dias antes que ia ter o
+
+[13:15] dilúvio
+
+[13:16] a inglesa a informação também é e da
+
+[13:19] verdade tem até alguns trabalhos que
+
+[13:21] mostravam a relação da música você pega
+
+[13:23] os versículos nem que não é descreve a
+
+[13:25] né
+
+[13:27] são muito parecidos com provérbios
+
+[13:29] aristóteles então a maneira pela qual
+
+[13:31] ele observava ele observava a verdade a
+
+[13:34] pessoa que escreveu o livro né é
+
+[13:36] observava os meios que se inspirou na
+
+[13:39] descrição do metodologia do aristóteles
+
+[13:41] e muito interessante então é só teve
+
+[13:43] então que de nível e não veio do nada
+
+[13:47] ele então teve uma previsão ali pelo
+
+[13:50] edson a presença de chuva talvez tenha
+
+[13:52] errado no índice pluviométrico crise
+
+[13:55] isso é talvez levou a quantidade de água
+
+[13:57] onde chega e quer que ela não tá água
+
+[13:59] que os que estão há pouco que a escala é
+
+[14:01] pois é então jamais mundo que a água só
+
+[14:04] tem mais água que o mundo da lua
+
+[14:06] então e aí depois do renascimento a
+
+[14:08] metodologia se tornou uma área mas isso
+
+[14:10] aí o mec nunca teve um salto qualitativo
+
+[14:12] muito grande e teve um outro grande
+
+[14:14] salto no século 20
+
+[14:16] por duas razões já se tinha um arcabouço
+
+[14:18] de cálculo não é só que apesar assim a
+
+[14:21] previsão do tempo ela é feita em dois
+
+[14:24] níveis
+
+[14:25] tá você tem os métodos numéricos que a
+
+[14:27] modelagem numérica
+
+[14:29] então imagine o seguinte você tem
+
+[14:31] estações de coleta de informações em são
+
+[14:33] paulo no brasil inteiro né
+
+[14:35] então você tem locais onde você tem
+
+[14:37] aparelhos que coletam continuamente
+
+[14:39] temperatura
+
+[14:41] é é a umidade pressão na temperatura do
+
+[14:44] solo e tudo mas tem várias várias
+
+[14:47] variáveis isso em transferido pela
+
+[14:49] internet por um centro em que coleta
+
+[14:51] continuamente essa informação né
+
+[14:53] então esses dados são imputados dentro
+
+[14:56] de um modelo numérico porque assim ou
+
+[14:58] você não tem como prever 100% que vai
+
+[15:01] acontecer daqui a uma hora num clima né
+
+[15:03] então você não consegue fazer
+
+[15:04] aproximações exatas
+
+[15:07] senão você faz aproximações numéricas
+
+[15:09] para quem entende de cálculo sabe a
+
+[15:11] diferença entre cálculo e cálculo
+
+[15:12] numérico
+
+[15:13] o cálculo numérico ele não te dar
+
+[15:15] resposta exata ele faz uma aproximação e
+
+[15:17] da resposta exata assim né
+
+[15:19] tanto que o cálculo ou a teoria de
+
+[15:21] cálculo numérico cresceu muito por causa
+
+[15:23] da meteorologia né e então por exemplo
+
+[15:25] como é que você consegue lançar um
+
+[15:26] satélite
+
+[15:28] você precisa colocar uma série de
+
+[15:31] variáveis que podem afetar o
+
+[15:32] funcionamento do satélite variáveis
+
+[15:34] intrínsecas do satélite e extrínsecos do
+
+[15:37] ambiente colocar isso em uma função numa
+
+[15:39] equação diferencial e verificar como
+
+[15:42] cada parâmetro por exemplo a temperatura
+
+[15:45] probabilidade de aparecer um meteorito a
+
+[15:47] força gravitacional e tal vento ouvem
+
+[15:50] tudo tudo tudo que foi possível ali a
+
+[15:52] probabilidade de alguma peça interna
+
+[15:54] quebrar
+
+[15:55] cada uma dessas é um parâmetro dentro de
+
+[15:57] uma equação diferencial que varia ao
+
+[15:58] longo do tempo
+
+[15:59] então se você imaginar é uma fórmula de
+
+[16:02] segundo serviço é então é uma fórmula
+
+[16:04] que na verdade vai se desdobrando ao
+
+[16:06] longo do tempo a fórmula vai mudando né
+
+[16:08] e temporalmente está praticamente que
+
+[16:11] antigamente a gente tinha uma previsão
+
+[16:13] do tempo com 24 horas de antecedência e
+
+[16:16] estática no lance seguinte hoje um
+
+[16:18] aplicativo ele pode estar atualizando a
+
+[16:22] cada minuto a leu a previsão isso então
+
+[16:25] só que a previsão do do aplicativo é
+
+[16:27] diferente da previsão dessa previsão
+
+[16:29] estocástica nem porquê porque o
+
+[16:31] computador gera informação o tempo
+
+[16:32] inteiro no nosso se você for no inpi por
+
+[16:34] exemplo tem um algoritmo lá então tem a
+
+[16:38] parte de matemática pessoas
+
+[16:39] desenvolvendo melhor algoritmo que
+
+[16:40] minimiza o erro usando métodos de
+
+[16:42] cálculo numérico 5 eckstein os mets
+
+[16:45] vários métodos no livro de cálculo
+
+[16:46] numérico e veja né
+
+[16:48] então tem uma uma parte de pesquisa quer
+
+[16:50] desenvolver algoritmos melhor esquema
+
+[16:52] visão o erro ou e minimiza o erro ou ele
+
+[16:55] é caro gera os cálculos mais rápido
+
+[16:57] então você melhora a acurácia da prisão
+
+[16:59] e apreensão ou diminui o tempo né então
+
+[17:02] o primeiro são os matemáticos que
+
+[17:04] trabalha com isso segundo o pessoal da
+
+[17:06] computação porque se você imaginar cada
+
+[17:08] segundo
+
+[17:09] uma grande quantidade de parâmetros
+
+[17:11] sendo gerados numa equação você calcular
+
+[17:13] essas equações diferenciais não tenho
+
+[17:14] idéia de processamento isso então pra
+
+[17:17] vocês terem uma idéia nos anos isso
+
+[17:19] começou assim o bumbum começou na
+
+[17:21] segunda guerra porque você teve
+
+[17:22] satélites então satélites ofereciam mais
+
+[17:24] informação
+
+[17:25] o time melhorou muito a qualidade do
+
+[17:27] cálculo né mas no final da segunda
+
+[17:29] guerra nos anos 50 o máximo de previsão
+
+[17:32] que você tinha temporal
+
+[17:34] você só conseguia fazer uma previsão do
+
+[17:36] tempo no máximo 36 horas depois ea taxa
+
+[17:39] de acerto média do modelo a 60% para
+
+[17:43] baixo já era baixo e você tem locais em
+
+[17:46] que a variação climática é mais rápida
+
+[17:49] do que outros zonas tropicais variam
+
+[17:51] mais então a taxa de erro era muito
+
+[17:53] maior aqui paulo desgraça isso é o que
+
+[17:55] acontece é tudo no mesmo dia né
+
+[17:57] já não há nome sério norte por exemplo é
+
+[17:59] mais constante da taxa de acerto é um
+
+[18:00] pouco mais é maior mas era ruim os
+
+[18:03] modelos antes e o limitante não era
+
+[18:05] matemática
+
+[18:06] você já tinha as equações diferenciais é
+
+[18:08] o o os matemáticos já sabiam da saúde
+
+[18:11] procedeu de processamento então tanto é
+
+[18:13] que para você resolver equações
+
+[18:15] diferenciais numéricas lá eles pegaram
+
+[18:17] uma equação gigante quebrado em
+
+[18:19] pedaços e eles contratavam pessoas que
+
+[18:21] era bom boas de cálculo para resolver
+
+[18:23] cada parte e levava horas sejam estava
+
+[18:27] centenas de pessoas de verdades
+
+[18:28] resolvendo equações diferenciais para
+
+[18:30] depois juntar nessa questão a gente ver
+
+[18:33] aquele estilo sobre andrezinho sobre as
+
+[18:35] mulheres ue essas mulheres nem legal não
+
+[18:37] foi tão bom isso é ver era relativo ao
+
+[18:40] projecto espacial feita no exato então
+
+[18:43] era regra de cálculo régua de cálculo
+
+[18:44] inclusive um dos critérios que na época
+
+[18:46] pra você selecionar o usuário nautas os
+
+[18:49] astronautas é que eles fossem bons de
+
+[18:51] resolver cálculos e equações
+
+[18:52] diferenciais tics astronautas que sabiam
+
+[18:54] fazer com isso impedir que contas rápido
+
+[18:57] né pra poder conseguir tipo atualizar os
+
+[18:59] parâmetros dos equipamentos dele
+
+[19:01] o computador fazendo tudo em tempo real
+
+[19:03] para ele isso não tinha processamento
+
+[19:05] que dá se conta disso tinha memória não
+
+[19:06] dava
+
+[19:07] depois dos anos 50 por causa da
+
+[19:09] computação mesmo que avançou nem aí os
+
+[19:11] métodos ficaram melhores então os
+
+[19:13] métodos maternalista já existiam só
+
+[19:15] precisa de força computacional e nené é
+
+[19:17] isso fui melhorando
+
+[19:19] hoje em dia a partir dos anos 90 por
+
+[19:21] exemplo no brasil que é uma região que
+
+[19:23] tem muita variação climática rápida nos
+
+[19:26] anos 90 até os anos 90 é você conseguir
+
+[19:29] fazer no brasil uma previsão de até 36
+
+[19:32] horas com uma taxa de acerto de 60% que
+
+[19:35] era parecido com os estados unidos em 16
+
+[19:37] horas 60% isso é mais ou menos né
+
+[19:40] - hoje você consegue fazer uma previsão
+
+[19:43] por 15 dias até 15 dias a gente vê no
+
+[19:46] aplicativo isso é até 15 dias sendo que
+
+[19:50] nas primeiras 48 horas a taxa de acerto
+
+[19:52] é de 98% e até cinco dias à taxa de
+
+[19:57] acertar 70%
+
+[19:58] melhorou muito e isso foi ganho
+
+[20:00] computacional principalmente ganho
+
+[20:02] computacional ganho de satélite para
+
+[20:05] melhorar a qualidade da informação que é
+
+[20:06] gerada é o vinho de dois lados de um
+
+[20:09] lado de dados nutrientes de capacidade
+
+[20:12] de computacional analítica exato
+
+[20:15] e aí você tem super computadores que
+
+[20:16] processam isso o tempo inteiro imagina
+
+[20:18] uma emoção enorme processado o tempo
+
+[20:20] inteiro né
+
+[20:21] e aí como é que aprendem também a
+
+[20:23] capacidade computacional ela estende a
+
+[20:25] data de previsão o período de 2011
+
+[20:28] mas ela também aumenta a capacidade de
+
+[20:31] atualização exatamente a napoleão exato
+
+[20:34] é e daí por isso que a metodologia hoje
+
+[20:37] é inteiramente dependente da computação
+
+[20:39] então tem muita gente trabalhando nisso
+
+[20:40] e tanto é isso que é importante então
+
+[20:43] vamos lá quanto mais perto
+
+[20:45] vamos falar aqui com os leigos né estão
+
+[20:48] lá vendo a previsão do tempo para
+
+[20:50] decidir sobre uma viagem à praia assim
+
+[20:52] não é assim
+
+[20:54] é importante entender que quanto mais
+
+[20:56] perto da viagem mas há mais acurada
+
+[20:59] aquela previsão está certa porque há uma
+
+[21:02] atualização em tempo real então quanto
+
+[21:04] mais próximo da data da viagem mas nada
+
+[21:07] vai ser a previsão é então se você olhar
+
+[21:09] a previsão do tempo
+
+[21:10] na segunda e vai viajar no sábado viajam
+
+[21:12] no sábado veja de novo na terça na
+
+[21:14] quadra e vai provavelmente vai mudar vai
+
+[21:18] voltar melhor apurar se foi o momento
+
+[21:20] exato exato muito bem exatamente isso
+
+[21:22] então como é que funciona a previsão do
+
+[21:24] tempo hoje você tem dois níveis você tem
+
+[21:27] dois tipos de meteorologista né
+
+[21:29] você tem um e saber que os dois fazem a
+
+[21:31] mesma função mas eles se dividem um
+
+[21:33] pouco assim
+
+[21:34] o primeiro tipo é o meteorologista
+
+[21:36] analítico que é o cara que vai cumprir o
+
+[21:38] meteorologista observacional que ele vai
+
+[21:40] cuidar da qualidade da coleta dos dados
+
+[21:43] os dados foram coletados e os sistemas
+
+[21:45] estão funcionando direitinho então e
+
+[21:47] atualizar o sistema geral cuidado modelo
+
+[21:50] então o segundo grupo de meteorologistas
+
+[21:52] são os meteorologistas que vão decidir
+
+[21:54] sobre a probabilidade é importante
+
+[21:57] a probabilidade ela não é gerada pela
+
+[21:59] fórmula está a ser candidato e isso mas
+
+[22:04] existe um fator humano tem então é
+
+[22:06] inerentemente humano a decisão sobre o
+
+[22:08] probabilidade de chuva é humano lembra
+
+[22:12] muito lembra muito o mercado de bolsa de
+
+[22:14] valores
+
+[22:14] então você pode fazer um modelo
+
+[22:15] econométrico para prever quando vai ser
+
+[22:18] a ação da bolsa e se prevê lá que a ação
+
+[22:20] de mais uma ação de uma empresa é 20
+
+[22:23] reais
+
+[22:23] nesta segunda o algoritmo início sem
+
+[22:26] interferência humana é isso você senta
+
+[22:28] las é o mercado disse que 20 reais
+
+[22:31] só que quem vai comprar ou não é você
+
+[22:33] mesmo que se faça um dote que compre vem
+
+[22:35] do tempo inteiro você vai dar um limite
+
+[22:37] quando ele pára quando ele continua
+
+[22:39] então então há a previsão do tempo
+
+[22:41] exatamente assim você tem as informações
+
+[22:44] só que quem vai decidir a probabilidade
+
+[22:45] final é o meteorologista é o técnico tá
+
+[22:48] então existe uma fórmula chamada
+
+[22:51] probabilidade de precipitação esse é o
+
+[22:53] valor que aparece ali é a probabilidade
+
+[22:56] de precipitação chega esse número chega
+
+[22:58] no meio gal costa que o número ele quase
+
+[23:01] uma parte do número
+
+[23:02] uma parte é o algoritmo e uma parte é o
+
+[23:05] próprio meteorologista ea junção desses
+
+[23:07] dois pela regra do e da probabilidade
+
+[23:09] dado que o computador disse isso e o
+
+[23:12] meteorologista disse isso multiplicando
+
+[23:13] os dois você tem a probabilidade de
+
+[23:16] precipitação tem uma certa média e em
+
+[23:19] trio
+
+[23:20] tinha uma reunião do meteorologia é uma
+
+[23:23] soma de probabilidades é a probabilidade
+
+[23:24] solenidade que é um conjunto de
+
+[23:26] multiplicar isso a regra do im
+
+[23:28] então a probabilidade do analista mais o
+
+[23:30] do algoritmo tá e aí a fórmula p igual a
+
+[23:34] ser vezes a tá então a probabilidade de
+
+[23:37] precipitação é a chance de precipitação
+
+[23:39] ocorrendo em algum ponto específico de
+
+[23:42] uma área que é coberta pela previsão do
+
+[23:45] tempo então eu vou fazer previsão para
+
+[23:47] são paulo são paulo é muito grande então
+
+[23:49] acurácia dos equipamentos é menor que a
+
+[23:51] cidade então você consegue fazer por
+
+[23:53] áreas menores zona sul zona norte
+
+[23:55] depois por bairro né então hoje em dia
+
+[23:58] com os equipamentos que você tem hoje
+
+[23:59] você consegue fazer uma curadoria de
+
+[24:01] previsão de tempo de uma área de 20
+
+[24:03] quilômetros quadrados é pequeno vai mas
+
+[24:06] é pequeno e não 20 quilômetros quadrados
+
+[24:08] é o máximo de akurassa que você tem na
+
+[24:10] de previsão hoje
+
+[24:12] e aí o como funciona a fórmula então o p
+
+[24:15] a probabilidade final mas é igual a 1 c
+
+[24:19] você é o nível de confiança do
+
+[24:21] meteorologista sobre o que ele acha que
+
+[24:23] vai acontecer naquela área
+
+[24:25] então imagina um quadrado de 20 por 20
+
+[24:27] quilômetros
+
+[24:29] então o meteorologista vai dizer eu acho
+
+[24:31] eu tenho 100% de confiança de que o
+
+[24:35] computador está dizendo faz sentido
+
+[24:37] entendeu então imagine então o
+
+[24:39] computador retirar os dados no
+
+[24:41] computador diz o por exemplo existe
+
+[24:43] nessa hora nessa área existe 25% de
+
+[24:46] chance de chover nessa área
+
+[24:48] isso é o que o algoritmo disso o pneu do
+
+[24:50] computado isso aí eu isso vai ser
+
+[24:52] indexado pela confiança que o
+
+[24:54] meteorologista tem-se o meteorologista
+
+[24:56] por exemplo o meteorologista diz eu
+
+[24:59] tenho 100% de confiança de que esse
+
+[25:02] resultado que o algoritmo está dizendo
+
+[25:03] 25% faz sentido então vai transformar
+
+[25:06] esse número então 100% virar 11 25% para
+
+[25:09] 0 25 x 20 25 logo a probabilidade de
+
+[25:14] chover 0 25/10 100% o que o computador
+
+[25:17] disse isso
+
+[25:19] agora o sc nessa variável sei que é da
+
+[25:22] confiança pelo meio
+
+[25:24] a unidade de confiança do meteorologista
+
+[25:27] ele se baseia no que excelente
+
+[25:29] observação aí finalmente respondendo à
+
+[25:31] pergunta por que o metal é mais legal né
+
+[25:33] porque os meteorologistas eles conversam
+
+[25:35] muito entre si muitas eles estão o tempo
+
+[25:38] inteiro conversando sabe então não é um
+
+[25:41] meteorologista meteorologista chefe
+
+[25:42] decide não é isso
+
+[25:44] eles têm grupos de discussão constante
+
+[25:46] de bola e troca de conhecimento o tempo
+
+[25:49] todo o tempo todo é uma das áreas mais
+
+[25:51] legais assim as pessoas são legais mesmo
+
+[25:54] esse texto tem que trocar muita idéia né
+
+[25:56] eu já ouvi uma vez o meteorologista na
+
+[25:58] tv
+
+[26:00] comentando sobre algum desses furacões
+
+[26:03] acontece na américa central é um desses
+
+[26:07] desastres e foi curioso como eu eu
+
+[26:10] enxerguei um cientista só isso ele fala
+
+[26:13] como cientista nem se ele fala como
+
+[26:15] aquele que ele não sabe se ele está
+
+[26:17] certo não se na verdade ele quer
+
+[26:19] minimizar o erro dele e eu sou muito fã
+
+[26:22] dos meteorologistas de verdade eu acho
+
+[26:24] que eles são bons exemplos de como os
+
+[26:25] cientistas de todas as áreas deveriam
+
+[26:26] ser que ele fale se tava assim em papers
+
+[26:30] sabe sobre é desastre
+
+[26:33] os desastres passados né e até como ele
+
+[26:38] conversou com os meteorologistas sobre o
+
+[26:40] icasa para emitir opinião sim né é mais
+
+[26:44] ou menos isso é baseado no repertório
+
+[26:46] científico que ele tem discussão que ele
+
+[26:49] tempos congrega os grupos são muito
+
+[26:50] unidos as pessoas conversam bastante
+
+[26:52] então é realmente atento a desastres do
+
+[26:56] passado claro né pra falar bom naquele
+
+[26:58] em 1983 aquele outro furacão no seu isso
+
+[27:02] isso aquilo mas é porque a massa de ar
+
+[27:05] se desviou não quer dizer se baseou
+
+[27:07] bastante no repertório mas o bastante na
+
+[27:09] nos dados anos na discussão com os
+
+[27:12] colares você vê que a decisão dele é
+
+[27:13] alicerçada em coisas que você consegue
+
+[27:15] ao digitar
+
+[27:16] então você pode não concordar com ele
+
+[27:18] mas ele mostra as fontes que é o que o
+
+[27:20] outro momento já não sei se é 100% não
+
+[27:23] porque tem isso tem aquilo faz sentido
+
+[27:25] nem aí porque vamos lá se a gente voltar
+
+[27:26] à origem da meteorologia né a gente
+
+[27:29] tinha 0% de computação e sempre
+
+[27:31] tanto de confiança confiança na
+
+[27:33] tecnologia e na hora estoques no caso
+
+[27:35] exata né
+
+[27:37] à medida que você tem um avanço da
+
+[27:39] matemática e do cálculo do sentra e da
+
+[27:42] capacidade de coletar dados não que hoje
+
+[27:45] você pode coletar as mesmas já de
+
+[27:47] fazendas hoje né completamente
+
+[27:50] automatizados nenhuma fazenda tem 30
+
+[27:53] pontos de coleta de dados
+
+[27:54] sim né é que se ele manda isso tem um
+
+[27:56] uma central de meteorologia não é
+
+[28:00] justamente para ajudar a prevê o tempo
+
+[28:05] né a personagem naquele pedaço na que
+
+[28:09] está nela que ele está interessada não
+
+[28:11] interessa saber se vai chover em taubaté
+
+[28:13] está interessante sob chuva em cima da
+
+[28:15] plantação dele exata né isso exato e à
+
+[28:18] medida que isso vai aumentando então faz
+
+[28:20] sentido que a gente tenha hoje um
+
+[28:21] balanço é da área dos dados
+
+[28:24] o e computacional poder computacional de
+
+[28:27] um lado e o a confiança do juiz é então
+
+[28:31] aí pra encerrar esse esse ponto
+
+[28:33] veja por exemplo duas previsões
+
+[28:35] diferentes então a o algoritmo diz que
+
+[28:37] tem 25% de chance de chover naquela área
+
+[28:40] yube os meteorologistas entrou num
+
+[28:42] consenso de que isso faz sentido então
+
+[28:44] eles dão 100 por cento de probabilidades
+
+[28:45] logo a probabilidade de chover naquela
+
+[28:47] área 25% no sangue está uma outra
+
+[28:50] situação
+
+[28:50] o computador diz que o algoritmo diz que
+
+[28:53] tem 50% de chance de chover
+
+[28:55] só que a confiança dos pesquisadores a
+
+[28:57] 50% também logo a probabilidade de
+
+[29:00] chover é mesmo é 25% se multiplica meio
+
+[29:02] por meio delas era 25 num ou seja quando
+
+[29:05] você vê a probabilidade de chuva você
+
+[29:07] não sabe se esse resultado é puramente
+
+[29:09] do algoritmo ou teve uma intervenção da
+
+[29:11] confiança o número que é que o ajuricaba
+
+[29:14] 11 vela no aplicativo né na verdade já é
+
+[29:18] a combinação da seleção dos olhos soma
+
+[29:20] dos dois isso ele a combinação dos dois
+
+[29:22] e é assim então que se prevê
+
+[29:24] possibilitará a a probabilidade de chuva
+
+[29:27] é que ele está vendo no aplicativo isso
+
+[29:29] e aí vale a pena definiu que a chuva e
+
+[29:31] também é então porque às vezes a cair
+
+[29:34] amanhã em são paulo que a terra da garoa
+
+[29:36] então porque pode cair umas gotinhas mas
+
+[29:38] isso não é definido como chuva
+
+[29:40] a definição se bem simples de chuva é a
+
+[29:44] precipitação precipitação isso não
+
+[29:46] aplica eles usam a resolução mínima do
+
+[29:49] aparelho que calcula a precipitação que
+
+[29:52] a 0,25 milímetros então se teve pelo
+
+[29:55] menos 0,25 e me de alguma chuva né
+
+[29:58] porque é o quanto o aparelho consegue
+
+[30:01] registrar no mínimo de 19 outro isso e
+
+[30:04] aí você tem também a diferença entre
+
+[30:06] tempo e clima é importante só para
+
+[30:09] deixar claro que as próprias pessoas
+
+[30:10] porque isso é útil
+
+[30:11] o clima aula de geografia não é esse o
+
+[30:14] clima é algo mais estanque mais
+
+[30:17] constante então a o clima do nordeste é
+
+[30:20] quente né
+
+[30:22] o clima ele é um comportamento
+
+[30:23] estatístico médio dos parâmetros de
+
+[30:26] tempo né
+
+[30:27] o comportamento médio que tem mais ou
+
+[30:30] menos uma previsibilidade de 30 anos
+
+[30:33] tá então o clima de um de uma cidade de
+
+[30:37] um país de um estado é medido pelo
+
+[30:39] comportamento médio ao longo de pelo
+
+[30:41] menos 30 anos período de tempo é maior
+
+[30:44] mas isso somente fala que ter uma
+
+[30:46] mudança climática
+
+[30:47] a gente está falando de alguma coisa
+
+[30:49] maior de ter maiores e melhor que será
+
+[30:52] mais ou menos 30 anos atrás era
+
+[30:55] diferente do que está sendo agora então
+
+[30:57] sobre o aquecimento global a man um
+
+[30:59] homem entrando no climate isso a
+
+[31:01] climático envolve uma escala de tempo
+
+[31:03] maior o tempo envolve uma coisa local
+
+[31:06] então assim fatores que influenciam o
+
+[31:08] tempo né as nuvens o vento pressão
+
+[31:11] influencia hoje né então mais imediato
+
+[31:15] méxico trânsito isso é o tempo algum
+
+[31:18] local ea média das observações do tempo
+
+[31:21] gera um clima então isso isso é algo
+
+[31:23] importante sempre é útil para as pessoas
+
+[31:26] lembrando que o vestibular do ano que
+
+[31:29] vem né e aí pra encerrar assim previsão
+
+[31:33] prevê coisas é muito difícil né então
+
+[31:35] não é preocupa os meteorologistas e por
+
+[31:37] isso eu acho também que os
+
+[31:39] meteorologistas são bons exemplos de
+
+[31:40] cientistas porque eles têm uma missão
+
+[31:42] muito difícil é tentar prever o que vai
+
+[31:44] acontecer e eles sabem que eles não
+
+[31:46] conseguem então o objetivo deles não é
+
+[31:48] dizer sim
+
+[31:49] tão certos mas sim dizer o quão errado
+
+[31:51] eles estão minimizar as fontes de erro
+
+[31:53] para tornar a probabilidade mais acurada
+
+[31:56] e de novo se você lê no na previsão do
+
+[31:59] tempo que existe 10% de chance de chover
+
+[32:01] e de fato chover você não vai falar que
+
+[32:03] o cara tá errado lá porque 10% é alguma
+
+[32:06] chance né e pode ser que acontece hoje
+
+[32:09] 01
+
+[32:10] já é alguma coisa alguma coisa e eu na
+
+[32:13] verdade você vai ficar não vai ficar
+
+[32:14] bravo com o meteorologista
+
+[32:16] você pode ficar bravo com não é com você
+
+[32:19] mesmo mas fica bravo com a vida é porque
+
+[32:21] você teve um custo energético e
+
+[32:24] comportamental chuva ou não ou não
+
+[32:26] carregar o guarda chuva né isso levou a
+
+[32:28] uma perda pra você então você fica bravo
+
+[32:30] pela sua perda mas não esconde isso no
+
+[32:32] trabalho muito feito muito bem feito
+
+[32:34] pelos profissionais de meteorologia é
+
+[32:36] verdade alta antes da gente se despedir
+
+[32:38] só um detalhe que da pergunta do júri
+
+[32:40] cadu ele diz o seguinte se de fato
+
+[32:43] chover 18 estava previsto 40% de de
+
+[32:46] probabilidade de chuva às 18 horas e
+
+[32:49] shoppings e então quinzenal de 50% de
+
+[32:51] chance de continuar chovendo bom pelo
+
+[32:53] que a gente disse aqui né
+
+[32:55] hoje em dia há a probabilidade de chuva
+
+[32:57] ela é atualizada continuem continuamente
+
+[33:01] incerto então se o que ele está
+
+[33:03] enxergando aquele momento é a previsão
+
+[33:05] daquele momento na última leitura do
+
+[33:07] último processamento que foi feito pela
+
+[33:10] fonte daquele aplicar tinha se ele abrir
+
+[33:13] às 18 horas vai ter um resultado sem
+
+[33:14] abrir 19 pode ter uma atualização e se
+
+[33:17] choveu as 18 sim pode mudar
+
+[33:19] completamente e 19 ou continuou na
+
+[33:23] verdade aumentar para 100 por cento pode
+
+[33:24] continuar chovendo porque ele já está
+
+[33:26] chovendo 18 e 19 mudou para sempre
+
+[33:29] sempre que vai continuar chovendo em fim
+
+[33:31] de entender que vai haver essa
+
+[33:33] com essa atualização
+
+[33:35] hoje em dia é exato isso então moro ro
+
+[33:38] de lustres envolvente
+
+[33:43] você sabia que pode ajudar a manter o
+
+[33:45] naro rodou no a ao contribuir
+
+[33:47] você pode ter acesso a um grupo fechado
+
+[33:49] no facebook e receber conteúdos
+
+[33:52] exclusivos
+
+[33:53] acesse apóia ponto é se é barrar o odor
+
+[33:56] podcast
+
+[33:59] e você já sabe aquino rodou quem faz a
+
+[34:02] pauta é você
+
+[34:03] você tem alguma pergunta pra gente o
+
+[34:05] quer comentar um episódio escreva pra
+
+[34:07] nós
+
+[34:08] podcast a roubar o odor ponto com.br
+
+[34:11] repetindo podcast a roubar narrador
+
+[34:13] ponto com.br
+
+[34:15] e lembre-se mande nome completo idade
+
+[34:17] profissão e à cidade de onde você está
+
+[34:20] falando
+
+[34:20] é isso aí
+
+[34:25] nada mudou
+
+[34:27] [Música]
+
+[34:30] isso só pode é se é apresentado o ouro p
+
+[34:34] 9 ponto com.br
+
+[34:38] [Música]

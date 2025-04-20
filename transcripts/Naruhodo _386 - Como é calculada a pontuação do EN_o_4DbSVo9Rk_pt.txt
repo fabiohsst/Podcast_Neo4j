@@ -1,0 +1,2539 @@
+Title: Naruhodo #386 - Como é calculada a pontuação do ENEM?
+URL: https://www.youtube.com/watch?v=o_4DbSVo9Rk
+Language: pt
+Extracted on: 2025-04-06 16:39:41
+================================================================================
+
+[00:00] como é calculada a pontuação do ENEM
+
+[00:05] [Música]
+
+[00:14] de aprender eu sou quem Fujioka
+
+[00:17] e hoje é dia de quê
+
+[00:19] [Música]
+
+[00:24] você quer apoiar a ciência quer apoiar o
+
+[00:27] pensamento científico quer ajudar o naro
+
+[00:30] rodô a se manter no ar ouvir os
+
+[00:33] episódios e espalhar a palavra já é um
+
+[00:35] grande Passo mas existe um outro jeito
+
+[00:37] quem possibilita isso é a ourelo você
+
+[00:41] escolhe um valor de contribuição mensal
+
+[00:43] e tem acesso a conteúdos exclusivos
+
+[00:45] conteúdos antecipados e vantagens
+
+[00:47] especiais Além disso você pode ter
+
+[00:50] acesso ao nosso grupo fechado no
+
+[00:51] telegram e conversar comigo com Altair
+
+[00:54] com outros apoiadores Toda vez que você
+
+[00:56] ouviram fizer download de um episódio
+
+[00:58] pelo orello vai também estar pingando os
+
+[01:02] trocadinhos para o nosso projeto
+
+[01:03] Combinado então Baixe agora mesmo App
+
+[01:06] orello no endereço
+
+[01:08] orello.cc ou na sua loja de aplicativos
+
+[01:11] e ajude a fortalecer o conhecimento
+
+[01:13] científico
+
+[01:15] [Música]
+
+[01:24] ouvinte querido ouvinte você quer dar um
+
+[01:27] verdadeiro mergulho no mundo da
+
+[01:29] tecnologia migrar para uma nova carreira
+
+[01:32] aprofundar-se nessa carreira então
+
+[01:34] assine a lura agora mesmo você vai
+
+[01:36] estudar praticar discutir e se
+
+[01:39] aprofundar em uma plataforma que respira
+
+[01:41] tecnologia na lura você terá acesso
+
+[01:44] completo ao conhecimento onde e quando
+
+[01:47] você quiser com novos cursos todas as
+
+[01:50] semanas e ainda tem vantagem ou vintinar
+
+[01:53] Rodotrem desconto especial mas para isso
+
+[01:55] é preciso acessar a seguinte URL anota
+
+[01:58] aí a
+
+[02:01] lura.com.br/promo
+
+[02:03] nesse endereço além do desconto especial
+
+[02:05] você vai conhecer histórias reais de
+
+[02:08] transformação de pessoas que estudaram
+
+[02:10] na aluna então repetindo acesse a
+
+[02:13] lura.com.br/promo
+
+[02:18] [Aplausos]
+
+[02:21] [Música]
+
+[02:25] Altair temos pergunta de um ilustre ou
+
+[02:28] 20 Altair sim um ouvinte que já
+
+[02:31] participou de vários Episódios com uma
+
+[02:34] pergunta que deve deve interessar a
+
+[02:35] todos os vestibulandos Olha só
+
+[02:39] vestibulandos amigos de vestibulandos
+
+[02:41] pais e mães de vestibulantes não é isso
+
+[02:45] exatamente a pergunta alta aí veio do
+
+[02:49] nosso velho apoiador Vila Boa que é juiz
+
+[02:55] federal mestre em ciência jurídica pela
+
+[02:57] Universidade do Vale do Itajaí e
+
+[03:00] Bacharel e ciência da computação e
+
+[03:02] Bacharel em Direito
+
+[03:09] aproveitando que todo ano surgem
+
+[03:12] discussões sobre o método de correção de
+
+[03:14] provas do Enem vocês poderia explicar
+
+[03:17] como funciona exatamente o tal método tr
+
+[03:21] É verdade que ele serve para evitar
+
+[03:23] chutes pelos candidatos usando
+
+[03:25] possibilidade de acerto das questões e
+
+[03:28] que um erro numa questão considerada
+
+[03:30] fácil pode invalidar o acerto de uma
+
+[03:33] questão difícil Quais as vantagens
+
+[03:35] desvantagens desse método em relação a
+
+[03:38] correção normal de provas com nota
+
+[03:40] diretamente proporcional ao número de
+
+[03:43] acertos
+
+[03:44] [Música]
+
+[03:58] alta e que a ciência tem a dizer sobre
+
+[04:02] esse método tri Altair
+
+[04:06] Tree para os íntimos né teoria de
+
+[04:09] resposta ao item
+
+[04:10] Ok Faz quanto tempo que você fez
+
+[04:13] vestibular
+
+[04:15] [Aplausos]
+
+[04:22] quando a democracia era um bebezinho
+
+[04:26] Você lembra do nome das provas que você
+
+[04:29] fez olha eu lembro que eu prestei Fuvest
+
+[04:32] e chamava Fuvest
+
+[04:35] eu não sei se ela tem o mesmo nome ainda
+
+[04:40] ela se chamava Fuvest e abarcava uma
+
+[04:43] série de universidades públicas
+
+[04:46] cuspia Unesp mais algumas
+
+[04:50] e assim todas as outras provas elas
+
+[04:53] tinham mais ou menos a mesma
+
+[04:55] característica né você tinha lá um
+
+[04:57] número limitado de perguntas
+
+[05:00] distribuído em disciplinas diferentes e
+
+[05:03] aí você tinha uma classificação dos
+
+[05:06] candidatos em função dos acertos né você
+
+[05:10] somava os acertos e é isso né não tinha
+
+[05:12] muita não tinha muita subjetividade
+
+[05:15] nenhuma mágica estatística por trás não
+
+[05:20] e você chegou a prestar alguma vez algum
+
+[05:22] concurso ou algo do tipo concurso
+
+[05:24] público você diz nunca sim
+
+[05:30] chegou a fazer um vestibulinho para o
+
+[05:32] colégio Federal né sim que também era em
+
+[05:35] cima de acertos era simplesmente contar
+
+[05:37] os assédio e acabou né concurso público
+
+[05:40] até pensei viu rapaz cheguei
+
+[05:43] cheguei a cogitar
+
+[05:45] trabalhar na Receita Federal olha só
+
+[05:49] assim não é porque tinha um salário bom
+
+[05:52] né
+
+[05:53] E são os concursos mais concorridos
+
+[05:55] exatamente né mas assim
+
+[05:59] que eu entrei no mercado de trabalho
+
+[06:01] essa essa ideia foi para o espaço nunca
+
+[06:03] mais cogitei isso você conseguiu fazer
+
+[06:05] um bom dinheiro com um trabalho bem mais
+
+[06:07] legal mas significativo para você não
+
+[06:09] sei o que você tá chamando de bom
+
+[06:10] dinheiro mas Digamos que eu fiz o que eu
+
+[06:15] não posso eu não posso reclamar muito
+
+[06:16] porque a gente vive num país muito
+
+[06:19] desigual né e eu tenho certeza que eu tô
+
+[06:23] no Pedaço mais privilegiado assim sim
+
+[06:26] todos nós Eu Acho É então a ideia desse
+
+[06:30] Episódio né agradeço por mais uma boa
+
+[06:32] pergunta é falar sobre o método tri né A
+
+[06:35] Teoria de resposta ao item que ele é um
+
+[06:37] método Ele é bem antigo na verdade mas
+
+[06:39] ele se tornou mais inovador do pão
+
+[06:43] provas de avaliação em massa né Sempre
+
+[06:46] essas provas coletivas né então ele é
+
+[06:49] usado no ENEM desde 2009 é feito no Enem
+
+[06:53] É eu se não me falha a memória não não
+
+[06:56] tenho certeza eu acho que quando eu fiz
+
+[06:57] o vestibular o próprio psicologia né meu
+
+[07:00] primeiro vestibular Eu acho que eu fui o
+
+[07:02] primeiro ano do Enem eu eu fiz o Enem né
+
+[07:05] Você chegou a pegar o Enem em 99 em 1999
+
+[07:09] mas não usava a teoria de resposta ao
+
+[07:11] item na época era só acerto das questões
+
+[07:13] mesmo né O saeb que é uma prova do
+
+[07:17] ensino básico também usa tri né tem o
+
+[07:20] pisa O pisa já é uma avaliação
+
+[07:22] internacional feito pela oasd e tal né
+
+[07:26] que avaliar adolescentes entre 15 e 16
+
+[07:28] anos em vários países também utiliza a
+
+[07:31] teoria de resposta ao item né e a ideia
+
+[07:33] assim a teoria de resposta ao item ela é
+
+[07:35] uma técnica estatística mas ela nasceu
+
+[07:37] bem na parte dentro da psicologia tá ela
+
+[07:40] faz parte da psicometria é uma das
+
+[07:42] técnicas psicométricas que infelizmente
+
+[07:44] uma fração muito pequena dos psicólogos
+
+[07:46] aprendem e quando Aprende aprende de um
+
+[07:48] jeito muito estereotipado como se fosse
+
+[07:50] só uma ferramenta mas na verdade dá para
+
+[07:52] fazer bastante ciência com isso né
+
+[07:54] Por que que apareceu essa pergunta né
+
+[07:56] tipo um juiz Manda uma pergunta dessa né
+
+[07:58] porque principalmente a partir de 2014
+
+[08:01] mais ou menos a o Enem começou a dar
+
+[08:04] muito problema
+
+[08:05] Por que começar a dar problema né porque
+
+[08:08] você faz o Enem num certo ano aí você
+
+[08:10] recebe sua nota Aí sua nota aparece
+
+[08:12] assim ah você tirou sei lá em Ciências
+
+[08:14] da Natureza você tirou 630
+
+[08:18] aí você vai pensar 630 vai entre 0 e
+
+[08:21] 1000 por exemplo né mas não vai dizer a
+
+[08:24] mil tipo por que que tem essa escala não
+
+[08:26] é essa escala Não não é e se eu fizer
+
+[08:30] 630 esse ano e 630 ano que vem é a mesma
+
+[08:33] nota não não é aí o povo começou a
+
+[08:36] bagunçar aí teve casos inclusive vamos
+
+[08:38] deixar um link né porque inclusive teve
+
+[08:42] juízes que entraram com um processo
+
+[08:44] contra o Inep né que o órgão que faz o
+
+[08:47] Enem pedindo esclarecimentos porque teve
+
+[08:49] casos de pessoas que entregaram a prova
+
+[08:51] em branco e tiveram uma nota tipo 200
+
+[08:54] mas como é que você vai tirar se você
+
+[08:56] entregou a prova Não acertou nada né
+
+[08:58] então tem que esclarecer isso aí né tipo
+
+[09:02] então assim as notas são todas relativas
+
+[09:04] a cada ano né então 500 no ano não é o
+
+[09:08] mesmo que 500 depois porque o que
+
+[09:10] importa é você Comparar as pessoas com
+
+[09:11] elas mesmas naquele ano né não precisa
+
+[09:14] ter uma portabilidade dos anos né tanto
+
+[09:17] é que para algumas universidades você
+
+[09:19] pode usar a nota do ENEM não é no
+
+[09:22] seguinte a nota do ano passado então tem
+
+[09:25] uma certa portabilidade individual Mas
+
+[09:27] aquela nota a Rigor ela é um score
+
+[09:29] relativo às pessoas que prestaram
+
+[09:31] naquele ano né E e aí Pergunta assim tá
+
+[09:35] tudo bem então Mas por que que não soma
+
+[09:36] os pontos sei lá sem questões você
+
+[09:38] acertou 80 você tirou 80% é isso o que
+
+[09:41] que não faz isso né
+
+[09:44] como funciona a maioria das provas né
+
+[09:46] isso exatamente a FUVEST por exemplo não
+
+[09:49] usa tri né usa a teoria clássica dos
+
+[09:51] Testes e antes de você começar a
+
+[09:53] explicação eu até entendo essa questão
+
+[09:55] de ser um método
+
+[09:58] comparativo né o método relativo né que
+
+[10:02] relativiza a sua posição em relação aos
+
+[10:04] outros candidatos agora eu confesso para
+
+[10:07] você também que você vai ter que me
+
+[10:10] explicar como é que uma pessoa que
+
+[10:11] entrega a prova em branco recebe 200
+
+[10:14] pontos
+
+[10:19] isso é da natureza do teste tá então
+
+[10:22] assim o objetivo é esclarecer um pouco
+
+[10:24] não é uma coisa muito simples mas também
+
+[10:27] não é impenetrável tá louco de um pouco
+
+[10:29] de paciência dá tá A gente tem a gente
+
+[10:31] tem um gráfico na capa do episódio
+
+[10:35] então assim já dá pra sentir que não é
+
+[10:39] exatamente tão simples assim de explicar
+
+[10:40] então o objetivo do gráfico que vamos na
+
+[10:44] capa do episódio em algum momento desse
+
+[10:46] Episódio Vai ser necessário que você dê
+
+[10:47] uma olhadinha no gráfico assim nem
+
+[10:49] precisa prestar muita atenção só dá uma
+
+[10:50] olhada na cara do gráfico tá que aí Vai
+
+[10:52] facilitar muito porque a gente não tem
+
+[10:53] acesso a vídeo então Vai facilitar muito
+
+[10:56] para você entender na sua cabeça as
+
+[10:58] propriedades da teoria de resposta ao
+
+[11:00] item tá então começando pelo começo
+
+[11:01] começando pela história né A Teoria de
+
+[11:04] resposta ao item é uma técnica
+
+[11:05] estatística para Na verdade é um modelo
+
+[11:08] de regressão que vem dos anos 40 já é
+
+[11:11] velinha 80 anos já é então começou com
+
+[11:14] laulei o Lord nos Estados Unidos 1940 né
+
+[11:17] e depois ela foi um pouco mais
+
+[11:20] popularizada pelo Alan birbal em 1960 né
+
+[11:24] e sistematizada e o alambier bom ele nos
+
+[11:27] Estados Unidos ele queria uma companhia
+
+[11:29] né que é responsável hoje eu não tenho
+
+[11:32] certeza mas foi responsável por décadas
+
+[11:34] pelas provas de avaliação dos Estados
+
+[11:36] Unidos então de Ari sabe provas para
+
+[11:39] entrar na universidade tops tipos de
+
+[11:42] coisa todos eles usam teria pastor item
+
+[11:44] tá então nos Estados Unidos é
+
+[11:47] indiscriminado assim praticamente toda
+
+[11:49] avaliação usa né e e qual que é a
+
+[11:52] vantagem da tri em relação a só somar as
+
+[11:55] questões corretas né É você pegar
+
+[11:58] aplicar por exemplo 10 questões de
+
+[12:00] matemática e contar quantos acertos você
+
+[12:02] teve né é essa ideia essa teoria é uma
+
+[12:07] teoria um pouco mais antiga mas não
+
+[12:08] substitui a trilha as duas coisas
+
+[12:09] existem né que é chamado teoria clássica
+
+[12:12] dos Testes tá a teoria clássica da
+
+[12:15] testagem ou teoria clássica dos Testes
+
+[12:17] ela tem uma técnica estatística
+
+[12:19] famosíssima que é chamada análise
+
+[12:21] fatorial análise fatorial vem começo do
+
+[12:24] século 20 final do 19
+
+[12:27] que era matemático e psicólogo que
+
+[12:29] desenvolveu isso tem um artigo clássico
+
+[12:31] do Espigão muito bom todo psicólogo de
+
+[12:34] violência artigo clássico que é sobre a
+
+[12:36] inteligência né e assim Concorde ou não
+
+[12:39] com a formulação que ele colocou foi
+
+[12:41] revolucionário assim a ideia né da
+
+[12:43] teoria clá testagem tá a TCT o teoria
+
+[12:47] clássica dos Testes ela é uma técnica
+
+[12:49] que parte da escala para o item então
+
+[12:53] por exemplo na pesquisa de mercado que
+
+[12:55] uma área mais próxima de você por
+
+[12:56] exemplo quem é usa muito teoria clássica
+
+[12:59] dos Testes por exemplo eu quero avaliar
+
+[13:01] o grau de satisfação que você teve com o
+
+[13:05] serviço tá aqui te contrataram né sua
+
+[13:08] consultoria ou da época de agência tanto
+
+[13:10] faz contrataram lá eu quero eu quero
+
+[13:13] avaliar se os consumidores de uma marca
+
+[13:15] gostam da marca
+
+[13:17] me Descobre isso tá me descobre aí o que
+
+[13:20] que você vai fazer por exemplo uma coisa
+
+[13:22] errada que monte de gente de marketing
+
+[13:24] faz é colocar aquela pergunta quantos
+
+[13:27] satisfeito Você está com o nosso serviço
+
+[13:28] de 0 a 10 isso não avalia nada tá Por
+
+[13:32] que que não valia nada porque satisfação
+
+[13:34] é uma palavra abstrata
+
+[13:36] então satisfação em usar um carro para
+
+[13:39] mim é diferente da satisfação construída
+
+[13:42] na sua cabeça do uso do carro tá então
+
+[13:45] satisfação é uma variável não concreta é
+
+[13:49] uma variável abstrata se eu perguntar
+
+[13:52] para você uma diretamente uma variável
+
+[13:55] abstrata eu não consigo captar Quais são
+
+[13:58] as concretudes que você teve no momento
+
+[14:01] de avaliar alguma coisa para gerar essa
+
+[14:04] variável abstrata ou latente tá então
+
+[14:08] por exemplo porque pesquisa de
+
+[14:10] satisfação né Isso é uma paulada em toda
+
+[14:12] e qualquer pesquisa de satisfação é se
+
+[14:15] você perguntar isso é chamado fator tá
+
+[14:17] satisfação é um fator Por que que
+
+[14:20] satisfação é um fator porque satisfação
+
+[14:22] é um composito de outras variáveis
+
+[14:25] concretas tá deixa eu dar um exemplo
+
+[14:28] imagina que você vai você usa sabão em
+
+[14:31] pó você lava sua roupa tá e eu quero eu
+
+[14:33] tenho uma pesquisa de uma empresa de
+
+[14:35] pesquisa de mercado eu quero saber o
+
+[14:37] quão satisfeito você está com sabão em
+
+[14:39] pó que você usa tá se eu perguntar para
+
+[14:42] você de 0 a 10 o quão satisfeito você tá
+
+[14:44] com sabão em pó você me dá uma nota 7 né
+
+[14:47] que que representa essa nota nada tá
+
+[14:49] então por exemplo se uma outra pessoa
+
+[14:51] usa o mesmo sabão em pó e ela também dá
+
+[14:54] uma nota 7 de satisfação a satisfações
+
+[14:57] esses sete apesar de matemática não não
+
+[15:00] neguemos a matemática sete é igual a 7
+
+[15:02] Tá mas a palavra satisfação dentro da
+
+[15:05] cabeça de cada pessoa pode significar
+
+[15:07] coisas diferentes com pesos diferentes
+
+[15:10] tá então a teoria clássica dos Testes a
+
+[15:14] primeira grande coisa nunca pergunte o
+
+[15:16] fator a variável abstrata não pergunta
+
+[15:19] diretamente porque a pessoa não sabe
+
+[15:21] nomear tá então o que que o que que a
+
+[15:23] gente devia fazer no caso do sabão em pó
+
+[15:25] né Quais são os comportamentos concretos
+
+[15:29] ligados à satisfação com sabão em pó
+
+[15:31] então por exemplo eu tenho que eu tenho
+
+[15:33] que fazer uma pesquisa qualitativa eu
+
+[15:35] tenho que olhar a pessoa roupa né aí eu
+
+[15:37] vejo a pessoa lavando roupa aí eu
+
+[15:39] pergunto para ela qualitativo O que que
+
+[15:41] você perdeu o que que faz você perceber
+
+[15:42] que a roupa tá limpa né ah é o quão
+
+[15:46] Branco ela tá você concorda aqui por
+
+[15:48] exemplo se eu te mostro uma roupa lavada
+
+[15:49] e eu pergunto com branco ela está é uma
+
+[15:52] variável extrínseca diz respeito ao
+
+[15:54] objeto e não ao que você acha dele tudo
+
+[15:57] bem Eu tenho mais chance de ter
+
+[16:01] referências parecidas entre os
+
+[16:04] respondentes muito bem muito bem
+
+[16:05] exatamente tá então com branco a roupa é
+
+[16:08] uma variável então perguntar de zero a
+
+[16:10] 10 com o branco ficou a roupa beleza né
+
+[16:12] o quanto de espuma fez né tipo uma
+
+[16:15] variável externa tá lá eu consigo ver
+
+[16:17] você também tá é por exemplo o preço do
+
+[16:19] produto pode ser que eu achei um produto
+
+[16:21] bom mas o preço é ruim né é caro enfim
+
+[16:23] né então se eu tivesse essas três
+
+[16:25] variáveis preço espuma e branco essas
+
+[16:28] variáveis elas são variáveis diretamente
+
+[16:31] observadas E essas três variáveis juntas
+
+[16:34] por exemplo podem ter preço mais branco
+
+[16:38] mais espuma igual a satisfação Ou seja a
+
+[16:43] escala de satisfação ela decorre dos
+
+[16:46] itens que eu tô perguntando que é o com
+
+[16:48] branco a roupa é o quanto de espuma faz
+
+[16:51] e a percepção de preço tá eu já resolvi
+
+[16:54] uma parte da questão Então em vez de
+
+[16:55] perguntar o que é satisfação eu pergunto
+
+[16:57] os itens concretos tá isso é uma coisa a
+
+[17:01] outra coisa é se eu pegar de 0 a 10 o
+
+[17:03] quanto você achou que a roupa ficou
+
+[17:04] branca e De zero a 10 qual a o quanto
+
+[17:07] você avaliou que o preço é alto ou baixo
+
+[17:10] Você concorda que se você der cinco para
+
+[17:12] o branco e cinco para o preço Você
+
+[17:15] concorda que se cinco são diferentes
+
+[17:18] qualitativamente porque não tá avaliando
+
+[17:20] o sabão e outro tá valendo o preço né Ou
+
+[17:23] seja eu tenho que colocar uma outra
+
+[17:25] coisa aí que é um peso eu tenho que
+
+[17:27] colocar um peso para cada questão né
+
+[17:29] então o peso de você dar um ponto para o
+
+[17:33] quanto de espuma faz é diferente um
+
+[17:36] ponto para o preço por exemplo né e da
+
+[17:39] onde vem esses pesos vem das respostas
+
+[17:41] das pessoas então eu pergunto para as
+
+[17:43] pessoas a partir das respostas dela das
+
+[17:46] pessoas não não da satisfação a partir
+
+[17:48] do quão branco do quanto de espuma e do
+
+[17:51] preço das respostas das pessoas eu
+
+[17:53] calculo os pesos e aí eu vou ter uma
+
+[17:55] equação na verdade três equações que vão
+
+[17:58] me dar vão me gerar o fator satisfação
+
+[18:00] então a satisfação não é algo que você
+
+[18:03] responde verbalmente é algo que é nerd a
+
+[18:06] partir das percepções concretas do
+
+[18:08] fenômeno tá então assim quem faz
+
+[18:11] pesquisa de satisfação joga tudo fora
+
+[18:13] vai estudar análise fatorial monstro
+
+[18:16] espia irmã [ __ ] bacana teoria clássica
+
+[18:18] dos Testes existe até hoje muito útil
+
+[18:21] gerou depois modelagem com essa
+
+[18:23] estrutural Fantástico tá tem muita
+
+[18:25] ciência feita com isso muito importante
+
+[18:27] beleza né então assim para uma
+
+[18:30] infinidade de coisas a teoria clássica
+
+[18:31] dos Testes serve muito bem eu quero
+
+[18:33] avaliar satisfação e a satisfação
+
+[18:35] Rogério a resposta dos itens tá das
+
+[18:39] questões beleza aí 1940 um pouco depois
+
+[18:42] surgiu né uma contra força que seria o
+
+[18:45] seguinte não tudo bem então para avaliar
+
+[18:46] a qualidade de produto estados mentais
+
+[18:49] coisas do tipo preferência personalidade
+
+[18:52] beleza teria clássica dos Testes Fora de
+
+[18:54] Mim bacana mas quando eu tô avaliando
+
+[18:57] pessoas por exemplo em Provas né Então
+
+[19:01] pensa comigo eu quero saber como Qual o
+
+[19:04] tamanho da sua habilidade em matemática
+
+[19:06] né aí eu vou te fazer 10 questões de
+
+[19:08] matemática né E a questão você pode
+
+[19:11] acertar ou errar né porque matemática né
+
+[19:13] mais um é dois então ou você acerta ou
+
+[19:15] Você erra o que que acontece aí começa a
+
+[19:19] entrar começou a entrar e essa discussão
+
+[19:20] do Lorde lá atrás 1940 entre um viés do
+
+[19:23] professor por exemplo se eu sou o seu
+
+[19:26] professor e eu faço 10 questões de
+
+[19:28] matemática para você eu tenho que fazer
+
+[19:30] questões fáceis médias e difíceis certo
+
+[19:34] uma prova difícil eu não discrimino
+
+[19:37] ninguém todo mundo erra se eu der uma
+
+[19:39] prova muito fácil todo mundo acerta né
+
+[19:40] então tem que dar uma balanceada Mas
+
+[19:42] quem decide sou eu professor né Quem
+
+[19:45] garante que eu consigo perceber essa
+
+[19:47] habilidade matemática dos alunos é
+
+[19:50] difícil né perceber tanto é que em
+
+[19:53] muitos casos os professores erram a mão
+
+[19:54] né seja porque ficou muito fácil ou
+
+[19:56] muito difícil então ele veio com isso
+
+[19:58] então assim o professor na hora de
+
+[20:01] avaliar o aluno e avaliar a capacidade
+
+[20:03] matemática dele ele não pode olhar para
+
+[20:06] o aluno igual a satisfação né ele não
+
+[20:08] pode olhar o aluno tipo da habilidade
+
+[20:11] Matemática para as questões cada questão
+
+[20:14] tem nela né atributos ligados ao grau de
+
+[20:18] discriminação da questão e a dificuldade
+
+[20:21] dela então Ele propôs uma questão
+
+[20:23] inversa né ele falou assim até vamos
+
+[20:26] formulou a teoria de resposta ao item
+
+[20:28] que fala o seguinte para avaliar certos
+
+[20:30] tipos de variável latente né diferente
+
+[20:33] da satisfação né para avaliar outros
+
+[20:36] tipos de variável latente como
+
+[20:37] habilidade matemática habilidade
+
+[20:39] descrita coisas educacionais né Se bem
+
+[20:43] que não se restringe só isso vamos dar
+
+[20:45] exemplos de tri em outros contextos mas
+
+[20:47] começou na área educacional né para
+
+[20:49] avaliar certos tipos de aptidão aí ele
+
+[20:52] usou esse nome aptidão ou habilidade né
+
+[20:54] No lugar de traço latente ou variável
+
+[20:57] latente para não confundir com a TCT tá
+
+[20:59] então foi só por isso mas é a mesma
+
+[21:01] coisa na verdade tá é filosoficamente
+
+[21:05] epistemologicamente é a mesma coisa
+
+[21:06] então Ele fala se eu quero avaliar uma
+
+[21:08] aptidão sua eu não vou eu não vou dar
+
+[21:11] escala para o item eu vou do item para a
+
+[21:13] escala então cada questão dentro dela
+
+[21:16] cada questão de matemática cada item né
+
+[21:18] tem dentro dele parâmetros que me ajudam
+
+[21:22] a descrever a sua aptidão
+
+[21:25] então eu não vou pegar todas as questões
+
+[21:27] como se todas tivessem o mesmo peso
+
+[21:28] juntar elas e vai me dar a nota final
+
+[21:31] que seria o seu traço latente tá então
+
+[21:34] quando eu aplico em você 10 questões
+
+[21:37] pega o certo e errado e somos acertos
+
+[21:39] essa abordagem é a teoria clássica dos
+
+[21:43] Testes em que a sua habilidade em
+
+[21:46] matemática é prevista apenas pelo número
+
+[21:49] de acertos em cada questão a teoria de
+
+[21:52] resposta ao I tem inverte a lógica ela
+
+[21:54] fala não cada questãozinha é uma prova
+
+[21:56] cada questão é uma prova cada uma delas
+
+[21:59] me ajuda a detectar um pedacinho da sua
+
+[22:01] aptidão baseado em características da
+
+[22:04] questão
+
+[22:05] da questão tá então assim eu não posso
+
+[22:07] olhar como no exemplo do sabão em pó eu
+
+[22:10] não posso olhar cada variável tipo
+
+[22:12] quanto de espuma o preço e o com branco
+
+[22:14] como se fossem os únicos atributos não
+
+[22:17] cada questão vai ter um grau de
+
+[22:20] habilidade em detectar o seu traço
+
+[22:23] latente ou a sua habilidade em alguma
+
+[22:24] coisa tudo bem quem você percebe que é
+
+[22:27] invertido tá então a mensagem hoje é que
+
+[22:31] assim hoje a tri e a TCT elas coexistem
+
+[22:35] são duas técnicas que tem objetivos
+
+[22:37] diferentes dependendo da situação até CT
+
+[22:40] é melhor dependendo da situação atria
+
+[22:41] melhor tá a treta em requisito você não
+
+[22:44] pode usar ela para qualquer teste Tá bom
+
+[22:46] então o próprio Lorde o lowley lá no
+
+[22:49] começo ele falava assim então assim a
+
+[22:51] ideia é criar itens cada item vai ter
+
+[22:54] parâmetros específicos e cada item vai
+
+[22:58] ser responsável por um pedacinho da
+
+[23:00] avaliação da sua aptidão da sua
+
+[23:03] habilidade em matemática em história o
+
+[23:06] que quer que seja tá no entanto no
+
+[23:08] entanto como eu falei anteriormente a
+
+[23:10] tri não vale para qualquer coisa né Tem
+
+[23:12] requisitos importantes o primeiro
+
+[23:14] requisito é chamado unidimensionalidade
+
+[23:17] cada questão avalia uma dimensão
+
+[23:19] específica tá você não pode fazer uma
+
+[23:22] questão uma única questão que avalia a
+
+[23:24] Portuguesa e matemática junto Porque Tá
+
+[23:27] misturando as aptidões tem que ser
+
+[23:29] separado cada cada questão avalia uma
+
+[23:31] dimensão beleza tá uma decorrência da
+
+[23:35] unidimensionalidade é uma coisa chamada
+
+[23:37] Independência local né a independência
+
+[23:41] local é uma característica de que cada
+
+[23:45] indivíduo né tem a sua aptidão e por
+
+[23:48] exemplo o fato de eu ter acertado uma
+
+[23:50] questão não implica dizer que você vai
+
+[23:53] acertar você quem tá mesmo a gente
+
+[23:56] estudando na mesma escola fazendo as
+
+[23:58] mesmas coisas a gente tem uma aptidão
+
+[24:00] individual sabe então é por exemplo no
+
+[24:05] no numa prova de matemática que tem 10
+
+[24:08] questões eu acertei oito e você acertou
+
+[24:10] oito a gente não vai ter a mesma nota a
+
+[24:13] gente acertou oito né a gente tem a
+
+[24:15] mesma nota pela teoria clássica dos
+
+[24:16] Testes é como se a gente tivesse a mesma
+
+[24:18] habilidade tá na tri Não é bem assim
+
+[24:21] então cada questão porque assim se você
+
+[24:24] acerta uma questão e eu acerto a mesma
+
+[24:27] questão não quer dizer que a gente vai
+
+[24:29] ter a mesma nota no final porque depende
+
+[24:31] das outras questões também
+
+[24:34] então a avaliação do seu desempenho
+
+[24:36] depende do número de acertos Mas também
+
+[24:39] da relação entre os parâmetros dos itens
+
+[24:42] né é um pouco é mais é mais dimensional
+
+[24:46] a sua avaliação da sua habilidade não é
+
+[24:49] só a taxa de acerto né E aí eu tava
+
+[24:51] falando de
+
+[24:53] desses parâmetros né O que que são esses
+
+[24:56] parâmetros agora o momento complexo
+
+[24:57] agora você tem que olhar a capa do
+
+[24:59] episódio nem que seja por um segundo
+
+[25:01] para dar uma olhada no gráfico tá o
+
+[25:03] gráfico que tem na capa do nosso
+
+[25:04] Episódio gráfico clássico de uma questão
+
+[25:07] né avaliada por teoria de resposta ao
+
+[25:09] item se você olhar o gráfico é um
+
+[25:11] gráfico em forma de S né pode ser uma
+
+[25:14] função só ajudando ouvinte aqui a gente
+
+[25:16] tem dois eixos o eixo horizontal é
+
+[25:21] proficiência e o eixo vertical é
+
+[25:25] probabilidade de acerto certo isso então
+
+[25:28] é um gráfico X e Y com uma curva
+
+[25:31] logística ou em S ou em alguns casos log
+
+[25:34] normal mas isso não importa Tá mas o
+
+[25:36] importante é saber que essa curva em S
+
+[25:38] tá é toda toda curva da tri É essa a não
+
+[25:42] ser que a questão seja muito ruim tá mas
+
+[25:44] em geral ela é em s tá o s não tem dois
+
+[25:47] não tem dois bracinhos não tem o
+
+[25:49] bracinho de baixo e o bracinho de cima
+
+[25:51] né todo esse Toda vez você desenha um s
+
+[25:53] tem dois bracinhos né a pontinha de
+
+[25:55] baixo a pontinha de cima a pontinha de
+
+[25:57] baixo do S Ela Está encostando no eixo Y
+
+[25:59] do gráfico ela cruza o eixo Y em algum
+
+[26:02] lugar tá o eixo Y né ela é a
+
+[26:06] probabilidade de você acertar o item o
+
+[26:08] eixo X é a proficiência ou aptidão em
+
+[26:11] alguma coisa tá bom Então imagina que o
+
+[26:14] eixo X é a sua habilidade em matemática
+
+[26:17] por exemplo tá e o eixo Y é a
+
+[26:20] probabilidade de você acertar uma
+
+[26:22] questão Então você vai ter uma curva em
+
+[26:25] S para cada questão que você aplicar
+
+[26:27] cada questão vai ter um s tá e a ideia
+
+[26:31] da tri é você avaliar os parâmetros
+
+[26:34] desse S porque se você o s ele pode ser
+
+[26:37] mais alongado pode ser mais curto né ele
+
+[26:40] pode ser mais alto mais baixo são é as
+
+[26:43] características desse S que vão dizer as
+
+[26:45] características da questão tá E aí você
+
+[26:48] tem basicamente assim você tem atrito de
+
+[26:51] dois parâmetros três quatro e quatro
+
+[26:54] parâmetros o Enem usa Tríade três
+
+[26:57] parâmetros Tá eu vou descrever de quatro
+
+[27:00] porque ele vale para todos Tá bom então
+
+[27:02] o s né como eu falei
+
+[27:05] a perninha de baixo do S ela cruza o
+
+[27:07] eixo Y né em algum lugar tá o que que
+
+[27:12] seria isso né se você olhar no gráfico s
+
+[27:15] é em alguns casos ele pode cruzar o zero
+
+[27:18] né ele pode passar no zero em alguns
+
+[27:20] casos não esse esse começa mais em cima
+
+[27:23] tá o que que seria esse essa pontinha né
+
+[27:27] esse pontinho ele é chamado de c c de
+
+[27:30] casa tá o c de casa é chamado cara
+
+[27:34] guessability ou capacidade da questão de
+
+[27:37] ser respondida por chute chute tá então
+
+[27:42] se a perninha debaixo do S passa no zero
+
+[27:45] passa no zero quer dizer que a
+
+[27:47] capacidade de você chutar e acertar a
+
+[27:50] questão é nula você não vai conseguir
+
+[27:52] acertar no chute tá mas você concorda
+
+[27:55] comigo se você tem uma questão de
+
+[27:56] alternativas né tipo quatro alternativas
+
+[28:00] é meio real passar no zero
+
+[28:04] tem alguma chance de você acertar o
+
+[28:07] chute isso principalmente se é uma
+
+[28:09] questão de múltipla escolha certo tá
+
+[28:10] então o que que acontece em geral na
+
+[28:13] trilha de dois parâmetros que é a mais
+
+[28:15] antiga eles fixam esse s no zero tá a 32
+
+[28:20] parâmetros ela é mais antiga era quando
+
+[28:22] a capacidade computacional não era tão
+
+[28:24] grande então as provas mais antigas elas
+
+[28:26] não avaliavam a capacidade de chute elas
+
+[28:29] não incorporavam isso na prova tá Por
+
+[28:32] uma questão técnica tá bom verdade seja
+
+[28:34] dita Tá mas na trilha de três e quatro
+
+[28:37] parâmetros você consegue pegar esse s e
+
+[28:40] jogar um pouquinho para cima a perninha
+
+[28:41] né então se você joga ela a perna de
+
+[28:44] baixo um pouquinho para cima É como se
+
+[28:46] você tivesse dizendo por programa ó mais
+
+[28:49] ou menos tem 10% de chance de a pessoa
+
+[28:52] acertar por chute
+
+[28:54] tá então na hora de avaliar o seu
+
+[28:57] desempenho eu vou considerar isso tá eu
+
+[29:00] vou considerar isso uma parte ali vai
+
+[29:02] ser chute tá isso já ajuda a responder
+
+[29:04] um pouco da sua questão da sua pergunta
+
+[29:07] do começo do episódio quem né uma pessoa
+
+[29:09] que entrega prova em branco ela entregou
+
+[29:11] em branco porque que ela não tira zero
+
+[29:13] né porque ela vai ganhar uns pontinhos
+
+[29:16] por causa do chute porque porque é
+
+[29:19] esperado que você mesmo que não responda
+
+[29:22] nada a pessoa que entrega a prova em
+
+[29:25] branco ela não vai tirar zero porque na
+
+[29:27] tri de três parâmetros não passa no zero
+
+[29:29] a pontinha do S por exemplo Então vai
+
+[29:32] ter um ruído é uma nota de ruído tá
+
+[29:35] então assim se você pegar estamos
+
+[29:38] deixando um link para todos os
+
+[29:40] microdados do Enem isso é tudo aberto
+
+[29:43] você pode pegar as notas de todas as
+
+[29:44] pessoas dos milhões de pessoas que
+
+[29:46] pegaram fizeram o Enem Você pode ter
+
+[29:49] acesso aos dados tá Se você pegar a nota
+
+[29:51] mínima a nota mínima do Enem sexto ano é
+
+[29:55] sempre a mesma tá porque esse efeito
+
+[29:57] piso né esse efeito piso você
+
+[30:00] considerando um chutezinho a Quem
+
+[30:03] entregou a prova em branco e quem errou
+
+[30:04] todas as questões tem lá um certo
+
+[30:06] valorzinho tá mas aquele valor seria o
+
+[30:09] equivalente a nota zero né é que a
+
+[30:12] escala do Enem é diferente não é de 0 a
+
+[30:15] 1000 é diferente uma escala própria que
+
+[30:18] a gente vai chegar lá tá então essa esse
+
+[30:20] primeiro parâmetro né que é a partezinha
+
+[30:23] de baixo do do s é chamado capacidade de
+
+[30:26] chute da questão tá então se o Enem tem
+
+[30:30] 100 questões vai ter sem curvas uma
+
+[30:33] curva para cada questão tudo bem tá o
+
+[30:36] outro parâmetro quando você olha um s né
+
+[30:38] o s não vai crescendo aí ele cresce
+
+[30:41] depois ele muda a curvatura né quando
+
+[30:44] você vai desenhar um s não é assim
+
+[30:45] começa a subindo aí no meio assim ele
+
+[30:48] muda a curvatura e começa a crescer a
+
+[30:50] taxas decrescentes né e gera outra
+
+[30:53] perninha de cima tá é você concorda
+
+[30:56] comigo que a gente consegue desenhar
+
+[30:58] diferentes tipos de S por exemplo
+
+[31:01] imagina um imagina um você desenha uma
+
+[31:04] reta aí desenha uma reta 90 graus
+
+[31:06] perpendicular depois outra reta né você
+
+[31:10] não transformou o s num Z sim porque
+
+[31:13] ficou uma reta né então o que que o s é
+
+[31:15] o s é um z atenuado é um z curvado certo
+
+[31:20] tudo bem então essa curvatura esse grau
+
+[31:23] de curvatura né Ele é relacionado com
+
+[31:27] uma característica da trika chamado
+
+[31:29] discriminação
+
+[31:30] discriminação tá do teste é a capacidade
+
+[31:34] que uma questão tem de dizer que você
+
+[31:37] vai acertar ou não uma questão que
+
+[31:40] discrimina bem então apenas raciocínio
+
+[31:43] espacial tá imagina um s bem alongado
+
+[31:46] então você começa reto Aí vai vai demora
+
+[31:49] para subir sabe você vai fazer um s mas
+
+[31:52] bem alongado tá Você concorda que para
+
+[31:55] você sair do piso e chegar no teto
+
+[31:57] demora muito porque o s tá bem alongado
+
+[32:00] né E lembra que o eixo X é aptidão é a
+
+[32:04] capacidade de você ser bom em alguma
+
+[32:06] coisa por exemplo em matemática se você
+
+[32:08] desenhar um s muito alongado você
+
+[32:11] concorda que a vai pegar um grande
+
+[32:13] espaço do eixo X para você começar o s
+
+[32:16] terminar o s você não vai pegar uma
+
+[32:18] grande fatia do eixo X para terminar né
+
+[32:22] Essa é uma questão que discrimina pouco
+
+[32:24] por que que ela discrimina pouco porque
+
+[32:27] você pode ter uma baixa habilidade no
+
+[32:29] eixo X ou uma alta habilidade para
+
+[32:31] acertar a questão
+
+[32:33] esse esse espectro entre o começo da
+
+[32:36] curvatura do s e o final é muito grande
+
+[32:39] Tá é muito grande Agora imagina que eu
+
+[32:42] vou desenhar um z eu faço um traço faço
+
+[32:45] outra 90 graus e outro traço
+
+[32:47] Você concorda que assim tem um ponto só
+
+[32:50] no eixo X que discrimina né não tem não
+
+[32:54] é alongado é um ponto só essa é uma
+
+[32:56] questão que discrimina bastante
+
+[32:58] ou seja discrimina bastante O que que
+
+[33:01] significa isso significa sim se eu
+
+[33:03] desenhar uma questão um resultado de Um
+
+[33:05] item como um z né se você tiver acima
+
+[33:09] daquele ponto no z na projeção do Z na
+
+[33:12] no eixo X se você tiver acima daquilo
+
+[33:16] você acerta a questão se você tiver
+
+[33:17] abaixo Você erra tá porque o Z quando
+
+[33:20] você faz um Z é uma reta 90 graus não é
+
+[33:22] vai determinar só um ponto no eixo X
+
+[33:25] esse ponto é a máxima discriminação se
+
+[33:28] você tem acima daquilo se acertou você
+
+[33:30] tem abaixo daquilo você errou tá se eu
+
+[33:33] faço um s muito alongado tem muita
+
+[33:36] variação do espectro de aptidão ou
+
+[33:39] habilidade para você acertar a questão
+
+[33:41] ou seja tem pessoas que tem habilidade
+
+[33:44] ruim e acerta ou erra e tem pessoas com
+
+[33:47] habilidade alta que também acerta ou
+
+[33:49] erra tá então a ideia de uma boa de um
+
+[33:52] bom item é que ele não seja um s muito
+
+[33:55] alongado ele seja ele não pode ser um
+
+[33:58] Zeus seria bom mas é impossível ele seja
+
+[34:01] um s mas um s com uma amplitude baixa tá
+
+[34:04] para você pegar ali uma quantidade de
+
+[34:06] aptidão mínima para ser capaz de
+
+[34:09] responder e acertar a questão tudo bem
+
+[34:11] quem fez sentido para mim fez sentido eu
+
+[34:14] não sei para os ouvintes dá uma olhada
+
+[34:17] na figura tá Dá uma olhada imagina o s
+
+[34:19] na sua cabeça crescer diminuindo e tal
+
+[34:21] esse é o segundo atributo a
+
+[34:22] discriminação o terceiro tributo é
+
+[34:24] chamado dificuldade né O que que a
+
+[34:27] dificuldade de Um item dificuldade é a
+
+[34:30] probabilidade a partir de um certo valor
+
+[34:32] de aptidão né ou de habilidade a partir
+
+[34:36] de um certo valor de habilidade qual é a
+
+[34:38] probabilidade de você responder a
+
+[34:40] questão corretamente com 50% em 50% das
+
+[34:44] vezes então ó imagino esse
+
+[34:47] não tem um ponto de inflexão não é se ó
+
+[34:50] você começa a desenhar um s a curvatura
+
+[34:52] é para cima aí ela para depois a
+
+[34:55] curvatura começa a ficar para o outro
+
+[34:57] lado né ela vai ficando côncava depois
+
+[34:59] convexa que nessa figura da capa do
+
+[35:02] episódio é onde tem ali marcado o ponto
+
+[35:06] b
+
+[35:08] é o pontinho B né o b é um ponto você
+
+[35:11] pega aquele ponto b que é o ponto de
+
+[35:13] inflexão né quando a concavidade é para
+
+[35:16] cima e fica para baixo do s e joga ela
+
+[35:18] no Ponto X Não enche o x né A projeção
+
+[35:22] não eixo X vai ser o valor de habilidade
+
+[35:24] que você tem que ter para ter 50% de
+
+[35:28] probabilidade de acertar a questão Essa
+
+[35:30] é a dificuldade Então vamos lá ó só para
+
+[35:34] imaginar no s tá ó quando a gente
+
+[35:36] desenha um s bonitinho ele não é
+
+[35:38] simétrico a perninha de cima do S não é
+
+[35:41] igual a de baixo esse é um s simétrico
+
+[35:42] tá quando você tem um s simétrico né
+
+[35:46] esse
+
+[35:47] do B vai ficar no meio do gráfico no
+
+[35:51] meio do gráfico né ou seja se você tem
+
+[35:54] uma aptidão média média né você tem 50%
+
+[35:58] de chance de acertar a questão se o s do
+
+[36:02] item é simétrico o ponto de inflexão vai
+
+[36:04] ficar no meio do gráfico na média que
+
+[36:07] nesse nosso gráfico de exemplo eu B
+
+[36:10] teria que estar coincidido com o zero
+
+[36:11] aqui exatamente então ou seja o zero é a
+
+[36:14] média né se você tem uma aptidão média
+
+[36:16] uma habilidade média em matemática
+
+[36:18] naquela questão na questão em que o ss
+
+[36:21] métrico você vai ter 50% de chance de
+
+[36:24] acertar o item certo tá bom o que
+
+[36:27] acontece se eu deixar esse ssimétrico a
+
+[36:30] perna de baixo é grande
+
+[36:32] a perna de baixo é bem comprida depois
+
+[36:34] faz o s o que que vai estar acontecendo
+
+[36:37] para você acertar a questão você vai ter
+
+[36:39] que ter uma aptidão maior né vai ter uma
+
+[36:42] aptidão maior que zero ou seja na
+
+[36:44] prática eu tô deixando a questão mais
+
+[36:45] difícil muito bem muito bem muito quem
+
+[36:48] está acompanhando muito bem isso aí tá a
+
+[36:50] questão tá ficando mais difícil né E se
+
+[36:52] eu colocar a perna de cima do do s mais
+
+[36:55] comprida ou seja o s vai ficar perto do
+
+[36:58] eixo X Ou seja eu preciso de pouca
+
+[37:01] habilidade para acertar a questão a
+
+[37:03] questão tá ficando fácil tá E lembrando
+
+[37:06] que isso não é da prova Isso é do item
+
+[37:08] cada item assim cada
+
+[37:12] item vai ter um gráfico desse isso então
+
+[37:14] A ideia é fazer um composito de questões
+
+[37:17] fáceis médias e difíceis né então o s
+
+[37:20] tem que ser puxado a perninha tem que
+
+[37:22] ser cumprida ou curta né uma quantidade
+
+[37:25] e a o s não pode ser muito deformado o
+
+[37:29] ideal é que todas as questões fossem
+
+[37:31] como um Z que tem a mesma habilidade de
+
+[37:33] discriminação né então esse S não pode
+
+[37:36] ser muito alongado as perninhas podem
+
+[37:38] ser assimétricas mas o s não pode ser
+
+[37:41] muito alongado agora quem é que decide
+
+[37:44] como é que se decide
+
+[37:46] o desenho de ciências
+
+[37:48] que que vai ser mais difícil mais fácil
+
+[37:51] que tem mais possibilidade de acerto ou
+
+[37:53] não então você percebeu como é feita a
+
+[37:56] questão né esse S por isso que ele tá na
+
+[37:58] capa do episódio porque ele é a chave do
+
+[37:59] negócio e eu sei que eu tenho que ter eu
+
+[38:02] tenho que ter um conjunto de questões
+
+[38:03] fáceis médias e difíceis e tenho que
+
+[38:06] esperar uma probabilidadezinha de chute
+
+[38:07] que seria esse ser tá essa seria a
+
+[38:10] grande diferença
+
+[38:12] nas provas
+
+[38:14] convencionais de simplesmente baseado em
+
+[38:17] acerto Porque nas outras características
+
+[38:20] é porque nas outras provas também existe
+
+[38:23] essa preocupação de misturar perguntas
+
+[38:24] mais fáceis com perguntas mais difíceis
+
+[38:27] e perguntas médias né isso mas aqui tem
+
+[38:29] essa coisa da preocupação de
+
+[38:32] se detectar o chute isso você é não é só
+
+[38:37] detectar você incorpora isso na nota e
+
+[38:40] aí você tira um efeito dela tá porque
+
+[38:42] você joga um pouquinho para cima do eixo
+
+[38:43] tem uma outra tem a trilha de quatro
+
+[38:45] parâmetros Hum Tem uma outra coisa né
+
+[38:47] que é o efeito teto né se você olhar
+
+[38:50] esse S né ele começa no zero e vai até
+
+[38:52] um porque o eixo Y não é a probabilidade
+
+[38:55] de acertar que vai dizer era 100% né tá
+
+[38:57] eu posso pegar esse limite superior e
+
+[39:00] jogar para baixo também Então imagina
+
+[39:02] uma questão que você é muito difícil por
+
+[39:05] mais habilidade que você tenha você não
+
+[39:07] vai acertar imagina Olimpíadas de
+
+[39:09] Matemática tá nos casos nos casos de
+
+[39:13] habilidade muito alta eu posso pegar que
+
+[39:15] E aí o quarto parâmetro que é chamado de
+
+[39:18] d d de dado né eu posso pegar esse
+
+[39:20] limite superior do s e jogar para baixo
+
+[39:22] posso dar uma achatada na curva também
+
+[39:24] tá tem questões que se você acertar tipo
+
+[39:27] é um ponto fora da curva sabe aí para
+
+[39:31] alguns tipos de prova que vão avaliar
+
+[39:33] uma aptidão muito grande às vezes é
+
+[39:35] importante colocar o quarto parâmetro tá
+
+[39:37] então assim a trípica é convencional são
+
+[39:41] três parâmetros Mas já tem a de quatro
+
+[39:43] também que é usado em muitos casos tá
+
+[39:45] não é caso de provas muito difíceis
+
+[39:47] quatro parâmetros também pode ser usado
+
+[39:49] tem outras vantagens matemáticas né
+
+[39:51] estatísticas também você não precisa
+
+[39:52] fixar tanta coisa tá então em problemas
+
+[39:55] computacionais na hora de calcular nota
+
+[39:57] e tal usar de quatro parâmetros às vezes
+
+[39:59] é melhor só para você ver essa questão
+
+[40:02] né quem eu tenho uma curva para cada
+
+[40:04] questão não tenho e cada curva não é
+
+[40:07] determinada por um gráfico né não é
+
+[40:09] determinada por uma função uma fórmula
+
+[40:10] Então imagina ó o Enem ele é aplicado em
+
+[40:14] mais ou menos oito nove milhões de
+
+[40:16] pessoas por ano tá e a prova tem coisa
+
+[40:20] vai um pouco mais de 100 questões tá sem
+
+[40:23] questões cada questão vai ter cada
+
+[40:25] questão tem um gráfico né cada gráfico
+
+[40:28] tem três parâmetros no caso do Enem tem
+
+[40:31] três parâmetros eu tenho que fazer uma
+
+[40:33] equação para cada gráfico é uma uma
+
+[40:36] equação para cada questão para cada
+
+[40:39] pessoa
+
+[40:40] tá então são milhões de equações imagina
+
+[40:43] o computador para rodar tudo isso agora
+
+[40:45] você entende porque o Enem leva três
+
+[40:47] meses para dar nota né porque boa parte
+
+[40:49] disso é tempo de processamento exato
+
+[40:51] porque não é só ficar somando as
+
+[40:55] perguntas acertadas a resposta certas né
+
+[40:57] quer dizer você precisa rodar a equação
+
+[41:00] de cada pergunta de cada candidato para
+
+[41:04] cada prova é são bilhões de parâmetros é
+
+[41:07] muita coisa demora bastante tá é não
+
+[41:10] precisaria de três meses tá Dá para
+
+[41:11] rodar em menos se você otimizar um pouco
+
+[41:13] tal mas é bem complicado tá E aí
+
+[41:15] voltando na sua questão anterior né é
+
+[41:18] como que é feito isso tudo bem entendi o
+
+[41:20] s e tal mas como é que é feito isso para
+
+[41:21] cada questão existe um banco de itens
+
+[41:23] inclusive Tem empresas que fazem isso né
+
+[41:26] Por licitação enfim Tem empresas que
+
+[41:28] criam questões tá itens mesmo então
+
+[41:31] assim você contrata professores pra
+
+[41:33] fazer questão de matemática né em certos
+
+[41:36] temas geometria sei lá aí você paga para
+
+[41:39] o professor fazer questões né ele faz as
+
+[41:41] questões tá agora com inteligência
+
+[41:44] artificial muito disso tem sido
+
+[41:46] automatizado nos Estados Unidos das
+
+[41:48] questões Mas isso não é suficiente Então
+
+[41:50] você tem que fazer uma coisa que é
+
+[41:51] chamado pré-test né O que que eu Prete
+
+[41:54] você chama alunos né com um perfil
+
+[41:57] parecido dos alunos que você vai aplicar
+
+[41:59] a prova então vestibulando e você paga
+
+[42:02] para o aluno responder as questões tá
+
+[42:04] algumas questões teste e aí com base
+
+[42:07] Nessas questões teste você cria curva
+
+[42:09] para alguns alunos né então você tem
+
+[42:12] avaliação do professor da questão e a
+
+[42:15] avaliação do aluno que respondeu e aí
+
+[42:17] você faz um banco de questões com
+
+[42:19] diferentes B com diferentes dificuldades
+
+[42:21] e com diferentes Aços que são
+
+[42:23] discriminações tá E esse banco tem
+
+[42:26] milhares de questões é um [ __ ]
+
+[42:28] investimento você gasta uma baita grana
+
+[42:30] fazendo esse banco de testes tá E ele
+
+[42:33] tem que ser alimentado porque a prova é
+
+[42:35] aplicada né E aí você perde a questão né
+
+[42:37] então tem que fazer de novo tá então tem
+
+[42:39] um investimento grande nessa parte de
+
+[42:41] preparação quando chega a época do
+
+[42:44] vestibular é selecionado sorteado uma
+
+[42:47] quantidade de questões ali baseado nos
+
+[42:50] critérios de dificuldade tá um grupo de
+
+[42:52] questões fáceis médias e difíceis E aí é
+
+[42:55] composta a prova tá no ENEM tem as cores
+
+[42:57] né para Vaz Azul vermelha amarela e tal
+
+[42:59] as provas em todas as cores são as
+
+[43:02] mesmas o que muda é a ordem a ordem das
+
+[43:05] matérias os blocos são aleatorizados Mas
+
+[43:07] é só isso as questões de tudo do ano são
+
+[43:09] sempre as mesmas né E aí entrando na
+
+[43:12] questão da nota você vem comentou né
+
+[43:14] quem quando o s é simétrico né o ponto b
+
+[43:19] que é projetado no eixo X fica no zero
+
+[43:21] né fica no zero então isso isso que é o
+
+[43:26] problema o problema não né a
+
+[43:27] característica da teoria de resposta ao
+
+[43:28] item aptidão ou habilidade que é o eixo
+
+[43:31] X do gráfico lembrando a habilidade
+
+[43:33] matemática em português do que quer que
+
+[43:35] seja essa habilidade ela é uma variável
+
+[43:38] medida de forma padronizada e o que que
+
+[43:42] essa padronização Toda vez você pega uma
+
+[43:44] variável e padroniza a média dela é zero
+
+[43:47] tá a média de uma variável padronizada é
+
+[43:51] zero Então o output que uma análise de
+
+[43:54] tri cospe né da do s é uma reta é uma um
+
+[43:59] gráfico em que o eixo X tem média zero
+
+[44:01] então o que que acontece se você tira
+
+[44:04] uma nota um pouquinho abaixo da Média
+
+[44:05] sua nota é negativa Então imagina você
+
+[44:09] abre o seu Enem sua nota em português é
+
+[44:11] menos meio é possível isso é possível
+
+[44:14] isso é por isso é porque porque a média
+
+[44:16] do valor padronizado da questão e depois
+
+[44:20] do composito a média É zero né porque é
+
+[44:24] padronizado né média zero então você
+
+[44:27] pode ter nota negativa pode né porque é
+
+[44:30] uma variável padronizada com média zero
+
+[44:32] né E então ela tem uma média e um desvio
+
+[44:35] padrão
+
+[44:36] O desvio padrão é um numa curva
+
+[44:39] padronizada então por exemplo se você
+
+[44:41] teve por exemplo se sua nota de
+
+[44:44] matemática foi zero né numa na tri quer
+
+[44:48] dizer que você teve uma nota igual a
+
+[44:50] média das pessoas daquele ano né imagina
+
+[44:54] isso cair na boca do povo né Tira aí
+
+[44:56] zero toda a média
+
+[44:57] esquisito né
+
+[44:59] então dá para entender porque é que
+
+[45:02] alguns juízes é complicado acabaram
+
+[45:06] entrando com um processo judicial
+
+[45:10] por causa disso não foi por causa disso
+
+[45:13] porque porque isso é o que o programa
+
+[45:15] cospe né só que os estatísticos o povo
+
+[45:18] que mexe com ele já sabia tipo não vou
+
+[45:19] dar nota negativa para o moleque vai ter
+
+[45:21] um infarto é porque ele não entende aí o
+
+[45:23] que que eles fizeram eles repanalizaram
+
+[45:25] a nota tá mas isso é o arbitrário então
+
+[45:28] eles fizeram assim em vez de colocar
+
+[45:29] zero né é só mudar o eixo tá eles
+
+[45:33] colocam no caso do Enem a média é 500
+
+[45:36] você pega todas as notas de todas as
+
+[45:38] pessoas e soma 500 vai fazer um shift na
+
+[45:40] distribuição né Tá então a média 500 O
+
+[45:43] desvio padrão é 100 ou seja você
+
+[45:45] reparolizou as notas das pessoas então
+
+[45:47] se você tira 500 na prova você tá na
+
+[45:49] média em vez de zero né então você tira
+
+[45:52] o efeito do negativo só que a nota deixa
+
+[45:55] de significar alguma coisa né tipo 600 é
+
+[45:59] muito pouco não sei tá Então depende
+
+[46:04] é complicado para as pessoas né
+
+[46:08] porque enfim o paradigma das pessoas
+
+[46:11] é o formato mais simplificado né zero a
+
+[46:16] 10 ou respostas certas versus sobre
+
+[46:19] sobre quantidade de perguntas né
+
+[46:22] porcentagem de acertos Enfim uma coisa
+
+[46:25] bem mas aritmética né
+
+[46:27] não é baseado numa função fator então
+
+[46:31] assim continua esquisito a nota mas a
+
+[46:34] menos Agora você entendeu os parâmetro
+
+[46:37] eu assim pessoalmente eu preferia
+
+[46:40] ensinar no ensino médio uma distribuição
+
+[46:41] padronizada com média 01 E aí saber que
+
+[46:44] se sua nota deu um meio é menos meio por
+
+[46:47] exemplo deu negativo quer dizer que está
+
+[46:49] um pouquinho abaixo da Média né
+
+[46:52] Quanto mais perto de menos um mais mais
+
+[46:56] perto você tá da da da do pior extrato
+
+[47:00] Vamos ser assim menos um menos dois né
+
+[47:02] Quanto mais perto do zero mais perto da
+
+[47:05] média e quanto mais perto do um mais
+
+[47:07] você tá no no quadrante superior isso Só
+
+[47:11] que essa distribuição padrãoizada pode
+
+[47:12] dar vai valores maiores que um pode dar
+
+[47:15] dois três vai até infinito e esse é um
+
+[47:17] problema também porque como vai até
+
+[47:19] infinito Você pode tirar por exemplo
+
+[47:21] 1001 1002 na redação sabe se você tiver
+
+[47:26] por exemplo se você tiver quatro desvios
+
+[47:29] padrão acima da sua nota for quatro
+
+[47:33] desvios padrão Acima das outras pessoas
+
+[47:35] você pode mas que mil tem uma nota
+
+[47:38] porque só foi muito bem né ou se todo
+
+[47:40] mundo foi mal e você foi bem Você tem
+
+[47:43] uma nota tipo absurda né porque essa
+
+[47:45] variável padronizada não tem limite
+
+[47:47] Então essa essa característica tá porque
+
+[47:50] de novo Lembrando que é uma nota
+
+[47:51] relacional você é comparado com todo
+
+[47:53] mundo naquele ano exato mas eu acho que
+
+[47:56] o importante desse Episódio né
+
+[48:00] a não ser as pessoas que têm realmente
+
+[48:02] curiosidade se aprofundar ler as
+
+[48:04] referências e entender como é exatamente
+
+[48:07] esse cálculo né as pessoas entenderem
+
+[48:10] que se trata de um conceito primeiro
+
+[48:12] relacional né ou seja aquela pontuação
+
+[48:16] que você recebe no ENEM ela em absoluto
+
+[48:21] significa muito menos do que em termos
+
+[48:23] relativos né isso e que existe aí uma
+
+[48:29] preocupação na aplicação de matemática
+
+[48:32] aí para que algo que seria subjetivo né
+
+[48:39] se torne o menos subjetivo possível né
+
+[48:42] isso ou você na verdade usando a tri
+
+[48:45] você em contextos de avaliação você vai
+
+[48:47] considerar subjetividades relacionadas à
+
+[48:49] aplicação no modelo por exemplo chutar
+
+[48:52] né E tem assim as pessoas falando chute
+
+[48:55] Mas tem uma coisa mais interessante da
+
+[48:56] tri ainda que a cola né porque ó pensa
+
+[48:59] comigo a prova não é relacional então a
+
+[49:02] sua nota é gerada calculada a partir do
+
+[49:04] seu desempenho mas também do desempenho
+
+[49:06] dos outros correto tá então por exemplo
+
+[49:09] tudo bem como vem do banco de questões
+
+[49:11] eu pego uma questão difícil por exemplo
+
+[49:13] peguei uma questão difícil né se eu
+
+[49:15] acerto e você acerta beleza isso isso
+
+[49:18] diz algo sobre a nossa habilidade beleza
+
+[49:20] mas não exatamente a mesma coisa lembra
+
+[49:22] que o fato da gente acertar a mesma
+
+[49:24] questão não é suficiente pra gente ter a
+
+[49:26] mesma nota porque depende das outras
+
+[49:27] questões porque ela se balanceia no
+
+[49:30] final tá Então imagina por exemplo quem
+
+[49:33] é que você é muito inteligente e
+
+[49:35] matemática você aptidão muito alta né
+
+[49:37] mas você é uma pessoa caridosa Aí você
+
+[49:40] faz o quê você passa cola para as outras
+
+[49:42] pessoas né você passa cola para todo
+
+[49:44] mundo como você tem um escora alto Você
+
+[49:47] vai continuar com esse Coral alto né o
+
+[49:49] resultado alto e vai passar a as
+
+[49:52] respostas para as outras pessoas o que
+
+[49:53] acontece as pessoas que têm aptidão
+
+[49:56] baixa vão começar a acertar as questões
+
+[49:59] não vão sim porque elas colaram de você
+
+[50:01] né que que vai acontecer o parâmetro C
+
+[50:05] que é o chute vai começar a crescer né E
+
+[50:09] quando é quando a perninha de baixo do S
+
+[50:11] cresce né você não vai estar amassando
+
+[50:14] esse o Extra não vai ficar amassado
+
+[50:16] estrangulado o que que vai começar isso
+
+[50:18] que que vai começar a acontecer Ah o
+
+[50:20] gráfico do S vai começar a alongar
+
+[50:22] como ele vai começar a alongar imagina
+
+[50:24] quando você pega alguma coisa lá no
+
+[50:25] esmaga né como vai começar a logar a
+
+[50:28] capacidade de discriminação do teste vai
+
+[50:30] pro vinagre
+
+[50:31] Ou seja a nota de todo mundo vai ficar
+
+[50:34] igual Inclusive a sua que foi bem na
+
+[50:36] verdade você tá meio que invalidando a
+
+[50:37] prova né
+
+[50:39] Ou seja você tá melhorando os outros e
+
+[50:42] diminuindo a sua nota porque é
+
+[50:44] relacional então se você colar você vai
+
+[50:47] estar fazendo um bem local para o seu
+
+[50:49] amigo mas vai estar fazendo mal Global
+
+[50:51] inclusive
+
+[50:57] o negócio é passar Cola Se você passar
+
+[51:00] Cola você diminui Inclusive a sua nota
+
+[51:02] você tá se prejudicando na verdade
+
+[51:04] exatamente então assim se o povo
+
+[51:06] realmente conhece a teoria de resposta
+
+[51:08] ao item Ele já sabe que não pode colar
+
+[51:09] não tem nem porque né colar é
+
+[51:12] interessante essa sacada mas eu acho que
+
+[51:15] pouca gente que faz o Enem sabe disso e
+
+[51:18] com certeza não tenha dúvida fica
+
+[51:19] assustado nada né então mas fica essa
+
+[51:22] informação tá porque ele foi prestar nem
+
+[51:23] estuda velho ele estuda na [ __ ] da
+
+[51:26] prova direito né tipo
+
+[51:29] E aí para
+
+[51:31] errar o episódio né tem bem mais coisas
+
+[51:34] para ser dita sobre teoria de resposta
+
+[51:35] aí tem eu dou aula de teoria de resposta
+
+[51:37] ao item na universidade e tal né então
+
+[51:38] assim tem bastante coisa aqui ficou de
+
+[51:40] fora a discussão sobre variável latente
+
+[51:43] ao tipo de variável latente que a tri
+
+[51:45] avalia em relação a TCT em relação ao
+
+[51:47] método psicofísico tem toda uma
+
+[51:49] discussão da Psicologia mesmo né que
+
+[51:51] infelizmente mesmo em faculdades em que
+
+[51:54] tem algumas faculdades de psicologia no
+
+[51:56] Brasil que ensinam assim na tem matéria
+
+[51:58] de psicometria tem sido mas ensina de um
+
+[52:01] jeito muito é muito muito ferramental
+
+[52:04] sabe essa é uma técnica que se aplica
+
+[52:07] sem corrige e faz a conta e acabou não
+
+[52:09] mostra a epistemologia da parada sabe
+
+[52:10] que por exemplo a tri veio da da teoria
+
+[52:13] psicofísica né o Lord e o laulei vieram
+
+[52:17] da herança psicofísica então a atriz
+
+[52:20] surgiu de uma forma de você avaliar a
+
+[52:23] percepção de luz de som do método do
+
+[52:25] Stevens tem tudo a ver com a história da
+
+[52:27] Psicologia com outras áreas por exemplo
+
+[52:28] que infelizmente como a nossa formação é
+
+[52:31] uma droga né
+
+[52:32] Poderia gerar muitos insights mesmo né
+
+[52:35] para o psicólogo inclusive na parte
+
+[52:37] Clínica tá só mostrando uma aplicação da
+
+[52:39] trifora dessa questão de avaliação de
+
+[52:41] prova né Tem um artigo Fantástico feito
+
+[52:43] por três brasileiros Olha só o negócio
+
+[52:46] Nacional né três estatísticos né
+
+[52:48] Professor Carlinhos grande Professor
+
+[52:50] Carlinhos Professor Dalton e o professor
+
+[52:51] héliton né três estatísticos escreveram
+
+[52:54] um artigo veja que curioso de aplicação
+
+[52:56] da tri para câncer estudos em câncer
+
+[53:00] porque ó o câncer não é relacionado com
+
+[53:02] genes que são alterados e tal né É pensa
+
+[53:06] cada Gene Como Um item de uma prova né e
+
+[53:10] o gene ele pode estar alterado ou não Ou
+
+[53:12] seja você acerta ou erra né então eixo X
+
+[53:16] do gráfico é aptidão de um organismo
+
+[53:18] intercâncer seria variável latente e o
+
+[53:21] eixo Y não seria a probabilidade do
+
+[53:23] gênero estar alterado né E aí você faz
+
+[53:26] uma curva de discriminação para cada
+
+[53:27] gene
+
+[53:28] então totalmente Fantástico não é então
+
+[53:31] você consegue fazer uma prova entre
+
+[53:33] aspas para o seu Genoma para passar no
+
+[53:35] ENEM de dar câncer nas pessoas veja só e
+
+[53:38] ver marcadores as coisas do tipo avaliar
+
+[53:40] efetividade de tratamento Fantástico tá
+
+[53:43] tem uma aplicação de tri Muito grande
+
+[53:45] para estudos com câncer Tá então não
+
+[53:47] pense que é só para prova tá a teoria
+
+[53:49] clássica dos Testes continua aí firme e
+
+[53:50] forte tem muitas aplicações mas o
+
+[53:52] objetivo desse Episódio é tentar dar uma
+
+[53:55] esclarecida Antes de nós antes de tudo
+
+[53:56] ao nosso amigo é William mas também a
+
+[53:59] todos os vestibulantes que estão
+
+[54:01] nervosos e você não vai fazer sair
+
+[54:03] melhor na prova sinto muito não vai
+
+[54:05] fazer mas pelo menos Deve tirar um
+
+[54:07] pouquinho da angústia da da ansiedade é
+
+[54:10] por aí é por aí não vai ajudar na prova
+
+[54:13] mas vai ajudar na ansiedade da angústia
+
+[54:16] pra ele e vai ajudar pra você se
+
+[54:18] explicar o seu resultado né falar nesse
+
+[54:20] ano eu não fui mal é que os outros foram
+
+[54:22] muito bem
+
+[54:24] relacional Foi mal exatamente da dá uma
+
+[54:27] desculpa bem Funda
+
+[54:30] então fica fica como recomendação
+
+[54:32] Inicial os artigos desse Episódio estão
+
+[54:34] imperdíveis para quem quiser entrar mais
+
+[54:36] nas contas mas para perguntas adicionais
+
+[54:38] estamos à disposição é isso daí e naro
+
+[54:42] rodou ilustríssimo
+
+[54:45] E você já sabe aqui no narol quem faz a
+
+[54:49] pauta é você Você tem alguma pergunta
+
+[54:51] para a gente ou Quer comentar algum
+
+[54:53] episódio escreva para nós podcast @nar o
+
+[54:56] rodoa.com.br
+
+[55:01] e lembre-se mande nome completo idade
+
+[55:04] profissão e a cidade de onde você está
+
+[55:07] falando é isso aí
+
+[55:10] [Música]
+
+[55:20] [Música]

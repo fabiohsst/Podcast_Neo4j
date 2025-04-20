@@ -1,0 +1,1853 @@
+Title: Naruhodo #154 - O que é a Lei de Benford?
+URL: https://www.youtube.com/watch?v=rmCxIP3YpmQ
+Language: pt
+Extracted on: 2025-04-06 16:46:57
+================================================================================
+
+[00:00] o que é a lei de benford não encontram
+
+[00:08] bem vindo na rodou podcast para quem tem
+
+[00:11] fome de aprender eu soquei fujioka eu só
+
+[00:13] tenho de souza e hoje em dia de que
+
+[00:19] vamos crescer caso da paróquia a ir
+
+[00:21] embora
+
+[00:22] número 1 vai não apoia acontecer e deixa
+
+[00:24] sua contribuição já agradecendo número 2
+
+[00:27] vai na tua história e deixa cinco
+
+[00:29] estrelas e um comentário isso aí e
+
+[00:31] número 3 apresente no rosto por uma
+
+[00:34] amiga ou amigo que não conhece o rodo ou
+
+[00:36] que nunca tenha ouvido podcast vamos
+
+[00:38] aumentar o tamanho da planta feira
+
+[00:40] é isso aí antes da pauta mais um recado
+
+[00:44] na onda está abrindo espaço para os
+
+[00:46] podcast das minas porque
+
+[00:48] representatividade é importante também
+
+[00:51] nápoles fera
+
+[00:52] o destaque de hoje vai para o podcast
+
+[00:54] olhares comandado pela line pela luisi
+
+[00:57] pela lixa e pelo marcondes ouço recado
+
+[01:00] que aline hack deixou pra você ouvinte
+
+[01:03] do nar o odor e conheça o podcast
+
+[01:06] olhares
+
+[01:07] olá eu só lhe ratos rossi de olhares
+
+[01:11] podcast tem um convite pra você faz a si
+
+[01:14] mesmo a pergunta se eu fosse feminista
+
+[01:16] como veria o mundo olhares trata de
+
+[01:19] forma clara e educativas faltas
+
+[01:21] feministas para transformar a visão do
+
+[01:23] mundo sobre o papel da mulher na
+
+[01:25] sociedade e suas conquistas e
+
+[01:27] perspectivas
+
+[01:28] partindo de conceitos até chegar às
+
+[01:30] verdadeiras lutas
+
+[01:31] conheça mais sobre os olhares em olhares
+
+[01:33] podcast ponto com.br e nas redes sociais
+
+[01:36] têm o perfil arroba olhares podcast um
+
+[01:39] pouco determinismo não faz mal a ninguém
+
+[01:41] e muito feminismo faz bem para todo
+
+[01:44] mundo
+
+[01:44] siga também a hashtag mulheres
+
+[01:46] podcasters e encontro que estes
+
+[01:48] incríveis e variados apresentados e
+
+[01:51] produzidos por elas
+
+[01:52] venha construir novos olhares com a
+
+[01:54] gente olhares podcast só de ouvir
+
+[01:57] dá pra ver que é diferente
+
+[01:59] em altay mais uma pergunta de um ouvinte
+
+[02:02] hoje pergunta a matemática não é verdade
+
+[02:05] e nunca matemática vamos contar com a
+
+[02:07] capacidade de abstração de vocês hoje é
+
+[02:09] e sem desculpa de que eu sou de humanas
+
+[02:12] e néné nada não faz as coisas vão sair
+
+[02:16] vai tentar fazer da maneira mais
+
+[02:17] didática possível pois é o e mail sair
+
+[02:20] veio do mateus tem 29 anos de joinville
+
+[02:23] santa catarina
+
+[02:25] ele mandou o seguinte apareceu com
+
+[02:27] freqüência na minha timeline um vídeo
+
+[02:30] sobre a lei de benford e como vão usar
+
+[02:32] isso para verificar a validade da atual
+
+[02:35] eleição presidencial
+
+[02:37] fiz uma pesquisa rápida e descobri que é
+
+[02:39] um método para descobrir fraudes
+
+[02:41] científicas mas não ficou claro pra mim
+
+[02:43] como funciona exatamente minha pergunta
+
+[02:45] é a lei depende for é confiável para
+
+[02:48] esse tipo de análise
+
+[02:49] como ela funciona até aí esse vídeo a
+
+[02:53] gente está colocando no esqueçam link da
+
+[02:56] descrição do ponto é um vídeo do
+
+[02:58] facebook é um vídeo de fugir alisou e né
+
+[03:02] sobre a eleição de um suposto mestre ou
+
+[03:08] doutor em sei lá o quê em segurança da
+
+[03:11] informação é exato inclusive depois de
+
+[03:13] deixar um post também que checa as
+
+[03:16] informações sobre o autor do vídeo e
+
+[03:19] mostra que vários títulos que ele diz
+
+[03:22] ter no vídeo ele não tem isso é
+
+[03:25] irrelevante pra galera
+
+[03:27] mas acho que também explica um pouco
+
+[03:29] sempre que a gente vai falar né explica
+
+[03:32] um pouco também sobre o perigo que a
+
+[03:33] gente tenha a respeito de breaking news
+
+[03:36] a entra nem se a cidade vai entrar no
+
+[03:39] aspecto do fake mills
+
+[03:41] a gente vai se esforçar para não entrar
+
+[03:43] na questão da eleição em si porque além
+
+[03:46] de bem foi uma das aplicações é para
+
+[03:48] verificar supostas aplicações é para
+
+[03:50] verificar a validade de processos
+
+[03:52] eleitorais mas isso é muito discutível
+
+[03:54] que vamos falar mas bastante discutível
+
+[03:56] então a gente não vai falar de eleição
+
+[03:57] mas vai falar sobre esse vídeo que
+
+[04:00] supostamente propõe a lei de bem foi
+
+[04:03] para verificar a validade da apuração de
+
+[04:08] uma votação e
+
+[04:09] numa eleição no caso presidencial que a
+
+[04:13] gente está vivendo agora em outubro de
+
+[04:15] 2018 então veja o vídeo pra quem não viu
+
+[04:20] o vídeo ainda um é a primeira coisa para
+
+[04:22] você entender um pouco então a discussão
+
+[04:24] que a gente vai fazer um é mas vamos
+
+[04:26] começar a primeira parte básica em
+
+[04:28] matemática é vamos começar então
+
+[04:29] tentando chegar nas bases que a gente
+
+[04:32] precisa para discutir a tal da lei de
+
+[04:34] bem for é entender o que ela se trata
+
+[04:37] então eu quero aproveitar isso para
+
+[04:39] realizar coisas do colégio né porque a
+
+[04:41] gente aprende matemática no colégio para
+
+[04:42] passar no vestibular e não para saber né
+
+[04:43] isso eu quero ver depois todo mundo
+
+[04:45] esquece tudo esquece tudo nela droga
+
+[04:47] vamos começar falando um pouco de
+
+[04:49] história da onde surgiu a lei de bem
+
+[04:50] feito né
+
+[04:51] na verdade não foi tão bem feito que
+
+[04:53] surgiu foi do saiba uniu com 1.881 o
+
+[04:57] saimon é um astrônomo né ele por acaso
+
+[05:01] observação fortuita mesmo do trabalho de
+
+[05:03] astrônomo astrônomos tem que calcular
+
+[05:05] coisas nas distâncias coisas do tipo e
+
+[05:09] entra muito
+
+[05:10] assim eu sei que as pessoas não gostam
+
+[05:11] de logaritmos mas quando se opera com
+
+[05:13] equações você tira log dos dois lados
+
+[05:16] facilita as várias contas é pra quem
+
+[05:18] faça um pouco de cálculo sabe que a mão
+
+[05:20] na roda trabalhar com garimpo e aí na os
+
+[05:23] logaritmos eles são chatos de calcular
+
+[05:25] então na época hoje você tem um
+
+[05:27] computador mais de 1.800 pouco
+
+[05:29] eles vendiam livros com resultado de
+
+[05:31] logaritmos disso temos tabela tabela de
+
+[05:33] logaritmos né que se colavam número ali
+
+[05:36] né mas fãs de tabuada de lugares dias e
+
+[05:38] nada e aí ô ô ô bem forte ele pegou um
+
+[05:41] livro desses na biblioteca e ele notou a
+
+[05:45] zoeira né ele notou que as primeiras
+
+[05:47] páginas eram muito mais usadas do que as
+
+[05:49] últimas por acaso é porque assim ou seja
+
+[05:52] as pessoas à nossa observação é as
+
+[05:54] pessoas consultavam muito mais logaritmo
+
+[05:56] de número 1 começavam com 11 ou 12
+
+[06:01] eu acho que isso é verdade para todos os
+
+[06:03] livros não pois é né produção inclui os
+
+[06:05] livros na verdade a pessoa larga nas
+
+[06:07] primeiras páginas e vai diminuindo a
+
+[06:10] probabilidade cada vez mais a ele
+
+[06:12] observou isso é que o número de lugares
+
+[06:15] 10 muito mais usados por aqueles que
+
+[06:16] começavam com um
+
+[06:18] e ele começou a trabalhar com isso ele
+
+[06:20] contava ele contou quantas vezes acusado
+
+[06:22] a primeira página a segunda página
+
+[06:23] terceira página e tal não é pelas
+
+[06:25] pessoas
+
+[06:25] e ele fez uma equação que descrevia isso
+
+[06:28] ele deixou a situação como uma
+
+[06:29] curiosidade isso em 1831 em 1938 um
+
+[06:33] outro cara o frank bem furto que físico
+
+[06:36] encontrou se esse cálculo né porque no
+
+[06:39] cálculo curioso ele só escreveu o livro
+
+[06:41] nessa hora que isso acontece por outras
+
+[06:42] coisas né
+
+[06:44] e aí ele pegou números aleatórios ele
+
+[06:46] pegou números de populações de cidades
+
+[06:50] então imagina que se tem uma lista com
+
+[06:52] várias cidades e cada um com a sua
+
+[06:54] população
+
+[06:55] ele pegou uma lista de 3.000 259
+
+[06:59] quantidades de populações de diferentes
+
+[07:01] idades pegou só o primeiro número fez
+
+[07:04] uma lista pegou o primeiro número
+
+[07:05] ele pegou o número de 104 constantes da
+
+[07:09] física e da matemática tipo pe3 jogador
+
+[07:12] pego três pelo primeiro número chegou a
+
+[07:15] quantidade o valor de mil e 800 tipos de
+
+[07:19] pesos moleculares de substâncias
+
+[07:21] diferentes moléculas peça onde pegou o
+
+[07:23] peso colocou numa lista para o primeiro
+
+[07:24] número de todos
+
+[07:26] 5 mil números aleatórios de um livro
+
+[07:29] pega um livro qualquer abre uma página
+
+[07:31] vai ver quantos números têm ali a nota
+
+[07:33] aaa os algarismos tá
+
+[07:35] ele pegou tudo isso perfazendo 20.229
+
+[07:39] números tarde várias coisas diferentes
+
+[07:42] colocou isso numa lista os primeiros
+
+[07:43] números e contou quantos números 11
+
+[07:46] aparece 124 freqüência de cada organismo
+
+[07:49] isso e ele viu que a freqüência não era
+
+[07:51] um décimo
+
+[07:53] não quero que ele não é aleatória era um
+
+[07:55] décimo para cada algarismo não é ela a
+
+[07:58] seguir uma regra que era regra descrita
+
+[08:00] pelo new corp
+
+[08:01] naquela mesma regra que números pequenos
+
+[08:04] aparece em primeiro aparece com uma
+
+[08:05] maior freqüência vai diminuindo a
+
+[08:07] proporção de números pequenos até 19 né
+
+[08:10] e aí a regra matemática note no papel
+
+[08:13] agora ele leva em conta o gari tipo já
+
+[08:15] vou explicar porque leva em conta mas a
+
+[08:17] fórmula é o logaritmo na base 10 de um
+
+[08:21] mais um sobre n sendo que n é um número
+
+[08:24] que se quer saber
+
+[08:25] então qual é a probabilidade de uma
+
+[08:27] sequência de números de novo não pode
+
+[08:30] ser uma seqüência
+
+[08:31] números aleatórios tem que ter uma
+
+[08:32] sequência de números de coisas que você
+
+[08:34] coleta
+
+[08:35] então por exemplo um outro pesquisador
+
+[08:37] recentemente fez isso ele pegou uma
+
+[08:40] lista dos 60 prédios mais altos do mundo
+
+[08:42] não tem lá o prédio atuem cento e tantos
+
+[08:45] metros outro tem tantos metros então ele
+
+[08:47] pegou o primeiro número não é de cada um
+
+[08:49] dos 60 prédios mais altos do mundo e
+
+[08:52] contou
+
+[08:53] quantas vezes apareciam pra vocês terem
+
+[08:54] uma idéia dos 60 prédios mais altos do
+
+[08:57] mundo
+
+[08:58] dezoito deles começam com o número um em
+
+[09:01] cento e tantos metros de 100 a 199
+
+[09:04] médios pega o número 1 18
+
+[09:07] isso perfaz 30% é 30% dos 60
+
+[09:12] tá nesse caso a gente está falando de um
+
+[09:14] e nem tão grande nem tão grande não
+
+[09:16] precisa ser tão grande na se você pegar
+
+[09:18] essa fórmula o log de 10 de um mais um
+
+[09:21] sobre enem sendo que o n 11 x de 10 mil
+
+[09:25] mais um sobre um que é um tão ficam mais
+
+[09:28] 12
+
+[09:29] se você pegar logo de dois na base 10 da
+
+[09:32] 0,3 da 30%
+
+[09:35] para quem não lembra né a conta inversa
+
+[09:38] você pega base isso coloca o logaritmo
+
+[09:42] nã como potência ea tendência é igual ao
+
+[09:47] lugar e demanda e já no caso do yci
+
+[09:49] exato é essa explicação matemática mas
+
+[09:51] voltando pra quem não lembrava de uma
+
+[09:53] explicação do lugar e tinha um pouco
+
+[09:54] mais de idade também
+
+[09:55] mas se você pega por exemplo o quanto
+
+[09:58] dentre os 60 prédios quantos começam com
+
+[10:00] uns 18 enquanto começam com 2 veja mais
+
+[10:04] ou menos 38 70% enquanto começa com 2
+
+[10:07] 200 poucos metros
+
+[10:08] são oito que dá 17 pontos 6 por cento
+
+[10:12] segundo a lei de bem foi de qualquer
+
+[10:13] proporção esperada de números 2
+
+[10:16] tão logo de 10 de um mais um sobre dois
+
+[10:18] ficam mais meio de um e mail
+
+[10:21] então logo de um miminho na base dez das
+
+[10:24] 17 pontos 6 por cento que elas vejam
+
+[10:27] relativamente mais uma coincidência e
+
+[10:29] fica perto né então você vê que tem
+
+[10:32] aproximações para várias coisas
+
+[10:34] tá então só para mostrar qual é a
+
+[10:36] proporção de vezes se você pega uma
+
+[10:38] sequência de números naturais que
+
+[10:40] aparecem por aí
+
+[10:41] a proporção de vez que aparece um hétero
+
+[10:43] por cento 2 17% 3 a 12 por cento 4 e 9
+
+[10:49] pontos 7 por cento 5 e 7 por cento 66
+
+[10:53] por cento 75 por cento 8 é 5.1 por 109
+
+[10:58] 4.6 a ideia que vai diminuindo 11
+
+[11:01] freqüentam é mais raro encontrar novos
+
+[11:03] do que uns é essa a ideia é ele faz o
+
+[11:08] desenho de uma colisão de uma curva
+
+[11:12] exponencial negativa vai descendo né em
+
+[11:15] função é quando vai chegando perto do
+
+[11:18] zero
+
+[11:18] isso é a lei de bem feito que parte
+
+[11:20] dessa premissa de que quanto menor o
+
+[11:23] número mais provavelmente ele vai
+
+[11:26] aparecer na natureza natureza isso
+
+[11:29] isso era regra quando bem fez ele achava
+
+[11:31] isso né
+
+[11:33] só que desde os anos 30 e nos anos 40
+
+[11:35] para cá viu se que além de bem foi de se
+
+[11:37] ajusta muito bem alguns casos e não a
+
+[11:40] outros
+
+[11:40] tá isso que é interessante saber e aí é
+
+[11:44] as hipóteses não é porque a lei de bem
+
+[11:46] foi em dados naturais de certa com
+
+[11:48] natureza acontecem por outros não né
+
+[11:51] isso tem a ver com a teoria de
+
+[11:52] probabilidade que é legal direção eu vou
+
+[11:54] tentar
+
+[11:55] já a peça desculpas matemáticos que eu
+
+[11:56] vou fazer um resumo aqui é meio louco
+
+[11:59] uma uma simplificações bastante bastante
+
+[12:01] tá não fica entrando em teoria de número
+
+[12:04] misericórdia
+
+[12:05] tá eu quero mostrar às pessoas que
+
+[12:07] fizeram pelo menos um ano colegial e
+
+[12:09] sabe a causa do problema a gente falou
+
+[12:11] logaritmo que metade já começou a ter
+
+[12:14] querido já é crime clique então mas
+
+[12:17] primeiro eu quero dar uma motivação do
+
+[12:18] logaritmo então imagine a sua cabeça 3
+
+[12:22] ao quadrado 3 ao quadrado 9 isso a
+
+[12:26] pessoa de potência às pessoas é um pouco
+
+[12:28] mais ao quadrado para quem não lembra
+
+[12:29] das vezes 303 duas vezes vocês então
+
+[12:34] três vezes 393 ao quadrado da 9a
+
+[12:36] qualquer idéia do lugar ritmo porque o
+
+[12:39] processo oposto
+
+[12:40] eu tenho dois números eu tenho três e
+
+[12:42] tem 19 na de lado sem três o igual ou 9
+
+[12:47] quantas vezes eu tenho que multiplicar o
+
+[12:49] número da esquerda que é o 3 para chegar
+
+[12:51] no número da direita que é o 9 em duas
+
+[12:53] vezes
+
+[12:54] tá essa idéia do lugar ritmo quantas
+
+[12:56] vezes você tem
+
+[12:57] multiplicar o número para obter outro
+
+[12:59] nessa base e outros e mesmo é o número
+
+[13:02] por ele mesmo
+
+[13:03] é essa idéia básica do lugar e está isso
+
+[13:06] mostra que o logaritmo o por exemplo
+
+[13:08] você tem o 3 ao quadrado e 1939
+
+[13:13] são os números que está operando o 2
+
+[13:16] ele é um número que faz parte de outra
+
+[13:18] unidade um processo multiplicador tivo o
+
+[13:21] dois na verdade é uma regra
+
+[13:23] se você pegar o 3 e operar com ele você
+
+[13:26] vai chegar 19 isso é um exemplo é só uma
+
+[13:28] regra não é sequer um fator da minha
+
+[13:31] dedicação é ele ele não é multiplicada
+
+[13:33] por dois exato ele é multiplicar como
+
+[13:35] esse três duas vezes para chegar no
+
+[13:37] início
+
+[13:38] então assim de uma forma bem não
+
+[13:40] matemática simplificada você tem os
+
+[13:41] números que está operando na quinta 13 e
+
+[13:44] 19 e o operador
+
+[13:45] o operador a regra na então por isso que
+
+[13:48] as pessoas têm dificuldade de entender
+
+[13:50] logaritmo porque esse dois é um né
+
+[13:54] porque na verdade você decompõe
+
+[13:56] logaritmo então 3 ao quadrado é 9 que
+
+[13:59] acontece o 3 virá a base não é porque a
+
+[14:02] base que está olhando então é logo de 9
+
+[14:04] na base 3 a 2
+
+[14:06] tá então a resposta é que não é quantas
+
+[14:08] vezes eu tenho que multiplicar o número
+
+[14:09] para chegar no outro é essa ideia do
+
+[14:12] organismo
+
+[14:12] a idéia do lugar isso é muito importante
+
+[14:13] para entender a idéia de escala
+
+[14:15] logarítmica tá então imagina que eu
+
+[14:18] tenho uma sequência de números de uma
+
+[14:19] reta com os números de um a dez
+
+[14:21] um dois três quatro até 10 por exemplo
+
+[14:23] estou no ponto 1 e eu quero ir a 1.2
+
+[14:26] qualquer o operador quanto eu tenho que
+
+[14:28] aumentar 1 para chegar no 2 uma unidade
+
+[14:32] isso não é um não é um processo
+
+[14:33] multiplicador tive um processo ativo
+
+[14:35] quanto que tem aumentado 2 praia por 3 a
+
+[14:38] 1 também mais um então é um processo
+
+[14:40] constante
+
+[14:41] tá isso é chamada de mulher é uma
+
+[14:43] mudança linear é um fator linear é o
+
+[14:46] mesmo fator 1 aumentando uma unidade de
+
+[14:49] cada vez eu vou mudando o ponto de lugar
+
+[14:50] tá isso não é uma escala logarítmica
+
+[14:53] porque escala logarítmica se baseia em
+
+[14:55] multiplicações não em somas isso a
+
+[14:57] primeira coisa importante do ar livre
+
+[14:59] bem feito
+
+[15:00] a lei de bem foi que se aplica a
+
+[15:02] variáveis que são resultados de
+
+[15:04] multiplicações não somas tá então guarde
+
+[15:07] essa informação por enquanto
+
+[15:09] então imagina que eu tenho mais
+
+[15:10] a linha que vai de 1 a 10 agora imagine
+
+[15:12] o seguinte ao invés de cortar essa
+
+[15:13] escolinha em cima e aí quando você olha
+
+[15:15] uma escala de 1 a 10 cv que a passagem
+
+[15:18] de 10 por dia um para 22 para treinar
+
+[15:20] tudo igual logo a escala é toda uniforme
+
+[15:23] está essa é uma régua uma régua maneira
+
+[15:26] normal e onde a distância entre 1 e 2 é
+
+[15:29] igual à distância entre dois e três
+
+[15:31] categorias que isso 13/4 assine por dia
+
+[15:34] e vai embora
+
+[15:34] agora vou fazer o seguinte ao invés de
+
+[15:36] trabalhar vou criar uma nova regra só
+
+[15:38] que em vez de trabalhar com um e vou
+
+[15:39] trabalhar com o logaritmo de um novo
+
+[15:41] ritmo na base 10 e pode escolher
+
+[15:43] qualquer base mas o 10 é uma base mais
+
+[15:45] fácil
+
+[15:45] no último dia 11 na base 10 no ritmo de
+
+[15:48] 2 na base desta 3a base 10 até o 10
+
+[15:51] aí eu faço a mesma pergunta eu tenho
+
+[15:53] lugar íntimo de 11 na base 10
+
+[15:56] quantas vezes eu tenho que multiplicar o
+
+[15:58] 10 para chegar em um time você tem que
+
+[16:01] saber o princípio de potenciação todo e
+
+[16:03] qualquer número elevado a 0 dá um
+
+[16:06] estatuto com 1 trilhão é levado a 0 dá
+
+[16:08] um né então quantas vezes eu tenho que
+
+[16:11] multiplicar o número pra o 10 para
+
+[16:14] chegar 10 vezes logaritmo a 0
+
+[16:17] tá com um pontinho vai estar no lugar 0
+
+[16:19] e agora vai por outro lado da reta eu
+
+[16:21] tenho um logaritmo de 10 na base 10
+
+[16:24] quantas vezes tem que multiplicar os 10
+
+[16:26] para chegar em 10 mas é isso então eu
+
+[16:29] tinha uma escala que linearmente era de
+
+[16:31] 1 a 10 logarítmica mentira de 0 16
+
+[16:35] tá nessa mesma essa mesma régua está os
+
+[16:39] tamanhos são comparáveis
+
+[16:40] só que ela não vai ser constante ela não
+
+[16:42] é multiplicado por um fator constante é
+
+[16:44] um fator multiplicativo então imagina eu
+
+[16:47] tenho um blog de uma base 10 a 0
+
+[16:50] se eu pegar agora eu passo para a
+
+[16:51] próxima fase log de 2 na base 10 quando
+
+[16:55] eu tenho que multiplicar 10 para chegar
+
+[16:57] no 2 não é um decisão vai na tabelinha
+
+[17:01] lá
+
+[17:01] isso aqui é meu lugar it mas o que você
+
+[17:04] tem que saber que se multiplicar o 10
+
+[17:06] uma vez chegando 10
+
+[17:07] não quero chegar no 10k chegando 2 isso
+
+[17:10] você vai multiplicar ele por um número
+
+[17:11] menor que 10 vírgula alguma coisa que se
+
+[17:14] você olhar na tabelinha
+
+[17:16] um blog de 2 na base 10 0.3 30% o total
+
+[17:20] de 30% isso então a distância entre o
+
+[17:24] lobby de uma base 10 e logo depois na
+
+[17:26] base dessas até 30% porque o número vai
+
+[17:29] de 0 a 11 30%
+
+[17:31] então logo depois se eu for love 3 na
+
+[17:34] base 1093 na base 10 quando tem que
+
+[17:37] multiplicar 10 para chegar no 3
+
+[17:40] eu tenho que multiplicar menos que 1 -
+
+[17:42] que eu mas eu não tô chegando perto dos
+
+[17:44] 10
+
+[17:44] esse número chegando perto de um tá
+
+[17:47] então se eu pegar logo de 3 na base 10
+
+[17:49] ele vai ser menor que 30 por cento e 17
+
+[17:53] por cento o que tem que ficar na cabeça
+
+[17:55] de vocês que conforme o número que eu tô
+
+[17:57] olhando está se aproximando do 10 está
+
+[18:00] ficando mais menor a distância dele o
+
+[18:03] fator multiplicativo prodess chegar no
+
+[18:06] número que você quer está ficando cada
+
+[18:07] vez menor e isso a idéia da escala
+
+[18:09] logarítmica a gente vai colocar um vídeo
+
+[18:11] que ilustra bem isso o desenho né então
+
+[18:14] mas a imagem que tem que ter na sua
+
+[18:16] cabeça é que a distância entre o entre o
+
+[18:18] lobby de uma base 10 e 12 é bem grande e
+
+[18:21] ela vai diminuindo assim até chegar no
+
+[18:23] blog dessa base da classe a gente pegou
+
+[18:25] aquela régua que primeiramente ia de 1 a
+
+[18:29] 10 ea distância entre os números 1 2 3 4
+
+[18:33] 5 6 7 8 9 10 era mesmo um é a diferença
+
+[18:37] da ump é isso né
+
+[18:39] agora ele pegou essa mesma régua não é
+
+[18:41] que vai de log de uma base de 10 até
+
+[18:44] logo de 10 na base 10 e só que agora
+
+[18:47] começa com 10 termina com um isso né ea
+
+[18:51] distância entre log de um na base 10 e
+
+[18:54] lobbies 2010 é muito maior do que a
+
+[18:56] distância entre longo de 2010 e logo e
+
+[18:59] três na base da eta estava diminuindo
+
+[19:01] assim vai diminuindo aos pouquinhos da
+
+[19:03] régua bem diferente é bem formada e ela
+
+[19:06] é formada com um número pequeno com
+
+[19:08] distâncias grandes números grandes com
+
+[19:10] distância pequena e não é essa a ideia
+
+[19:12] da escala logarítmica e essa distância
+
+[19:14] coincide com a tal da la em lei de bem
+
+[19:18] foi dizer que é o que se observa na
+
+[19:20] natureza
+
+[19:21] o primeiro ocorrência é o que tem mais
+
+[19:24] ocorrências
+
+[19:25] o organismo ele tem 30 por cento num
+
+[19:28] acontece 30 e 100 das vezes nas ocasiões
+
+[19:31] onde ele observou e 17% na no 22 e assim
+
+[19:36] vai diminuindo até chegar em zero não
+
+[19:39] ligo lá é até chegar em 4.6 porcentual
+
+[19:42] 96 por cento é pelo organismo norte isso
+
+[19:44] né
+
+[19:45] agora você falou que essa régua vale pra
+
+[19:49] algumas coisas mas não vale para o exato
+
+[19:53] de rating e ele esse senhor do vídeo não
+
+[19:57] é que o guns esa rocha
+
+[20:00] sei lá se é assim que pronuncia o
+
+[20:02] sobrenome dele me perdoe se eu tiver
+
+[20:04] produzido e radu ele disse que a lei de
+
+[20:08] bem foi explicaria uma fraude eleitoral
+
+[20:14] na eleição de 2014
+
+[20:17] isso é e mas essa é uma ótima
+
+[20:19] oportunidade para explicar alguns sensos
+
+[20:21] comuns que as pessoas têm de princípios
+
+[20:23] matemáticos na o primeiro é o princípio
+
+[20:26] da ordem então por exemplo que fique
+
+[20:29] claro na cabeça de vocês é que escala
+
+[20:31] logarítmica são escalas multiplicativos
+
+[20:33] não são escalas aditivos nas suas
+
+[20:35] escalas lineares porque tem essa de
+
+[20:37] formação sem escalas multiplicativos é
+
+[20:40] interessante porque há a idéia de ordem
+
+[20:43] é o seguinte parece uma pergunta muito
+
+[20:45] em doido assim mas quem como você sabe
+
+[20:48] que 3 a 3 no número de maluco do irmão é
+
+[20:52] bridge mano como você sabe que o número
+
+[20:53] 3 é o número 3
+
+[20:55] parece aquela pergunta que a gente fez
+
+[20:57] um episódio de como é que você sabe se
+
+[20:59] você é você mesmo no fundo é isso no
+
+[21:01] fundo isso é 3
+
+[21:04] o número 3 é uma invenção humana é uma
+
+[21:07] construção humana o número 3 e número
+
+[21:09] três é uma definição para um conjunto de
+
+[21:13] elementos os conjuntos de elementos
+
+[21:15] estão na natureza mas eles não tinham
+
+[21:17] três é que eu por meio da linguagem eu
+
+[21:20] nomeio isso como sendo 3
+
+[21:23] mas como que eu sei que o treze é 3
+
+[21:25] porque ele tem uma posição de uma ordem
+
+[21:28] eu sei que o 3 e 3 e você sabe que o seu
+
+[21:31] 3 também o mesmo 3 que o meu não porque
+
+[21:34] a gente pensa a mesma coisa mas porque a
+
+[21:36] gente tem uma definição que o 3
+
+[21:38] vem depois do 2 diante do 4 o prefeito
+
+[21:41] tá isso em matemática chamado cardinale
+
+[21:44] idade
+
+[21:44] os números têm uma ordem cardinal eles
+
+[21:47] têm uma posição sentar eu sei que o
+
+[21:49] número é o número que ele tem por uma
+
+[21:51] caixinha para ele e tem uma posição para
+
+[21:52] ele não tá é é não entrar na questão de
+
+[21:55] que se você não tiver essa posição ele
+
+[21:58] seria só um conceito abstrato qualquer
+
+[22:00] se ele não teria sentido por exemplo meu
+
+[22:02] treino é diferente do seu treinador logo
+
+[22:04] não dá para operar logo não existe a
+
+[22:06] gente vai em cor do antes de mais nada
+
+[22:08] que existe uma régua vamos assim que
+
+[22:11] posiciona o 3d pois dois e antes do com
+
+[22:14] isso a gente não acordar com essa regra
+
+[22:16] não fala não existe matemática estão dos
+
+[22:19] axiomas matemáticas time já que seu
+
+[22:21] nariz médica não tem jeito tem que ter
+
+[22:24] filho nuno aula porque a gente está
+
+[22:26] falando isso não então a questão da
+
+[22:28] ordem é ela ela coloca o segundo
+
+[22:31] princípio que é o de que a gente estuda
+
+[22:33] no colégio que o princípio de
+
+[22:34] probabilidade então tudo bem já definiu
+
+[22:36] os números eu sei que os números têm um
+
+[22:38] lugar e ele vem antes de alguém depois
+
+[22:40] de alguém
+
+[22:40] é por isso por exemplo que o infinito
+
+[22:43] não é um número
+
+[22:44] tá eu vou fazer só uma pequena digressão
+
+[22:46] para mostrar porque é infinito não é um
+
+[22:48] número
+
+[22:48] imagina o conjunto de todos os números
+
+[22:51] naturais 01234 qual o tamanho desse
+
+[22:54] conjunto infinito do infinito né agora
+
+[22:58] imagina que eu pego esse conjunto e
+
+[22:59] divida em dois outros conjuntos o
+
+[23:01] conjunto dos números pares e o conjunto
+
+[23:03] dos números ímpares coca também de cada
+
+[23:06] grupo inffinito então tem o mesmo
+
+[23:08] tamanho
+
+[23:08] os números parecem presas em todos têm o
+
+[23:10] mesmo tamanho essa pergunta se então
+
+[23:13] assim eles têm são porque porque o
+
+[23:16] infinito na verdade você tem infinitas
+
+[23:18] de tamanhos diferentes porque o infinito
+
+[23:21] não tem uma posição porque se você der
+
+[23:23] uma posição para o infinito vai ter um
+
+[23:25] número maior que ele entendeu então o
+
+[23:27] infinito não dá para operar um infinito
+
+[23:29] mas o infinito do infinito
+
+[23:31] os números não nos números são da
+
+[23:33] própria a eles têm posição e tudo mais
+
+[23:36] tá se eles têm posição e os números
+
+[23:39] descrevem coisas que existem na natureza
+
+[23:41] coisas acontecem com certa probabilidade
+
+[23:44] certo então números descrevem na
+
+[23:47] natureza probabilidades de ocorrência e
+
+[23:49] aí que a gente entra na questão da prova
+
+[23:51] ele
+
+[23:51] mas quando se estuda no colégio você
+
+[23:53] estuda duas regras de probabilidade que
+
+[23:55] a regra do ea regra do ou né
+
+[23:58] se eu tenho dois eventos quando eu quero
+
+[24:00] saber quando acontece um evento e outro
+
+[24:03] eu quero saber a probabilidade de chover
+
+[24:05] é o corinthians ganhou o jogo tá tem que
+
+[24:09] acontecer as duas coisas você pega as
+
+[24:11] probabilidades e multiplica a
+
+[24:13] probabilidade de chover e há
+
+[24:14] probabilidade de o corinthians ganhar e
+
+[24:16] multiplica as duas que se quer que o
+
+[24:17] evento aconteça junto quando você quer
+
+[24:20] quero saber a probabilidade do
+
+[24:21] corinthians ganhar ou de chover pode
+
+[24:23] acontecer um ou outro né aí você soma
+
+[24:27] então isso a gente vê no colégio tá
+
+[24:29] qual é a probabilidade de selecionar a
+
+[24:31] abrir um livro qualquer selecionar um
+
+[24:33] número e esse número ser um a além de
+
+[24:37] bem foi descreve isso escreve que em
+
+[24:39] torno de 30% tá desde que desde que o
+
+[24:43] processo que gerou a produção desse
+
+[24:46] número não seja aleatório
+
+[24:48] então se eu fizer um computador é não
+
+[24:52] entrar na definição de aleatoriedade
+
+[24:53] porque é outro programa tá mas supõe um
+
+[24:55] computador que gera números aleatórios
+
+[24:58] qual é a probabilidade de gerar um
+
+[24:59] número um é um décimo
+
+[25:01] sim é um décimo até porque é um produtor
+
+[25:04] de dados aleatórios
+
+[25:06] agora quando eu tô lendo um livro as
+
+[25:08] informações ali não estão aleatoriamente
+
+[25:11] há a probabilidade de aparecer um número
+
+[25:13] num livro de interesse né
+
+[25:15] isso porque no livro não é uma loucura
+
+[25:16] um livro normal
+
+[25:18] a probabilidade de aparecer um número é
+
+[25:21] decorrente da junção de várias
+
+[25:23] probabilidades da probabilidade de um
+
+[25:26] dos certo o autor ter escolhido e de ser
+
+[25:29] escolhido para fazer o livro ele tenha
+
+[25:31] escolhido uma certa fonte ele ter lido
+
+[25:34] coisas na mesma época ele tem escrito
+
+[25:37] ele ter sentado achei direcionalidade
+
+[25:39] todas concatenadas por meio de um que
+
+[25:42] são multiplicações e é por isso que além
+
+[25:45] de bem foi descreve que são processos
+
+[25:47] multiplicativos na processos que são
+
+[25:50] aditivos que é ou além de bem foi não
+
+[25:53] descreve
+
+[25:53] sim porque aí por exemplo dados nem de
+
+[25:56] pegar um dado de rpg sei lá de dez faces
+
+[26:00] é cada um com um algarismo aí sim você
+
+[26:03] tem a chance
+
+[26:04] de um décimo para cada uma das suas
+
+[26:06] exato ainda cancelar a chance agora esse
+
+[26:08] livro que um cara escreveu com intenções
+
+[26:10] nem vários tipos intenções multiplicados
+
+[26:13] entre si gera a probabilidade do número
+
+[26:17] aparecer e isso é descrito pela lei de
+
+[26:18] bem fim a essa idéia
+
+[26:20] você tem variáveis por exemplo alguns
+
+[26:23] índices econômicos e indicadores
+
+[26:24] econômicos que não são gerados por
+
+[26:27] método multiplicativo são por aditivo aí
+
+[26:29] além de benford não segue entrando
+
+[26:32] finalmente na questão eleitoral
+
+[26:34] esse cara aqui falou ele afirmou nesse
+
+[26:37] vídeo né e não explicou número ele falou
+
+[26:41] assim se que em 2014 havia 73 por cento
+
+[26:47] de probabilidade de fraude
+
+[26:49] então esse é o problema de onde saiu
+
+[26:52] esse número nem explicar de onde vem
+
+[26:53] esse número é e ele disse que esse
+
+[26:56] número veio da aplicação da lei de
+
+[26:58] beckham é é um indiscutível um porquê
+
+[27:02] porque a lei de bem forte ela descreve
+
+[27:04] processos que são resultado de eventos
+
+[27:08] multiplicativos está só falando onde ela
+
+[27:11] funciona onde a lei de bem foi é
+
+[27:13] razoavelmente bem utilizada tem alguma
+
+[27:15] discussão mês dá pra conversar bem em
+
+[27:18] contabilidade
+
+[27:19] então imagina por exemplo que estou
+
+[27:21] lendo o balanço de uma empresa bem
+
+[27:22] grande um bem escrito e aí tem os
+
+[27:25] valores tanto dinheiro que entrou aqui
+
+[27:27] tal imposto tem na lista
+
+[27:29] eu pego o último número o último número
+
+[27:32] da lista
+
+[27:32] tá imagina que tem lá é excel que tem
+
+[27:36] 100 cem linhas cada linha uma descrição
+
+[27:40] eu pego o último número de cada linha e
+
+[27:42] conto quantas apareceu 123 então sim sim
+
+[27:46] seguir a lei de bem forte parece que os
+
+[27:48] números foram gerados por um processo
+
+[27:50] multiplicador ativo então a porque as
+
+[27:53] empresas têm lucro porque acontecem
+
+[27:54] vários eventos né
+
+[27:56] e esses eventos são e como esses eventos
+
+[27:58] são então parece que se segue a lei de
+
+[28:01] bem foi parece que a empresa está com
+
+[28:04] uma saúde financeira ok e os dados não
+
+[28:06] foram fraudadas é e aí faria um valium
+
+[28:10] pros meus colegas computadores não
+
+[28:13] querem bater né você aplicar a lei de
+
+[28:16] bem forte a um conjunto de
+
+[28:17] dados contábeis e o conjunto de dados
+
+[28:19] não seguirem a regra é um indicativo de
+
+[28:23] que pode ter algum problema ou viés mas
+
+[28:26] não é fraude claro que não pode é só uma
+
+[28:28] indicação 1 mas não quer dizer que a
+
+[28:30] fraude ou seja em geral que significa o
+
+[28:34] que acaba acontecendo é que quando esses
+
+[28:37] números não seguem a lei de bem foi no
+
+[28:39] caso da contabilidade por exemplo ele
+
+[28:41] merece uma revisão por exemplo isso
+
+[28:44] porque tu pela revisão e sabe que pode
+
+[28:47] ter sido a hipótese de fraude com pode
+
+[28:50] ter sido simplesmente um erro pode ter
+
+[28:52] sido um erro de cálculo pode ser senão
+
+[28:53] arredondamento pode ter várias causas
+
+[28:55] tá e aí eu ia que inclusive de
+
+[28:58] especialistas neder e que você não pode
+
+[29:04] usar leben for como o único critério
+
+[29:07] para definir se há alguma coisa fraude
+
+[29:10] ou não em eleição principalmente porque
+
+[29:12] tem uma premissa inicial não se sabe
+
+[29:15] como funciona o processo decisório
+
+[29:16] eleitoral não se sabe se o processo
+
+[29:19] multiplicativo aditivo
+
+[29:20] então você vai votar no candidato a você
+
+[29:23] vai votar porque já temos um episódio
+
+[29:26] que é sobre a diferença entre jogar
+
+[29:27] jogar decidir escolher né
+
+[29:29] quando eu te pergunto sua intenção de
+
+[29:31] voto isso é regulado por várias
+
+[29:33] variáveis na sua cabeça né
+
+[29:35] só que a decisão pelo voto não é escolha
+
+[29:38] a escolha só vai ser na hora de apertar
+
+[29:39] o botão mesmo apertar o botão escolheu
+
+[29:41] né
+
+[29:42] você pode mudar com então por isso é uma
+
+[29:44] probabilidade tá
+
+[29:45] quem garante que essa probabilidade é
+
+[29:47] gerada por exemplo eu vou votar no
+
+[29:49] candidato a por que ele fez isso ele fez
+
+[29:53] isso a e b e c e d né
+
+[29:57] ou seja está concatenando várias coisas
+
+[29:59] iam multiplicação é uma multiplicação
+
+[30:02] então talvez a lei de bem foi escreva
+
+[30:04] mas você tem muitas pessoas que votam
+
+[30:06] por por causa da razão da razão a ou a b
+
+[30:09] ou c ou seja podia ser uma delas só em
+
+[30:13] uma eleição que tem segundo turno é e
+
+[30:15] que portanto tem polarização
+
+[30:17] naturalmente uma polarização não é
+
+[30:19] independente de ideologia assim
+
+[30:22] instância menina a gente está vivendo na
+
+[30:23] polarização ideológica também mas no
+
+[30:26] segundo turno ele polariza naturalmente
+
+[30:29] ninguém está falando de opção a e b é
+
+[30:31] isso né e numa numa eleição dessas de
+
+[30:34] segundo turno quando você tem opção a e
+
+[30:36] b
+
+[30:37] muita gente joga fora todos os critérios
+
+[30:40] do processo decisório do processo de
+
+[30:43] decisão
+
+[30:44] né e olha que aposta em uma variável
+
+[30:47] para fazer a escolha deveria virar um
+
+[30:49] outro e aí virou virou então imagina que
+
+[30:52] eu e você e voltamos para o mesmo
+
+[30:53] candidato mas eu volto por uma razão ou
+
+[30:54] por outra exata ou seja o exato ou eu
+
+[30:58] voltei pro outro por mais até um segundo
+
+[31:01] antes de entrar na urna eu estava
+
+[31:04] voltando o mesmo que você recebe o caso
+
+[31:07] de um fator seja lá qual ele for né
+
+[31:11] é eu tomei a todo fiz a escolha
+
+[31:15] diferente do processo decisório tem né
+
+[31:18] eu joguei todas aquelas variáveis fora
+
+[31:20] né é uma coisa que a gente sabe que está
+
+[31:24] acontecendo
+
+[31:24] assim muita gente que vai mais ao
+
+[31:26] processo decisório por exemplo baseada
+
+[31:28] em vários fatores na entre eles
+
+[31:30] programas simpatia e 167 mas na hora da
+
+[31:35] escolha ele optar por outra opção por
+
+[31:39] causa de uma variável que é por exemplo
+
+[31:40] ele está na frente
+
+[31:42] isso aí é uma limpeza na frente pode ser
+
+[31:45] a própria idéia de voto útil é de voto
+
+[31:48] útil não é um princípio multiplicativo é
+
+[31:50] adjetivo logo a lei de bem foi de um
+
+[31:51] escreve entendeu então como é muito
+
+[31:54] complexo fenômeno e você não consegue
+
+[31:56] descrever a distribuição de
+
+[31:57] probabilidades do evento de interesse
+
+[31:58] que essa fala estatística não dá pra
+
+[32:01] dizer que além de bem forte explica
+
+[32:03] então pra é muito discutível aplicar ela
+
+[32:06] é útil é soberano veja que além de bem
+
+[32:08] foi aparecer de uma curiosidade ela
+
+[32:10] descreve várias coisas super
+
+[32:12] interessante mas ela não serve e não tem
+
+[32:15] nenhuma razão teórica para além da
+
+[32:17] própria questão matemática
+
+[32:19] não tem nenhuma razão teórica para
+
+[32:20] servir como argumento para discutir
+
+[32:22] fraude erro nunca tipo de coisa
+
+[32:25] a grande mensagem data da lei de bem
+
+[32:27] furb é que ela nasceu da base da
+
+[32:31] matemática é de uma matemática da
+
+[32:33] questão da aleatoriedade
+
+[32:35] não existe uma lei autoridade é que a
+
+[32:37] gente tem um viés né pessoas acham um
+
+[32:39] viés cognitivo que coisas bagunçadas são
+
+[32:43] mais aleatórias do que coisas arrumadas
+
+[32:45] aleatoriedade não tem a ver com bagunça
+
+[32:47] né e se você pode pegar uma sequência de
+
+[32:50] números aleatórios saído dois em
+
+[32:52] sequência pode ser aleatório porque o co
+
+[32:55] a sequência não é aleatória o produtor
+
+[32:58] que tem que ser né isso é uma discussão
+
+[32:59] longa mas é outro episódio mas além de
+
+[33:02] bem forte descreve as moedas
+
+[33:04] se você joga uma moeda não viciada uma
+
+[33:09] vez atrás da outra né pode ser que até
+
+[33:12] pode ser que de cara dez meses dez vezes
+
+[33:14] em vezes 200 vezes pode vai ficando
+
+[33:17] menos provável mas bond
+
+[33:18] quem pode então e por isso a gente
+
+[33:21] também foi atrás de outras análises de
+
+[33:25] especialistas é porque esse senhor do
+
+[33:27] vídeo ele não é especialista em
+
+[33:30] estatística nem propriedade nem lady bem
+
+[33:34] fornece ele na verdade um engenheiro que
+
+[33:37] diz que pós-doutorado em governo
+
+[33:38] eletrônico né pela universidade federal
+
+[33:42] de santa catarina sendo que a
+
+[33:44] universidade federal de santa catarina
+
+[33:45] afirma que não há nenhuma relação entre
+
+[33:48] ele ea universidade é e todos os
+
+[33:53] especialistas aqui afirmam que não é
+
+[33:55] possível usar a lei de bem foi como uma
+
+[33:58] única único critério isso é pra dizer se
+
+[34:03] a fraude em 2014 em qualquer ou em
+
+[34:06] qualquer uma qualquer eleição
+
+[34:08] sim porque além de bem foi descreve o
+
+[34:09] processo observacional natural da
+
+[34:12] relação dos números e das proporções
+
+[34:14] probabilística de ela não tem uma teoria
+
+[34:17] por trás e tem outra coisa qual é a
+
+[34:19] definição de fraude em fraude tem uma
+
+[34:22] definição altamente ideológica
+
+[34:23] sim ou seja aaa além de bem pois ela
+
+[34:26] serve como uma indicação mas nada ela
+
+[34:28] ela nem causa necessário nem suficiente
+
+[34:30] apesar de ser muito interessante e você
+
+[34:33] estudar a lei de bem porque pode ser
+
+[34:36] muito útil para o seu colégio você está
+
+[34:37] no colégio tá por exemplo colegial
+
+[34:39] segundo colegial está aprendendo
+
+[34:41] logaritmo estuda a lei de bem foi pega
+
+[34:44] queria vou até dar uma sugestão para
+
+[34:46] quem quiser fazer uma brincadeira
+
+[34:47] tiveram colégio
+
+[34:48] é pega a altura de pôr exemplo 50
+
+[34:53] pessoas
+
+[34:54] tá pegue altura pegam faz uma lista 5050
+
+[34:58] valores de altura não pega o primeiro
+
+[34:59] número obviamente porque vai ser sempre
+
+[35:01] um né mas no máximo dois né
+
+[35:04] mas pega o último número então uma
+
+[35:06] pessoa tem um metro e oitenta e um desce
+
+[35:08] 1 e 34 peças ao s último dígito e ver se
+
+[35:12] aplica além de bem feito se aplicar a
+
+[35:15] vida pra gente eu não vou dar resultado
+
+[35:17] eu quero que vocês é teste e veja se
+
+[35:20] aplica ou não
+
+[35:21] então é isso gente a gente vai deixar
+
+[35:25] também o link nano da nasa exceção da
+
+[35:28] análise do do site comprova no q1 do
+
+[35:31] sangue fez uma ufesp checkin desse vídeo
+
+[35:37] além do vídeo né
+
+[35:39] além do vídeo mas o facto é que levou em
+
+[35:41] conta inclusive especialistas de fora do
+
+[35:43] brasil né pra confirmar que esse vídeo é
+
+[35:48] equivocado é que deu certo e errado
+
+[35:50] assim marcos de premissas erradas né e
+
+[35:53] portanto não deve ser levado a sério
+
+[35:55] isso e gente de novo não matemática não
+
+[35:58] saiu para passar no vestibular eu saí
+
+[36:00] pra saber sabe então com conhecimento
+
+[36:02] tudo bem que não é trivial mas com
+
+[36:03] conhecimento do colégio dava pra
+
+[36:05] desmentir esse vídeo se você fizesse o
+
+[36:07] colégio com o sentido emancipatório não
+
+[36:09] só passar no vestibular
+
+[36:10] naro rodou ilustríssimo 21
+
+[36:16] você sabia que pode ajudar a manter o
+
+[36:18] naro rodou no ar
+
+[36:19] ao contribuir você pode ter acesso a um
+
+[36:22] grupo fechado no facebook e receber
+
+[36:24] conteúdos exclusivos
+
+[36:26] acesse apóia ponto é se é banal rodou
+
+[36:29] podcast e você já sabe
+
+[36:34] aquino rodou quem faz a pauta é você
+
+[36:36] você tem alguma pergunta pra gente o que
+
+[36:38] comentar um episódio escreva pra nós
+
+[36:41] podcast a roubar o odor ponto com.br
+
+[36:44] repetindo podcast a roubar o odor ponto
+
+[36:47] com.br
+
+[36:48] e lembre-se mande nome completo e idade
+
+[36:51] profissão e à cidade de onde você está
+
+[36:53] falando
+
+[36:54] é isso aí nada encontrou
+
+[37:01] [Música]
+
+[37:03] isso só pode chegar é apresentado ouro e
+
+[37:07] nove ponto com.br
+
+[37:11] [Música]

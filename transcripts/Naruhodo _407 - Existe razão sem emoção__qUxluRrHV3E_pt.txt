@@ -1,0 +1,2921 @@
+Title: Naruhodo #407 - Existe razão sem emoção?
+URL: https://www.youtube.com/watch?v=qUxluRrHV3E
+Language: pt
+Extracted on: 2025-04-06 16:39:02
+================================================================================
+
+[00:00] [Música]
+
+[00:01] existe razão sem
+
+[00:04] [Aplausos]
+
+[00:08] [Música]
+
+[00:10] emoção bemvindo narod podcast para quem
+
+[00:13] tem fome de aprender eu sou fioca eu sou
+
+[00:16] sou hoje é dia de ci e Senso
+
+[00:22] com você quer apoiar a
+
+[00:25] cero oo científic
+
+[00:28] aud
+
+[00:30] ouvir os episódios e espalhar a palavra
+
+[00:33] já é um grande Passo mas existe um outro
+
+[00:36] jeito quem possibilita isso é a orelo
+
+[00:39] você escolhe um valor de contribuição
+
+[00:41] mensal e tem acesso a conteúdos
+
+[00:43] exclusivos conteúdos antecipados e
+
+[00:45] vantagens especiais Além disso você pode
+
+[00:48] ter acesso ao nosso grupo fechado no
+
+[00:50] telegram e conversar comigo com alí e
+
+[00:52] com outros apoiadores Toda vez que você
+
+[00:55] ouvir ou fizer download de um episódio
+
+[00:57] pelo aurelo vai também estar and uns
+
+[01:00] trocadinhos para o nosso projeto
+
+[01:02] Combinado então baixa agora mesmo o app
+
+[01:04] orelo no endereço orelo.cc ou na sua
+
+[01:08] loja de aplicativos e ajude
+
+[01:20] a lura querida ouvinte querido ouvinte
+
+[01:24] você quer dar um verdadeiro mergulho no
+
+[01:26] mundo da tecnologia migrar para uma nova
+
+[01:29] carreira aprofundar-se nessa carreira
+
+[01:32] então assine a lura agora mesmo você vai
+
+[01:35] estudar praticar discutir e se
+
+[01:37] aprofundar em uma plataforma que respira
+
+[01:40] tecnologia na alura você terá acesso
+
+[01:43] completo ao conhecimento onde e quando
+
+[01:45] você quiser com novos cursos todas as
+
+[01:48] semanas e ainda tem vantagem ouvinte nar
+
+[01:51] rodô tem desconto especial mas para isso
+
+[01:54] é preciso acessar a seguinte URL anota
+
+[01:56] aí
+
+[01:57] alura.com.br
+
+[01:59] bar promoção bar nar rodor nesse
+
+[02:02] endereço além do desconto especial você
+
+[02:04] vai conhecer histórias reais de
+
+[02:06] transformação de pessoas que estudaram
+
+[02:08] na alura então repetindo acesse
+
+[02:12] alura.com.br bar promoção bnar
+
+[02:24] rodol
+
+[02:26] aaí temos pergunta de ouvinte aaí essa é
+
+[02:30] uma pergunta recente e é uma pergunta
+
+[02:32] bem filosófica Uhum eu não sei se você
+
+[02:34] reparou quem mas esse é o último
+
+[02:36] episódio do ano né então estamos nos
+
+[02:38] aproximando das festas de final de ano e
+
+[02:41] aí é interessante terminar o ano com uma
+
+[02:43] pergunta filosófica assim né gera muitos
+
+[02:45] insights verdade verdade já temos também
+
+[02:48] gravado na rodou entrevista que inaugura
+
+[02:52] a temporada de
+
+[02:55] 2024 mas este é o último Episódio de
+
+[02:58] 2023 um ano
+
+[03:00] desafiador não é isso é ano com muitos
+
+[03:03] desafios mas todo desafio gera um
+
+[03:06] movimento né então se você conseguir
+
+[03:08] transformar Isso numa inércia talvez
+
+[03:09] ajude é isso daí e o e-mail que o alí
+
+[03:14] comentou que é relativamente recente é
+
+[03:17] do Bernardo Molon da Silveira que é
+
+[03:20] ilustrador e Concept Artist Seja lá o
+
+[03:24] que
+
+[03:25] signifique estudante de design gráfico
+
+[03:28] na fsg
+
+[03:30] de Caxias do Sul Rio Grande do Sul um
+
+[03:33] abraço pros gaúchos ouvintes de naro Rod
+
+[03:37] Muito obrigado e ele diz o seguinte Olá
+
+[03:40] ilustríssimos quem é í primeiramente
+
+[03:43] gostaria de agradecer imensamente por
+
+[03:45] este podcast maravilhoso que tanto me
+
+[03:48] inspira a estudar e me motiva a fazer
+
+[03:50] aqueles minutinhos de cárdio no final do
+
+[03:53] treino excelente saber que inspira ele a
+
+[03:56] estudar e a fazer cár né pois é eu não
+
+[03:59] faria assim não duas ótimas aplicações
+
+[04:03] eu eu gosto de ouvir podcast lavando
+
+[04:05] louça hã Eu sei que ninguém Perguntou
+
+[04:07] mas estou aqui dizendo é eu ouço
+
+[04:10] programando e o Bernardo continua indo
+
+[04:13] direto ao ponto minhas perguntas têm a
+
+[04:15] ver com a relação de razão e emoção me
+
+[04:17] parece que existe uma visão bastante
+
+[04:19] dualista entre os conceitos de razão e
+
+[04:21] emoção no ideário coletivo em outros
+
+[04:24] episódios vocês falaram sobre afetos
+
+[04:27] emoções e sentimentos e chegaram falar
+
+[04:30] também sobre algo como razão naquele
+
+[04:32] Episódio sobre os hemisférios do cérebro
+
+[04:35] episódio 116 É isso aí mas e Quanto a
+
+[04:39] essa ideia de razão e a sua relação com
+
+[04:42] nós humanos e nossos afetos e outros
+
+[04:44] processos e nossa interação com o mundo
+
+[04:48] o que é razão Nesse contexto Mais amplo
+
+[04:50] e holístico até mesmo na filosofia que
+
+[04:53] de várias formas deu base da própria
+
+[04:56] ciência muito se fala da racionalidade
+
+[04:58] como sendo essa coisa etérea e perfeita
+
+[05:00] de Sócrates aant e até hoje em dia
+
+[05:03] parece existir muito essa noção até
+
+[05:06] mesmo na epistemologia especificamente
+
+[05:09] talvez a área que está na base até da
+
+[05:11] própria filosofia além de todas as
+
+[05:13] outras áreas do conhecimento se fala
+
+[05:16] muito do que é racional de se acreditar
+
+[05:18] ou de argumentos consistentes que sigam
+
+[05:20] as leis entre aspas Da Lógica mas a
+
+[05:23] lógica assim como a matemática como
+
+[05:25] ficou Claro no episódio sobre infinito é
+
+[05:28] uma linguagem criada por nós para
+
+[05:30] tentarmos entender o mundo a partir
+
+[05:32] desse substrato biológico imperfeito
+
+[05:34] moldado pela evolução com vieses voltado
+
+[05:37] à sobrevivência que nós temos outra
+
+[05:40] coisa que me intriga Especialmente na
+
+[05:42] filosofia é a questão da intuição é
+
+[05:45] extremamente comum na filosofia
+
+[05:47] enaltecer a razão mas ao mesmo tempo
+
+[05:49] quase todos os argumentos filosóficos
+
+[05:51] que não tratam de fatos empíricos apelam
+
+[05:54] para a noção de intuição e tentam
+
+[05:57] utilizar a razão para justificar a
+
+[05:59] intuição
+
+[06:00] isso também me parece ocorrer da ciência
+
+[06:02] nos pontos em que as evidências
+
+[06:04] empíricas são interpretadas em função de
+
+[06:06] uma hipótese já que muitas vezes parece
+
+[06:09] que o motivo que escolhemos testar uma
+
+[06:11] hipótese ao invés de outra é pela
+
+[06:14] escolhida nos parecer mais intuitiva
+
+[06:17] seria isso um erro epistêmico sendo que
+
+[06:19] na ciência se busca a redução do erro e
+
+[06:21] considerando que várias de nossas
+
+[06:23] intuições se provaram erradas ao longo
+
+[06:25] da história sei também que boa parte do
+
+[06:28] tempo nós não operamos de forma racional
+
+[06:30] justamente por influência dos mecanismos
+
+[06:32] da nossa mente de poupar esforço
+
+[06:35] desnecessário como as emoções que Até
+
+[06:37] onde eu sei são processos fisiológicos
+
+[06:39] que além de outras coisas servem também
+
+[06:41] como atalhos para julgamento do ambiente
+
+[06:44] e escolha de comportamentos de forma
+
+[06:46] rápida e os hábitos considerando todo
+
+[06:49] esse contexto então há muito tempo me
+
+[06:51] surgem várias dúvidas relacionadas ao
+
+[06:53] tema de racionalidade e lógica Final O
+
+[06:56] que é ser racional O que é a razão
+
+[06:58] existe razão sem emoção senão Qual o
+
+[07:02] papel da emoção ou afetos ou Qualquer
+
+[07:04] que seja o termo correto no que chamamos
+
+[07:06] de razão perante a ciência Quais as
+
+[07:09] relações entre razão emoção e intuição
+
+[07:11] existem as quatro causas para esses
+
+[07:13] fenômenos
+
+[07:15] í o Bernardo Caprichou aqui na missiva
+
+[07:19] bem elaborado né É E a pergunta Tem
+
+[07:22] várias sub perguntas aíí é que que a
+
+[07:25] ciência pode nos dizer para tentar
+
+[07:27] elucidar esse Dilema do Bernardo na
+
+[07:31] verdade a gente já falou sobre esse esse
+
+[07:33] tema diluído em outros episódios né Uhum
+
+[07:36] tem o que o que o Bernardo mesmo citou
+
+[07:38] que é o 116 né se razões e razão e
+
+[07:41] emoção estão em lados diferentes do
+
+[07:43] cérebro tem o Episódio 155 se tomar
+
+[07:46] decisões Cans o cérebro tem o Episódio
+
+[07:48] 222 que o que é cognição quântica tem o
+
+[07:52] episódio 375 como nós nos tornamos nós
+
+[07:55] todos esses episódios atacam aspectos
+
+[07:57] aqui tem um episódio duplo que eu
+
+[07:59] pessoalmente gostei de ter feito que é a
+
+[08:02] aquele se nós nascemos inerentemente
+
+[08:03] bons ou maus tem uma discussão sobre
+
+[08:05] isso também Uhum mas tem um ponto que
+
+[08:09] não foi respondido né que é exatamente
+
+[08:11] isso eu eu vou começar com você mesmo
+
+[08:13] kem presta atenção na pergunta do
+
+[08:15] episódio existe razão sem emoção que que
+
+[08:17] você acha Eu acho que
+
+[08:19] [Música]
+
+[08:21] não na verdade eu acho
+
+[08:25] que nossas
+
+[08:28] decisões são todas emocionais isso muito
+
+[08:31] bem muito bem é é é a convivência né a
+
+[08:34] convivência né É é exatamente isso tem
+
+[08:38] até uma parte do e-mail do Bernardo no
+
+[08:39] final né que ele fala que a a emoção né
+
+[08:42] é um processo fisiológico que além de
+
+[08:44] outras coisas serve para como atalho pro
+
+[08:46] julgamento do ambiente escolhas de
+
+[08:47] comportamento e tal a gente vai atacar
+
+[08:50] esse esse essa pergunta de duas frentes
+
+[08:52] mas a sensibilidade do quem é muito
+
+[08:54] importante na verdade a racionalidade
+
+[08:56] ela é uma Quimera Uhum você ser racional
+
+[09:00] ele não existe de verdade ele ele é tipo
+
+[09:03] é tipo a diferença entre moral e ética
+
+[09:05] né é o que você gostaria de ser e não
+
+[09:06] consegue porque você é falho essa coisa
+
+[09:09] da razão é algo supranatural é algo que
+
+[09:12] existe fora do do ambiente natural e de
+
+[09:15] do processo evolutivo humano todos os
+
+[09:17] comportamentos são emocionais a ideia
+
+[09:20] dar uma explicação sobre isso mostrar
+
+[09:21] como que a gente trabalha com isso hoje
+
+[09:23] em dia Inclusive tem as referências são
+
+[09:26] bem interessantes para quem pro Bernardo
+
+[09:27] por exemplo tem muita coisa interessante
+
+[09:29] tem um um handbook of rationality Hum
+
+[09:32] Tem um handbook 1000 páginas só sobre
+
+[09:35] racionalidade de 2020 é um texto é um
+
+[09:38] livro recente muito interessante assim
+
+[09:40] tem as definições como a racionalidade é
+
+[09:42] Trabalhada na psicologia cognitiva na
+
+[09:44] teoria do jogos na computação num monte
+
+[09:46] de coisas é bem legal vou falar só dos
+
+[09:48] melhores momentos assim desse livro mas
+
+[09:50] a discussão dessa cisão entre razão e
+
+[09:53] emoção é uma discussão que tá muito na
+
+[09:55] boca do povo uhum tá na área formal é é
+
+[09:58] de novo né a a o que tá na boca do povo
+
+[10:00] em geral cientificamente tá uns 20 anos
+
+[10:02] atrasado sabe na na na área técnica a
+
+[10:04] discussão Tá mais pra frente e eu quero
+
+[10:06] trazer um pouco dessa discussão que pode
+
+[10:08] elucidar muitas coisas úteis paraas
+
+[10:10] pessoas Então hoje em dia a gente não
+
+[10:12] tem mais esse modelo dualista de razão e
+
+[10:15] emoção é bem como Quem colocou todos os
+
+[10:17] comportamentos que o organismo emite
+
+[10:20] eles são emocionais a racionalidade é
+
+[10:22] meio que uma coisa a posteriori em geral
+
+[10:24] ela também é a priori tá a racionalidade
+
+[10:27] aparece a priori e a posteriori tá
+
+[10:29] depende do seu grau de conhecimento de
+
+[10:30] algum fenômeno mas assim e dando uma
+
+[10:33] definição bem simples definição de
+
+[10:35] racionalidade racionalidade é a
+
+[10:37] qualidade de ser guiado por ou com base
+
+[10:41] na razão isso é racionalidade e o que
+
+[10:43] seria razão razão em geral é uma crença
+
+[10:47] baseado em um certo grau de evidência
+
+[10:50] então racionalidade é a qualidade de ser
+
+[10:52] guiado por ou com base na razão e a
+
+[10:55] razão é uma crença baseado num certo
+
+[10:57] grau de evidência aí eu tenho que
+
+[10:59] definir o que que é evidência evidência
+
+[11:02] Varia muito entre o campo de
+
+[11:03] conhecimento racionalidade é bem
+
+[11:05] definido razão é bem definido é uma
+
+[11:07] crença baseada numa evidência a questão
+
+[11:09] é o que é evidência certo às vezes eu eu
+
+[11:13] ter tido uma iluminação e um Deus ter me
+
+[11:15] falar de uma coisa é evidência para um
+
+[11:16] indivíduo às vezes não eu preciso de
+
+[11:18] dados ser convencido aí a evidência não
+
+[11:22] é não são nem dados nem uma entidade
+
+[11:24] transcendente é um argumento eu tenho
+
+[11:26] que ser persuadido isso é a evidência a
+
+[11:29] discussão da racionalidade está na
+
+[11:31] evidência Que substancia a razão então
+
+[11:34] assim racionalidade é bem definido razão
+
+[11:37] é bem definida a questão é que toda a
+
+[11:39] razão é uma crença baseada numa
+
+[11:40] evidência e o que é evidência é aí onde
+
+[11:43] você escorrega no nabo as discussões
+
+[11:45] modernas por exemplo sobre negacionismo
+
+[11:47] Então quando você pega dentro de um
+
+[11:49] certo grupo de antivax pega lá um grupo
+
+[11:52] do telegram de pessoas antivacina uhum
+
+[11:54] existe uma racionalidade lá dentro as
+
+[11:56] pessoas para comungar daquele grupo
+
+[11:59] elas geram afirmações crenças baseadas
+
+[12:02] em evidência que são Racionais só que o
+
+[12:05] da onde elas tiram evidência que elas
+
+[12:07] usam de uma entidade outra de um médico
+
+[12:10] Eles não tira dos dados uhum ou a pessoa
+
+[12:13] que é antivacina sabe avaliar a
+
+[12:16] qualidade da evidência por exemplo ela
+
+[12:19] pega um artigo e ela não sabe avaliar a
+
+[12:21] qualidade do artigo ela diz ah se foi
+
+[12:23] publicado é evidência entende uhum
+
+[12:26] entende que o ponto da racionalidade não
+
+[12:29] na definição e nem na noção de razão tá
+
+[12:31] na noção de evidência Que substancia a
+
+[12:33] crença sim sim o grande ponto da não
+
+[12:36] cisão atual entre racionalidade e emoção
+
+[12:39] é quando chega na evidência porque a
+
+[12:41] percepção do agente da evidência sempre
+
+[12:44] é uma percepção emocional então por
+
+[12:47] exemplo que você pode ser lá
+
+[12:48] farmacêutico você po você pode entender
+
+[12:50] tudo de ensaio Clínico tudo né E aí você
+
+[12:53] pega lá o artigo sabe ler mas no seu
+
+[12:56] coração você é antivacina você não Acita
+
+[12:59] que a vacina funciona então a sua reação
+
+[13:01] frente à aquela evidência porque a
+
+[13:04] crença precisa de um agente sim sim o
+
+[13:06] artigo ele não se explica sozinho ele
+
+[13:08] precisa de um agente que lê aquele
+
+[13:09] artigo se aquele agente lendo aquele
+
+[13:12] artigo gera uma certa crença que para
+
+[13:15] ele é racional ele tá se comportando de
+
+[13:17] forma racional O problema que ele pode
+
+[13:19] ser viesado por uma questão emocional
+
+[13:22] dele Histórica de formação de
+
+[13:24] preferências de vieses de coisas do tipo
+
+[13:27] tá então então você percebe onde onde
+
+[13:29] quebra a a relação entre razão e emoção
+
+[13:32] não é na racionalidade não é na razão é
+
+[13:34] na evidência E hoje você você ouve o
+
+[13:36] tempo inteiro falarem né de tem é muito
+
+[13:39] muito moderno hoje falar assim ah a
+
+[13:41] medicina baseada em evidência a
+
+[13:42] psicologia baseada em evidência qualquer
+
+[13:44] coisa baseado em evidência Uhum é uma
+
+[13:46] tentativa de racionalizar um bagulho que
+
+[13:49] não dá para racionalizar que é emocional
+
+[13:51] Certo entendeu a aí você vai ver o povo
+
+[13:53] falando de Psicologia baseado em
+
+[13:54] evidência como se fosse uma bandeira
+
+[13:55] emocional também ou seja é a mesma coisa
+
+[13:58] do negacionismo é tudo igual porque a
+
+[14:00] questão é qual método gera evidência
+
+[14:03] toda evidência é ligada a um método se
+
+[14:06] você não conhece diferentes métodos você
+
+[14:08] não sabe julgar diferentes tipos de
+
+[14:10] evidência por exemplo se você é um
+
+[14:12] médico e você conhece ensaios clínicos
+
+[14:15] randomizados que é o método padrão ouro
+
+[14:17] para testar medicamento vou imaginar que
+
+[14:19] você fez um um doutorado nisso quem
+
+[14:22] ninguém manja mais de rct randomise
+
+[14:24] control trios do que você tá você é o
+
+[14:27] cara que Tecnicamente melhor manja
+
+[14:29] disso n Então tudo aquilo que gerar
+
+[14:31] evidência a partir de um rct você vai
+
+[14:34] saber julgar se é bom ou ruim porque
+
+[14:35] você conhece o método sim por exemplo se
+
+[14:38] fizerem uma pesquisa qualitativa ou uma
+
+[14:41] entrevista você vai achar aquilo lixo
+
+[14:43] não Aquilo não é evidência mas na
+
+[14:45] verdade é só que você não conhece o
+
+[14:47] método entende e aí você tira a área do
+
+[14:50] outro para nada porque você é limitado
+
+[14:52] do ponto de vista do
+
+[14:54] método Então a primeira grande coisa
+
+[14:56] assim que pode ser AD dessa questão é
+
+[15:00] que racionalidade é ligado com razão
+
+[15:02] razão é ligado com uma crença e a crença
+
+[15:04] é sempre baseada numa evidência certo o
+
+[15:07] problema é que a discussão para aí tem
+
+[15:08] que avançar isso e a evidência Então ela
+
+[15:12] pode variar só que ela varia depende do
+
+[15:14] agente se eu sou um agente viesado a
+
+[15:17] minha formação é viesada para conhecer
+
+[15:19] certos métodos Eu só consigo julgar de
+
+[15:21] forma apropriada racional entre aspas
+
+[15:24] certos tipos de evidência e não outros
+
+[15:26] aí eu sou aquele cara bem de biológicas
+
+[15:28] que joga fora tudo de humanas e fala que
+
+[15:29] não é Ciência né ou o cara de humanos
+
+[15:32] todo relativístico lá namas gratidão vou
+
+[15:34] começar a bater tambor pro sol e falar
+
+[15:36] que as pessoas não precisam ir no médico
+
+[15:37] mais só tomar o chá da planta você
+
+[15:40] percebe que dá ruim dos dois lados né
+
+[15:42] Sem dúvida a a primeira grande coisa é
+
+[15:44] parar com essa babaquice de qualquer
+
+[15:46] coisa baseada em evidência tem que ser a
+
+[15:47] coisa baseada No método Aham Porque o
+
+[15:49] método gera evidência entende sim se
+
+[15:52] você pega o aluno de graduação e forma
+
+[15:54] ele em diferentes métodos ele vai ter
+
+[15:57] uma possibilidade de perceber diferentes
+
+[15:59] tipos de evidência E se ele percebe e
+
+[16:01] julga diferentes tipos de evidência ele
+
+[16:03] vai criar uma crença racional razoável E
+
+[16:06] aí ele vai se aproximar do pensamento
+
+[16:08] racional mas ele não vai chegar lá por
+
+[16:10] quê Porque essa avaliação da evidência
+
+[16:12] né é sempre uma avaliação emocional
+
+[16:15] porque é feita por um sujeito de um
+
+[16:17] ponto de vista comportamental perfeito
+
+[16:19] esse é o começo da discussão uhum essa
+
+[16:22] cisão razão e emoção tipo para de novo
+
+[16:25] racionalidade é ligado com razão razão é
+
+[16:27] ligada com evidência o que que falta
+
+[16:29] evidência tem que ser ligada com o
+
+[16:30] método se você conhece poucos métodos
+
+[16:33] você vai tratar bem algumas evidências e
+
+[16:36] vai considerar elas no seu julgamento
+
+[16:37] racional Mas você vai ser viesado para
+
+[16:40] outros métodos que você não conhece logo
+
+[16:42] você não consegue avaliar a evidência ou
+
+[16:44] você vai dizer que é lixo ou você vai
+
+[16:46] ficar crente agora razão e emoção no
+
+[16:49] senso comum é muito normal a gente ouvir
+
+[16:53] as pessoas separando as duas coisas né
+
+[16:55] exatamente inclusive quando você sei lá
+
+[16:58] faz uma uma busca por imagens de razão e
+
+[17:00] emoção inclusive é ilustrada a a emoção
+
+[17:05] com o coração e a razão com o cérebro né
+
+[17:07] como se o como se o coração pudesse
+
+[17:10] fazer a mesma coisa que o cérebro faz
+
+[17:13] como se fosse concreto e e o outro
+
+[17:15] abstrato né Sim sim e na verdade é o
+
+[17:18] contrário O que é concreto é a emoção a
+
+[17:21] emoção é concreta a racionalidade que
+
+[17:23] não é sabe até você imaginar emoção como
+
+[17:27] sendo um um coração é uma construção
+
+[17:29] histórica cultural intelectual sim
+
+[17:32] imaginar emoção como o coração é uma
+
+[17:35] racionalização Uhum você imaginar emoção
+
+[17:38] como coração isso é racional não é
+
+[17:40] emocional emocional é entender o cérebro
+
+[17:43] é saber que a fonte das suas emoções tá
+
+[17:44] dentro do seu cérebro sim é totalmente
+
+[17:47] invertido tem uma coisa muito
+
+[17:49] interessante desse desse mesmo livro tem
+
+[17:51] esse handbook of rationality que é muito
+
+[17:53] legal e tem um um outro livro que é a
+
+[17:55] racionalidade da emoção tá parece
+
+[17:58] contraditório mas é muito bom esse livro
+
+[18:00] e ele coloca uma coisa interessante que
+
+[18:02] ele fala que razão e emoção não são
+
+[18:04] antagonistas uhum eles são engrenagens
+
+[18:06] que operam juntas o tempo todo e aí ele
+
+[18:09] coloca uma uma questão objetiva né que é
+
+[18:11] interessante que a emoção ela tem uma
+
+[18:13] característica que ela apreende algo no
+
+[18:16] mundo que existe independente da nossa
+
+[18:20] reação a essa coisa eu vou tentar dar um
+
+[18:22] exemplo baseado numa coisa que eu faço
+
+[18:23] muito que é dar aula Tenta lembrar uma
+
+[18:25] época da sua vida que em que você teve
+
+[18:27] que apresentar
+
+[18:29] em público várias vezes já chegou a
+
+[18:31] acontecer com você de você tá tão
+
+[18:33] habituado a fazer isso que você vira um
+
+[18:35] espectador de você mesmo Sim você já
+
+[18:37] sentiu isso de você tá falando imagina
+
+[18:39] que é um tema que você sabe assim né que
+
+[18:42] e tudo bem você tá falando sobre esse
+
+[18:44] tema aí de repente você descola você
+
+[18:46] começa parece que dentro da sua cabeça
+
+[18:48] você senta numa cadeira e assiste a você
+
+[18:49] mesmo falando já tive essa sensação essa
+
+[18:52] sensação de descolamento não é que você
+
+[18:54] tá ficando doido Não é nada disso é a
+
+[18:56] separação da razão e da emoção por
+
+[18:58] exemplo eu estou falando com você agora
+
+[19:00] tá enquanto eu estou falando eu estou
+
+[19:02] produzindo comportamento e eu não
+
+[19:05] consigo monitorar o meu comportamento de
+
+[19:08] fala ao mesmo tempo que ele é produzido
+
+[19:10] eu não consigo Então eu tô falando
+
+[19:13] Uhum tem um delay entre eu falar e
+
+[19:16] perceber que eu falei certo tem esse
+
+[19:19] delay é um delay de milisegundos assim
+
+[19:23] né mas existe é um segundo não às vezes
+
+[19:25] aumenta não dá para controlar dá para
+
+[19:27] aumentar esse delay né Eh dependendo do
+
+[19:29] treino mas já aconteceu uma vez assim K
+
+[19:31] de você tá lá numa numa palestra falando
+
+[19:33] de de alguma coisa que você conhece bem
+
+[19:35] e de repente você fala uma coisa fala
+
+[19:37] nossa da onde eu tirei isso sim já
+
+[19:39] aconteceu já Tipo se eu se eu treinasse
+
+[19:41] eu nunca ia falar tão bem quanto saiu
+
+[19:43] agora sim que é o resultado do treino é
+
+[19:46] é esse delay que você não consegue se
+
+[19:47] autom monitorar aham então assim a
+
+[19:50] racionalidade é um expectador da emoção
+
+[19:53] porque a emoção no momento que você
+
+[19:55] produz o comportamento de falar a emoção
+
+[19:58] na interação com o ambiente ela apreende
+
+[20:00] algo do mundo que existe independente da
+
+[20:03] Sua percepção dele do mundo tá tem uma
+
+[20:05] coisa mais então uma coisa é você se
+
+[20:08] comportar você tá lá se comportando você
+
+[20:10] perceber que se comporta tem um delay
+
+[20:13] esse delay é o racional que é esse
+
+[20:15] julgamento essa autopercepção Às vezes
+
+[20:17] isso te trava todo mundo que tem medo de
+
+[20:19] falar em público começa quando que trava
+
+[20:22] depois trava no meio né alguém que tem
+
+[20:25] medo de falar em público Ou nem vai aí a
+
+[20:27] pessoa nem vai ou se ela for ela começa
+
+[20:30] ela nunca trava no começo ela começa
+
+[20:32] para dar um um start aí ela começa a se
+
+[20:34] autom monitorar quando ela começa a se
+
+[20:36] autom monitorar e vem a racionalidade
+
+[20:38] estraga o comportamento dela emocional
+
+[20:40] porque veio o julgamento todo mundo acha
+
+[20:42] que você fala mal que é ruim que você é
+
+[20:44] feio que o que importa aham percebe que
+
+[20:47] corresponde a essa a essa esse GAP que
+
+[20:50] aconteceu esse gapin quando você descola
+
+[20:53] de você mesmo assim isso isso era muito
+
+[20:56] interessante as pessoas terem esse essa
+
+[20:58] experiência de virar um espectador de
+
+[21:00] você mesmo assim certo porque aí você
+
+[21:02] percebe certinho que a razão emerge da
+
+[21:04] emoção hum assim você você consegue
+
+[21:07] emitir um pensamento sobre você mesmo
+
+[21:09] então por exemplo você consegue pensar
+
+[21:11] Ah o que que eu vou fazer amanhã
+
+[21:13] planejar Você pode até escrever num
+
+[21:14] papel e isso é um tipo de planejamento
+
+[21:17] seria um planejamento racional seria se
+
+[21:19] ele é baseado numa crença que tem
+
+[21:21] evidência Eu acho que o mais certo para
+
+[21:23] mim é fazer tais coisas tudo bem é um
+
+[21:26] pensamento racional mas não é comport
+
+[21:28] vai virar comportamento quando chegar a
+
+[21:30] hora sim quando chegar a hora de você se
+
+[21:32] comportar e depois você avaliar aquilo
+
+[21:34] que você tá se comportando aí é o
+
+[21:36] pensamento racional na prática né antes
+
+[21:39] é tudo teórico entendi é a deliberação
+
+[21:41] faz todo sentido é muito interessante
+
+[21:44] assim a a emoção ela não é reduzida a
+
+[21:47] uma crença verbal se eu pergunto para
+
+[21:49] você ah você se acha legal quem sim ou
+
+[21:51] não você vai me dar uma resposta verbal
+
+[21:54] né a emoção não se reduz a uma resposta
+
+[21:56] verbal a razão se sim a razão tem uma
+
+[21:59] resposta verbal né E isso limita ela c e
+
+[22:03] talvez isso faça com que a gente acabe
+
+[22:06] reforçando essa esse dualismo né assim
+
+[22:08] exato porque o que ela falou é se o que
+
+[22:11] ela falou é a
+
+[22:13] racionalização de tudo e então dá para
+
+[22:16] separar a razão de emoção quando na
+
+[22:18] verdade aquilo emergiu da emoção isso
+
+[22:20] você sente como se fosse separado mas na
+
+[22:22] verdade é um ciclo por isso são duas
+
+[22:24] engrenagens certo tanto é que quando
+
+[22:26] você para de se comportar Você só fica
+
+[22:28] sob ação do seu pensamento e o seu
+
+[22:31] pensamento não não mais reage não mais
+
+[22:33] tem feedback do comportamento porque
+
+[22:34] você tá parado aí você começa a ruminar
+
+[22:36] E aí você fica deprimido tem o nosso
+
+[22:38] narodo duplo sobre depressão que é uma
+
+[22:40] das causas eficientes da depressão é
+
+[22:42] isso separa o movimento logo você para
+
+[22:45] de se retroalimentar a partir da
+
+[22:46] observação do seu próprio comportamento
+
+[22:48] e você só fica com a ideia do passado
+
+[22:51] das memórias do seu comportamento que em
+
+[22:53] geral não é tão legal quanto o que foi
+
+[22:55] de verdade verdade e aí você começa a
+
+[22:57] CIC em falso a aí já era é muito
+
+[23:00] interessante essa discussão porque ela é
+
+[23:02] é razão e emoção é uma coisa só mas a
+
+[23:04] gente percebe como separado sim e a
+
+[23:06] gente tem que perceber como separado
+
+[23:08] para você ser diferente do mundo para
+
+[23:10] você não ficar uma coisa só então quando
+
+[23:12] você pega por exemplo e cachorro gato
+
+[23:14] passarinho eles são Racionais se você
+
+[23:17] parar para pensar que racionalidade é
+
+[23:19] uma qualidade de ser guiado com base
+
+[23:21] numa razão que é uma crença baseado num
+
+[23:23] certo grau de evidência você pega um
+
+[23:25] passarinho por exemplo que migra de um
+
+[23:27] lugar pro outro e quando ele vai numa
+
+[23:29] certa região ele guarda comida no lugar
+
+[23:32] e depois ele volta para aquele mesmo
+
+[23:33] lugar ele lembra onde tava é uma decisão
+
+[23:36] racional sim ele lembra ele não precisa
+
+[23:38] lembrar que lembra mas ele lembra tanto
+
+[23:40] é que foi lá achou a comida de novo sim
+
+[23:43] então aliás eu acho isso uma coisa
+
+[23:45] impressionante assim você acha
+
+[23:47] impressionante porque você é de fora e
+
+[23:49] você julga o terceiro o passarinho nem
+
+[23:52] sabe disso não ocorre sabe então assim o
+
+[23:55] mundo é feito de coisas impressionantes
+
+[23:58] que não precisa ter alguém para olhar
+
+[23:59] para para dizer que é as coisas já são
+
+[24:01] impressionantes em si sabe e e Se você
+
+[24:04] começar a observar o seu próprio
+
+[24:05] comportamento um pouco do ponto de vista
+
+[24:07] emocional mesmo tipo tenta ser
+
+[24:09] espectador de você mesmo você vai ver
+
+[24:10] que você produz coisas muito
+
+[24:11] interessantes não importa o quanto você
+
+[24:13] gosta de você mas no final parece que o
+
+[24:15] seu treino funciona sabe quanto mais
+
+[24:17] você se expõe você vai melhorando essa é
+
+[24:20] uma discussão muito muito muito
+
+[24:21] interessante assim que tem tem correlato
+
+[24:24] na economia tem correlato na Sociologia
+
+[24:26] na na comunicação teorias diferentes
+
+[24:28] então por exemplo na na economia tem
+
+[24:31] muita coisa da teoria da decisão né os
+
+[24:33] agentes Racionais então eu não gosto
+
+[24:36] muito da da teoria da da decisão
+
+[24:37] aplicada economia porque falta muita
+
+[24:39] abordagem experimental para melhorar né
+
+[24:40] mas eles se baseiam muito na utilidade
+
+[24:42] média então eles modelam matematicamente
+
+[24:45] um agente E aí tem certos ganhos e e
+
+[24:48] opções e aí baseado na utilidade média
+
+[24:51] Onde tiver o valor maior é onde o
+
+[24:53] organismo vai né então eles tentam
+
+[24:55] modelar entre aspas um organismo
+
+[24:57] hipotético certo não funciona muito bem
+
+[25:00] é muito distante da realidade assim e
+
+[25:02] real tem abordagens mais modernas né
+
+[25:05] abordagem da Escolha mais moderna que a
+
+[25:07] gente falou no Episódio 155 né sobre
+
+[25:09] tomar decisões canser o nosso cérebro a
+
+[25:11] diferença entre decisão e escolha é é
+
+[25:13] bem essa a decisão Ela é bem mais
+
+[25:15] cognitiva é um planejamento então
+
+[25:18] decisor racional se você não age
+
+[25:20] conforme a fórmula você é irracional e
+
+[25:23] isso é uma coisa do senso comum essa
+
+[25:25] separação entre racional e irracional
+
+[25:28] sim na área formal não tem essa
+
+[25:30] diferença existe o racional e o a
+
+[25:32] racional não tem o i racional é o a
+
+[25:35] racional que é o sem razão tá o sem
+
+[25:39] razão não é a pessoa que tá que é um
+
+[25:41] animal o sem razão é a pessoa que não
+
+[25:44] tem uma crença lembra que razão é uma
+
+[25:46] crença né se eu não tenho uma CR eu não
+
+[25:48] tenho conhecimento nenhum do jogo e eu
+
+[25:51] vou jogar a primeira vez eu jogo de
+
+[25:52] qualquer jeito eu sou a racional eu não
+
+[25:55] tenho razão eu não aprendi uhum e não
+
+[25:57] quer dizer que irracional nesse desse
+
+[25:59] jeito coloquial irracionalidade não
+
+[26:01] existe irracionalidade é uma invenção
+
+[26:03] também é um jeito de classificar e e
+
+[26:05] separar grupos de pessoas uhum sabe é um
+
+[26:08] jeito um jeito eugenista de pensar na
+
+[26:10] verdade é pouco científico tanto que
+
+[26:12] tanto que mesmo quando a gente usa
+
+[26:14] coloquialmente ele tem um tom pejorativo
+
+[26:17] né você está sendo irracional É mesmo é
+
+[26:19] meio que você tá sendo burro isso ou
+
+[26:22] você tá sendo emocional que também visto
+
+[26:24] uma coisa negativa exato e e não é e não
+
+[26:27] é você só consegue ser emocional esse
+
+[26:30] que é o negócio porque você opera dentro
+
+[26:32] de um corpo Lembra do nosso Episódio
+
+[26:34] sobre a diferença entre afeto emoção e
+
+[26:35] sentimento todas as emoções vêm do corpo
+
+[26:38] todos os comportamentos vêm do corpo
+
+[26:39] logo todo todo comportamento é uma
+
+[26:41] emoção verdade você coió que fica se
+
+[26:43] julgando depois mesmo quando
+
+[26:46] alguém deliberadamente tenta esconder
+
+[26:50] sua emoção e externar uma outra um outro
+
+[26:53] quadro emocional sei lá você tá muito
+
+[26:56] triste mas precisa ir lá dar uma aula
+
+[27:00] então você engole a tristeza e e vai né
+
+[27:04] E vai também estamos sendos emocionais
+
+[27:06] quando a gente sobrepõe Uma emoção a
+
+[27:08] outra assim isso exatamente por quê
+
+[27:10] Porque você isso não é inato você
+
+[27:12] aprende a criar essa estratégia e você
+
+[27:15] aprende de uma forma emocional você não
+
+[27:17] aprende por regras Ah eu quero disfarçar
+
+[27:19] que eu tô triste eu vou fazer a b c não
+
+[27:21] é assim você aprende olhando você
+
+[27:23] aprende vendo o comportamento do outro e
+
+[27:25] aprendendo esse comportamento de uma
+
+[27:26] forma não verbal Você vai incorporando E
+
+[27:29] aí treina treina treina você fica bom
+
+[27:31] você vai ser o melhor o melhor gerente
+
+[27:33] de banco gerente de banco é isso né É É
+
+[27:36] isso todo para mim todo Dino de banco é
+
+[27:38] morto por dentro quase sabe é o mercado
+
+[27:41] financeiro faz isso com as pessoas aham
+
+[27:43] os que não morreram misericórdia coitado
+
+[27:47] veja como essa cisão é importante né E
+
+[27:49] aí a gente tem assim tem essa definição
+
+[27:51] a primeira definição de racionalidade
+
+[27:52] que eu coloquei aí tem discussões sobre
+
+[27:55] racionalidade então por exemplo um ser
+
+[27:58] racional é um ser que não tem
+
+[28:00] contradições por exemplo tem uma área da
+
+[28:02] lógica que da filosofia que estuda isso
+
+[28:04] O que seria um ser racional um ser
+
+[28:06] racional é um ser que não tem
+
+[28:08] contradições
+
+[28:09] uhum se você assumir que racionalidade é
+
+[28:12] isso né é um um organismo uma entidade
+
+[28:15] que não tem contradições se você aceitar
+
+[28:18] isso como uma premissa você separa
+
+[28:20] racionalidade de moral Então você pega
+
+[28:23] por exemplo um um déspota que mata
+
+[28:25] pessoas sem pensar mas ele é
+
+[28:27] completamente coerente ele fala tudo que
+
+[28:30] ele vai fazer ele faz ele é racional
+
+[28:32] porque ele não tem contradições mas ele
+
+[28:34] não é moral hum sim entende sim tem que
+
+[28:38] tomar cuidado também sim de não
+
+[28:40] confundir ser Racional com ser moral
+
+[28:44] isso então a a existem pessoas que são
+
+[28:46] extremamente coerentes não tem
+
+[28:49] contradições a contradição tá em você
+
+[28:52] você é contraditório por você não levar
+
+[28:54] a sério o cara que é coerente e aí
+
+[28:56] aquele cara está sendo racional ele está
+
+[28:58] sendo eu vou fazer ó não tô avisando vou
+
+[29:00] fazer a b c vou fazer tal ó tá tudo
+
+[29:03] Claro tá escrito aqui ó no papel tá tudo
+
+[29:04] ele é um computador né o código tá
+
+[29:07] pronto você que ah vá é você que tá
+
+[29:09] sendo ah racional não tá levando isso a
+
+[29:12] sério aí você toma na de abaca entendeu
+
+[29:15] por conta de um de um ente racional
+
+[29:17] puramente racional racionalidade não tem
+
+[29:19] a ver com moral não tem a ver com
+
+[29:20] inteligência o cara pode ser
+
+[29:22] extremamente racional e burro burro
+
+[29:24] nesse sentido de de capacidade cognitiva
+
+[29:26] baixa mesmo ele só é coerente só segue
+
+[29:28] ordens sabe a coisa do soldado e Sava
+
+[29:31] apenas seguindo ordens a formação do
+
+[29:33] soldado é uma formação extremamente
+
+[29:35] racional nesse sentido de de não ter
+
+[29:38] contradições você vai fazer o que tem
+
+[29:39] que ser feito e a pessoa não questiona
+
+[29:41] sem dúvida você percebe quando se você
+
+[29:43] pega a a as pessoas cultuam essa coisa
+
+[29:46] do ser racional né só que o ser racional
+
+[29:48] ele vai na na prática ele é o gerente de
+
+[29:51] banco ele é o soldado ele é o déspota
+
+[29:54] sabe ele é a pessoa que é internamente
+
+[29:56] coerente um governante mentecapto né Por
+
+[30:00] Exemplo né é não isso E aí qual a
+
+[30:04] contradição disso né o organismo que
+
+[30:06] segue ausência de contradições ele segue
+
+[30:09] regras e não comportamentos certo isso é
+
+[30:12] fundamental na psicologia a diferença
+
+[30:14] entre uma regra e um comportamento
+
+[30:16] comportamento é o que você faz a regra é
+
+[30:18] o que você estabelece a priori então por
+
+[30:21] exemplo que você chega para mim essa
+
+[30:23] semana não vou fumar é uma regra né Aí
+
+[30:26] você durante a semana D aquela
+
+[30:27] escapadela Acontece tem uma oscilação
+
+[30:30] por exemplo em vez de você fumar 10
+
+[30:32] cigarros na semana Você fumou um por quê
+
+[30:34] Porque a regra ajudou mas ao mesmo tempo
+
+[30:36] você quebrou a regra Você concorda sim
+
+[30:38] então você não foi racional você não foi
+
+[30:40] coerente imagina o quem fugi oca na
+
+[30:42] semana um eu não ele não falou nada aí
+
+[30:45] fuma 10 cigarros então ele está sendo
+
+[30:47] racional né Beleza na semana dois ele
+
+[30:50] fala lá no domingo domingo à noite não
+
+[30:52] vou fumar aí durante a semana ele fuma
+
+[30:54] um cigarro fumou menos mas não foi
+
+[30:56] racional percebe só que a a regra a
+
+[30:59] regra normativa acabou mudando a
+
+[31:01] probabilidade do comportamento então
+
+[31:02] ajudou ajudou você ser contraditório
+
+[31:05] certo esse é o conflito o o o conflito
+
+[31:08] razão emoção mora aí é o conflito entre
+
+[31:10] o pensamento e o comportamento que
+
+[31:12] acontece o tempo todo Uhum E aí tem tem
+
+[31:14] um texto Fantástico que é do do rlin né
+
+[31:17] que eu gosto muito na no Brasil os
+
+[31:19] psicólogos comportamentais não gostam
+
+[31:20] muito do rle eu acho uma óia ignorância
+
+[31:22] devia ler mais ele tem dois textos dele
+
+[31:24] fantásticos sobre esse conflito molar
+
+[31:27] molecular Hum é é a ideia do molar
+
+[31:29] molecular é assim eu quero explicar o
+
+[31:31] seu comportamento quem tá bom Por
+
+[31:34] exemplo Pens seu comportamento de compra
+
+[31:35] isso tem aplicação para Marketing
+
+[31:37] publicidade tá Eu quero explicar o
+
+[31:39] comportamento de compra de uma pessoa eu
+
+[31:41] posso me basear em várias variáveis
+
+[31:43] então por exemplo eu eu me baseio no
+
+[31:46] número de produtos que você comprou de
+
+[31:48] um produto para ver a probabilidade de
+
+[31:50] você comprar esse mesmo produto tá tudo
+
+[31:53] bem então quanto mais vezes você compra
+
+[31:54] um produto aumenta a chance de você ser
+
+[31:56] fiel a produto e comprar de novo a
+
+[31:58] variável que eu estou usando é o número
+
+[32:00] de produtos comprados que é uma variável
+
+[32:02] que não dá para reduzir mais você compra
+
+[32:04] uma caixa é uma caixa não tem como
+
+[32:06] reduzir mais já foi isso é chamado
+
+[32:08] variável molecular é a menor unidade de
+
+[32:11] medida então número de cliques tempo em
+
+[32:14] segundos que você passa fazendo alguma
+
+[32:16] coisa isso são variáveis moleculares as
+
+[32:18] variáveis moleculares na vida de uma
+
+[32:20] pessoa são comportamentos sequenciais
+
+[32:23] que moldam os seus comportamentos no
+
+[32:26] tempo então por exemplo e eu filmo você
+
+[32:29] na sua casa o dia inteiro e eu não
+
+[32:30] converso com você eu consigo fazer toda
+
+[32:32] a topologia do seu comportamento olhando
+
+[32:35] ele ah você foi no banheiro tantas vezes
+
+[32:38] você ficou na na na mesa tantas vezes
+
+[32:40] você jantou tal o horário eu nem preciso
+
+[32:42] te perguntar nada filmando você eu
+
+[32:44] consigo fazer uma topologia molecular
+
+[32:46] dos seus comportamentos certo e aí eu
+
+[32:49] consigo dizer ah amanhã provavelmente eu
+
+[32:50] qu tal horário vai fazer tal coisa
+
+[32:52] porque eu vi os comportamentos só pela
+
+[32:54] observação só pela observação ular só
+
+[32:57] que por exemplo se eu olho você 10 dias
+
+[32:59] eu não vou conseguir estabelecer ao
+
+[33:01] final dos 10 dias médias de
+
+[33:03] comportamento então por exemplo Ah o k
+
+[33:05] sempre janta 7 da noite né só que um dia
+
+[33:08] era 6 outro era à 8 aí depois de 10 dias
+
+[33:10] eu não posso tirar uma média sim em
+
+[33:12] média 7,6 né Essa média é uma variável
+
+[33:16] molar ela não é o comportamento mas uma
+
+[33:18] combinação dos comportamentos perfeito
+
+[33:21] Existe uma grande hoje não tanto mas
+
+[33:23] existe uma grande briga na literatura se
+
+[33:25] comportamento molar controla o indivíduo
+
+[33:28] se o indivíduo é regido por
+
+[33:29] comportamento molar e ele é ele é regido
+
+[33:32] também só que isso é um conflito porque
+
+[33:34] por exemplo Que horas você janta todo
+
+[33:36] dia você você vai me dar uma ideia mas
+
+[33:38] você não sabe você nunca parou para
+
+[33:40] pensar você só vai saber se você marcar
+
+[33:43] se você anotar todo dia uma semana você
+
+[33:45] vai saber que horário que você janta se
+
+[33:47] eu perguntar agora verbalmente você vai
+
+[33:48] me dar um palpite você você não sabe eu
+
+[33:51] sei que você não sabe porque você nunca
+
+[33:52] parou para pensar e tudo bem verdade e e
+
+[33:54] principalmente porque no meu caso tem
+
+[33:55] uma grande variância isso por exemplo o
+
+[33:58] seu corpo o seu corpo e emocional sabe
+
+[34:01] tanto é que ele te avisa ele tem ele tem
+
+[34:04] circularidades tem ritmos dele então
+
+[34:07] tanto é que quem manda você comer é o
+
+[34:09] seu corpo não é você o que você acha é o
+
+[34:11] corpo é a emoção verdade né que regula
+
+[34:13] esse comportamento sim então assim você
+
+[34:15] é controlado de forma próxima pelos
+
+[34:17] comportamentos moleculares tô com fome
+
+[34:20] tô com sede tá calor tá frio né tenho
+
+[34:23] que fazer tal coisa agenda tudo
+
+[34:24] comportamento próximo só que existe
+
+[34:26] também variáveis distantes tipo ah o que
+
+[34:29] que você vai fazer pro ano que vem Qual
+
+[34:30] que é o planejamento pro ano que vem
+
+[34:32] como que vai ser o naruro do ano que vem
+
+[34:33] né Isso são as variáveis molares eles
+
+[34:35] também planejam também tentam controlar
+
+[34:38] o seu comportamento então por exemplo
+
+[34:40] uma coisa eh quantos cigarros você fuma
+
+[34:42] outra coisa é o quanto você planeja
+
+[34:44] fumar no ano que vem é uma variável
+
+[34:46] molar também controla certo esse
+
+[34:48] conflito molar molecular é o que tá na
+
+[34:50] chave da cisão entre razão e emoção esse
+
+[34:53] conflito por quê Porque os
+
+[34:55] comportamentos emocionais eles são
+
+[34:57] definidos por meio da sua relação com o
+
+[34:59] tempo então por exemplo imagina que você
+
+[35:02] tem 5 minutos para escrever um texto Tá
+
+[35:04] bom e e é um texto de 20 linhas você tem
+
+[35:07] 5 minutos para criar um texto uhum Como
+
+[35:09] que você acha que você vai ficar aqui
+
+[35:10] você vai ficar feliz provavelmente não
+
+[35:13] você vai ficar meio bolado não vai não
+
+[35:15] vai dar um senso de urgência sim você
+
+[35:17] percebe ó que só só criando uma situação
+
+[35:19] com tempo limitado e uma tarefa não tão
+
+[35:22] fácil já vai gerar uma emoção em você
+
+[35:24] certo Uma emoção de ficar ali meio erado
+
+[35:27] né incomodado tá então as emoções são
+
+[35:30] definidas por meio da relação do
+
+[35:32] organismo com com o tempo também então
+
+[35:35] os comportamentos moleculares eles são
+
+[35:37] distribuídos no tempo próximo coisas de
+
+[35:40] minutos até um dia né comportamento
+
+[35:43] molar é uma coisa de semana mês ano que
+
+[35:46] te controla de longe isso tem um
+
+[35:48] conflito não tem nada mais moderno que
+
+[35:50] hoje pega a questão do aquecimento
+
+[35:51] global a gente tem que fazer alguma
+
+[35:53] coisa a gente tem que fazer alguma coisa
+
+[35:55] só que que variáveis que a gente tem que
+
+[35:57] mexer para mexer no aquecimento global
+
+[35:59] tem que mexer em variável molar Uhum que
+
+[36:01] é longe da gente então racionalmente se
+
+[36:04] você for na rua Pergunta para as pessoas
+
+[36:05] Ah você acha importante Diminuir a
+
+[36:07] quantidade de gás carbônico eu acho é
+
+[36:10] racional mas o que que a pessoa tá
+
+[36:11] fazendo no comportamento molecular dela
+
+[36:13] para mudar isso nada né nem acha que é
+
+[36:16] possível sim sabe sim e e e se começar a
+
+[36:19] ser possível ela vai reagir vai ter esse
+
+[36:22] conflito Ah sabe por exemplo aqui ó eu
+
+[36:24] não sei se você já parou para pensar
+
+[36:25] nisso para mim é cada vez mais insano
+
+[36:27] assim hoje tem mercadinhos a cada
+
+[36:30] esquina você já prou para pensar na
+
+[36:31] quantidade logística no esforço
+
+[36:33] Logístico e no desperdício que é você
+
+[36:35] manter todos esses mercadinhos com
+
+[36:37] reposição o tempo todo sem dúvida para
+
+[36:39] você ir lá e não dar senso de escassez
+
+[36:41] uhum percebe né Agora imagina imagina
+
+[36:44] que eu tipo eu vou mudar uma política
+
+[36:46] para assim para melhorar o meio ambiente
+
+[36:48] mesmo para diminuir efeito stuf e tal eu
+
+[36:51] vou começar a deixar esses mercadinhos
+
+[36:53] com buraco com falta tá vai gerar um
+
+[36:56] incômodo nos indivíduos terrível que vai
+
+[36:58] resvalar em outras coisas quando na
+
+[37:00] verdade o objetivo é ótimo sim percebe o
+
+[37:03] conflito emocional racional sim sim por
+
+[37:06] quê Porque Qual que é o desejo da da
+
+[37:08] emoção manter o status quo manter as
+
+[37:11] coisas funcionando do mesmo jeito Por
+
+[37:13] quê Porque o objetivo último das suas
+
+[37:15] emoções é fazer você ser uma pessoa
+
+[37:16] melhor não é você sobreviver passar o
+
+[37:19] gênes pra frente e quanto mais estável o
+
+[37:22] ambiente maior a chance do Sucesso
+
+[37:25] reprodutivo mesm ca de uma sociedade que
+
+[37:27] mata pessoas a granel sim para manter lá
+
+[37:30] o seu seu seu sua prateleira de biscoito
+
+[37:33] preenchida Ah sabe a a o conflito que a
+
+[37:36] gente tem hoje né nessa sociedade
+
+[37:39] complexa é o conflito molar molecular né
+
+[37:42] é o conflito entre a necessidade de
+
+[37:43] mudanças globais que vão afetar o
+
+[37:45] comportamento dos indivíduos e a reação
+
+[37:48] desses indivíduos de não querer mudar o
+
+[37:50] o comportamento próximo deles por quê
+
+[37:53] Porque boa parte dos indivíduos que T
+
+[37:54] privilégios naturalizar esses
+
+[37:57] privilégios como direitos e aí estão
+
+[37:59] sentindo que estão perdendo alguma coisa
+
+[38:01] você perde no curto prazo mas para um
+
+[38:03] bem maior no longo percebe como é
+
+[38:05] complicado né percebe que essa cisão
+
+[38:07] razão e Emoção Vem tudo próximo distante
+
+[38:10] molar molecular Inclusive essa discussão
+
+[38:13] do molar molecular é bem da Psicologia
+
+[38:15] experimental Mas tem uma discussão na
+
+[38:17] sua área né na comunicação você deve ter
+
+[38:19] ouvido falar do Del leus e o guatarri
+
+[38:21] tem tem esse povo é que o povo meio
+
+[38:25] bador de Tabor também viu tipo [ __ ] e
+
+[38:27] eu gosto do deleuse é que ele podia
+
+[38:29] falar de tambor é ótimo eu gosto do
+
+[38:31] deleuse mas ele podia ser menos
+
+[38:32] complicado ele podia explicar as coisas
+
+[38:34] que ele explica num décimo do das
+
+[38:35] páginas ia ser tão legal quanto ele usa
+
+[38:38] a mesma definição de molar e molecular
+
+[38:40] sabia ah é ele usa a mesma definição só
+
+[38:42] que não copiou lá da Psicologia ele
+
+[38:43] pegou com outra coisa ele fala ass
+
+[38:45] forças sociais a força molar né são
+
+[38:49] forças que dão base para o status quo
+
+[38:51] que são os hábitos Então todo dia de
+
+[38:53] manhã você vai você vai na padaria isso
+
+[38:56] é is é um hábito E aí conforme esse
+
+[38:58] hábito faz parte de você e você acostuma
+
+[39:00] você quer manter ele você quer manter o
+
+[39:02] status quo né tem a ver a gente tem um
+
+[39:04] narodo sobre isso sobre hábitos né O que
+
+[39:06] é a força de vontade que a gente fala
+
+[39:07] sobre isso boa parte dos nossos
+
+[39:09] comportamentos são hábitos né que a
+
+[39:11] gente emite mesmo é difícil abrir mão de
+
+[39:13] um hábito Então essas são as forças
+
+[39:15] molares é é a força da sua criação Então
+
+[39:18] pensa a sua criação por exemplo seus
+
+[39:19] pais o seu ambiente e e o que que seriam
+
+[39:22] as forças moleculares eh São esforços de
+
+[39:26] pequenos indivíduos ou grupos então por
+
+[39:29] exemplo quem você como oriental tal com
+
+[39:32] uma certa base né você resolveu fazer
+
+[39:35] uma uma reação a isso e começar a
+
+[39:38] trabalhar com um grupo de masculinidade
+
+[39:39] eh amarela por exemplo Isso é uma reação
+
+[39:42] Mas é uma reação molecular certo para
+
+[39:44] tentar mexer nesse status qu é molar mas
+
+[39:48] em você isso é um conflito é incômodo
+
+[39:50] porque você você se obriga a se
+
+[39:52] incomodar sabe pr pra maior parte das
+
+[39:55] pessoas do do do seu grupo O melhor é
+
+[39:58] ficar do jeito que tá é manter a força
+
+[40:00] molar né percebe e não e não ter o
+
+[40:03] incômodo né isso isso porque esse esse
+
+[40:05] incômodo Às vezes a a impede a pessoa de
+
+[40:08] se comportar e aí ela deixa de se
+
+[40:10] observar certo percebe ela ela ela não
+
+[40:12] reconhece mais o espectador dela mesma
+
+[40:15] Claro que ela faz isso tudo
+
+[40:16] inconscientemente não é sempre
+
+[40:18] inconscientemente mas percebe que é uma
+
+[40:20] reação difícil é uma inércia que você
+
+[40:22] tem que desfazer e refazer de novo né
+
+[40:25] Nem todo mundo tá pronto para isso nem
+
+[40:27] todo mundo tem Privilégio para isso tem
+
+[40:29] muita gente que se fizer isso deixa de
+
+[40:32] pagar as contas sabe então muita gente
+
+[40:34] age no status quo mesmo porque não tem
+
+[40:37] outra escolha né Isso é muito importante
+
+[40:40] por isso que existem pessoas que são
+
+[40:41] ótimas são boas pessoas que são
+
+[40:44] completamente eh eh negacionistas de
+
+[40:46] outro lado e vice-versa uhum pessoas
+
+[40:49] cientificamente muito coerentes mas que
+
+[40:51] são um entojo né esse é o conflito Essa
+
+[40:54] é a briga que a gente tem entre razão e
+
+[40:55] emoção dentro da gente a gente pode ser
+
+[40:58] uma pessoa que se julga boa tem uma boa
+
+[40:59] autoimagem mas pode ser muito [ __ ] com
+
+[41:02] outro e vice-versa sabe seja porque a
+
+[41:05] gente não quer abrir mão de um
+
+[41:06] privilégio que a gente entende que é um
+
+[41:08] direito ou seja você quer manter as
+
+[41:10] variáveis moleculares te controlando e
+
+[41:12] não pensar na molar não pensar no total
+
+[41:14] uhum sim e é isso é uma uma uma opção ou
+
+[41:18] às vezes você não dá conta de ser um
+
+[41:20] espectador que observa um eu seu
+
+[41:23] diferente sabe comigo aconteceu isso é
+
+[41:26] muito estranho a partir de um a partir
+
+[41:27] de um certo tempo da minha vida assim eu
+
+[41:29] comecei a olhar a mim mesmo nossa eu
+
+[41:31] mudei eu eu eu tô diferente isso gera
+
+[41:33] uma estranheza é um movimento você tem
+
+[41:35] que tipo eu percebi que eu mudei depois
+
+[41:37] de ter mudado sim sabe isso é
+
+[41:39] interessante né o quanto que você tá
+
+[41:41] contto dis comigo foi assim também é é
+
+[41:44] por isso que esse é um episódio muito
+
+[41:45] bom de final de ano a gente tem um
+
+[41:47] hábito né de gerar alguma reflexão de
+
+[41:48] final de ano os últimos dois episódios
+
+[41:50] foram sobre covid né então dos últimos
+
+[41:53] dois anos né e em cada um deles tinha
+
+[41:55] uma mensagem né um deles de do Anos
+
+[41:57] Atrás a mensagem era você lembrar da sua
+
+[42:00] ancestralidade né lembra dos seus avós
+
+[42:02] vis avós pergunta tenta saber quem é né
+
+[42:05] E você vai ver que alguns deles passaram
+
+[42:07] por muita privação ou não por privilégio
+
+[42:09] e muitos disso resval em você né No ano
+
+[42:12] passado a gente falou um pouco dessa
+
+[42:14] questão da de você assumir as suas
+
+[42:16] covardias de assumir assim esse esse
+
+[42:19] lado negativo que todo mundo tem mesmo
+
+[42:21] sabe Então tudo bem o seu tio
+
+[42:23] negacionista que fica tomando rabo de
+
+[42:25] galo falando bobagem de semana tem
+
+[42:27] certos espaços onde o que ele fala é
+
+[42:29] racional é aceitável sabe e e a gente
+
+[42:32] tem que discutir esses espaços de
+
+[42:34] racionalidade por ser racional demais a
+
+[42:36] emoção tá fora e é por isso que não muda
+
+[42:38] porque falta a emoção uhum aquele
+
+[42:41] indivíduo fica repetindo aquelas lógicas
+
+[42:43] dos outros o tempo inteiro porque ele
+
+[42:45] não dá conta de olhar para ele mesmo
+
+[42:47] porque se ele virar espectador dele
+
+[42:48] mesmo ele vai ter vergonha dele mesmo
+
+[42:50] isso é muito ruim daí a importância de
+
+[42:52] você assumir suas covardias né você tá
+
+[42:54] dizendo que isso é um mecanismo de
+
+[42:56] defesa mesmo né Social Social sim social
+
+[43:00] eu eu nem chamaria de defesa porque o
+
+[43:02] indivíduo não se sente atacado quando
+
+[43:04] ele tá dentro do grupo ele não tá
+
+[43:05] atacado mas ele se sentiria caso ele e
+
+[43:09] tivesse esse self awareness vamos dizer
+
+[43:13] assim sim mas é mais é mais a busca por
+
+[43:16] uma missão sabe sabe aquela coisa é é
+
+[43:18] mais entre aspas Nobre sabe tipo Uhum eu
+
+[43:21] quero que o mundo seja desse jeito
+
+[43:23] porque é esse jeito que eu acredito
+
+[43:24] certo e é legítimo é legítimo sabe esse
+
+[43:27] que é o negócio a grande reflexão para
+
+[43:29] esse ano é esse conflito o o conflito
+
+[43:31] molar molecular sabe e e que hoje né
+
+[43:35] pelo pelo fato do mundo tá muito mais
+
+[43:37] complexo a gente tem dinâmicas mais
+
+[43:38] complexas tem a questão do clima e e
+
+[43:40] tudo mais que é um problema é é é um
+
+[43:43] dado de realidade é um fato a gente vai
+
+[43:45] ser controlado por variáveis mais
+
+[43:47] distantes coisas dos nossos
+
+[43:49] comportamento vai ter que mudar eu
+
+[43:51] fiquei muito comovido até no no Tava
+
+[43:54] tendo congresso essa semana né da
+
+[43:56] né do do clima e tal e teve um
+
+[43:59] representante da das ilhas tuvalu que
+
+[44:01] que vai acabar tem um representante eh
+
+[44:04] das ilhas tuvalu que foi num num evento
+
+[44:06] eu vi a apresentação dele ele não
+
+[44:08] conseguiu começar a conversar ele já
+
+[44:10] tava chorando veja né porque ali era uma
+
+[44:12] discussão política e tal né Para
+
+[44:15] Mudar toda questão climática isso todo
+
+[44:17] mundo já sabe tem o nosso narodo sobre
+
+[44:19] aquecimento climático também né e tal
+
+[44:21] foi muito interessante assim me inspirou
+
+[44:23] bastante nesse Episódio porque ele ia
+
+[44:24] fazer um discurso ele já começou
+
+[44:26] chorando ele já começou mostrando a
+
+[44:28] emoção para mim ficou muito aquela
+
+[44:30] sensação parece que a racionalidade
+
+[44:31] falha não importa porque é aquela coisa
+
+[44:33] todo mundo sabe o que tem que ser feito
+
+[44:35] você já sabem o que tem que ser feito
+
+[44:37] porque vocês não fazem desgraçados e ele
+
+[44:39] falou uma coisa muito forte ele falou
+
+[44:41] assim eu eu só vim aqui assinar esse
+
+[44:43] documento que é a nossa declaração de
+
+[44:45] morte do meu povo mesmo porque não vai
+
+[44:48] mudar nada né são só palavras e todas as
+
+[44:51] pessoas que estão lá são pessoas
+
+[44:52] Racionais e esse é um problema perce
+
+[44:55] sabe que tá invertida a lógica sim sim a
+
+[44:58] lógica social é completamente invertida
+
+[45:00] essa busca por uma racionalidade é uma
+
+[45:02] Quimera é é a busca por um ideal de ego
+
+[45:04] que você nunca vai alcançar Deixa de ser
+
+[45:06] idiota a busca é pela é pela emoção
+
+[45:08] mesmo é observar o seu próprio
+
+[45:10] comportamento você tem que ser o o único
+
+[45:12] e grande espectador de você mesmo muita
+
+[45:15] gente fica sei lá tem fica pensando numa
+
+[45:17] vida pensando em alguém que seja o
+
+[45:20] espectador dela sabe eu não sei se na na
+
+[45:23] na sua vida você já teve isso quem de
+
+[45:25] você buscar alguém que tipo sempre que
+
+[45:27] você vai apresentar ou fazer alguma
+
+[45:29] coisa a pessoa tá lá ah sim isso sim é
+
+[45:31] não é não é essa coisa de fã de nada
+
+[45:33] sabe S sabe a pessoa que prestigia um
+
+[45:35] ponto de segurança assim né isso isso a
+
+[45:37] pessoa que prestigia sabe ela vai
+
+[45:39] prestigiar alguma coisa assim muita
+
+[45:41] gente tem essa busca né E hoje é uma
+
+[45:43] busca Muito difícil quase impossível
+
+[45:45] porque cada as pessoas não querem ser
+
+[45:47] prestigiar as outras elas querem estar
+
+[45:49] lá né e e é muito legal prestigiar
+
+[45:52] também é muito legal é um outro espaço
+
+[45:54] Sabe tem o nosso episo sobre gratidão é
+
+[45:56] muito importante para para isso também
+
+[45:58] né mas o o o o grande espectador de você
+
+[46:01] tem que ser você mesmo porque no fundo é
+
+[46:03] o que você tem né sabe então o o para
+
+[46:05] fechar o o episódio eu vou eu vou
+
+[46:08] retomar um um texto que foi no segundo
+
+[46:11] episódio sobre psicologia positiva nada
+
+[46:14] rodou sobre psicologia positiva Tenho
+
+[46:16] que trazer esse cara de novo porque eu
+
+[46:17] li de novo o livro dele já um tempão
+
+[46:19] para ler eu li de novo porque o livro é
+
+[46:21] ótimo né a condição pós-moderna do Jean
+
+[46:23] Fran
+
+[46:24] leotard
+
+[46:26] Uhum que ele fala da da questão da
+
+[46:29] pós-modernidade assim né E aí ele coloca
+
+[46:32] que a a o sujeito da época que é o
+
+[46:33] sujeito Moderno agora é o sujeito da
+
+[46:36] agência isso começou na Revolução
+
+[46:38] Industrial Revolução Industrial mercado
+
+[46:40] e tal então a gente Abriu Mão de Deus
+
+[46:43] não tem mais Deus não tem mais isso aí o
+
+[46:44] Deus é o Deus mercado não tem mais o rei
+
+[46:47] agora é o Deus mercado então o sujeito
+
+[46:49] se empodera sujeito tem agência eu eu eu
+
+[46:52] tenho que me desenvolver né eu tenho que
+
+[46:54] desenrolar tenho que virar o qu
+
+[46:55] trabalhador desgraça a educação para
+
+[46:58] isso agradar agradar o neoliberalismo é
+
+[47:02] tudo aquilo lá e aí assim isso vem da
+
+[47:04] revolução desde a revolução industrial
+
+[47:06] qual que é o papel hoje né Como a
+
+[47:08] tecnologia ela não é voltada paraa
+
+[47:10] educação eh e nem pro trabalho mas sim
+
+[47:12] pro capital a tecnologia porque a
+
+[47:14] tecnologia podia se voltar para qualquer
+
+[47:16] coisa né mas ela se volta pro pro
+
+[47:18] capital qual que foi o impacto disso que
+
+[47:20] é o diagnóstico Fantástico do leotard
+
+[47:22] ele fala assim que que a a e e o Olha
+
+[47:25] que ele falou isso em 77 isso é agora é
+
+[47:28] agora que tá acontecendo morreu e deixou
+
+[47:30] o negócio né Ele fala o efeito da
+
+[47:33] tecnologia do mercado gerou um impacto
+
+[47:36] no meio social que é o empoderamento do
+
+[47:38] indivíduo o indivíduo fica mais poderoso
+
+[47:40] então o sujeito tem agência então o o
+
+[47:43] Como que chama o aquela coisa americana
+
+[47:46] o mundo das das possibilidades do do
+
+[47:49] Futuro self-made Man sabe o negócio
+
+[47:51] assim n sim sim o sonho americano sonho
+
+[47:54] americano isso E aí isso era a morte da
+
+[47:56] razão ele decreta a morte da razão por
+
+[47:58] quê Porque essa razão como uma crença
+
+[48:01] baseada numa evidência única não tem
+
+[48:03] mais Existem razões e aí Começam a
+
+[48:06] surgir as meta narrativas então o o
+
+[48:09] mundo se divide em grupos cada grupo tem
+
+[48:11] uma narrativa interna e a ideia é você
+
+[48:13] ser coerente internamente Mesmo que não
+
+[48:15] seja coerente externamente e aí aparece
+
+[48:18] uma uma terceira entidade né Desse
+
+[48:20] Sujeito da agência que é a
+
+[48:22] performatividade eu tenho que ser capaz
+
+[48:24] de performar dentro do meu grupo uhum né
+
+[48:27] E aí aí volta o ideário grego Porque os
+
+[48:29] gregos Eles não queriam ser cientistas
+
+[48:31] os gregos para acender socialmente
+
+[48:33] porque a sociedade o cidadão grego era
+
+[48:35] muito bom ser cidadão grego quando você
+
+[48:37] tá rodeado de escravo porque aí você não
+
+[48:39] trabalha né então e aí como é que um um
+
+[48:41] cidadão grego virava Senador com
+
+[48:44] oratória e retórica que é o que a gente
+
+[48:46] tem agora todos esses guru de tiktok
+
+[48:48] verdade isso é a performatividade você
+
+[48:51] faz a performatividade cria um grupo
+
+[48:53] dentro desse grupo você tem seguidores E
+
+[48:55] aí você cria uma racionalidade ali
+
+[48:57] dentro eu diria que a classe política
+
+[48:59] também tá por aí né Então aí muda o
+
+[49:02] discurso político o discurso político
+
+[49:04] agora ele não é um discurso mais
+
+[49:06] conciliador por isso que a gente tem uma
+
+[49:08] política polarizada e é dessa desse
+
+[49:10] discurso pós-moderno ser polarizado por
+
+[49:12] quê Porque o objetivo da política não é
+
+[49:14] conciliar é estabelecer um discurso
+
+[49:17] razoável uhum dentro de cada meta
+
+[49:20] narrativa sim por exemplo eu vou eu sou
+
+[49:23] um político eu vou lá no meio dos dos
+
+[49:25] iro eu vou fazer um discurso para eles e
+
+[49:28] depois vou lá no MST eu faço outro
+
+[49:29] discurso porque os dois grupos não
+
+[49:31] conversam sim um não vai saber do
+
+[49:33] discurso do outro então eu só preciso
+
+[49:35] ser racional internamente e emocional
+
+[49:38] externamente percebe é muito louco né
+
+[49:41] não é muito louco é não e essa coisa de
+
+[49:44] de jogar pra sua própria torcida né
+
+[49:47] assim então é é né também é um performar
+
+[49:50] polarizador né e é muito triste por quê
+
+[49:53] Porque é um culto racionalidade vazia de
+
+[49:55] uma cambada de indivíduos que
+
+[49:57] internamente vem sentido mas num mundo
+
+[50:00] muito pequeno e restrito e Eles não
+
+[50:01] conseguem se observar não consegue se
+
+[50:04] abrir abrir mão do sofrimento por quê
+
+[50:06] Porque essa maldita tecnologia de hoje
+
+[50:08] que serve por capital ela serve para
+
+[50:10] fazer você não sofrer para você ser uma
+
+[50:12] pessoa mais feliz não PR você trabalhar
+
+[50:13] mais que desgraça inferno do satanás
+
+[50:17] sabe então essa coisa das
+
+[50:19] micronarrativas é aquilo é como se você
+
+[50:21] se perguntasse o tempo todo quem você é
+
+[50:23] o que você tem sido Então você tem que
+
+[50:25] estar o tempo inteiro o que o que que eu
+
+[50:27] tenho sido Como é que você sabe o que
+
+[50:29] você tem sido através da reação dos
+
+[50:31] outros na internet os like né os Stories
+
+[50:34] isso é a retrolental do que você tem
+
+[50:36] sido então você não é mais espectador de
+
+[50:39] você mesmo você é espectador da sua
+
+[50:40] Persona virtual verdade logo você fica
+
+[50:43] incapaz de sentir você não tem mais
+
+[50:45] emoções né e é por isso que tem um monte
+
+[50:48] de Guru dando remédio mágico para você
+
+[50:50] tentar sentir alguma coisa e quando você
+
+[50:52] consegue você quer voltar e não sentir
+
+[50:54] mais porque esse mundo m é um inferno
+
+[50:56] não é
+
+[50:58] desgraça eu pensei que a gente ia deixar
+
+[51:00] uma mensagem positiva pro fim do ano
+
+[51:02] aqui ó então muito bem que é uma
+
+[51:04] mensagem positiva positiva no sentido do
+
+[51:07] Augusto conte não não no sentido de
+
+[51:09] feliz certo no sentido de de de
+
+[51:12] pensamento positivo positivo é a solução
+
+[51:14] existe se a gente tivesse num mundo sem
+
+[51:17] solução aí eu estaria preocupado as
+
+[51:19] soluções existem a natureza o ambiente é
+
+[51:21] positivo para informar as respostas
+
+[51:24] estão aí você só tem que se abrir pro
+
+[51:26] sofrimento abraçar ele com toda a força
+
+[51:28] que você tem porque é muito interessante
+
+[51:30] em geral as pessoas evitam o sofrimento
+
+[51:32] né então você faz um comportamento agora
+
+[51:35] aí depois você se arrepende você fez um
+
+[51:37] negócio o sofrimento vem depois Se você
+
+[51:39] começar a prestar atenção no seu
+
+[51:41] comportamento que faz você sofrer o que
+
+[51:43] que acontece o delay o atraso entre o
+
+[51:46] comportamento e você se sentir mal
+
+[51:48] diminui Uhum Então assim eu não quero
+
+[51:51] fazer tal coisa Aí eu fiz droga Aí
+
+[51:53] fiquei mal aí eu fiz de novo [ __ ] aí aí
+
+[51:56] você começa a sofrer com cada vez mais
+
+[51:58] frequência sim porque o delay vai
+
+[52:00] ficando menor não é 99% das pessoas
+
+[52:02] desiste aí uhum desiste não é para
+
+[52:05] desistir é para continuar vai chegar uma
+
+[52:07] hora que você vai sofrer tanto que vai
+
+[52:09] inverter você vai começar a sofrer antes
+
+[52:12] de fazer o comportamento e é aí que você
+
+[52:14] muda você consegue
+
+[52:16] prever não dá para passar por isso sem
+
+[52:19] sofrer para um [ __ ] não dá então a
+
+[52:22] maior parte das pessoas tem uma
+
+[52:23] desconexão entre o comportamento e a
+
+[52:25] depois que é o sofrimento sim até porque
+
+[52:27] a gente vive numa sociedade que né
+
+[52:30] recorre a analgesia vamos dizer assim
+
+[52:32] quando quando sente dor ex exatamente
+
+[52:35] Então você joga o sofrimento lá pra
+
+[52:37] frente como o delay é grande você não
+
+[52:39] culpa mais a você mesmo você culpa o
+
+[52:41] outro sim a culpa é sua a culpa é do
+
+[52:43] fulano do ciclano quando na verdade é
+
+[52:45] sua você que é o otário Conforme você
+
+[52:46] abraça esse sofrimento ele vai
+
+[52:48] aproximando aproximando aproximando
+
+[52:49] chega uma hora que ele inverte a hora
+
+[52:51] que inverte é quando você vai começar a
+
+[52:52] prever E aí você controla o seu
+
+[52:53] comportamento e aí a sim as coisas
+
+[52:55] começam a mudar que falei eu vou
+
+[52:57] escolher não sofrer porque agora eu já
+
+[52:59] sei o que gera você sofre antes e aí a
+
+[53:02] coisa muda certo e aí que você aprende é
+
+[53:04] aí que a emoção de fato condiciona a
+
+[53:07] razão Uhum é nessa parte que que assim
+
+[53:10] queja quando o sofrimento vier viva esse
+
+[53:12] sofrimento não fica tentando evitar e de
+
+[53:16] confrontar ele sim para que depois ele
+
+[53:19] possa mudar esse seu comportamento e aí
+
+[53:21] tem um tem tem uma parte final assim que
+
+[53:23] é um pouco triste assim que é assim não
+
+[53:25] é todo mundo que consegue isso não não e
+
+[53:28] não é uma questão de habilidade Tem
+
+[53:30] muita gente que pela desigualdade mesmo
+
+[53:32] por isso que o meu desejo é por um mundo
+
+[53:34] menos desigual onde as pessoas consigam
+
+[53:36] sofrer o suficiente para aprender Claro
+
+[53:38] a maior parte das pessoas não consegue
+
+[53:40] chegar nesse nesse ponto de Sofrimento
+
+[53:42] Extremo não consegue porque tem conta
+
+[53:44] para pagar ela não se dá essa chance
+
+[53:46] porque ela não tem chance Sim é o mesmo
+
+[53:48] que pedir pro povo de tuvalu paciência
+
+[53:52] exatamente E aí tem pros dois lados tem
+
+[53:54] o desvalido que ele não consegue nem se
+
+[53:56] dar o trabalho de sofrer para aprender
+
+[53:58] então ele vai reproduzir status qu e
+
+[54:00] pensamento conservador que escolhe o
+
+[54:02] cara tem tá certo o objetivo dele é é
+
+[54:05] ser igual influencer mesmo né triste e a
+
+[54:08] pessoa que tem muito privilégio a pessoa
+
+[54:10] que tem privilégio demais quando ela tá
+
+[54:12] muito mal aí tem psicólogo terapeuta vai
+
+[54:14] fazer viagem vai fazer um monte de coisa
+
+[54:16] e tal para no final não precisaria de
+
+[54:18] nada disso só precisa criar vergonha na
+
+[54:20] cara e mudar né e e e bater com esse
+
+[54:22] sofrimento até mexer tem gente que tem
+
+[54:24] demais tem gente que tem de menos no
+
+[54:26] final ambos sofrem é um inferno sabe
+
+[54:29] então a a a a mensagem desse ano é é é é
+
+[54:32] uma mensagem assim de de honestidade
+
+[54:35] sabe de honestidade intelectual sabe de
+
+[54:38] parar com essa coisa de razão emoção
+
+[54:39] tudo é é emocional se você conseguir ser
+
+[54:43] uma pessoa que lida bem com o seu
+
+[54:44] sofrimento e inverte isso eu eu consegui
+
+[54:47] poucos momentos na minha vida ter essa
+
+[54:48] inversão mas são fenômenos
+
+[54:51] insubstituíveis são aprendizados Eu
+
+[54:53] recomendo que todo mundo uma vez na vida
+
+[54:56] faça alguma coisa que você dê 110% de
+
+[54:59] você para fazer mesmo que você não
+
+[55:00] consiga uhum essa coisa eu dei tudo né
+
+[55:04] no o judô é muito assim né você dá tudo
+
+[55:06] lá mesmo que você perca ou ganha eu fiz
+
+[55:08] o meu melhor é isso você tem que sentir
+
+[55:10] isso sabe aí sim a emoção explica a sua
+
+[55:13] razão te dá insumos para você aprender
+
+[55:16] de verdade e faça isso fora do trabalho
+
+[55:19] isso faça faça isso com uma atividade
+
+[55:22] esportiva uma atividade artística né
+
+[55:25] alguma coisa que expanda seu Horizonte
+
+[55:27] assim sim exatamente e sem esquecer do
+
+[55:30] método galinha o método galinha não
+
+[55:31] deixa de ser um método para isso também
+
+[55:33] é verdade
+
+[55:35] alí então muito obrigado por mais um ano
+
+[55:40] você é um cara que me inspira todos os
+
+[55:43] dias a seguir em frente eu tenho que te
+
+[55:46] falar que você é uma pessoa que
+
+[55:48] transformou minha vida né uma das
+
+[55:50] pessoas que transformou minha vida
+
+[55:53] Igualmente e eu desejo pros nossos
+
+[55:55] ouvintes e nossos ouvintes que vocês
+
+[55:57] também tenham uma pessoa assim nas suas
+
+[56:01] vidas a gente se despede de
+
+[56:04] 2023 Reginaldo V Reginaldo Reginaldo ai
+
+[56:10] Reginaldo você é tão bom tão bom para
+
+[56:14] mim Reginaldo você também tá 2023
+
+[56:19] sensacional Então vamos ter um 2024
+
+[56:22] melhor ainda encarando os Sofrimentos da
+
+[56:26] vida e fazendo com que ele mude nosso
+
+[56:28] comportamento para melhor tá certo Ataí
+
+[56:30] ex isso bom final de ano a todos é isso
+
+[56:33] daí inaro rodou
+
+[56:48] ilustríssimo E você já sabe aqui no naro
+
+[56:51] rodó quem faz a pauta é você Você tem
+
+[56:54] alguma pergunta
+
+[56:55] ou Quer comentar algum episdio escreva
+
+[56:57] nós podcast
+
+[57:00] @n.com repetindo
+
+[57:03] podcast.com.br e lembre-se mande nome
+
+[57:06] completo idade profissão e a cidade de
+
+[57:09] onde você está falando É ISO
+
+[57:11] [Música]
+
+[57:23] aí
+
+[57:31] com.br

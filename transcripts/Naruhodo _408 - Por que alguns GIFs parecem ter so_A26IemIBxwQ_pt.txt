@@ -1,0 +1,2173 @@
+Title: Naruhodo #408 - Por que alguns GIFs parecem ter som?
+URL: https://www.youtube.com/watch?v=A26IemIBxwQ
+Language: pt
+Extracted on: 2025-04-06 16:39:00
+================================================================================
+
+[00:01] por alguns gifs parecem ter
+
+[00:04] [Música]
+
+[00:11] som bemvindo ao nar Rod podcast para
+
+[00:14] quem tem fome de aprender eu sou quem
+
+[00:16] fioca eu sou Souza e hoje é dia de qu
+
+[00:19] fis e
+
+[00:21] [Música]
+
+[00:23] úteis você quer apoiar a ciência quer
+
+[00:26] apoiar o pensamento científico quer
+
+[00:28] ajudar o narod se manter no ar ouvir os
+
+[00:32] episódios e espalhar a palavra já é um
+
+[00:34] grande passo mas existe um outro jeito
+
+[00:36] quem possibilita isso é a orelo você
+
+[00:40] escolhe um valor de contribuição mensal
+
+[00:42] e tem acesso a conteúdos exclusivos
+
+[00:44] conteúdos antecipados e vantagens
+
+[00:47] especiais Além disso você pode ter
+
+[00:49] acesso ao nosso grupo fechado no
+
+[00:50] telegram e conversar comigo com alí e
+
+[00:53] com outros apoiadores Toda vez que você
+
+[00:56] ouvir ou fizer download de um episódio
+
+[00:58] pelo aurelo vai também estar pingando
+
+[01:00] uns trocadinhos para o nosso projeto
+
+[01:02] Combinado então baixa agora mesmo o app
+
+[01:05] orelo no endereço orelo.cc ou na sua
+
+[01:09] loja de aplicativos e ajude a fortalecer
+
+[01:12] o conhecimento
+
+[01:19] científico sabe quem mais chegou com
+
+[01:23] 2024 a primeira imersão frontend da lura
+
+[01:27] perfeita para começar o ano se
+
+[01:28] aprofundando em teologia em cinco aulas
+
+[01:31] gratuitas você vai mergulhar em HTML em
+
+[01:35] CSS e criar uma página web responsiva e
+
+[01:38] com layouts avançados é 100% online 100%
+
+[01:43] gratuito e com certificado de
+
+[01:45] participação com a melhor didática e as
+
+[01:48] melhores professoras e professores você
+
+[01:51] ainda terá acesso gratuito a luri a
+
+[01:53] inteligência artificial da lura e vai
+
+[01:56] interagir com a comunidade Dev e
+
+[01:57] aproveitar o espaço para Network no
+
+[02:00] discot mais de 1 milhão de pessoas já
+
+[02:03] mergulharam nas imersões da lura chegou
+
+[02:06] a sua vez de explorar esse novo universo
+
+[02:09] Então faça sua inscrição grátis agora
+
+[02:11] mesmo porque olha as vagas são limitadas
+
+[02:16] alura TV bar narod traço imersão
+
+[02:19] frontend tudo junto repetindo alura TV
+
+[02:24] bar narod traço imersão
+
+[02:28] frontend
+
+[02:31] [Música]
+
+[02:36] al aí feliz 2024 antes de mais nada aí
+
+[02:40] exatamente Feliz ano novo a todos vamos
+
+[02:42] começar com uma pergunta prosaica né
+
+[02:45] prosaica daquelas que a gente gosta né í
+
+[02:48] isso na verdade reflete foi uma soma de
+
+[02:51] pequenas Coincidências essa pergunta tem
+
+[02:52] um histórico bem legal por trás dela que
+
+[02:54] vamos tratar hoje Tá certo então a
+
+[02:57] pergunta veio do ouvinte Rob Mateus
+
+[03:01] moitinho que é de Volta Redonda no Rio
+
+[03:04] de Janeiro Air e ele diz o seguinte olá
+
+[03:08] quem taí parabéns pelo naro rodou é o
+
+[03:10] meu grande repositório de coisas que eu
+
+[03:12] nunca imaginaria que iria querer saber
+
+[03:15] Direto e Reto eu queria saber porque
+
+[03:17] alguns gifs aquelas animações que usamos
+
+[03:20] no WhatsApp no Twitter ou no sites por
+
+[03:23] aí parecem que imitem sons sem estarem
+
+[03:26] emitindo de verdade tem um gif de ação
+
+[03:30] de duas torres de energia que estão
+
+[03:32] brincando de pular corda com outra sei
+
+[03:35] que parece meio Psicodélico mas dá para
+
+[03:37] achar esse gif facilmente e cada vez que
+
+[03:40] a torre está pulando corda bate no chão
+
+[03:44] tudo treme e parece que eu ouço o som
+
+[03:46] disso por que isso acontece Obrigado
+
+[03:50] pelo naro rodou e por ajudar tanta gente
+
+[03:52] a errar menos Obrigado você pela
+
+[03:56] pergunta Roberto a pergunta que gera
+
+[03:59] aqui pra gente o primeiro episódio de
+
+[04:02] 2024 alí que que a ciência Pode dizer a
+
+[04:06] respeito disso alta e você já viu o GIF
+
+[04:09] que o que o Roberto se refere Eu já vi
+
+[04:12] então vamos deixar na descrição tá assim
+
+[04:15] ele ele vai ficar na capa do episódio
+
+[04:16] mas é é é legal você ter acesso ao GIF
+
+[04:19] para ver tá ele vai ser no primeiro link
+
+[04:21] da descrição do dos links do episódio
+
+[04:23] ele vai ser o primeiro o twit original
+
+[04:25] né esse twit não se sabe exatamente
+
+[04:27] quando ele surgiu assim o gif né a
+
+[04:30] animação não se sabe exatamente quando
+
+[04:32] mas ela assim viralizou em 2017 tá esse
+
+[04:36] então a a aqui vale a pena vamos começar
+
+[04:38] primeiro pela história que é que eu
+
+[04:40] achei curiosa é bonitinha assim em 2017
+
+[04:43] uma uma moça né no Twitter que é a Lisa
+
+[04:46] de bruini ela publicou esse esse grif
+
+[04:50] essa animação né que é são duas torres
+
+[04:52] de energia e que bom essas Torres de
+
+[04:55] energia grandes né acho que todo mundo
+
+[04:57] conhece Torres de transmissão de de
+
+[04:59] energia elas pegavam os cabos que
+
+[05:01] conectavam umas uma a outra e
+
+[05:03] transformaram tipo numa corda e tinha
+
+[05:05] uma terceira torre pulando corda tá é é
+
+[05:08] é uma coisa bem louca assim mas mas
+
+[05:10] quando você vê a imagem faz sentido
+
+[05:12] assim né E e aí ela publicou essa imagem
+
+[05:14] e toda vez quando a torre bate no chão
+
+[05:16] dá uma tremida na na imagem né E aí ela
+
+[05:19] colocou no Twitter em 2017 e perguntou
+
+[05:21] eh alguém alguém aí ouve sons Quando
+
+[05:25] você vê o gif né E ela postou uma um uma
+
+[05:29] enquete né isso em 2017 e 67% das
+
+[05:34] pessoas diz estarem ouvindo alguma coisa
+
+[05:37] né um som é tipo uma curiosidade de
+
+[05:40] Twitter né assim sete em 10 7 em 10 ouvi
+
+[05:42] o som isso e e e legal assim o Twitter
+
+[05:47] podia servir para essas coisas né de de
+
+[05:49] tipo curiosidades né gerar alguma alguma
+
+[05:51] coisa né interessante e tal mas aí tudo
+
+[05:54] bem mas o mais interessante é que tinha
+
+[05:56] um pesquisador na mesma época 2017 que é
+
+[05:59] o
+
+[06:00] né Por acaso né ele estava estudando
+
+[06:04] esse fenômeno na universidade era parte
+
+[06:06] do doutorado dele por acaso aí ele achou
+
+[06:09] porque esse twit viralizou muito na
+
+[06:11] época ele achou e entrou em contato com
+
+[06:13] a moça né e falou olha aproveita aí que
+
+[06:16] viralizou eu tô fazendo minha pesquisa
+
+[06:18] tipo Aproveita e Divulga a minha
+
+[06:20] pesquisa né porque aí eu explico mais do
+
+[06:22] fenômeno e tal e eles fizeram Bem Bolado
+
+[06:25] e aí o o o Cris conseguiu terminar a
+
+[06:27] pesquisa dele graças a ela e eles eram
+
+[06:30] desconhecidos Olha só muito interessante
+
+[06:32] né E aí no ano seguinte ele publica né o
+
+[06:35] o artigo relacionado a esse fenômeno
+
+[06:37] então assim caso você veja esse gif
+
+[06:39] tanto é que outras pessoas publicaram
+
+[06:41] outros gifs com a mesma ideia né era
+
+[06:43] alguém pulando quando batia no chão
+
+[06:45] termia tudo e parece que você ouve o som
+
+[06:47] certo então assim e E aí surgiu a
+
+[06:50] explicação então assim a a o termo que
+
+[06:52] gerou a a resposta dessa pergunta surgiu
+
+[06:54] em 2017 então cientificamente é hoje né
+
+[06:58] muito recente sim sim sim e E aí o o
+
+[07:02] conceito é chamado Viar então é v e a r
+
+[07:06] né ear de ouvid a er isso é é ear de
+
+[07:10] ouvido né ear e o v na frente então é o
+
+[07:14] visual ear né ouvido visual certo essa a
+
+[07:17] ideia aí a sigla né e quer dizer
+
+[07:20] visually evoked auditory response então
+
+[07:23] são respostas auditivas evocadas
+
+[07:26] visualmente então assim a explicação
+
+[07:29] direta assim né que não explica nada só
+
+[07:31] descreve né Por que que você ouve sons
+
+[07:33] Quando você vê certos gifs que tem
+
+[07:35] movimento por causa do Viar desse
+
+[07:37] fenômeno né eu tô descrevendo mas não tô
+
+[07:40] explicando porque eu não expliquei o que
+
+[07:41] que é o vir tá mas mas então assim se
+
+[07:43] você vê se você vê esses gifs batendo e
+
+[07:46] você ouve o som na na na sua cabeça eu
+
+[07:49] tem uma sensação de som é totalmente
+
+[07:50] normal não tem nenhum problema é é
+
+[07:53] normal inclusive o o o o autor né dessa
+
+[07:56] pesquisa o Chris fedit ele descreveu que
+
+[07:59] tipos de GIF geram maior probabilidade
+
+[08:01] de gerar sons então em geral São gifs de
+
+[08:04] movimento e tem que dar uma sensação de
+
+[08:06] uma pancada forte então ele ele postou
+
+[08:10] um outro GIF por exemplo que eram dois
+
+[08:12] carros vindo e para bater um no outro
+
+[08:14] sabe e E aí você dá a sensação que eles
+
+[08:17] quando bate eles fazem um som mesmo pá
+
+[08:19] né da da batida do carro tá é então a
+
+[08:22] tela tremendo na hora que a torre tá
+
+[08:24] pulando também ajuda a dar esse efeito
+
+[08:27] ajuda ajuda dar essa ambientação e tem e
+
+[08:29] tem que ser a sensação de ser uma
+
+[08:31] pancada forte então por exemplo se você
+
+[08:33] faz um gif de um de um bichinho Magrinho
+
+[08:36] pulando né não dá a mesa sensação se for
+
+[08:39] um bichinho gordinho por exemplo tem uma
+
+[08:41] coisa de peso mesmo tá então Quanto
+
+[08:43] quanto mais parecido com a existência da
+
+[08:45] probabilidade do som for mais e eh mais
+
+[08:49] Viar você gera tá eh então você tá vendo
+
+[08:52] esse gif né Não sei se você já já deve
+
+[08:54] ter visto alguma vez na sua vida né
+
+[08:56] porque ele ele viralizou eventualmente
+
+[08:57] você vê mas dá essa sensação de som para
+
+[08:59] você quem Quando você vê olha eu
+
+[09:02] confesso para você que mais ou menos é
+
+[09:07] então é é é que às vezes assim tem
+
+[09:09] algumas pessoas que ouvem o som dentro
+
+[09:11] da cabeça tum tum batendo tem outras que
+
+[09:14] ouvem alguma coisa não precisa ser um
+
+[09:16] som mas dá uma sensação assim tipo não
+
+[09:19] não você não ouve silêncio tá sabe a
+
+[09:21] ativação não gera silêncio gera alguma
+
+[09:23] coisinha faz sentido tá então tem tem
+
+[09:25] pessoas que ouvem o som mesmo tem
+
+[09:28] pessoas que ouvem uma sensação que ela
+
+[09:30] não decodifica como som Então ela vê lá
+
+[09:32] a torre batendo pom pom pom ela não ouve
+
+[09:34] o som mas ela ouve alguma ativação e tem
+
+[09:37] gente que não ouve nada e tudo bem os
+
+[09:39] três são normais não tem nenhum problema
+
+[09:42] tá o os artigos a partir de 2018 19 que
+
+[09:46] começaram a a mostrar mais desse
+
+[09:47] fenômeno no Twitter era em torno de 67%
+
+[09:51] mas aí a mostragem eraa toda aleatória
+
+[09:53] Às vezes as pessoas queriam fazer parte
+
+[09:54] do grupo então colocava lá mas aí em
+
+[09:57] estudos mais sistemáticos eh parece que
+
+[10:00] a prevalência tá em torno de 1/4 tá né
+
+[10:02] Eh eh 25% tá mais ou menos 25% das
+
+[10:06] pessoas ouve o som mesmo certo o que é
+
+[10:08] muito interessante Então por exemplo eh
+
+[10:11] sabe quando sei lá você tá numa sala e
+
+[10:13] tá tá ventando e vai bater a porta você
+
+[10:16] tá longe não vai dar tempo de você
+
+[10:17] chegar e aí você vê a porta fechando né
+
+[10:20] E vai bater Uhum aí no último no último
+
+[10:22] instante alguém segura a porta Às vezes
+
+[10:24] você ouve o barulho você ouve o tof um
+
+[10:27] pouco antes sabe Às vezes você não ouve
+
+[10:29] o som Mas ouve antecipasse o som que
+
+[10:32] seria causado por uma
+
+[10:34] eventual isso você antecipa o seu
+
+[10:36] cérebro antecipa E aí é muito
+
+[10:38] interessante estudar o o o o mecanismo
+
+[10:41] disso né E aí o o o o artigo original né
+
+[10:44] o primeiro artigo de 2017 depois de 2018
+
+[10:46] eh eh como que você trabalha com isso em
+
+[10:48] laboratório né eles fazem isso com
+
+[10:51] flashes de luz tá flashes de luz então
+
+[10:53] você coloca uma tela preta com uma
+
+[10:56] luzinha piscando um círculo piscando Ok
+
+[11:00] eh inclusive vou pedir pro pro Reginaldo
+
+[11:01] um obséquio né você com certeza você
+
+[11:03] lembra do código morse né lembra do
+
+[11:05] código morse do sonzinho que faz sim sim
+
+[11:08] eh Então imagina o o Reginaldo vai botar
+
+[11:10] um exemplo né de um sonzinho de código
+
+[11:12] marce cada cada batidinha aquele pi pi
+
+[11:15] pi pi pi né Cada cada pi ele associa com
+
+[11:18] uma com uma bolinha piscando numa tela
+
+[11:21] tá Então imagina lá uma tela preta com
+
+[11:23] uma bolinha piscando e aí cada vez que a
+
+[11:25] bolinha pisca dá um sonzinho como se
+
+[11:27] fosse um código morse mesmo tá certo
+
+[11:29] você não precisa saber nada das
+
+[11:30] letrinhas do código mor nada só para
+
+[11:32] associar aí o o o experimento é muito
+
+[11:35] muito criativo né eles fizeram o
+
+[11:37] seguinte eles pegaram um monte de
+
+[11:39] pessoas várias pessoas e mostrava esse
+
+[11:42] essa imagem da da luzinha piscando sem o
+
+[11:45] som sem o som só a luzinha piscando num
+
+[11:48] certo ritmo né Uhum E aí mostrava lá
+
+[11:50] pras pessoas por uns minutos depois
+
+[11:52] perguntava você ouviu o som você chegou
+
+[11:55] a ouvir algum som enquanto tava batendo
+
+[11:57] lá a luzinha né piscando
+
+[11:59] mais ou menos 22% das pessoas diziam que
+
+[12:02] sim perto de um 1/4 né 22% das pessoas
+
+[12:05] dizia aí eu separava essas pessoas
+
+[12:08] separei essas pessoas que já ouviam o
+
+[12:10] som né E aí eu fiz um outro experimento
+
+[12:13] em que eu pegava um grupo de pessoas que
+
+[12:15] não ouviu o som não ouviu versus o grupo
+
+[12:18] de pessoas que Ouviu né E aí eu colocava
+
+[12:20] a colocava uma tela de computador também
+
+[12:23] com a luzinha piscando só que agora
+
+[12:25] tinha o som tinha o som
+
+[12:27] tá mostrava por exemplo a bolinha a a
+
+[12:30] bolinha a ela pisca num certo ritmo
+
+[12:33] Então ela pisca três vezes depois uma dá
+
+[12:35] uma pausa tem um certo padrão né E aí
+
+[12:37] tinha a bolinha b a bolinha B tinha um
+
+[12:40] padrão diferente tá de de piscadas e a
+
+[12:43] bolinha C tinha um padrão parecido com
+
+[12:45] um A tá então tinha a bolinha a que
+
+[12:47] tinha um padrão de piscadas a bolinha B
+
+[12:49] tinha um padrão diferente e a bolinha C
+
+[12:51] era parecida com a a né E aí o que que
+
+[12:53] eles fizeram nesse experimento eles
+
+[12:55] mostravam as três bolinhas piscando com
+
+[12:57] o som junto com som né e e pedia pra
+
+[13:02] pessoa perguntar qual delas estavam
+
+[13:03] piscando igual quais bolinhas eram eram
+
+[13:06] iguais tinha o mesmo ritmo né Uhum E aí
+
+[13:09] mostrou pros dois grupos o grupo de
+
+[13:11] pessoas que ouvi o som antes ouvi sem o
+
+[13:14] o o ruído e o grupo de pessoas que não
+
+[13:17] ouviu quem você acha que acertou mais
+
+[13:19] descobriu mais
+
+[13:22] rápido não sei dizer eu tô aí as pessoas
+
+[13:25] que tinham a pré-ativação de evocar os
+
+[13:28] sons por conta própria ou as pessoas que
+
+[13:30] não conseguiam associar o piscar com o
+
+[13:32] som quem você acha que eu eu diria que o
+
+[13:34] primeiro grupo então o exatamente o
+
+[13:37] grupo que ouviu o som aleatoriamente que
+
+[13:39] inventou o som né E aí a a a uma
+
+[13:42] explicação que eles dão é assim então
+
+[13:44] então esse um quarto de pessoas aí que
+
+[13:46] tem essa capacidade tem mais capacidades
+
+[13:49] junto a é uma vantagem é uma vantagem e
+
+[13:52] aí tem uma conclusão muito interessante
+
+[13:53] que assim o o as pessoas que
+
+[13:55] naturalmente evocam sons que tem o vi
+
+[13:58] aham
+
+[13:59] as pessoas que evocam esse com mais
+
+[14:01] frequência é é como se elas tivessem uma
+
+[14:04] ajuda então por exemplo eu tô vendo a
+
+[14:06] bolinha né com piscando sozinha sem
+
+[14:08] ruído como eu consigo criar o som dentro
+
+[14:11] de mim é meio que uma pista é como se de
+
+[14:13] dentro para fora eu criasse uma pista
+
+[14:16] que me ajudasse a decodificar melhor o
+
+[14:18] sinal externo então quando eu tenho dois
+
+[14:20] sinais externos que o input é só visual
+
+[14:23] né como o meu o input é visual como o
+
+[14:26] meu output eu cons criar essa associação
+
+[14:30] do da luz com o som né eu consigo
+
+[14:32] perceber se dois estímulos são similares
+
+[14:34] mais rápido porque eu crio uma pista
+
+[14:37] Olha que interessante Então parece que
+
+[14:39] para para um certo organismo acertar
+
+[14:42] mais sobre algo da realidade el a pessoa
+
+[14:45] tem que alucinar alguma coisa para
+
+[14:47] servir como pista hum não é muito louco
+
+[14:50] certo muito Lou muito muito muito
+
+[14:53] interessante assim né e e e aí ele
+
+[14:56] mostrou né então o vi parece que é uma
+
+[14:59] entidade psicofísica a gente cria mesmo
+
+[15:01] né o som a partir disso da Integração
+
+[15:03] Viso eh Viso espacial Viso eh auditiva e
+
+[15:08] é importante né é importante a gente ter
+
+[15:10] isso por quê Porque eu não tenho todas
+
+[15:12] as pistas do ambiente Uhum Então se eu
+
+[15:14] conseguir evocar alguma coisa eu consigo
+
+[15:17] ser mais acurado em detectar as coisas
+
+[15:18] como são de verdade certo e aí e eh tem
+
+[15:21] até uma questão filosófica inclusive que
+
+[15:23] é que é o que que é a realidade né então
+
+[15:26] eu preciso alucinar uma coisa entender a
+
+[15:29] realidade como ela é melhor de forma
+
+[15:31] mais acurada sabe então será que eu tô
+
+[15:33] vendo a realidade mesmo Sim né ou eu só
+
+[15:35] tô acertando sim percebe né é um negócio
+
+[15:39] muito louco então esse episódio por
+
+[15:41] exemplo ele só foi fechado porque eu eu
+
+[15:43] fui revisor de um livro que foi lançado
+
+[15:46] em dezembro de 2023 faz um mês que foi
+
+[15:50] lançado o livro né que é que é um livro
+
+[15:52] Fantástico aliás sobre processamento
+
+[15:53] preditivo e e experiência esperada Ah é
+
+[15:57] um livro Só sobre isso s sobre essas
+
+[15:58] coisas assim o que que você cria no seu
+
+[16:00] cérebro como expectativa de
+
+[16:02] processamento Então você cria sons você
+
+[16:05] cria gosto coisas do tipo é muito
+
+[16:07] interessante né Como que você determina
+
+[16:09] a probabilidade por exemplo né e o quão
+
+[16:12] provável é um evento depende da sua
+
+[16:14] experiência prévia dele né então você
+
+[16:17] falou em gosto í tá dizendo que a gente
+
+[16:19] também algumas pessoas Então tem essa
+
+[16:22] capacidade de antecipar o paladar assim
+
+[16:24] go sim sim rapaz algumas pessoas não
+
+[16:28] você tamb Você também é se você se eu
+
+[16:31] boto para você um prato de lá de uma
+
+[16:33] coisa de que você já comeu você antecipa
+
+[16:35] tudo você já sabe e tá baseado
+
+[16:37] obviamente no meu repertório né
+
+[16:39] obviamente isso só que só que o
+
+[16:41] interessante é assim tem o seu
+
+[16:42] repertório mas o seu cérebro é capaz de
+
+[16:45] criar isso isso que é interessante né Do
+
+[16:48] mesmo jeito que você pode criar sons a
+
+[16:50] partir de imagens você pode criar gosto
+
+[16:53] a partir de imagem a imagem do lam você
+
+[16:55] cria o gosto a partir daí também né A
+
+[16:58] então um super poder hein Exatamente é é
+
+[17:01] um é um poder muito interessante E aí
+
+[17:03] isso se associa com dois episódios que a
+
+[17:05] gente gravou antes que é o 270 né que é
+
+[17:07] como se dáa anestesia né e o 296 que é
+
+[17:11] se todas as pessoas imaginam as coisas
+
+[17:13] do mesmo jeito que a gente fala de a
+
+[17:14] fantasia né então a a sinestesia é
+
+[17:17] integração sensorial multissensorial
+
+[17:20] então eh São pessoas que ouvem música e
+
+[17:22] ve cor né ou associa a personalidade com
+
+[17:26] uma certa cor ou algo do tipo mistura
+
+[17:28] gosto com visão um monte de coisas né o
+
+[17:31] episódio 270 trata do das causas e com
+
+[17:34] bem mais detalhes né mas a a ideia
+
+[17:37] básica da da sinestesia é que no para
+
+[17:40] algumas pessoas é uma variação no
+
+[17:42] cérebro delas existe uma comunicação
+
+[17:44] maior entre áreas que normalmente não se
+
+[17:46] comunicam Então você tem uma
+
+[17:48] conectividade maior entre a o córtex
+
+[17:50] visual e o córtex auditivo por exemplo E
+
+[17:54] aí como você tem muitas conexões quando
+
+[17:56] estimula um acaba estimulando o outro e
+
+[17:58] aí aí você associa visão com luz eh eh
+
+[18:01] eh descul visão com gosto visão com cor
+
+[18:03] coisas do tipo tá é normal é uma
+
+[18:05] variação individual é é meio que um
+
+[18:07] superpoder é uma vantagem né o o Viar
+
+[18:11] essa capacidade de associar sons com com
+
+[18:14] movimento é algo muito mais prevalente
+
+[18:16] do que a sinestesia então sinestesia
+
+[18:18] clássica Tem vários tipos mas a
+
+[18:20] prevalência é 2 3% da população não
+
+[18:23] passa disso né quando você pega o virar
+
+[18:26] que é associar o o a visão com som aí é
+
+[18:29] 1/4 da população né Então veja que é um
+
+[18:32] espectro né Tem uma uma gradação né de
+
+[18:35] coisas que diz respeito a como o nosso
+
+[18:37] cérebro funciona né é muito interessante
+
+[18:40] sabe então muito é bem legal mesmo né E
+
+[18:43] aí dá para associar por exemplo com
+
+[18:45] percepção de probabilidade você tem essa
+
+[18:47] coisa eh eh material do cérebro né então
+
+[18:51] uma das causas do virar é ligado com
+
+[18:53] grau de conectividade se você tem uma um
+
+[18:56] grau de conectividade muito grande entre
+
+[18:58] o córtex occipital e e entre o córtex
+
+[19:00] visual e o córtex auditivo Você tem
+
+[19:03] muitos feches neurais ligando essas duas
+
+[19:05] áreas quando estimul um estimula o outro
+
+[19:08] e aí quando quando o grau de
+
+[19:09] conectividade é grande quando você vê lá
+
+[19:11] a torre batendo no chão você ouve o som
+
+[19:14] quando a conectividade é menor Você tem
+
+[19:16] uma sensação de de estimulação não é o
+
+[19:19] som necessariamente mas tem um pouquinho
+
+[19:21] quando não tem nada você não ouve o som
+
+[19:23] é só uma variação individual é é simples
+
+[19:26] assim tá então muito interessante e e e
+
+[19:29] veja como uma pergunta de
+
+[19:31] 2017 tipo o termo surgiu em 2017 sim é
+
+[19:35] muito interessante já evoluiu tem muitos
+
+[19:36] trabalhos né E porque sensacional é
+
+[19:40] porque o tema apareceu numa numa onda de
+
+[19:42] estudo sobre visão né o do do de 2015
+
+[19:46] até 2022 mais ou menos teve um buom de
+
+[19:49] estudo sobre visão assim teve um up na
+
+[19:51] área acho que começou a injetar dinheiro
+
+[19:54] e a a eh tem bastante pesquisador muitos
+
+[19:57] pesquisadores bons sobre visão né
+
+[19:58] fisiologia neurociência da da visão e E
+
+[20:01] aí começou a surgir vários resultados é
+
+[20:03] muito interessante e como uma demanda da
+
+[20:06] internet acabou coincidindo com uma
+
+[20:08] pergunta uma pergunta e aí ficou Popular
+
+[20:10] né eu tenho certeza que todo mundo já
+
+[20:13] viu o gif mas ninguém sabia o que era o
+
+[20:15] vi por exemplo que é o conceito técnico
+
+[20:17] né mas se quem quem ouv o episódio hoje
+
+[20:20] daqui uns 2 TR anos vai começar pipocado
+
+[20:22] no tiktok os Car falando de vi né E vai
+
+[20:25] achar que é uma coisa novíssima e não é
+
+[20:27] já tem 5 se anos já né é que o povo não
+
+[20:30] lê os artigos originais né que é muito
+
+[20:31] mais legal do que ficar quandoo história
+
+[20:33] né É verdade seja DIT ah essa essa coisa
+
+[20:36] né da do vir el basicamente tem duas
+
+[20:38] causas né A primeira causa é é a ideia
+
+[20:41] da sinestesia então parece que uma
+
+[20:43] modalidade sensorial estimula outra né
+
+[20:46] tem a coisa da sinestesia e o que faz
+
+[20:49] sentido mas tem uma outra teoria ó e e
+
+[20:51] já veja o negócio surgiu em 2017 já tem
+
+[20:54] briga já tem briga já tem uma outra área
+
+[20:57] que diz que não é sinestesia você não
+
+[20:59] tem vir por causa de sinestesia né que é
+
+[21:01] um negócio muito louco que é uma coisa
+
+[21:03] mais psicofísica que é o seguinte o Viar
+
+[21:07] ele é um mecanismo de previsão tá então
+
+[21:11] você só ouve o som Quando você vê o gif
+
+[21:14] Porque Você prevê alguma coisa então eu
+
+[21:17] Previ lá que teve o pulo vai cair na
+
+[21:19] hora que bater vai fazer o barulho os
+
+[21:20] carros estão vindo eles vão bater vai
+
+[21:23] ter um barulho tá Uhum Então o vi ele é
+
+[21:26] sempre antecipatório é ismo
+
+[21:28] antecipatório tá bom certo aí e e é por
+
+[21:31] isso que o o essa outra teoria fala que
+
+[21:32] não é sinestesia porque sinestesia não é
+
+[21:34] antecipatório você tem verdade n então
+
+[21:37] Toda vez que você ouve uma música Vem
+
+[21:39] uma cor não é uma antecipação sabe tipo
+
+[21:42] então tem tem tem essa linha né que fala
+
+[21:44] que é ligada a sinestesia Tem gente que
+
+[21:46] fala que não tá então quem fala que não
+
+[21:49] dá uma outra coisa então como vir é um
+
+[21:51] mecanismo antecipatório né tipo é é uma
+
+[21:54] é uma expectativa de probabilidade sobre
+
+[21:56] algo que vai acontecer e esse pessoal
+
+[21:58] ele não é da neurociência ele é mais da
+
+[22:00] psicofísica aí você vê que a vertente
+
+[22:02] científica do cara condiciona a
+
+[22:03] explicação também é muito interessante
+
+[22:06] né então por isso que é
+
+[22:08] bom assim eu gosto da neurociência eu
+
+[22:10] não gosto dos neurocientistas porque
+
+[22:11] eles acham que é a solução de tudo e não
+
+[22:13] é de nenhuma mas enfim né É É uma
+
+[22:15] solução parcial é a causa material
+
+[22:17] formal para alguma coisa mas falta
+
+[22:19] outras áreas né o o o povo da
+
+[22:21] psicofísica eles Vê com uma explicação
+
+[22:23] muito boa né Você lembra do que que no
+
+[22:26] seu ouvido você tem três ossos que são
+
+[22:28] os menores ossos do corpo né você tem
+
+[22:31] três ossinhos dentro do ouvido né que é
+
+[22:32] o martelo a bigor e o estribo Tá certo
+
+[22:35] esses três ossinhos dentro do seu ouvido
+
+[22:37] eles se conformam de uma certa forma que
+
+[22:39] forma tipo uma baqueta imagina uma
+
+[22:42] Imagina assim ó imagina o seu braço né
+
+[22:44] segurando uma baqueta tá não vai ter o
+
+[22:47] ângulo entre o seu braço entre o seu
+
+[22:49] úmero e a entre o seu úmero e o cotovelo
+
+[22:53] não vai gerar 90º ali do ombro né então
+
+[22:55] você tá segurando uma baqueta com a mão
+
+[22:57] então tem 90 90º entre uma parte do seu
+
+[22:59] braço e outra e depois você tá segurando
+
+[23:01] a baqueta que é um pedacinho de madeira
+
+[23:03] tá a a a lógica da da do Martelo da
+
+[23:06] bigorne e do estribo é assim eles são
+
+[23:08] tipo um bracinho né quando vem um som
+
+[23:11] vem um som de fora do ambiente entra no
+
+[23:13] seu ouvido estimula esse esses ossos e
+
+[23:16] aí bate com a baqueta né no na cóclea do
+
+[23:19] ouvido tá né que é a estrutura do ouvido
+
+[23:21] interno bate ali e aí gera uma certa
+
+[23:23] reação né E aí estimula a gente já tem
+
+[23:25] outros narodo sobre isso sobre a audição
+
+[23:27] e tal estimula lá os cabelinhos dentro
+
+[23:29] do ouvido e o sinal motor estimula o
+
+[23:33] neurônio ali e gera sinal elétrico tá
+
+[23:35] então basicamente assim de uma forma
+
+[23:37] simplificada Então imagina que o nosso
+
+[23:38] vio é igual um tambur que tem alguém com
+
+[23:40] uma baqueta batendo né só que assim
+
+[23:43] então o que acontece é igual um tambor
+
+[23:45] quanto mais forte você bate mais som
+
+[23:47] mais alto o som fica não é uhum Você
+
+[23:49] concorda você Você concorda que tem que
+
+[23:51] ter uma regulação sim porque assim se se
+
+[23:53] vier um som muito alto e eu bater muito
+
+[23:55] forte eu quebro o tambor ou a baqueta ou
+
+[23:57] tudo né né Então existe um músculo tem
+
+[24:00] um músculo que que liga esses três
+
+[24:02] ossinhos né E conecta eles ali no no
+
+[24:05] ouvido interno esse músculo é um músculo
+
+[24:07] legal de saber o nome que é um músculo
+
+[24:09] estapédio estapédio estapédio isso
+
+[24:12] músculo estapédio o músculo estapédio
+
+[24:14] ele é um músculo minúsculo ele tem
+
+[24:16] milímetros tá o músculo estapédio ele é
+
+[24:19] o menor músculo estriado do corpo aí
+
+[24:22] vale a pena o que o que que é o músculo
+
+[24:23] estriado músculo estriado são os
+
+[24:25] músculos que você tem boa parte dos seus
+
+[24:27] dos seus membros por exemplo tá sabe
+
+[24:29] quando você puxa ferro né você levanta
+
+[24:31] peso quando você levanta o peso não tem
+
+[24:33] aquele o a quando você levanta um certo
+
+[24:35] peso treina direito também não se mata
+
+[24:37] tá quando você levanta um certo peso vai
+
+[24:40] gerar uma um rompimento das fibras
+
+[24:41] musculares né que depois na recuperação
+
+[24:44] ela cresce gera mais fibras musculares
+
+[24:46] aí tem uma ação de várias coisas é
+
+[24:48] basicamente hipertrofia é isso e E por
+
+[24:51] que que o músculo cresce não é to todo o
+
+[24:52] músculo que cresce tipo o seu coração
+
+[24:54] não cresce né porque é um outro tipo de
+
+[24:56] músculo tá os músculos estriados são
+
+[24:59] esses músculos que você uma das
+
+[25:01] características dele gera hipertrofia tá
+
+[25:05] então o músculo estapédio ele é o menor
+
+[25:07] músculo estriado ele pode ficar
+
+[25:09] bombadinho também né A questão é que
+
+[25:12] você não treina ele para ficar bombado e
+
+[25:13] não é bom tá então deixa ele funcionar
+
+[25:15] do jeitinho dele tá mas mas o que
+
+[25:17] acontece com esse ficar ouvindo música
+
+[25:20] Alto para fazer para fumar umbal
+
+[25:23] estapédio est é é não vai estragar a
+
+[25:26] Clea vai
+
+[25:28] a tembre ru ruos nos incomodo que é
+
+[25:32] examente isso explica lá o funcionamento
+
+[25:34] e né mas interessante desse músculo
+
+[25:36] stapico que foi descoberto pelos
+
+[25:37] psicofísicos isso lá no começo do século
+
+[25:40] XX existe um negócio que chama reflexo
+
+[25:43] acústico reflexo acústico sabe sabe
+
+[25:46] reflexo reflexo mesmo sabe quando eu
+
+[25:48] bato no seu joelho sua perna levanta
+
+[25:50] isso é um reflexo né dentro do seu
+
+[25:52] ouvido tem um reflexo assim Então
+
+[25:54] imagina volta no exemplo da porta
+
+[25:58] tá bom n você tá ventando você tá longe
+
+[26:01] a porta vai bater então você já prevê
+
+[26:03] que vai ter um barulho né Aí você não dá
+
+[26:05] uma encolhida você ai vai bater a porta
+
+[26:08] tem gente que fecha o olho né O que que
+
+[26:11] seria um reflexo isso não é aprendido tá
+
+[26:12] é fisiológico tem um reflexo o músculo
+
+[26:15] estapédio contrai ele contrai e aí o que
+
+[26:18] acontece quando ele contrai não não vai
+
+[26:20] vir um som muito forte de fora para
+
+[26:22] dentro Sim qual é a vontade da baqueta é
+
+[26:24] bater forte no tambor não é mas aí o
+
+[26:26] músculo não tá com traído ele dá Uma
+
+[26:28] segurada ele não deixa bater tão forte
+
+[26:31] Entendi Mas aí tem um negócio Fantástico
+
+[26:34] tem um negócio repare a a a beleza
+
+[26:37] porque assim ó e o que que é ouvir um
+
+[26:39] som né bate lá a baqueta na cóclea isso
+
+[26:42] estimula os neurônios ali da região vai
+
+[26:45] pro seu cérebro e você ouve né então o
+
+[26:48] som no seu cérebro é produzido a partir
+
+[26:50] do bater da baqueta na cóclea certo só
+
+[26:54] que a o que acontece Como você tem a
+
+[26:56] antecipação de um som muito alto o
+
+[26:58] músculo contrai então o batimento da
+
+[27:01] baqueta não é tão grande só que mesmo
+
+[27:03] assim você ouve o som alto por quê Por
+
+[27:06] quê Por quê Por qu porque a a a batida
+
+[27:10] da a batida de tambor não é tão grande
+
+[27:12] né vai ter uma batida não é tão grande o
+
+[27:14] cérebro processa uma parte o resto do
+
+[27:17] som ele é alucinado pelo seu cérebro
+
+[27:20] porque ele soube que o estapédio ficou
+
+[27:23] contraído caramba ele completa o resto
+
+[27:25] do som para não estragar o tambor
+
+[27:28] para não estragar a cóclea Olha que
+
+[27:30] isso isso também é uma antecipação assim
+
+[27:32] é uma antecipação então assim pelo fato
+
+[27:35] do cérebro precisar contrair o estapédio
+
+[27:38] para não bater Ele já sabe que vai vir
+
+[27:40] um som e completa ele dá o resto auau
+
+[27:43] não é fantástico e na uma fração de
+
+[27:45] segundo é muito rápido um 2 segundos ele
+
+[27:47] já faz tudo isso que que que tem a ver
+
+[27:50] eu não sei se tem a ver mas me lembra a
+
+[27:52] capacidade que a gente tem de ficar
+
+[27:54] completando outras coisas também por
+
+[27:56] exemplo visuo né tudo tudo então a gente
+
+[28:00] tem a gente um pedaço de alguma coisa e
+
+[28:02] completa o cérebro completa aquilo exato
+
+[28:04] E isso acontece com uma com o som também
+
+[28:06] é é uma forma disso e e tem a ver com
+
+[28:08] com naruhodo anterior que a gente gravou
+
+[28:10] também sobre pareidolia né porque quando
+
+[28:12] a gente olha pra nuvem ver coisas na
+
+[28:14] nuvem formas né animais e tal é a mesma
+
+[28:17] coisa mas repare que coisa fantástica né
+
+[28:20] você tem antecipação do som você tem
+
+[28:23] antecipação do som automaticamente um um
+
+[28:25] um músculo com milímetros do seu ouvido
+
+[28:28] vai contrair isso já vai chegar gerar um
+
+[28:30] sinal de que tá fazendo barulho né E aí
+
+[28:33] quando quando é o som é produzido seu
+
+[28:35] cérebro completa colocando mais som para
+
+[28:36] não estragar o tambor para você
+
+[28:38] conseguir ouvir de novo não é
+
+[28:40] formidável Nossa Senhora maquina
+
+[28:43] sofisticada que a gente tem hein moldada
+
+[28:45] por por milhões de anos de seleção
+
+[28:47] natural que não sab um puto do que tava
+
+[28:49] fazendo por aleatoriedade é uma coisa
+
+[28:52] fantástica é uma coisa
+
+[28:54] fantástica então então basicamente os
+
+[28:56] sons muito altos não é claro que tem um
+
+[28:58] limite né quando o som é muito alto aí
+
+[28:59] não tem como segurar o músculo aí
+
+[29:01] lesiona mesmo tá mas som al sons altos
+
+[29:04] em geral uma parte desse som você tá
+
+[29:06] alucinando uma parte do seu som seu
+
+[29:08] cérebro tá criando mesmo e a outra parte
+
+[29:10] é do estímulo mesmo então para ter uma
+
+[29:13] percepção mais acurada da realidade o
+
+[29:15] seu cérebro completa uma parte da
+
+[29:17] informação é muito louco e aí volta
+
+[29:19] porque que nosso cérebro não é um
+
+[29:21] computador o computador não nem essas
+
+[29:23] coisas de Inteligência Artificial né Aí
+
+[29:25] tem a ver com o nosso narodo eh Porque
+
+[29:27] que o cérebro não é um computador e tem
+
+[29:29] um a ver com nar um outro episódio que é
+
+[29:31] como nós nos nos tornamos Nós também a
+
+[29:34] mesma coisa então essas coisas de
+
+[29:35] Inteligência Artificial não é nem é é
+
+[29:38] artificial mas não é inteligência não
+
+[29:40] tem nada a ver é outra coisa Tá então
+
+[29:42] tipo Ai ai eu nem vou falar de GPT esses
+
+[29:46] negócios tá mas enfim mas cai na mesma
+
+[29:48] coisa a gente não vai ser dominado por
+
+[29:50] isso a gente vai ser dominado pelos
+
+[29:51] detentores disso mas não Por isso tá bom
+
+[29:53] mas enfim é mas mas assim isso é uma
+
+[29:57] coisa coisa fantástica né então o o e e
+
+[30:00] assim o que que a gente tem que testar
+
+[30:02] agora né que o que que tudo bem descobri
+
+[30:05] o vir aí tem uma briga se é ligado a
+
+[30:07] sinestesia ou se é esse esse fenômeno
+
+[30:09] Fenômeno de reflexo acústico né que aí
+
+[30:11] vem da psicofísica uhum provavelmente
+
+[30:14] deve ser um pouco da junção das duas
+
+[30:15] coisas tá mas ainda tem mais
+
+[30:17] experimentos para ser testados então por
+
+[30:19] exemplo tem estudos em andamento tudo
+
+[30:23] bem exatamente no cérebro onde que é o
+
+[30:25] vir que que áreas do cérebro são
+
+[30:27] relacionadas não se sabe ainda né se
+
+[30:29] sabe que tem a ver com a área visual e a
+
+[30:31] área auditiva mas ainda não tem certinho
+
+[30:33] havia e tal ainda não se tem né dessa
+
+[30:36] parte por exemplo um experimento muito
+
+[30:39] legal de ser testado né e e tem como
+
+[30:41] acessar não não diretamente Mas tem como
+
+[30:44] acessar por exemplo do mesmo jeito que
+
+[30:46] eu coloco um eletrodo no seu braço uhum
+
+[30:48] eu MOV eu peço para você movimentar o
+
+[30:50] braço vai registrar no eletrodo né o
+
+[30:53] músculo vai registrar sim tem como
+
+[30:55] acessar esse músculo estapédio né E aí
+
+[30:59] vê se ele aí eu faço assim eu coloco um
+
+[31:01] um GIF animado e eu vejo a atividade do
+
+[31:04] estapédio e eu vejo se atividade do
+
+[31:06] estapédio acompanha o rif porque se
+
+[31:09] acompanhar quer dizer que tá tendo o
+
+[31:10] reflexo acústico repara é fácil de
+
+[31:12] testar né é questão de tempo vai surgir
+
+[31:15] o experimento né sobre isso mas aí tem
+
+[31:18] tem eh eh tem coisas muito interessantes
+
+[31:19] em em em relação a isso né então por
+
+[31:22] exemplo eh tem existem doenças ligadas à
+
+[31:25] lesão desse músculo est
+
+[31:38] pédicure a baqueta né batendo no tambor
+
+[31:41] porque o músculo quebrou né aí o que
+
+[31:43] acontece você vai desenvolver uma coisa
+
+[31:46] eh chamada hiperacusia hiperacusia é
+
+[31:51] super sensibilidade aos sons os todos os
+
+[31:54] sons vão parecer muito altos você não
+
+[31:56] vai ter mais essa regulação Tá e é e a
+
+[31:58] hiperacusia grave por lesão do estapé é
+
+[32:01] muito grave a pessoa não consegue sair
+
+[32:02] na rua ela ela ela anda com protetor
+
+[32:05] auricular auricular o tempo todo assim é
+
+[32:07] muito triste tá Qualquer ruído é muito
+
+[32:10] alto porque não tem esse esse esse freio
+
+[32:12] né muscular tá E aí acaba lesionando a a
+
+[32:16] audição você perde a audição mais cedo é
+
+[32:18] bem bem grave assim né E isso também é
+
+[32:20] um caso ligado a tétano né o quando você
+
+[32:23] pega tétano uma das consequências é
+
+[32:24] alterar o o ou Interno também né um dos
+
+[32:28] efeitos do tétano então é e e quando
+
+[32:30] você tem uma eh e quando você tem uma
+
+[32:32] concentração muito falta de cálcio
+
+[32:35] também né falta de porque o músculo né
+
+[32:36] ele funciona com cálcio ele precisa de
+
+[32:38] cálcio pro funcionamento se você tem
+
+[32:40] deficiência de cálcio também afeta você
+
+[32:43] começa a ter hiperacusia né ouvir demais
+
+[32:45] tá ou hipersensibilidade aos sons muito
+
+[32:48] interessante né como você liga coisas né
+
+[32:50] porque o cérebro é o mesmo né E você
+
+[32:52] liga coisas bem bem bem curiosas assim
+
+[32:54] né E aí como não podia deixar de ser né
+
+[32:57] né quem que começa a usar essas
+
+[32:58] informação para ganhar dinheiro em cima
+
+[33:00] dos outros a sua área claro né e os
+
+[33:03] primeiros artigos aplicados vem de
+
+[33:05] psicologia do Consumidor droga pior que
+
+[33:08] o artigo bom ol H é um artigo bom é um
+
+[33:11] artigo bom mesmo o artigo do ano passado
+
+[33:14] né Muito interessante o artigo Pina aqui
+
+[33:16] da área de comunicação de Publicidade
+
+[33:18] que inferno né mas o artigo é bom que
+
+[33:20] que fala sobre a a o papel do Silêncio
+
+[33:24] no consumo do Consumidor papel do
+
+[33:27] silêncio né e e a discussão é muito
+
+[33:29] interessante né porque ele ele assim sei
+
+[33:32] lá você tem uma loja né ou ou um produto
+
+[33:34] de venda será que é deixar É bom deixar
+
+[33:36] um sonzinho ou não né Depende depende do
+
+[33:39] tipo de produto da experiência que você
+
+[33:40] quer gerar depende tá esse estudo é de
+
+[33:43] 2023 né de outubro é super recente tem
+
+[33:46] uma é uma revisão sobre isso né então
+
+[33:49] por exemplo existem lójas eu não sei o
+
+[33:51] produto não interessa eu não vou ficar
+
+[33:53] dando ideia para vocês também tá mas tem
+
+[33:55] L é então tem eu não sei se você já foi
+
+[33:58] mas tem lojas que tem música dentro né
+
+[34:01] às vezes é alta e tal mas tem lojas que
+
+[34:04] não tem música não tem som nada mas tem
+
+[34:07] tem TVs passando coisas né mas não é o
+
+[34:10] da Tena passando tipo no mudo né assim
+
+[34:13] no mudo no mudo isso passando imagens
+
+[34:15] coisas do tipo né E aí tem uma linha de
+
+[34:18] pesquisa que mostra Canal OFF né tá
+
+[34:19] passando Canal OFF is uns negócios assim
+
+[34:22] umas paisagens e tal mas tem uns gaiatos
+
+[34:24] querendo mexer com isso né dentro da
+
+[34:26] loja colocar no mudo colocar imagens que
+
+[34:29] geram reflexo acústico ou gera o Viar
+
+[34:32] então por exemplo pessoas correndo né
+
+[34:35] mas aquela sensação de corrida que você
+
+[34:36] tá bem perto do pé da pessoa sabe e para
+
+[34:39] você ouvir o toque toque toque toc toque
+
+[34:40] dos pés sabe E aí é uma loja de sapato
+
+[34:44] Olha que filhas das que desgraçados do
+
+[34:46] satanás né tudo para você comprar
+
+[34:49] de um sapato né inferno bota lá pro
+
+[34:52] corredor e parece que dá um efeito eu
+
+[34:54] fico ai ai E aí E aí esse artigo é muito
+
+[34:57] bom que ele fala dos tipos de silêncio
+
+[34:59] porque se eu estimular você menos mas
+
+[35:02] estimular de um jeito certo você cria o
+
+[35:05] resto da informação e aí você cria o quê
+
+[35:08] empatia com a do produto meu Deus
+
+[35:12] não é Ok você vê o potencial disso você
+
+[35:15] é mais experiente eu já vi eu já vi
+
+[35:16] algumas redes de varejo fazendo isso
+
+[35:19] assim sabe então imagens de natureza
+
+[35:23] sabe matas
+
+[35:25] flores combin
+
+[35:27] com a exalação de um cheiro de um
+
+[35:31] perfume isso sabe
+
+[35:34] e é claro que você não vai fazer uma
+
+[35:36] pessoa comprar exato mas a você aumenta
+
+[35:40] a sensação de que você não está no meio
+
+[35:42] de uma de uma cidade grande né então é
+
+[35:45] você você isso não não afeta indivíduos
+
+[35:48] mas afeta a média deles Claro e aí se
+
+[35:50] você é uma loja de vareza gigante com
+
+[35:51] milhões de compras por mês você vai
+
+[35:53] aumentar um 2% que é o que importa já
+
+[35:55] paga o custo do negócio tudo
+
+[35:57] Sem dúvida que triste velho eu fico
+
+[35:59] bolado sabe não dá não dá né e e e aí
+
+[36:05] ano o ano mudou aí mas algumas coisas
+
+[36:07] não mudaram inferno e e e aí eu gostei
+
+[36:11] desse artigo assim apesar da da do
+
+[36:13] conflito de interesse que el a a autor
+
+[36:16] ali comenta sobre três tipos de silêncio
+
+[36:19] né que é o silêncio ambiental que aí é
+
+[36:22] físico mesmo estar num lugar silencioso
+
+[36:24] o silêncio relacional e o silêncio
+
+[36:26] interno aham né então e é interessante a
+
+[36:30] relação desses tipos de silêncio então
+
+[36:32] silêncio ambiental é o mais fácil né Vou
+
+[36:34] colocar você no lugar sem ruídos aí tá
+
+[36:37] tudo fora né aí reduzir som câmeras
+
+[36:40] acústicas quartos acústicos essas coisas
+
+[36:43] tá aí é fácil né Tem bastante pesquisa
+
+[36:46] sobre isso a questão é o o silêncio
+
+[36:48] relacional por exemplo né antes tem o
+
+[36:52] silêncio ambiental que é do ambiente tem
+
+[36:53] o silêncio interno então você pode estar
+
+[36:56] no lugar silencioso Mas você tá o tempo
+
+[36:59] inteiro falando com você mesmo você tem
+
+[37:01] muito som interno tá então você tá
+
+[37:03] sempre cantarolando tem muita voz aí tem
+
+[37:05] o nosso o Episódio 296 né que não são
+
+[37:08] pessoas que tem uma voz na cabeça tá
+
+[37:10] então pessoas que não tem a voz na
+
+[37:12] cabeça que não é nenhum problema tem
+
+[37:13] mais silêncio interno né Aham você como
+
+[37:16] uma pessoa que tem a voz na cabeça por
+
+[37:18] um um tempinho você gostaria de ser uma
+
+[37:20] pessoa com silêncio interno não gostaria
+
+[37:22] eu gostaria né então é é legal né Então
+
+[37:25] essa essa ideia é do Silêncio interno
+
+[37:27] assim tem pessoas que TM mais fácil Tem
+
+[37:31] pessoas que não t né que tá tá o tempo
+
+[37:33] inteiro pensando falando
+
+[37:35] e movimentando alguma coisa dentro da
+
+[37:37] cabeça então ela olha mais para dentro
+
+[37:39] do que para fora né como é que você
+
+[37:41] estimula a a percepção de compra de uma
+
+[37:44] pessoa assim sabe que tá olhando mais
+
+[37:45] para dentro do que para fora o tempo
+
+[37:47] todo né E aí tem o terceiro tipo de
+
+[37:49] silêncio que é o silêncio relacional o
+
+[37:51] silêncio relacional é se eu consigo
+
+[37:54] saber que você é uma pessoa que tem uma
+
+[37:55] voz interna muito
+
+[37:57] que você tá sempre pensando no mundo se
+
+[38:00] refletindo o tempo todo eu não posso
+
+[38:03] colocar muitos estímulos lá fora eu
+
+[38:04] tenho que colocar poucos porque se eu
+
+[38:06] colocar pouco você completa o resto
+
+[38:08] fácil e aí você é o melhor tipo de
+
+[38:10] comprador seu comprador mais fácil
+
+[38:13] entendi percebe tá se você tem um um
+
+[38:16] silêncio interno grande aí eu tenho que
+
+[38:19] aumentar o ruído ambiental para criar
+
+[38:21] relação né E aí o artigo fala de como a
+
+[38:25] gente consegue identificar pessoas cada
+
+[38:26] grupo né Eu espero que isso nunca
+
+[38:29] aconteça que não tenha um jeito fácil de
+
+[38:31] identificar né porque aí eu eu mudo a
+
+[38:34] sala dependendo de como você é e já
+
+[38:36] adequa tudo meu Deus você entra na sala
+
+[38:39] os sensores já ativam já já tira o os
+
+[38:41] sons então pessoas que TM um um silêncio
+
+[38:44] interno baixo geram mais viars completam
+
+[38:47] mais as coisas vem coisas onde não tem
+
+[38:50] né completa mais e aí um sapato parece
+
+[38:53] muito mais interessante você cobra r$ 1
+
+[38:55] a mais porque da do SAP pato não
+
+[38:57] dá pra gente treinar para ter um
+
+[39:00] silêncio interno mais forte não R dá dá
+
+[39:03] não tem formas tem não a gente até falou
+
+[39:05] em alguns Episódios né tem o episódio
+
+[39:07] sobre Meditação meditação é uma forma
+
+[39:09] esporte é uma forma tem tem né É É
+
+[39:13] principalmente meditação e esporte né o
+
+[39:15] o e eu não eu pessoalmente tenho
+
+[39:18] dificuldade com meditação acho que você
+
+[39:19] também né quem mas o esporte é uma coisa
+
+[39:21] que segura mais o esporte me ajuda
+
+[39:23] Esporte me ajuda um senso de presença de
+
+[39:26] isso isso isso é o silêncio interno é
+
+[39:29] aquela coisa da presença e de você tipo
+
+[39:31] eh eh a a as ideias da sua cabeça focam
+
+[39:34] em alguma coisa aí fica um pouco mais
+
+[39:36] focado então é essa ideia de silêncio
+
+[39:38] também n certo e aí tem tem muitas
+
+[39:41] pesquisas nisso ah eu quero te vender um
+
+[39:43] bagulho Será que eu faço você gastar
+
+[39:44] energia antes sabe logo depois da
+
+[39:46] academia por exemplo qu evoca mais
+
+[39:49] exelência interno é para isso que essa
+
+[39:51] pesquisa tá indo que desgraça né e e eu
+
+[39:54] fico triste eu fico triste de uma
+
+[39:57] o que não é exatamente uma uma novidade
+
+[39:59] né nenhuma novid n uma pesquisa tão
+
+[40:03] importante ou tão interessante acabar
+
+[40:06] sendo
+
+[40:08] apropriada para vend pelo comércio pelo
+
+[40:11] capitalismo pelo pelo modo de consumo
+
+[40:15] droga né mas eu vou eu eu eu vou para
+
+[40:17] quem tiver interesse principalmente que
+
+[40:18] for da área de neurociência porque são
+
+[40:20] experimentos fáceis de fazer né o
+
+[40:22] primeiro experimento é reproduzir os Os
+
+[40:24] experimentos clássicos de vier né bota
+
+[40:27] uma tela de computador com a luzinha
+
+[40:28] piscando e o som faça igual o artigo de
+
+[40:32] 2018 é muito importante ter
+
+[40:34] reprodutibilidade é muito legal né E
+
+[40:36] outra coisa é para quem for da área de
+
+[40:38] psicofísica tentar colocar um eletrodo
+
+[40:41] ali no no músculo estapédio e botar o
+
+[40:43] gif e ver se de fato gera ativação do
+
+[40:47] músculo estapédio na mesma frequência
+
+[40:49] isso já dá um mestrado fácil e um
+
+[40:51] mestrado bonito que não foi publicado
+
+[40:53] estou cantando uma pedra São teses de
+
+[40:55] mestrado e doutorado que eu nunca faria
+
+[40:56] porque eu não tenho tempo mas eu eu dei
+
+[40:58] cant pedra né e e uma terceira coisa que
+
+[41:01] é uma hipótese que eu tenho é uma
+
+[41:02] hipótese pessoal dado esses tudo isso aí
+
+[41:05] que eu li né E também o livro sobre
+
+[41:08] processamento preditivo e experiência
+
+[41:09] esperada que acabou de sair agora no
+
+[41:11] final do ano passado a coisa do vir né
+
+[41:14] de você conseguir colocar sons em
+
+[41:16] movimento né tem essa predisposição
+
+[41:18] muito grande se a a hipótese da
+
+[41:21] sinestesia não for tão forte se for uma
+
+[41:23] coisa psicofísica esse pode ser um
+
+[41:25] marcador d psicofísico de ansiedade tá
+
+[41:28] de ansiedade clínica então se você é uma
+
+[41:31] pessoa muito ansiosa você tem muitas
+
+[41:33] expectativas sobre o mundo e aí você vai
+
+[41:35] tentar colocar coisas onde não tem sabe
+
+[41:38] então pode ser um marcador
+
+[41:40] comportamental de ansiedade Clínica
+
+[41:42] assim e aí você consegue separar
+
+[41:44] ansiedade de depressão como dois
+
+[41:45] fenômenos bem diferentes mesmo né porque
+
+[41:48] muita gente tem associado e a ideia não
+
+[41:50] é por aí a ideia é separar tá então um
+
+[41:52] palpite né Pega pessoas com com
+
+[41:55] diagnóstico Clínico de ansiedade alta
+
+[41:58] faz o experimento do virar pega um grupo
+
+[42:00] controle vê lá se tem no estapé
+
+[42:02] movimento ótima hipótese uma ótima
+
+[42:04] hipótese hein dá para fazer tratamento
+
+[42:07] verificar a eficácia de tratamento se
+
+[42:08] for de fato uma métrica relevante ver se
+
+[42:11] o tratamento tá funcionando é fantástico
+
+[42:13] é para isso que serve esse estudo não é
+
+[42:15] para ficar vendendo tênis Dan o tênis né
+
+[42:18] então eu fiquei meio puto porque os
+
+[42:19] artigos bons estão saindo nessa área de
+
+[42:20] consumo mas aí eu resolvi cantar uma
+
+[42:22] pedra para puxar pro outro lado né
+
+[42:24] porque com certeza se você vai conseguir
+
+[42:26] verba se for fazer uma pesquisa disso
+
+[42:28] porque Os experimentos são fáceis né
+
+[42:30] Precisa de controle experimental mas são
+
+[42:31] fáceis são importantes e vai ter
+
+[42:33] resultados paraa coletividade muito
+
+[42:34] importante os otorrinos gostariam de
+
+[42:35] saber muito sobre isso né Qual a relação
+
+[42:37] entre isso e zumbido a gente já falou
+
+[42:39] isso um episódio sobre zumbido né sobre
+
+[42:41] ruídos então tem muitas áreas de
+
+[42:43] pesquisa Então veja aqui como um tweet
+
+[42:46] que viralizou né nesse mundo de inferno
+
+[42:48] de Big Brother de bobagem de fofoca né
+
+[42:51] pelo menos um alento né e e o twit ali
+
+[42:54] viralizou gerou pesquisas coisas muito
+
+[42:56] interessantes né e uma área nova de
+
+[42:58] pesquisas que que temos hoje né quem mas
+
+[43:01] enquanto as pessoas estiverem afim de
+
+[43:03] consumir também né aí a coisa fica
+
+[43:06] facilitada né É então é bom a pesquisa a
+
+[43:10] ciência vai onde tem o dinheiro né É
+
+[43:12] assim então exceto em situações de
+
+[43:14] guerra the money follow the money é
+
+[43:16] exato exceto em situações de guerra que
+
+[43:17] aí o dinheiro não importa o que importa
+
+[43:19] é ganhar né É verdade é tomara que a
+
+[43:21] gente não chegue nessa situação mas Bom
+
+[43:23] eu não sei mas enfim então e é uma
+
+[43:26] mensagem ambígua tá é muito interessante
+
+[43:28] mas é uma mensagem ambígua também tá tá
+
+[43:30] certo e então qu Espero que agora Toda
+
+[43:32] vez que você vê um GIF e ele gerar um
+
+[43:34] som você não se sinta estranho é normal
+
+[43:37] eh e os nossos ouvintes também que que
+
+[43:39] ouvirem e tal veja que é um mecanismo
+
+[43:41] natural temos duas hipóteses que
+
+[43:43] concorrem Pode ser que a a a explicação
+
+[43:46] final seja uma mistura dessas duas ou
+
+[43:49] pode ser sócia anestesia ou uma questão
+
+[43:51] psicofísica mas é uma área muito
+
+[43:52] estimulante né e agradeço muito a a
+
+[43:55] pergunta do nosso
+
+[43:56] querido ouvinte aqui o o Roberto né que
+
+[43:58] inaugurou esse esse ano uma pergunta
+
+[44:00] curiosa e aguardo vocês nos nossos
+
+[44:03] próximos episódios ao longo deste ano
+
+[44:05] certo aqui é isso daí um grande ano nos
+
+[44:09] espera e naro rodou ilustríssimo
+
+[44:14] 20 e você já sabe aqui no naro rodol
+
+[44:17] quem faz a pauta é você Você tem alguma
+
+[44:20] pergunta pra gente ou Quer comentar
+
+[44:22] algum episódio escreva PR nós podcast @
+
+[44:25] narod
+
+[44:28] podcast
+
+[44:30] @n.com lre mande nome completo idade
+
+[44:34] profissão e a cidade de onde você está
+
+[44:36] falando é isso
+
+[44:39] [Música]
+
+[44:54] a.com.br
+
+[44:57] n

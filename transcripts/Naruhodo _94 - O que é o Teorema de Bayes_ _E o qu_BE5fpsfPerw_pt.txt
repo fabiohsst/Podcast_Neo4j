@@ -1,0 +1,1583 @@
+Title: Naruhodo #94 - O que é o Teorema de Bayes? (E o que horóscopo tem a ver com isso?)
+URL: https://www.youtube.com/watch?v=BE5fpsfPerw
+Language: pt
+Extracted on: 2025-04-06 16:48:47
+================================================================================
+
+[00:00] o que é teorema de bens e o que o
+
+[00:03] horóscopo tem a ver com isso
+
+[00:06] [Música]
+
+[00:07] não mudam
+
+[00:12] [Música]
+
+[00:16] bem vindo ao rodou podcast para quem tem
+
+[00:20] fome de aprender eu soquei fugir oca eu
+
+[00:22] só saí de souza e hoje em dia de queda
+
+[00:25] de 15 em 15 ea antes da gente entrar no
+
+[00:30] tema altay na pauta em si
+
+[00:32] aqueles três recadinhos rápido da
+
+[00:34] paróquia vamos lá todo mundo já sabe
+
+[00:37] a número 1 se você quer colaborar com a
+
+[00:41] produção na roda podcast e ajudar ele a
+
+[00:44] se manter no ar vai lá no apoia
+
+[00:46] aponta-se e barra na rodovia podcast
+
+[00:48] faça sua colaboração total com um número
+
+[00:51] 2 não vai custar nada é só ir lá no
+
+[00:54] itunes store e deixar cinco estrelinhas
+
+[00:56] e o seu comentário e nunca te pedimos
+
+[00:58] nada ea terceira e última também tem
+
+[01:02] custo zero a é só apresentar o podcast
+
+[01:05] rodou por uma amiga ou por um amigo que
+
+[01:07] não conhece bruno rodríguez atravessa
+
+[01:10] não conhece o podcast é a proposta do
+
+[01:13] mar o exatamente essa comoção episódios
+
+[01:15] mais curtinhos é para introduzir as
+
+[01:16] pessoas aponta esfera é isso aí então
+
+[01:19] gente voltar à pauta hora
+
+[01:21] [Música]
+
+[01:25] em altay hoje a pergunta e nós em alta
+
+[01:28] ele é
+
+[01:29] vamos avaliar a probabilidade de você
+
+[01:30] gostar dela ea gente é fazer um gancho
+
+[01:35] então eu vejo é finalmente um grande
+
+[01:38] gancho é com o episódio 51 lá atrás vem
+
+[01:42] atrás
+
+[01:43] é um episódio que falará sobre
+
+[01:44] astrologia horóscopo e mapa astral e se
+
+[01:48] ele tem algum sentido né
+
+[01:50] no final daquele episódio aí a gente fez
+
+[01:53] uma pergunta e uma lição de casa a gente
+
+[01:56] e colocou a seguinte questão pediu às
+
+[02:00] pessoas adivinharam qual era o seu signo
+
+[02:02] e qual é o meu signo esse astral doors
+
+[02:06] depois de 50 episódios as pessoas
+
+[02:08] reuniam algum grau de conhecimento sobre
+
+[02:10] a gente é exatamente com base nisso ela
+
+[02:12] tinha que dar um palpite do nosso sigma
+
+[02:14] e aí a gente colocou o formulário no
+
+[02:17] link nele um link acesse seus responder
+
+[02:20] quantas vezes a gente recebeu altay na
+
+[02:24] época em alguns dias né de campo a gente
+
+[02:27] recebeu cerca de 230 respostas 230 230
+
+[02:31] respostas de pessoas que tentaram
+
+[02:33] adivinhar o seu signo e o meu signo anos
+
+[02:36] num episódio que falava sobre se existe
+
+[02:39] alguma relação científica entre existe
+
+[02:42] algum mecanismo é entre a lógica do
+
+[02:44] horóscopo e a predição de comportamento
+
+[02:47] os padrões de personalidade e coisas do
+
+[02:50] tipo exato mas o dia que a gente não
+
+[02:53] deixou claro na época mas o objetivo era
+
+[02:55] quase 50 episódios depois usar isso como
+
+[02:58] mote para falar sobre o tema de baseball
+
+[03:01] mlb é não sei se vocês já ouviram falar
+
+[03:04] se já tinha ouvido falar em algum lugar
+
+[03:05] quem assim eu tinha que falar só de nome
+
+[03:08] né é ter parecido na brasil dat escrito
+
+[03:11] e aparecendo por aí assim e agora uma
+
+[03:13] boa oportunidade para falar um pouco
+
+[03:15] sobre isso né
+
+[03:16] antes de explicar esse o que deu no
+
+[03:19] resultado eu vou dar um exemplo de como
+
+[03:21] funciona o tema de bens de um jeito
+
+[03:22] muito simples
+
+[03:23] tá imagine o seguinte quem vai ser o
+
+[03:25] representante de você está aí né então
+
+[03:28] imagine uma pessoa que foi a uma
+
+[03:30] farmácia e comprou um teste de gravidez
+
+[03:33] tá na caixinha do teste diz que o teste
+
+[03:36] é preciso
+
+[03:37] ele dá o diagnóstico corretamente em 99%
+
+[03:41] das vezes a pessoa pega um teste leva
+
+[03:45] pra casa pio xii dela lá e o teste dar
+
+[03:48] positivo
+
+[03:49] tá a qual é a probabilidade dessa pessoa
+
+[03:52] estar de fato grave que já chega a 99%
+
+[03:55] certo da informação que você tem você
+
+[03:58] não vai falar já é isso 99% e se eu
+
+[04:02] disser pra você que essa pessoa é um
+
+[04:03] homem eu acho que vai pra 0 vai para
+
+[04:06] quase zero não vai eu te dei uma
+
+[04:08] informação quer dizer que lembra que no
+
+[04:10] começo disse que é uma pessoa
+
+[04:11] agora estou adicionando uma informação
+
+[04:13] dizendo que é um homem porque a
+
+[04:14] probabilidade muda radicalmente o caso
+
+[04:16] uma nova premissa não tinha
+
+[04:18] qual é a diferença isso e homens não têm
+
+[04:21] de me sair ou mesmo na vida homens não
+
+[04:23] ficam grávidas nisso então o teorema de
+
+[04:26] ver exatamente isso
+
+[04:27] você tem uma uma hipótese que você quer
+
+[04:29] testar e você estima a probabilidade
+
+[04:31] dessa hipótese frente ao conhecimento
+
+[04:33] que você tem quando você é exposto uma
+
+[04:36] nova informação o quanto essa nova
+
+[04:38] informação muda sua probabilidade
+
+[04:39] anterior
+
+[04:40] isso é o tema de bebês né o teorema de
+
+[04:43] base e reflete muito como a gente pensa
+
+[04:45] então é a vida né
+
+[04:47] basicamente como é a vida existência
+
+[04:50] humana a vida inteira é mais complexo
+
+[04:52] mas a vida existência humana é regida
+
+[04:54] por princípios simples e um deles é o
+
+[04:56] teorema de beijo
+
+[04:57] o teorema de bens é uma teoria de
+
+[04:58] aprendizagem que é como a sua estimação
+
+[05:01] de fenômenos ou de parâmetros muda
+
+[05:03] frente ao conhecimento que você tem das
+
+[05:05] coisas
+
+[05:06] então como é que você vai atualizando
+
+[05:07] sua probabilidade ao longo do tempo
+
+[05:09] por exemplo uma pessoa compra um teste
+
+[05:11] 99% de chance de estar grávida se eu
+
+[05:14] disser que é homem vai para zero
+
+[05:16] mas se eu disser que é um homem que tem
+
+[05:17] câncer de testículo porque tem alguns
+
+[05:20] casos raros de câncer de testículo que
+
+[05:22] por conta do câncer
+
+[05:23] o homem começa a produzir beta hcg que é
+
+[05:26] o indicador detectado nos testes de
+
+[05:28] gravidez
+
+[05:29] logo já não é mais 0 é pequeno mas não é
+
+[05:32] mais 0
+
+[05:33] ou seja quando eu disponho a evidência
+
+[05:35] de que é possível que tenha um homem que
+
+[05:38] produzem substâncias que são detectadas
+
+[05:40] pelo teste como sendo o índice de
+
+[05:42] gravidez já não é mais a 0
+
+[05:44] não quer dizer que o homem ficou grávido
+
+[05:46] mas aí quer dizer que o teste pode
+
+[05:48] detectar erroneamente
+
+[05:49] gente esse cara como estando grávida
+
+[05:51] positivas mas na verdade é câncer
+
+[05:53] nesse caso um falso positivo não é é um
+
+[05:56] fato positivo não é porque o objetivo do
+
+[05:58] teste é detectar que você está grávida
+
+[05:59] ou não você tem câncer
+
+[06:01] entendeu não que você tem o roberto não
+
+[06:03] sei o que o beta hcg é então não na
+
+[06:06] verdade o homem produz nesse caso do
+
+[06:08] câncer ele produza de formas para o caso
+
+[06:09] se o critério é a presença de fhc g
+
+[06:12] o positivo não é falso exata mas pela
+
+[06:14] gravidez é um pouco de positivo e isso
+
+[06:16] exatamente exatamente
+
+[06:18] ou seja o teorema de base ele permite
+
+[06:20] você colocar uma hipótese de referência
+
+[06:22] que é o que você acha e com base nessa
+
+[06:25] hipótese e você comparar se essa
+
+[06:27] hipótese continua válida a luz de outras
+
+[06:30] hipóteses não é que eu vou apresentam
+
+[06:32] existem homens que podem ter da um teste
+
+[06:36] de gravidez positivo sendo que ia por
+
+[06:38] causa de um câncer
+
+[06:39] aí a chance já não é zero entendeu um
+
+[06:41] termo de bens por ele ser muito
+
+[06:42] importante ele entre aspas entre grandes
+
+[06:45] astros
+
+[06:46] é uma forma de racionalidade está não de
+
+[06:48] racionalidade humana
+
+[06:50] assim porque nós não funcionamos como
+
+[06:52] tema de beijo nós nosso cérebro não
+
+[06:54] funciona por normativamente como tem uma
+
+[06:56] de beijo em razão do time tem nada de
+
+[06:58] racional e é na verdade racionalidade é
+
+[07:01] explicada por outros princípios que não
+
+[07:03] são axel matzá weiss matematicamente de
+
+[07:06] forma perfeita
+
+[07:07] daí isso é a descrição mais formal agora
+
+[07:10] se entender o princípio básico do
+
+[07:11] teorema de peixe
+
+[07:12] voltemos ao exemplo do horóscopo vamos
+
+[07:14] supor somos os babilônios né 3 mil anos
+
+[07:17] atrás
+
+[07:18] isso porque a gente não tem nenhuma
+
+[07:19] informação sobre outras fontes três mil
+
+[07:21] anos atrás
+
+[07:22] horóscopo explica né alguma coisa vai
+
+[07:25] não tem nenhuma outra informação então
+
+[07:26] lá você é uma pessoa sei lá se você é
+
+[07:29] uma pessoa tímida logo você é de câncer
+
+[07:31] sei lá né eu coloco essa hipótese nem
+
+[07:34] cria uma história generosa de leão por
+
+[07:36] exemplo
+
+[07:37] aí eu coloco essa história toda como eu
+
+[07:39] não tenho nenhuma outra informação para
+
+[07:41] refutar isso é o que tem pra hoje né
+
+[07:43] então você fica o conhecimento
+
+[07:45] você tem essa ótica disponível isso
+
+[07:47] funciona e tudo bem
+
+[07:49] relembrando novamente que as questões
+
+[07:51] antropológicas e históricas por trás da
+
+[07:53] origem do horóscopo sims acionais vale a
+
+[07:56] pena você procurar porque os signos tem
+
+[07:58] o nome que tem sensacional mas o ponto
+
+[08:00] de vista de explicação de fenômenos você
+
+[08:03] pode colocar por exemplo vamos anunciar
+
+[08:05] essa hipótese então a reinventar pessoas
+
+[08:07] time da ação de câncer
+
+[08:09] tá com essa primeira hipótese vamos
+
+[08:11] colocar uma outra coisa não fazer um
+
+[08:12] experimento né lembra o nosso episódio
+
+[08:15] do arroz
+
+[08:15] ele integra também a idéia do teorema de
+
+[08:17] vez né pessoas tinham ligação de câncer
+
+[08:20] vamos pensar então vamos tentar refutar
+
+[08:22] essa hipótese então um eu vou pegar
+
+[08:24] pessoas tímidas que não são de câncer
+
+[08:26] conversão encontro
+
+[08:27] aí eu vejo que em outros signos as
+
+[08:29] proporções de pessoas tímidas são
+
+[08:31] similares às proporções de pessoas com
+
+[08:33] criança tímidas
+
+[08:34] então quer dizer que ser de câncer não
+
+[08:36] discrimina você ser tímido não então já
+
+[08:38] me hipótese já estava um pouco
+
+[08:40] fragmentada
+
+[08:42] vamos pensar então no sentido positivo
+
+[08:43] eu vou procurar pessoas tímidas e ver eu
+
+[08:46] pego uma grande quantidade de pessoas
+
+[08:47] tímidas e conta que a maior parte delas
+
+[08:49] de câncer não a gente começa a ver
+
+[08:52] também que a distribuição é mais o meu e
+
+[08:54] ao acaso não ou seja você vai reunindo
+
+[08:57] elementos e multiplicando as
+
+[08:59] probabilidades até perceber que a
+
+[09:00] probabilidade daquilo que se acreditava
+
+[09:02] no começo é ínfima ou muito pequena e
+
+[09:05] não se deve ao acaso né falando em a
+
+[09:07] casa
+
+[09:08] vamos pegar por exemplo qual
+
+[09:09] distribuição de probabilidade explica o
+
+[09:11] nosso seguinte então temos 12 signos né
+
+[09:14] e você pode responder sim ou não para
+
+[09:17] cada um deles é das opções que você
+
+[09:18] tinha no link
+
+[09:20] temos duas opções então a probabilidade
+
+[09:22] de você acertar é dado que temos um
+
+[09:25] signo ea gente não pode escolher não ter
+
+[09:26] né mas eu tenho um é um doze avos um
+
+[09:30] doze avos de 1 8 ponto 3 por cento
+
+[09:32] quem tá então seria esperado se a
+
+[09:35] probabilidade de a gente ter se as
+
+[09:38] pessoas não conseguissem discriminar com
+
+[09:40] o nosso signo ela chutariam de forma
+
+[09:42] aleatória e à distribuição das escolhas
+
+[09:45] nosso signo seria em torno de 8.3 por
+
+[09:47] cento
+
+[09:48] se eu quisesse ser um pouco mais rígido
+
+[09:50] ainda
+
+[09:51] uma distribuição binomial aos dados a
+
+[09:54] probabilidade do acaso girado em torno
+
+[09:55] de 12%
+
+[09:57] tá então se as escolhas das pessoas
+
+[10:00] circularem entre 8.3 de 12% em todos os
+
+[10:04] signos ali é um indicador de que a
+
+[10:07] escolha das pessoas se deve ao acaso e
+
+[10:09] não por uma hipótese a priori de que os
+
+[10:11] signos poderiam descrever
+
+[10:12] características nossas e aí quem que deu
+
+[10:16] vamos lá vamos lá o que deu para o signo
+
+[10:20] do altay a gente teve o seguinte
+
+[10:22] resultado os 3 signos mais chutados
+
+[10:27] vamos assim que quais são são virgem
+
+[10:30] aquário com um genius está esse foi o
+
+[10:34] mais votado para mim quanto mais
+
+[10:35] votantes pronto aí tá virgin teve 16%
+
+[10:39] dos votos em um aquário 11.7 e gêmeos
+
+[10:44] 11.3 recebe os três mais votados está o
+
+[10:47] segredo desses três atletas são aqueles
+
+[10:49] não é nem os treinos nem filho nem o
+
+[10:52] ascendente
+
+[10:53] cada pergunta pela frente nenhum deles
+
+[10:55] venceu
+
+[10:56] eu não sei qual é mas ambiente pode
+
+[10:58] começar então nunca me interessa sempre
+
+[11:01] mas os belgas foram os seguintes os meus
+
+[11:04] a distribuição no meu caso e ainda mais
+
+[11:07] homogêneo foi mais uma janela
+
+[11:09] o mais votado foi touruno 1 12 ponto
+
+[11:12] porcentual abate fim lenta assim dentro
+
+[11:15] do acaso 1
+
+[11:17] depois vêm libra e capricórnio empatados
+
+[11:21] com 10.8 por cento ou seja os três
+
+[11:24] dentro do limite do acaso estão dentro
+
+[11:26] da faixa da casa e eu sei que em algum
+
+[11:28] deles nenhum desses em um desenho nenhum
+
+[11:30] desses três faixa que coisa pra falar a
+
+[11:34] verdade o seu signo nota que eu sei qual
+
+[11:36] é
+
+[11:37] já entre os menos votados no seu caso
+
+[11:39] que droga
+
+[11:41] tá difícil a coisa está diferente está
+
+[11:44] difícil de comprovar que ele é
+
+[11:46] certificar mente som mas ao mesmo tempo
+
+[11:48] porque as pessoas continuam acreditando
+
+[11:50] né
+
+[11:51] aí a gente tem um ponto interessante é
+
+[11:52] que eu vou encarar isso né a idéia do
+
+[11:55] termo de bacon
+
+[11:57] a filosofia metafísica tá é bem possível
+
+[12:00] fazer isso e na verdade uma tem uma
+
+[12:03] teoria mais um corpo de conceitos do
+
+[12:06] aristóteles um que ele fala o seguinte
+
+[12:09] está num metafísica do aristóteles que
+
+[12:12] ele fala
+
+[12:13] toda e qualquer coisa o comportamento
+
+[12:15] pode ser descrito néel por meio de
+
+[12:18] quatro causas são as causas das coisas
+
+[12:22] isso é uma explicação muito poderosa
+
+[12:23] para você entender por que as pessoas
+
+[12:25] tomam decisões esquisitas né porque em
+
+[12:28] geral a gente se relaciona um evento a
+
+[12:32] uma causa única
+
+[12:33] a gente tem isso em vários episódios que
+
+[12:35] as pessoas sempre associam a isso
+
+[12:37] aconteceu por causa disso elas não
+
+[12:39] pensam que é uma relação de coisas elas
+
+[12:41] pensam sempre é uma coisa única junto de
+
+[12:43] coisas ou esicenter relacionadas a eles
+
+[12:46] ea gente tem muita dificuldade de
+
+[12:47] entender associações conjuntas ou
+
+[12:50] interações de fenômenos né então
+
+[12:52] aristóteles descreve que tudo pode ser
+
+[12:55] descrito por quatro causas
+
+[12:57] na verdade nunca existe uma causa para
+
+[12:59] as coisas existem sempre 4ta que são as
+
+[13:02] causas materiais
+
+[13:04] as causas formais as causas e eficientes
+
+[13:06] e as causas finais mesmo cientistas
+
+[13:09] mesmo não conhecendo a base aérea
+
+[13:11] estratégica
+
+[13:12] os cientistas procuram trabalho buscar
+
+[13:15] as quatro causas de todos os fenômenos
+
+[13:16] tá vamos falar um pouquinho de cada uma
+
+[13:19] depois a gente relacionei com o termo de
+
+[13:20] beijo causa material
+
+[13:22] vamos pensar em uma pergunta por exemplo
+
+[13:24] quem por que as pessoas fumam já
+
+[13:27] relacionado com o nosso cast sobre por
+
+[13:29] que é tão difícil parar de fumar
+
+[13:30] se eu te pergunto por que as pessoas
+
+[13:32] fumam que resposta vem na cabeça de gum
+
+[13:34] na cabeça porque dos ozu isso vou ter
+
+[13:38] essa primeira porque é bom né
+
+[13:40] aí é uma causa eu posso te perguntar n
+
+[13:43] causas
+
+[13:44] você pode me dar uma lista de causas né
+
+[13:46] pode ser por exemplo
+
+[13:48] supondo que a gente não tem nenhuma
+
+[13:49] informação pode ser porque o certeza
+
+[13:51] abduzem as pessoas para elas tomarem
+
+[13:52] numa situação de desconhecimento é uma
+
+[13:55] causa possível né
+
+[13:56] então você pode fazer uma lista enorme
+
+[13:58] de causas depois você vai tentar ver
+
+[14:01] quais dessas causas enquanto encaixam
+
+[14:03] nesses quatro níveis
+
+[14:05] tá por exemplo as pessoas falam porque
+
+[14:07] elas gostam isso é uma causa eficiente
+
+[14:08] diz respeito com f
+
+[14:10] ciência de fumar com eficiência do
+
+[14:13] comportamento visível
+
+[14:14] tá mas será que é uma causa mesmo será
+
+[14:17] que as pessoas gostam mesmo é não então
+
+[14:19] você está dizendo às pessoas onde fala
+
+[14:21] respondeu por exemplo há porque vicia
+
+[14:23] então isso é uma outra causa mas também
+
+[14:26] é eficiente então por exemplo eu posso
+
+[14:28] chegar à porque uma pessoa fuma
+
+[14:30] imagine eu não fumo porque uma pessoa
+
+[14:32] fuma porque ela gosta será que ela gosta
+
+[14:34] mesmo é como você faz para descobrir se
+
+[14:36] vai perguntar para as pessoas a fazer
+
+[14:37] experimentos trabalhos em coletar
+
+[14:39] informações para tentar validar essa
+
+[14:41] hipótese é que as pessoas gostam mesmo
+
+[14:43] aí eu faço um maquete e vejo que as
+
+[14:46] pessoas gostam mas porque elas gostam e
+
+[14:50] aí você tem que ir para outros níveis de
+
+[14:51] estudo então por exemplo as pessoas
+
+[14:52] fumam por que elas gostam a causa
+
+[14:54] eficiente isso é relacionado com um
+
+[14:56] vício mas o que é o vício aí você vai na
+
+[14:59] casa material e formal
+
+[15:01] então por exemplo antes de tudo pra você
+
+[15:03] fumar e gostar tem um cérebro então a
+
+[15:06] causa material
+
+[15:08] ninguém sem cérebro vai fumar ou gostar
+
+[15:11] de da então as casas materiais são
+
+[15:13] condições físicas para que o
+
+[15:15] comportamento aconteça físicas e tem um
+
+[15:18] cérebro e se sabe tem que funcionar
+
+[15:20] tá não existe vício em cigarro sem
+
+[15:22] cérebro primeira coisa causa material
+
+[15:24] depois a causa for mal a causa for mal é
+
+[15:27] como as partes do cérebro seu organismo
+
+[15:29] então por exemplo se você tiver um
+
+[15:31] cérebro mas tiver por exemplo uma lesão
+
+[15:33] numa área específica que altera sua
+
+[15:36] percepção de risco de vício você não vai
+
+[15:38] ficar viciado informar por exemplo tá
+
+[15:41] então o cérebro é composto de partes
+
+[15:43] essas partes são a causa material ea
+
+[15:45] organização dessas partes a causa for
+
+[15:47] mal tá
+
+[15:49] quando você junta causa material com
+
+[15:50] causa formal
+
+[15:52] você tem o organismo né e esse gordinho
+
+[15:54] se comporta e aí vêm as causas e
+
+[15:57] eficientes nem a causa eficiente céu
+
+[15:59] porque ele acha que faz aquilo isso
+
+[16:01] limpa com vários episódios inclusive um
+
+[16:03] que é o nosso cérebro faz quando a gente
+
+[16:05] fala conosco nunca a gente mesmo
+
+[16:07] tá então a relação que você tem com seu
+
+[16:09] corpo por exemplo por que se fuma quais
+
+[16:11] são as condicionantes estão causa
+
+[16:13] eficiente é eu fui porque eu gosto foram
+
+[16:15] porque o meu amigo fumar eu fumo porque
+
+[16:17] eu vejo na tv o fumo por n razões
+
+[16:19] comportamentais mas você essas causas
+
+[16:23] eficiente só funcionam porque elas têm
+
+[16:25] um substrato em causa formal que tem um
+
+[16:27] substrato em casa material
+
+[16:28] tá e última parte a causa final a causa
+
+[16:32] final
+
+[16:32] biologicamente e qual a importância
+
+[16:34] disso para a sobrevivência do organismo
+
+[16:36] ou da espécie
+
+[16:37] então por exemplo será que tem um papel
+
+[16:40] evolutivo em fumar não né na verdade a
+
+[16:43] causa final é comprometida é por que
+
+[16:45] diminui essa sobrevida né
+
+[16:48] mas pode ser que fumar para algumas
+
+[16:50] pessoas aumente as chances de sucesso
+
+[16:53] reprodutivo entende então por exemplo
+
+[16:55] pense não hoje em dia mas tem 50 anos
+
+[16:57] atrás eu fumava então era visto como um
+
+[17:00] cara mais chique né
+
+[17:02] isso aumentava 3 atração das pessoas e
+
+[17:04] aumentava o meu sucesso reprodutivo
+
+[17:06] então durante uma passagem dos 20
+
+[17:08] concorrentes já foi verdade então
+
+[17:09] durante uma época não fumar tinha um
+
+[17:11] sentido positivo ligado às causas finais
+
+[17:13] então ele reproduziu tinha filhote tinha
+
+[17:16] filhos mas morria de câncer aos 50 anos
+
+[17:18] mas a seleção natural não tá nem aí pra
+
+[17:20] você você passou genes para frente então
+
+[17:22] firmeza total né então tem sido
+
+[17:24] biologicamente a relação entre esses
+
+[17:26] quatro níveis de causa pode te dar
+
+[17:28] explicações psicológicas explicações
+
+[17:31] sociológicas e antropológicas e mesmo
+
+[17:34] econômica sobre quaisquer processos né
+
+[17:37] é por isso por exemplo que é totalmente
+
+[17:38] tacanho você pegar uma pessoa no
+
+[17:41] facebook ela fica falando de política
+
+[17:43] por exemplo a a a economia está ruim por
+
+[17:46] causa do partido político em mim isso é
+
+[17:48] um nível de causa
+
+[17:49] você tem que procurar os outros níveis
+
+[17:50] também e colocar eles juntos numa
+
+[17:53] equação de probabilidade para descobrir
+
+[17:55] o peso daquilo que você acha frente a
+
+[17:57] outras informações é então o teorema de
+
+[18:00] base é totalmente associado com as
+
+[18:02] quatro casas do aristóteles porque por
+
+[18:04] exemplo é só voltar nessa cruzada
+
+[18:06] cigarro símbolo é essa a causa final que
+
+[18:09] você mencionou ela já não é mais
+
+[18:12] verdadeiro isso
+
+[18:13] ainda assim tem gente que continua sim
+
+[18:15] né
+
+[18:16] poderia ser considerada uma causa final
+
+[18:18] por exemplo um fumante que acha que ele
+
+[18:24] fuma pra suportar a vida
+
+[18:28] então é só pensar em vídeo ele isso pode
+
+[18:30] ser disse
+
+[18:31] uma coisa final ele ainda é eficiente
+
+[18:34] ainda eficiente o final você tem que
+
+[18:36] levar em conta a causa última
+
+[18:38] assim se você pensar no ponto de vista
+
+[18:40] evolutivo é eficiente porque aí o
+
+[18:42] objetivo é a sobrevivência da espécie
+
+[18:44] se você levar em conta o indivíduo pode
+
+[18:46] ser final que é o final da vida dele
+
+[18:49] acabou sentido existencial dele né
+
+[18:51] depende do nível de análise que você
+
+[18:53] está trabalhando por exemplo se eu tenho
+
+[18:54] uma questão sociológica as causas finais
+
+[18:57] sempre são ligadas à manutenção do
+
+[18:59] estado de direito da sociedade
+
+[19:01] então num foco - o indivíduo mais no
+
+[19:04] social
+
+[19:05] se eu penso é uma questão econômica é a
+
+[19:07] causa final a sustentabilidade do
+
+[19:09] mercado
+
+[19:09] então tem que pensar sempre em nossa
+
+[19:11] casa nessa questão macro tá então o
+
+[19:14] teorema de beijo ele mostra que essas
+
+[19:16] quatro causas existem para quaisquer
+
+[19:18] fenômenos e elas não têm o mesmo peso
+
+[19:20] então tem certas situações em que causa
+
+[19:22] eficiente tem peso maior ou causas
+
+[19:24] formais enfim dependendo do caso
+
+[19:26] fascinante e aí você tem que conhecer os
+
+[19:28] quatro para poder poder há uma
+
+[19:29] probabilidade sobre um processo
+
+[19:31] decisório algo que você acha né
+
+[19:33] e aí pra fechar eu vou dar um outro
+
+[19:35] exemplo que é um também um exemplo de
+
+[19:37] teste diagnóstico eu vou falar no final
+
+[19:39] do ano para não estragar a surpresa é
+
+[19:41] que se você pega um papel e tá mas as
+
+[19:44] contas não são difíceis e eu vou dar um
+
+[19:46] resultado fácil mas só para você
+
+[19:47] imaginar blá
+
+[19:49] quem imagina que você foi fazer um exame
+
+[19:50] de rotina e assim se chega no médio
+
+[19:52] quero fazer um checkup para mim está
+
+[19:54] tudo bem tá aí que o médico faz uma
+
+[19:56] lista de exames e coloca-la um exame de
+
+[19:58] hiv
+
+[19:59] só pra ver isso faz os dois anos e o
+
+[20:03] teste de hiv e de positivo dá aí chega o
+
+[20:07] médico foi o teste deu positivo e aí
+
+[20:09] aí o médico olha assim e fala ah então
+
+[20:12] esse teste ele tem 99% de confiabilidade
+
+[20:16] parênteses termo técnico 99% de
+
+[20:19] sensibilidade 99% de especificidade
+
+[20:22] pra quem adore a mente então o teste tem
+
+[20:24] 99% de chance de deixar né de tá certo
+
+[20:28] que ficaria preocupado e até deu
+
+[20:30] positivo esse carinha dela ficaria não
+
+[20:32] passaria em si o uso não passar de um
+
+[20:34] átomo é inferior
+
+[20:35] é é eu fosse você saber do teorema de
+
+[20:39] vezes não ficaria tanto assim não é na
+
+[20:41] verdade a probabilidade de você estar de
+
+[20:44] fato doente dado que o teste deu
+
+[20:46] positivo numa situação de teste de
+
+[20:49] rotina é de apenas 50% mesmo teste tendo
+
+[20:53] uma confiabilidade tão alta
+
+[20:55] a mentira vamos fazer a conta vamos
+
+[20:57] fazer de conta imagine comigo
+
+[20:59] ó imagine que eu tenho mil bolinhas em
+
+[21:02] 11 lugar com mil bolinhas mil pessoas
+
+[21:06] vamos supor que a prevalência de aids na
+
+[21:10] população normal comum é um por cento a
+
+[21:13] 1 por cento das pessoas da população têm
+
+[21:15] aids
+
+[21:16] então imagina que eu tenho mil pessoas
+
+[21:18] 1% delas têm aids a 1% de mil são 10
+
+[21:22] certo então eu tenho mil pessoas 10
+
+[21:25] delas têm aids só que não sei quem são
+
+[21:27] elas estão misturados no meio da rua
+
+[21:30] brincar o teste em todas elas
+
+[21:32] bom então quando eu aplicar o teste nas
+
+[21:36] 990 pessoas saudáveis porque tem mil -
+
+[21:39] 10 990 pessoas saudáveis
+
+[21:42] eu vou ter 990 vezes 99% ea capacidade
+
+[21:46] do teste detectar certo vai dar 980
+
+[21:51] ou seja quando eu aplico testes 990
+
+[21:54] pessoas ela vai detectar 10 falsos
+
+[21:57] positivos nela vai dizer que a pessoa
+
+[21:59] tem o teste só que na verdade não tem
+
+[22:00] parentes porque ela vai ver no turismo
+
+[22:03] hiv positivo e de fato nada mas na
+
+[22:05] verdade não ter isso parentes para quem
+
+[22:08] for da área médica isso é chamado valor
+
+[22:09] preditivo positivo tá transparente é
+
+[22:12] quando eu aplicar o teste nas dez
+
+[22:14] pessoas que têm a doença
+
+[22:16] né vai detectar que a pessoa tem a
+
+[22:18] doença porque dez vezes 99% vai dar 0,11
+
+[22:23] por cento que é muito menos que uma
+
+[22:24] pessoa está então provavelmente o que
+
+[22:27] vai acontecer na prática eu vou aplicar
+
+[22:29] o teste 990 pessoas sem a doença vai
+
+[22:33] aparecer dez doentes segundo teste
+
+[22:35] depois vou aplicar o teste nos dez
+
+[22:37] doentes vai dar os dez doentes
+
+[22:40] então no final eu vou aplicar o teste
+
+[22:42] mas nós mil pessoas
+
+[22:44] eu vou ter 20 doentes
+
+[22:46] do que 20 tem 10 têm a doença e dez são
+
+[22:50] falsos coletivos
+
+[22:51] se você olhar para essas 20 pessoas
+
+[22:53] quando você fez o teste você caiu dentro
+
+[22:56] desses 20 não é você tá em um grupo ou
+
+[22:58] no outro e os dois grupos têm o mesmo
+
+[23:00] tamanho
+
+[23:01] portanto 50 pois sem chance de ser um
+
+[23:03] falso positivo exato
+
+[23:04] então provavelmente você é um falso
+
+[23:06] positivo e esse é o tema de vez se conta
+
+[23:09] facilmente agora uma segunda situação
+
+[23:12] que nós vamos imaginar o seguinte vamos
+
+[23:14] imaginar acrescentar mais uma camada de
+
+[23:16] conhecimento como e seria de bebês é
+
+[23:18] preciso que vamos mudar o contexto agora
+
+[23:20] vamos mudar não vamos supor que você
+
+[23:22] ficou aliviado na asn por cento então é
+
+[23:24] jogar a moeda européia doença também
+
+[23:27] mesa total né
+
+[23:28] é isso aí passou aí você fez até um
+
+[23:30] teste para confirmar viu que era
+
+[23:32] negativo e beleza ficou feliz né e
+
+[23:34] possui um tempo você foi numa festa ea
+
+[23:37] festa foi muito louca não sei lá e você
+
+[23:39] fez uma merda mas eu cometi confiar neve
+
+[23:42] e nosso pensamento e não sei o que
+
+[23:44] aconteceu num mundo e conta por mim eu
+
+[23:48] não sei se aconteceu alguma coisa eu
+
+[23:49] consigo jogar fiquei preocupado
+
+[23:51] eu tinha um pouco precavido e futebol só
+
+[23:53] eu não sei se era verdade ou não não sei
+
+[23:55] quanto é uma coisa é eu vou fazer o
+
+[23:57] teste de hiv porque eu fiquei com medo
+
+[23:59] né
+
+[24:00] o contexto é diferente se você está com
+
+[24:02] medo
+
+[24:03] você vai fazer parte da população normal
+
+[24:05] como isso vai fazer parte da população
+
+[24:07] de risco
+
+[24:08] tá que a prevalência da doença diferente
+
+[24:11] então imaginem mil pessoas só que essas
+
+[24:14] pessoas são da população de risco
+
+[24:16] imagine que a prevalência de doentes
+
+[24:19] dentre as pessoas que são da população
+
+[24:21] de risco não é mais um por cento e 10
+
+[24:22] por cento das vezes mais provável você
+
+[24:25] tem a doença se você está na população
+
+[24:27] de risco mesma coisa mil né
+
+[24:30] só que como em 10% sem são 100 pessoas
+
+[24:33] não vai ter 900 não doentes 100 doentes
+
+[24:35] quando aplicou o teste nos não doentes
+
+[24:38] né vai ser 99% de 900 né vai dar 891 ou
+
+[24:46] seja nove pessoas vão ser detectadas
+
+[24:48] erroneamente como falso positivo nove
+
+[24:50] nascem pessoas doentes quando aplicar o
+
+[24:53] teste vezes 99 vai dar uma pessoa né
+
+[24:57] ou seja essa pessoa vai ser um falso
+
+[24:58] negativo
+
+[24:59] néel teste vai dizer que ela não tenha a
+
+[25:02] doença só que na verdade ela tem que tá
+
+[25:05] quando você parar esse pessoal os
+
+[25:06] doentes o que eu vou ter
+
+[25:08] quando pego sem doentes na verdade você
+
+[25:10] 99 por que um dia um falso negativo e
+
+[25:13] dentro não doentes ou ter nove né que
+
+[25:16] era um falso positivo
+
+[25:17] então eu ter 99 doentes de verdade mas
+
+[25:21] nove falsos-positivos vou ter 108 78
+
+[25:25] entre positivos e falsos positivos desse
+
+[25:28] 108 99 deles estão de fato doentes né
+
+[25:32] que vai dar 91,6 por cento
+
+[25:35] então se você está desconfiado de que
+
+[25:38] você tem hiv e você vai ter ouvido as
+
+[25:40] pessoas não temos fila 6% das pessoas
+
+[25:44] por fim as pessoas então se você faz um
+
+[25:45] teste de hiv sendo que você está
+
+[25:47] desconfiado e ele está positivo a
+
+[25:50] probabilidade de você ter de fato é 91%
+
+[25:53] ou seja o teste tem a mesma qualidade
+
+[25:56] o que muda é o que eu sei sobre você que
+
+[25:58] é o porque se está fazendo o teste e aí
+
+[26:01] vem uma conclusão central para além da
+
+[26:03] europa que é a seguinte se você é um
+
+[26:05] investidor imagina que tem o dinheiro né
+
+[26:07] e você vai investir o dinheiro em alguma
+
+[26:09] coisa o que você investir o que acha que
+
+[26:11] tem mais retorno investir dinheiro para
+
+[26:14] melhorar a qualidade preditiva do teste
+
+[26:16] sendo que ele já é 99 por cento nesta
+
+[26:18] crise muito dinheiro para melhorar um
+
+[26:20] pouco ou investiram para o farsi 90
+
+[26:23] pontos 1 e também muito dinheiro né ou
+
+[26:27] investir dinheiro na formação dos
+
+[26:29] médicos para eles saberem quando pedir
+
+[26:31] os exames entendeu porque se você vai a
+
+[26:34] um médico e ele pede 300 mil exames e
+
+[26:36] ele não sabe porque está pedindo um
+
+[26:38] exame e não tem uma hipótese porque
+
+[26:40] esses testes não gera um ruído ele não
+
+[26:43] dá positivo sendo que na verdade pode
+
+[26:45] não tem nada eu não tenho por que pedir
+
+[26:47] esse exame por uma pessoa não tem uma
+
+[26:48] hipótese a priori tá isso é o tema de
+
+[26:51] beijo
+
+[26:52] isso vale na área médica que é mais
+
+[26:53] grave não é por isso que os médicos
+
+[26:55] pedem exames demais enquanto é uma coisa
+
+[26:57] positiva
+
+[26:58] pode ser se você não tem um histórico
+
+[27:00] não tem informação pode ser que seja um
+
+[27:02] ruído né
+
+[27:03] o episódio daquele ano
+
+[27:05] deve tá assim é que é genial
+
+[27:08] ele faz essa crítica em relação por
+
+[27:10] exemplo à mamografia isso exato não a
+
+[27:13] quantidade absurda de pura ficção
+
+[27:15] pedidas né pra mulheres jovens em
+
+[27:19] histórico na família de câncer de mana o
+
+[27:22] do tipo isso ainda mais com o pé
+
+[27:25] demografia é e aí gera um estresse
+
+[27:28] é porque dá positiva da vários falsos
+
+[27:30] positivos né e várias mulheres têm
+
+[27:33] crises de ansiedade entrou em depressão
+
+[27:36] claro causa do saldo positivo isso ele é
+
+[27:39] descobrir que era um falso positivo e às
+
+[27:41] vezes quando você tem o diagnóstico
+
+[27:42] negativo mesmo que a pessoa não se
+
+[27:43] recupera ela fica no arraiá da design
+
+[27:46] porque a gente não é tão desde ano assim
+
+[27:47] então você carrega essa informação pra
+
+[27:49] frente como vieste isso afeta o seu
+
+[27:51] julgamento subsequente né
+
+[27:53] e aí a mensagem final aqui toda vez que
+
+[27:56] você for fazer um julgamento sobre
+
+[27:57] alguém algo ou alguma coisa leva em
+
+[28:00] conta de que a hipótese é que você tem
+
+[28:01] não é única
+
+[28:02] sempre tem como falsear ou se adicionar
+
+[28:05] informação subseqüente né isso pode
+
+[28:08] falsear muito as suas informações
+
+[28:10] iniciais
+
+[28:10] isso é uma coisa que tinha que ser
+
+[28:11] ensinado na escola das pessoas sabe as
+
+[28:14] pessoas acabarem com as pequenas
+
+[28:15] verdades que elas têm sabe levar o
+
+[28:17] lakers que as coisas não têm uma causa
+
+[28:19] única e isso tem um conjunto de calma a
+
+[28:22] gente vai ser um conjunto de causas de
+
+[28:23] naturezas diferentes e isso compensa
+
+[28:25] salfer ensinou exata tanto tempo as
+
+[28:28] pessoas não aprendem empresas diferentes
+
+[28:30] né
+
+[28:31] então deixo para vocês como mensagem
+
+[28:33] vocês decidirem né com base na
+
+[28:35] informação que você tem agora qual vai
+
+[28:37] ser o nosso ciclo a partir de agora
+
+[28:39] porque ninguém descobriu é né
+
+[28:40] ninguém descobriu nem chegou perto então
+
+[28:43] a gente não vai contar com o importa
+
+[28:45] quem importa ver mas à luz dessas
+
+[28:48] informações se você quiser chutar qual o
+
+[28:50] vosso signo e isso às vezes vocês já
+
+[28:52] sabem a chance de vocês aumentou para 1
+
+[28:56] 9 a 19 aves mais ou menos né vamos ver
+
+[28:59] se continua dentro de si 19 ago jordão
+
+[29:01] josé teodoro rodrigues que se movimente
+
+[29:08] você sabia que pode ajudar a manter o
+
+[29:11] naro rodou no ar
+
+[29:12] ao contribuir você pode ter acesso a um
+
+[29:14] grupo fechado no facebook e receber
+
+[29:16] conteúdos exclusivos
+
+[29:18] acesse apóia ponto é se embananar o odor
+
+[29:22] podcast e você já sabe
+
+[29:26] aquino rodou quem faz a pauta é você
+
+[29:29] você tem alguma pergunta pra gente o que
+
+[29:31] comentar algum episódio escreva pra nós
+
+[29:33] podcast a roubar o odor ponto com.br
+
+[29:36] repetindo podcast a roubar narrador
+
+[29:39] ponto com.br
+
+[29:40] e lembre-se mande nome completo idade
+
+[29:43] profissão e à cidade de onde você está
+
+[29:45] falando
+
+[29:46] é isso aí
+
+[29:49] [Música]
+
+[29:56] isso pode é chato é apresentado o ouro e
+
+[29:59] nove ponto com.br
+
+[30:03] [Música]

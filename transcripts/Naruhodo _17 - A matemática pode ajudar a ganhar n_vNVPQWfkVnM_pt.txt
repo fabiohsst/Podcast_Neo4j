@@ -1,0 +1,559 @@
+Title: Naruhodo #17 - A matemática pode ajudar a ganhar na Mega-Sena?
+URL: https://www.youtube.com/watch?v=vNVPQWfkVnM
+Language: pt
+Extracted on: 2025-04-06 16:51:03
+================================================================================
+
+[00:00] a matemática pode ajudar a ganhar na
+
+[00:03] mega sena
+
+[00:04] [Música]
+
+[00:06] mandou bem vindo ao lado rhodolfo pode
+
+[00:17] cash para quem tem fome de aprender eu
+
+[00:19] sou ken fujioka eu sou o pai de souza e
+
+[00:21] hoje é dia de que isso tem intensa
+
+[00:26] hoje é dia de curiosidade número rodou
+
+[00:29] vamos lá mais uma vez e curiosidade de
+
+[00:31] hoje eu tô aí mistura ciência e jogo de
+
+[00:35] azar né eu conheço gente que faz uma
+
+[00:38] fezinha assunto da semana no mega sena
+
+[00:41] que toda semana ou pele que faz a
+
+[00:43] fezinha eu conheço outras pessoas que
+
+[00:45] jogam na mega sena só quando ela acumula
+
+[00:47] uma bolada viu que está acumulada ela
+
+[00:49] vai lá e faz o jogo de ida
+
+[00:51] algumas pessoas têm os números da sorte
+
+[00:54] jogam sempre os números
+
+[00:57] outros acreditam que a matemática pode
+
+[00:59] ajudar a ganhar na mega sena começa a
+
+[01:01] estudar probabilidade risco a unidade
+
+[01:03] com vitória
+
+[01:05] ela diz que o relatório e essa é a
+
+[01:08] pergunta do vau são frança 33 anos ou 20
+
+[01:11] de joão pessoa paraíba
+
+[01:13] a matemática pode ajudar a ganhar na
+
+[01:15] mega-sena então a matemática te ajuda a
+
+[01:18] entender o processo da mega sena e
+
+[01:20] inclusive você até falou é que ela teria
+
+[01:23] um jogo de azar é um jogo de jantar você
+
+[01:26] vai ver que o investimento que você faz
+
+[01:28] para buscar um ganho necessariamente não
+
+[01:31] compensa com isso que define um jogo de
+
+[01:32] azar senão chamaria jogo de sorte né não
+
+[01:35] é
+
+[01:36] se fosse pra ganhar são maioria nesse
+
+[01:38] jogo da sorte pois é então na verdade
+
+[01:41] saber matemática saber 1 na verdade
+
+[01:44] probabilidade nem saber um pouco de
+
+[01:45] teoria da probabilidade pode te ajudar a
+
+[01:48] entender que a loteria não só é um jogo
+
+[01:50] de azar como é muito difícil você ganhar
+
+[01:53] a probabilidade real de você ganhar
+
+[01:55] muito baixa então eu vou tratar a gente
+
+[01:58] vai discutir esse problema por dois
+
+[01:59] âmbitos
+
+[02:00] eu vou discutir do ponto de vista
+
+[02:01] matemático mesmo de probabilidade aquela
+
+[02:04] coisa mais entre aspas racional mas
+
+[02:06] também discutir de um ponto de vista
+
+[02:07] mais psicológico perfeito que é baseado
+
+[02:10] na teoria da utilidade esperada
+
+[02:12] indivíduos com a então pensando na
+
+[02:14] matemática com que o problema não é o
+
+[02:16] comportamento que é o comportamento de
+
+[02:18] uma loteria
+
+[02:18] pensando na mega sena né ele tem outro
+
+[02:20] tipo de loteria você tem 60 números e
+
+[02:22] você vai escolher seis e você ganha o
+
+[02:25] prêmio maior se você acerta os seis
+
+[02:27] então eu tenho 60 imagine um ano teria
+
+[02:30] mesmo se tem 60 bolinhas e você vai
+
+[02:32] sortear seis
+
+[02:34] vamos pensar primeiro no hc a amiga
+
+[02:36] assim vamos pensar em probabilidades
+
+[02:37] eu tenho 60 bolinhas qual é a
+
+[02:39] probabilidade de um senhor tinha uma
+
+[02:41] bola e ser a bolinha 20 sobre seu santo
+
+[02:44] exato é uma possibilidade entre 60 e
+
+[02:46] está aí a primeira bolinha saiu 20 por
+
+[02:48] exemplo ou qualquer outro número eu tiro
+
+[02:50] ela agora não tenho mais 60 bolas e os
+
+[02:52] 59 anos né
+
+[02:53] e você tinha mais uma com a
+
+[02:55] probabilidade de sair com 14 1 sobre 59
+
+[02:57] exato então uma coisa importante em
+
+[02:59] teoria das probabilidades é você tentar
+
+[03:01] entender o problema como o programa
+
+[03:03] funciona então eu vou fazer sorteios de
+
+[03:06] uma unidade de cada vez por seis vezes
+
+[03:08] eu faço seis sorteios e os sorteios anos
+
+[03:11] sem reposição eu não pego a bolinha olha
+
+[03:13] lá e 20 coloca de volta são sem
+
+[03:15] reposição ou seja quando tive a primeira
+
+[03:17] bolinha isso afeta a probabilidade da
+
+[03:20] segunda que afeta da terceira não existe
+
+[03:22] uma dependência entre as probabilidades
+
+[03:24] das bolinhas
+
+[03:25] e aí o probabilística né quem estuda
+
+[03:27] probabilidade vai pensar se eu tenho uma
+
+[03:29] situação assim em que eu vou fazendo o
+
+[03:31] sorteio e esse senhor tem o seu sem
+
+[03:33] reposição que tipo de distribuição de
+
+[03:35] probabilidades me ajuda a explicar esse
+
+[03:37] fenômeno
+
+[03:38] você pode olhar no ru depois sentar
+
+[03:39] estudar se você está no colegial 2º 3º
+
+[03:43] colegial
+
+[03:43] tem duas coisas que você vai usar para
+
+[03:45] responder isso que você está estudando
+
+[03:47] para o vestibular que a análise
+
+[03:48] combinatória arranjo já estude isso já
+
+[03:51] visto pac que ganha um dinheiro
+
+[03:52] acho que não mas enfim máximo vai
+
+[03:54] acertar alguma pergunta no vestibular
+
+[03:57] que fala sobre loteria vai aumentar a
+
+[03:58] probabilidade de acerto de passar no
+
+[04:00] vestibular é realmente o tipo de
+
+[04:01] distribuição que explica os resultados
+
+[04:03] da mega sena distribuição chamada
+
+[04:05] distribuição e hiper geométrica a esse é
+
+[04:08] o nome do do filho na distribuição e
+
+[04:10] geométrico que é uma distribuição que
+
+[04:12] explica esse tipo de fenômeno quando
+
+[04:14] você faz sorteios e não tem reposição de
+
+[04:16] um número fixo de seis unidades dentro
+
+[04:18] de 5
+
+[04:19] não vou explicar a fórmula que
+
+[04:20] obviamente que não mas tem essa coisa de
+
+[04:22] arranjo
+
+[04:23] a análise combinatória ditatorial né a
+
+[04:25] gente pode colocar a fórmula depois
+
+[04:27] volte pode fazer um quadrinho então você
+
+[04:30] pode calcular na mão e aí tem uma coisa
+
+[04:33] interessante se você fizer a conta qual
+
+[04:35] é a probabilidade de eu acertar seis
+
+[04:37] números no conjunto de 60
+
+[04:38] a probabilidade de você acertar os 6 em
+
+[04:41] torno de uma em 50 milhões
+
+[04:44] uma em 50 milhões um pouco né parece
+
+[04:47] bastante pouco exato parece bem raro o
+
+[04:49] evento né
+
+[04:50] é mais fácil você morrer de desastre de
+
+[04:52] avião duas vezes do que ganhar ou seja
+
+[04:54] você caiu de avião morreu teve um
+
+[04:56] continue voltou morreu de um exato nem
+
+[04:59] com seus videogames um evento muito raro
+
+[05:01] então se você sabe matemática e conhece
+
+[05:04] a distribuição entre geométrica
+
+[05:05] você vai claramente verificar que a
+
+[05:07] probabilidade muito baixa e isso vai
+
+[05:08] diminuir muito sua vontade de jogar
+
+[05:10] 1 no entanto tem uma coisa interessante
+
+[05:12] então a qual é o problema que eu fiz
+
+[05:14] qual foi o cálculo que eu fiz qual a
+
+[05:16] probabilidade de eu acertar seis números
+
+[05:18] de acertar jogar seis números para
+
+[05:20] acertar seis números dentre os 60
+
+[05:23] então eu peguei uma cartela marquei seis
+
+[05:25] números
+
+[05:27] e eu quero saber a probabilidade de
+
+[05:28] acertar os seis confrontos de 60 beleza
+
+[05:31] porém na mega sena é possível você jogar
+
+[05:33] mais números você pode jogar 789 números
+
+[05:37] aumenta a probabilidade de ganhar né
+
+[05:39] então por exemplo se eu jogar 7 números
+
+[05:42] então eu vou marcar no papelzinho sete
+
+[05:44] números querem saber a probabilidade de
+
+[05:46] acertar 6 37 no dentro de um grupo de 60
+
+[05:50] a probabilidade se torna sete vezes mais
+
+[05:53] provável então ó se você pega duas
+
+[05:54] cartelas uma cartela com os seis números
+
+[05:56] e uma cartela com sete
+
+[05:58] a cartela com sete é sete vezes mais
+
+[06:00] provável de ganhar o prêmio do que a
+
+[06:02] consciência porém é 115 3 milhões na
+
+[06:05] então se você multiplicar por sete manda
+
+[06:08] muito não não vai mudar muito no entanto
+
+[06:11] repare agora vai na lotérica veja o
+
+[06:13] preço
+
+[06:14] então se eu jogar uma cartela com seis
+
+[06:15] dezenas eu pago 3 50
+
+[06:17] atualmente se você jogar uma cartela com
+
+[06:19] sete dezenas
+
+[06:21] você vai pagar 24 reais que há sete
+
+[06:23] vezes o valor do aluguel ou seja é a
+
+[06:25] mesma coisa de você ter feito mais jogos
+
+[06:28] de seis estatuetas né
+
+[06:30] e aí a caixa federal ela conhece essas
+
+[06:32] probabilidades então se você jogar na
+
+[06:34] tabela de prestar toda baseada nessa
+
+[06:37] nessa distribuição ambos na exibição na
+
+[06:39] distribuição e geométrico então eles
+
+[06:40] sabem o carro você não
+
+[06:42] no entanto é preciso deixar de jogar na
+
+[06:43] mega sena você pode jogar ou não foi que
+
+[06:45] a gente entre os seus lindos no segundo
+
+[06:48] para o segundo ponto é o componente
+
+[06:49] psicológica exato o primeiro a gente já
+
+[06:52] entendeu e jogar seu ponto de vista
+
+[06:54] matemático é muito próximo você queimar
+
+[06:57] dinheiro e não compensa muito projeto
+
+[06:59] não compensa
+
+[07:00] no entanto o psicológico então no
+
+[07:02] entanto tem a questão da atividade
+
+[07:03] relativa e não a percepção da utilidade
+
+[07:06] de uma coisa
+
+[07:07] então por exemplo seu atrela a utilidade
+
+[07:09] de uma coisa o preço tem muitas coisas
+
+[07:11] que eu não compro você publicitário com
+
+[07:14] a qual é o interesse do publicitário
+
+[07:15] aumentar a utilidade relativa das coisas
+
+[07:18] né eu quero comprar um barato que é mais
+
+[07:20] caro porque é legal né e o que é ilegal
+
+[07:23] é o componente psicológico que eu dou
+
+[07:25] sobre uma coisa que estou estudando tem
+
+[07:26] dois computadores computador lá custa
+
+[07:28] 100 mil reais o que custa 10 mil só que
+
+[07:30] esse de 10 mil têm uma maçã eu pago 10
+
+[07:32] mil que é a mesma coisa e entendo essa
+
+[07:35] idéia da luz mais do que uma moça então
+
+[07:37] tudo bem não tem problema eu sou livre
+
+[07:40] tem essa questão da utilidade relativa
+
+[07:42] então pensei o seguinte só para você não
+
+[07:44] se sente muito mal né eu não quero que
+
+[07:45] você poderá não jogar mais na mega sena
+
+[07:47] mesmo que se eu ganhar
+
+[07:49] ele é uma pessoa cria essa expectativa
+
+[07:51] né pensa só ganha quem joga no exato só
+
+[07:54] vem aqui e joga a probabilidade em
+
+[07:56] chamariz é uma probabilidade é a
+
+[07:58] probabilidade de você ganha atado que
+
+[08:00] não jogou e 0 com certeza a outra muito
+
+[08:03] perto de zero mas né alguma coisa que
+
+[08:05] talvez a maioria da população a
+
+[08:07] probabilidade de você ganhar na mega
+
+[08:09] sena é muito próximo da probabilidade de
+
+[08:11] ganhar esse tanto de dinheiro em
+
+[08:13] qualquer outro método exata né não com
+
+[08:15] certeza qualquer outro tipo lícito ou
+
+[08:17] ilícito nem no do prêmio
+
+[08:19] pense na seguinte situação então você
+
+[08:21] vai na lotérica que gasta 3 51 jogo você
+
+[08:24] marcas as dezenas de pagar ipi tem
+
+[08:26] aquele papelzinho na mão você fica
+
+[08:28] pensando que eu faria com esse dinheiro
+
+[08:30] a eu faria tal coisa para uma viagem
+
+[08:32] ajudaria sei lá quem compraria isso essa
+
+[08:35] ilusão nessas essa ilusão de controle
+
+[08:38] que você tem por um tempo a estudar
+
+[08:40] alguns dias até 1 certeza
+
+[08:42] imagina né gera uma satisfação que eu
+
+[08:45] acho que vale os 3 51 que vale 3 50 você
+
+[08:48] tem esse exercício essa liberdade é bem
+
+[08:51] mais barata uma sessão de terapia em
+
+[08:52] muitos casos sim um remédio homeopata
+
+[08:58] exato tem o mesmo efeito é já virou
+
+[09:01] programa empatia nessa reunião é feita
+
+[09:03] então não sei então homeopáticos jogar
+
+[09:06] na mega sena olha 3 50 anos que vale né
+
+[09:10] e vale a pena lembrar disso o imã uma
+
+[09:12] área de tempo principalmente escola o
+
+[09:14] economista que estuda isso assim como as
+
+[09:16] pessoas percebem o valor subjetivo da
+
+[09:19] economia comportamental exato da
+
+[09:22] psicologia econômica então pense sobre
+
+[09:24] isso joga na mega sena pensando que só a
+
+[09:26] probabilidade é muito pequena mas você
+
+[09:28] vai ter um momento frugal de satisfação
+
+[09:30] e aí ver se vale o dinheiro que está
+
+[09:31] apostando na roda e lustres movente
+
+[09:34] lembre-se aquino rodou quem faz a pauta
+
+[09:37] você você discorda do que ouviu tem uma
+
+[09:39] pergunta que é compartilhado uma
+
+[09:41] curiosidade ou lançar um desafio e
+
+[09:43] escreva pra gente podcast a rodar outro
+
+[09:45] ponto com ponto br
+
+[09:47] repetindo podcast a ronaldo todo ponto
+
+[09:49] com.br então até o próximo ano rodou no
+
+[09:52] marcador
+
+[09:55] [Música]
+
+[09:57] nada mudou
+
+[10:00] [Música]
+
+[10:02] isso pode é apresentado ouro e nove
+
+[10:06] ponto com.br
+
+[10:10] [Música]

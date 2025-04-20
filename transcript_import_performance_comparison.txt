@@ -1,0 +1,57 @@
+Transcript Import Performance Comparison
+========================================
+
+Overview
+--------
+This document summarizes the improvements in transcript import performance for the Naruhodo podcast project, comparing the initial approach with the optimized, token-based chunking pipeline. The focus is on the average time spent per episode and the qualitative benefits of the new method.
+
+First Attempt (Baseline)
+-----------------------
+- **Chunking**: Time-based (e.g., 1-minute) segments, no token overlap.
+- **Embedding**: Segment-by-segment, no batching or token windowing.
+- **Import**: Sequential, with less efficient batching.
+- **Average time per episode**: 
+  - Example (Episode 420):
+    - Parsing: ~0.06s
+    - Import (segments): ~33.65s
+    - Embedding update: ~60.05s
+    - **Total for 1100 segments**: ~94s
+  - For typical episodes (fewer segments):
+    - Estimated total: 30–90s per episode, depending on length.
+
+Optimized Attempt (Token-based Chunking)
+----------------------------------------
+- **Chunking**: 300-token chunks with 100-token overlap, using the model's tokenizer for consistent context windows.
+- **Embedding**: Batched (batch size=32), reducing overhead and maximizing throughput.
+- **Import**: Efficient batch import of all segments and embeddings in one go.
+- **Average time per episode** (sample from Episodes 126–290):
+  - **Load**: ~0.05s
+  - **Chunk**: ~0.03s
+  - **Embed**: 2–6s (varies by episode length)
+  - **Import**: 0.3–1.5s
+  - **Total**: **2–8s per episode** for most episodes (longest: ~9s)
+
+Comparison Table (Typical Episodes)
+-----------------------------------
+| Approach         | Load | Chunk | Embed | Import | Total |
+|------------------|------|-------|-------|--------|-------|
+| First Attempt    | ~0.1s|  n/a  | 20–60s| 10–40s | 30–90s|
+| Optimized (New)  |~0.05s|~0.03s | 2–6s  |0.3–1.5s| 2–8s  |
+
+Key Improvements
+----------------
+- **Token-based chunking** ensures each segment is well-suited for embedding and retrieval, following best practices for RAG/GraphRAG.
+- **Batch embedding** dramatically reduces time spent on embedding generation.
+- **Batch import** to Neo4j is faster and more reliable.
+- **Consistent chunk size** (in tokens) improves downstream retrieval quality.
+
+Qualitative Impact
+------------------
+- The new pipeline is **5–10x faster** for most episodes.
+- Chunks are more semantically meaningful and consistent.
+- The process is robust to transcript length and model constraints.
+- The workflow is now suitable for scaling to hundreds of episodes.
+
+Conclusion
+----------
+The optimized import pipeline provides a significant speedup and quality improvement over the initial approach. This enables rapid, scalable, and high-quality transcript ingestion for downstream graph-based retrieval and analysis. 

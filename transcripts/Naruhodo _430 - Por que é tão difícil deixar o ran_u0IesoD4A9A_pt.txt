@@ -1,0 +1,3039 @@
+Title: Naruhodo #430 - Por que é tão difícil deixar o rancor de lado?
+URL: https://www.youtube.com/watch?v=u0IesoD4A9A
+Language: pt
+Extracted on: 2025-04-06 16:38:20
+================================================================================
+
+[00:00] [Música]
+
+[00:01] Por que é tão difícil deixar o rancor de
+
+[00:07] lado
+
+[00:11] narod bem-vindo ao nar rodo podcast para
+
+[00:14] quem tem fome de aprender eu sou quem
+
+[00:16] fioca eu sou de Souza e hoje é dia de
+
+[00:19] quê ciência e senso
+
+[00:23] comum você quer apoiar a ciência quer
+
+[00:27] apoiar o pensamento científico quer
+
+[00:29] ajudar o naro rodou a se manter no ar
+
+[00:32] ouvir os episódios e espalhar a palavra
+
+[00:34] já é um grande Passo mas existe um outro
+
+[00:37] jeito quem possibilita isso é a orelo
+
+[00:40] você escolhe um valor de contribuição
+
+[00:42] mensal e tem acesso a conteúdos
+
+[00:44] exclusivos conteúdos antecipados e
+
+[00:47] vantagens especiais Além disso você pode
+
+[00:50] ter acesso ao nosso grupo fechado no
+
+[00:51] telegram e conversar comigo com alí e
+
+[00:54] com outros apoiadores Toda vez que você
+
+[00:56] ouvir ou fizer download de um episódio
+
+[00:58] pelo aurelo vai também estar pingando
+
+[01:01] uns trocadinhos para o nosso projeto
+
+[01:03] Combinado então Baixe agora mesmo o app
+
+[01:06] orelo no endereço orelo.cc ou na sua
+
+[01:10] loja de aplicativos e ajude a fortalecer
+
+[01:12] o conhecimento
+
+[01:15] [Música]
+
+[01:24] científico você já atua no mercado Tec
+
+[01:27] ou deseja migrar para a área de
+
+[01:29] Tecnologia
+
+[01:30] a imersão Dev backend da alura em
+
+[01:33] conjunto com o Google é sua oportunidade
+
+[01:35] para consolidar conhecimentos
+
+[01:37] fundamentais Em lógica de programação
+
+[01:39] criando um projeto do zero com node JS e
+
+[01:42] com api do Gemini a inteligência
+
+[01:44] artificial do Google serão cinco dias
+
+[01:47] imersos com cinco aulas exclusivas
+
+[01:49] desenvolvidas especialmente para você
+
+[01:51] consolidar conhecimentos em programação
+
+[01:53] backend adquirir habilidades que vão
+
+[01:56] além do básico criar um projeto para
+
+[01:58] adicionar o seu portfólio e dar um
+
+[02:00] upgrade na sua carreira o projeto é
+
+[02:03] parte fundamental da didática da alura e
+
+[02:05] uma excelente oportunidade de fixar o
+
+[02:08] conteúdo das aulas contando com todo o
+
+[02:10] suporte da comunidade e das pessoas
+
+[02:12] instrutoras os conteúdos são construídos
+
+[02:14] por especialistas referenciados da área
+
+[02:17] de desenvolvimento Guilherme Lima
+
+[02:19] Juliana amassei e André Davi tudo isso
+
+[02:23] claro com a didática da alura lives
+
+[02:25] exclusivas acesso à comunidade no
+
+[02:28] discord e apoio do time de instrutores
+
+[02:30] nos grupos de estudos diários as aulas
+
+[02:33] são 100% online e gratuitas e Você ainda
+
+[02:37] recebe Um certificado de participação
+
+[02:40] para participar você precisa clicar no
+
+[02:42] link que está na descrição do episódio
+
+[02:45] ou usar a seguinte URL alura TV bar
+
+[02:49] narod tro imersão TR
+
+[02:52] backend repetindo alura TV bar narod tro
+
+[02:56] imersão TR
+
+[02:58] backend mas atenção as inscrições São
+
+[03:01] por tempo limitado então não fique de
+
+[03:03] bobeira e Garanta agora mesmo a sua
+
+[03:08] [Música]
+
+[03:13] participação
+
+[03:15] Aí temos pergunta de ouvinte aí então o
+
+[03:20] qu esse esse é um episódio que foi
+
+[03:21] amadurecendo bem devagarzinho assim essa
+
+[03:23] pergunta tem coisa de uns 2 3 anos e é
+
+[03:26] interessante que se vocês olhar se você
+
+[03:29] reparar nas
+
+[03:31] tem mais de 20 episódios relacionados
+
+[03:33] Então esse é um episódio que foi
+
+[03:34] crescendo no meio dos outros ass
+
+[03:36] interessante ele amadureceu e chegou o
+
+[03:39] momento dele agora tá certo então temos
+
+[03:42] muitos Episódios do próprio nar Rod como
+
+[03:45] referência né e o eil veio da Raquel
+
+[03:49] urta que é estudante mora em Jaguarão
+
+[03:53] Rio Grande do Sul um abraço Rio Grande
+
+[03:56] do Sul
+
+[03:58] que tando se recuperar da tragédia
+
+[04:02] climática da Qual foi vítima esse ano
+
+[04:04] aqui pois é ainda passará por muitas
+
+[04:06] dificuldades infelizmente verdade então
+
+[04:09] quem puder ajudar continue ajudando
+
+[04:12] porque a coisa tá feia e ela manda um
+
+[04:14] e-mail muito objetivo aqui viu Estou
+
+[04:17] lendo um livro e uma parte que fala
+
+[04:19] sobre perdão o autor comenta que os
+
+[04:22] cientistas TM estudado o perdão e eu
+
+[04:25] anexei aqui uma página do livro na hora
+
+[04:28] eu lembrei do alí então cientificamente
+
+[04:31] perdoar faz bem e pensando pelo outro
+
+[04:34] lado por que é tão difícil deixar de
+
+[04:38] lado os
+
+[04:39] rancores ela mandou a página aqui a í e
+
+[04:43] eu vou dar uma lida no texto para todo
+
+[04:47] mundo se contextualizar foi realizado em
+
+[04:50] Atlanta nos Estados Unidos a primeira
+
+[04:52] conferência sobre o perdão um evento no
+
+[04:55] qual foram apresentados os resultados de
+
+[04:57] pesquisa sobre efeitos do de perdoar na
+
+[05:00] saúde daqueles que o fazem o evento é
+
+[05:03] fruto de uma iniciativa ainda maior a
+
+[05:05] campanha por pesquisa sobre o perdão
+
+[05:07] idealizada por médicos do Estados de
+
+[05:10] Virgínia nos Estados Unidos e comandada
+
+[05:12] por Everett waring Jor diretor executivo
+
+[05:15] da entidade e chefe do departamento de
+
+[05:18] psicologia da Virginia commonwealth
+
+[05:21] University abre aspas a campanha por
+
+[05:24] pesquisa sobre o perdão foi criada como
+
+[05:27] uma entidade sem fins lucrativos em 1900
+
+[05:29] 98 para levantar fundos para essas
+
+[05:32] pesquisas a fundação Joe templeton e
+
+[05:35] outras duas Fundações conseguiram 3
+
+[05:37] milhões de dólares um doador anônimo
+
+[05:40] doou 1 milhão de dólares e a campanha
+
+[05:42] conseguiu arrecadar mais 2.4 Milhões de
+
+[05:46] Dólares algo fundamental para financiar
+
+[05:48] grandes pesquisas sobre esse tema disse
+
+[05:51] waron a folha aaí que que a ciência tem
+
+[05:57] a dizer sobre rancor sobre perdão que
+
+[06:01] que a gente pode dizer aqui é não
+
+[06:03] precisa ser cientista para perceber que
+
+[06:05] esse tipo de tema Já puxou uma
+
+[06:07] quantidade vosa de dinheiro né hum sim
+
+[06:10] se tem tanta gente doando dinheiro para
+
+[06:12] isso é porque tem interesse no tema
+
+[06:14] verdade assim é um tema muito legal ele
+
+[06:16] foi amadurecendo devagar mas e É uma
+
+[06:19] pena que esse esse tema do perdão e do
+
+[06:22] rancor foi cooptado por umas algumas
+
+[06:24] áreas da psicologia principalmente a
+
+[06:26] área que mais estuda isso é a psicologia
+
+[06:27] né Foi cooptado por áreas que não fazem
+
+[06:30] um um uso de uma psicologia muito séria
+
+[06:33] assim né a gente a gente gravou dois
+
+[06:35] episódios o 393 e o 394 que é sobre
+
+[06:38] psicologia positiva se a psicologia
+
+[06:40] positiva tem validade científica
+
+[06:43] sim recomendamos muito quem quem não não
+
+[06:45] ouviu que ouça eh e já adiantando a
+
+[06:48] resposta a psicologia positiva é um é um
+
+[06:50] um grande problema dentro da Psicologia
+
+[06:52] Tá mas e e e aí tem todo o contexto
+
+[06:55] histórico do porque isso acontece e tal
+
+[06:57] e a e a área da Psicologia positiva tem
+
+[06:59] muito investimento então a a a fundação
+
+[07:02] templeton né que foi a que recebeu
+
+[07:04] dinheiro e tal e eh recebe muito
+
+[07:06] dinheiro ela é uma Fundação que trabalha
+
+[07:08] entre outras coisas com psicologia
+
+[07:10] positiva mas isso esse foco tem mudado
+
+[07:12] mas aí vale muito a pena o episódio 393
+
+[07:15] e 394 para contextualização é é um tema
+
+[07:18] interessante mas infelizmente não é é é
+
+[07:20] estudado de um jeito Muito cristão sim
+
+[07:22] sim tá quando cristianismo mesmo sabe
+
+[07:24] essa coisa do perdoar eh eh fazer o bem
+
+[07:28] sem olhar a quem esse tipo de de coisa
+
+[07:30] né que do do ponto de vista religioso
+
+[07:32] histórico sociológico até faz algum
+
+[07:34] sentido mas do ponto de vista eh
+
+[07:36] psicológico e biológico é muito difícil
+
+[07:39] conseguir tá e muitas vezes não é nem
+
+[07:41] saudável então a a a ideia desse
+
+[07:44] Episódio por isso que ele foi
+
+[07:45] amadurecendo devagar e ele cresceu no
+
+[07:47] meio de outros episódios é é é falar da
+
+[07:50] da da ideia de rancor e de perdão sem um
+
+[07:53] viés Moral Na verdade não é moral mas
+
+[07:55] sem um viés Cristão tá é falar o que a
+
+[07:58] gente tem de evidência mesmo tem a a tem
+
+[08:00] um grande pesquisador da área que é o
+
+[08:03] Peter Lang ele ele comenta ele tem uma
+
+[08:05] frase num num dos dos artigos da
+
+[08:07] literatura que é interessante né que ele
+
+[08:09] fala assim apenas uma pessoa sem moral
+
+[08:12] não experiencia ressentimento quando
+
+[08:15] você tem ressentimento por alguma coisa
+
+[08:16] que aconteceu você tem uma sensação de
+
+[08:19] bom ou Malu tipo você foi injustiçado ou
+
+[08:21] não então tá certo tá errado tá todo o
+
+[08:24] ressentimento todo o rancor é ligado a
+
+[08:27] uma questão moral de certo e errado tá
+
+[08:29] tudo bem né Só que essa moralidade não
+
+[08:32] tem a ver necessariamente com uma
+
+[08:34] instituição tipo religião ou algo do
+
+[08:36] tipo tanto é que tem tem animais que
+
+[08:38] ficam ressentidos também isso tem uma
+
+[08:41] questão de certo ou errado tem tem uma
+
+[08:43] questão de igualdade tá então assim a
+
+[08:45] uma coisa importante para começar o
+
+[08:47] tanto o rancor quanto o perdão são
+
+[08:50] características muito importantes para a
+
+[08:52] nossa sobrevivência porque eles são
+
+[08:54] relacionados com a cooperação um ato de
+
+[08:56] cooperar tá que a gente comentou no
+
+[08:58] episódio 341 né E que que é um episódio
+
+[09:02] dedicado à cooperação em vários animais
+
+[09:04] tá a cooperação tem uma base evolutiva e
+
+[09:06] o altruísmo também é que o altruísmo tem
+
+[09:09] uma questão muito religiosa né e e a
+
+[09:12] ideia é atacar isso também que tanto o
+
+[09:13] rancor quanto o perdão tem uma base
+
+[09:15] biológica tem uma importância
+
+[09:17] e evolutiva e por isso tem uma
+
+[09:20] importância cultural Uhum E aí a ideia é
+
+[09:24] caminhar nesse meandro assim né e e por
+
+[09:27] isso que tem relação com vários
+
+[09:28] episódios o principal é o Episódio 306
+
+[09:31] que é sobre gratidão né se se gratidão
+
+[09:34] faz bem esse episódio ele complementa um
+
+[09:36] pouco porque sentir rancor faz mal mas
+
+[09:39] isso não não quer dizer nada porque você
+
+[09:41] sente rancor tá é normal sentir rancor
+
+[09:44] você não pode se sentir culpado por
+
+[09:45] sentir rancor e o rancor é muito
+
+[09:47] relacionado com a vingança Você também
+
+[09:49] não pode se sentir culpado por causa
+
+[09:50] disso O que não quer dizer que você não
+
+[09:52] pode se não queira se vingar tá então a
+
+[09:55] a ideia o primeiro disclaimer é tratar
+
+[09:58] disso de uma por uma questão não tão
+
+[09:59] moral não não não tanto religiosa E aí
+
+[10:03] eu começo com uma pergunta para você
+
+[10:04] quem e e você você guarda algum rancor
+
+[10:07] eu estaria mentindo se eu dissesse que
+
+[10:10] não isso eu também eu também tá mas por
+
+[10:13] exemplo o o essa situação de rancor que
+
+[10:16] você pensa e ela aconteceu faz muito
+
+[10:18] tempo tem mais ou menos do que 10 anos
+
+[10:21] menos menos mas mas mas tem alguns anos
+
+[10:24] tem alguns anos tem alguns anos e também
+
+[10:26] não é uma coisa que eu fico pensando o
+
+[10:29] tempo todo né isso então mas mas quando
+
+[10:31] foi mais perto assim temporalmente mais
+
+[10:34] perto você pensava mais sim é ocorria
+
+[10:37] mais na sua cabeça né aí com o tempo
+
+[10:39] isso vai diminuindo né Então esse é o
+
+[10:41] caminho então a o rancor tem muito a ver
+
+[10:44] o rancor é É um tipo diferente de luto
+
+[10:47] porque o rancor é uma presença tá então
+
+[10:50] uma coisa interessante é é pensar a o
+
+[10:53] comportamento do rancor é é é muito
+
+[10:54] interessante mesmo porque por exemplo
+
+[10:56] quando você sente rancor por alguma
+
+[10:58] coisa que aconteceu e aí tipo você
+
+[11:01] revisita isso você rumina essa sensação
+
+[11:03] na sua cabeça você traz pro presente as
+
+[11:07] Sensações negativas de algo que
+
+[11:09] aconteceu no passado assim o o ocorrido
+
+[11:12] está no passado mas quando você lembra e
+
+[11:14] rumina na sua cabeça você traz a as
+
+[11:17] sensações de volta pro presente verdade
+
+[11:20] e aí o o os autores que estudam isso né
+
+[11:23] eles chamam isso de visualização nós
+
+[11:26] humanos somos não só a gente Mas nós
+
+[11:28] somos capazes de criar imagens mentais a
+
+[11:31] gente tem um episódio né que que mostra
+
+[11:32] Se se todo mundo consegue fazer imagens
+
+[11:34] na cabeça tem pessoas que não conseguem
+
+[11:36] Mas essas pessoas também sentem rancor
+
+[11:38] Tá mas a a a maneira como ela constrói a
+
+[11:41] memória não necessariamente é por imagem
+
+[11:43] mental Uhum mas mas todo assim A grande
+
+[11:46] maioria das pessoas constrói uma imagem
+
+[11:48] mental de alguma coisa se você parar
+
+[11:50] para pensar o seu cérebro né quando você
+
+[11:54] constrói uma imagem mental e quando você
+
+[11:56] vê uma coisa tipo você tá vendo uma
+
+[11:58] paisagem né E aí você tem o estímulo
+
+[12:01] externo que ativa o seu cérebro então a
+
+[12:03] imagem vem de fora para dentro Tá sim só
+
+[12:06] que quando você é mais velho você já tem
+
+[12:08] muito lastro de conhecimento de imagens
+
+[12:10] de paisagens tá Então imagina você tá
+
+[12:13] num lugar novo e tá vendo uma paisagem
+
+[12:15] de uma montanha aí você vê a montanha e
+
+[12:17] a montanha entra no seu cérebro né o
+
+[12:19] input entra e Ah estou vendo a montanha
+
+[12:22] tá só que você já viu várias montanhas
+
+[12:24] na sua cabeça então a a o seu cérebro Na
+
+[12:27] verdade ele constrói uma imagem mental
+
+[12:30] da montanha real baseado na
+
+[12:32] verossimilhança das montanhas que você
+
+[12:34] já viu você não constrói uma imagem pura
+
+[12:36] de uma montanha hum certo então então
+
+[12:39] nesse sentido a realidade na verdade
+
+[12:42] Toda a realidade real que aparece para
+
+[12:44] você você reconstrói ela baseado na
+
+[12:47] verossimilhança das informações que você
+
+[12:49] possui no seu passado faz todo sentido
+
+[12:52] porque a gente né como a gente já falou
+
+[12:55] bastante sobre o funcionamento da
+
+[12:57] memória né a gente meio que destrói a
+
+[12:59] memória né a gente não é uma não é uma
+
+[13:02] caixinha que tem lá e você simplesmente
+
+[13:04] resgata né isso e guarda de forma
+
+[13:06] fidedigna e aí tem uma coisa super
+
+[13:08] interessante que tem muitos
+
+[13:09] pesquisadores mais modernos redefinindo
+
+[13:10] emoção assim tem tem uma linha nova de
+
+[13:13] emoção que pensa assim que que a que a
+
+[13:15] emoção é é quando você pega o estímulo
+
+[13:17] por exemplo seu cérebro tá funcionando o
+
+[13:19] tempo todo ele tá funcionando ele tá
+
+[13:21] criando coisas como que você faz para
+
+[13:23] você se adaptar você pega a informação
+
+[13:25] do ambiente e muda as probabilidades
+
+[13:27] daquilo que você o cérebro já produz
+
+[13:30] então seu cérebro ele você quanto mais
+
+[13:32] velho você fica mais informação do
+
+[13:35] ambiente Você usa só para regular o seu
+
+[13:37] próprio funcionamento interno Então na
+
+[13:40] verdade isso é bem contraintuitivo a
+
+[13:42] maior parte da realidade já está em você
+
+[13:45] você vive a sua realidade o tempo
+
+[13:46] inteiro na sua cabeça Você só usa o
+
+[13:48] ambiente para mudar as probabilidades do
+
+[13:51] que você vai fazer certo é muito louco
+
+[13:53] então quanto mais velho você vai ficando
+
+[13:55] mais entre aspas dependente das imagens
+
+[13:58] mentais que você cria você está né E se
+
+[14:01] você parar para pensar um rancor é uma
+
+[14:03] imagem mental que você cria de algo no
+
+[14:05] passado que você traz pro presente logo
+
+[14:08] a a a emoção você sente no presente a
+
+[14:12] partir de uma imagem do passado que não
+
+[14:14] que pode não ser tão fidedigna né porque
+
+[14:18] pode ter acontecido há bastante tempo e
+
+[14:20] sua memória reconstrói lá do seu jeito
+
+[14:22] exatamente ela reconstrói do seu jeito
+
+[14:25] em função do do que você tem no presente
+
+[14:27] mas isso é basicamente um tipo de
+
+[14:28] ruminação você fica ruminando uma coisa
+
+[14:31] na sua cabeça e aí o que que é
+
+[14:33] interessante né E isso tem uma
+
+[14:35] importância evolutiva mas mas pensa Ó
+
+[14:37] imagina que você passou por uma uma
+
+[14:39] situação ruim assim tem um rancor muito
+
+[14:41] muito grande que você guarda né e ele tá
+
+[14:43] na sua cabeça e aí você não controla
+
+[14:45] imagina que é recente né então você é
+
+[14:48] invadido por ele você é invadido por
+
+[14:50] esse rancor tá então por isso que você
+
+[14:52] tem que lembrar de um exemplo no começo
+
+[14:54] logo depois que aconteceu você nem
+
+[14:56] queria pensar no negócio mas aparecia
+
+[14:59] ele ele recorria em você ficava te
+
+[15:01] invadindo no começo aí você ficava
+
+[15:03] ruminando né E aí você tinha essa imagem
+
+[15:05] mental comportamentalmente isso isso é
+
+[15:08] um um paradigma comportamental de
+
+[15:10] estress crônico imagina por exemplo você
+
+[15:12] num trabalho você tá num trabalho muito
+
+[15:14] chato você tem o chefe [ __ ] trabalha é
+
+[15:17] um saco você não vê sentido no trabalho
+
+[15:19] mas você tem que ir todo dia né É uma
+
+[15:21] situação estressante só que no presente
+
+[15:24] vai te gerando estess crônico meio
+
+[15:26] inevitável assim né o stress
+
+[15:28] simplesmente acontece isso é a a só que
+
+[15:31] aí nesse caso do trabalho O estess vem
+
+[15:33] de fora para dentro é o ambiente que
+
+[15:35] gera isso né o o o mecanismo da
+
+[15:37] ruminação pelo rancor é a mesma coisa só
+
+[15:40] que é focada no passado né e e e é
+
+[15:42] fisiológico é é normal ter isso sabe
+
+[15:45] então essa coisa Ah não você tem que
+
+[15:46] perdoar todo mundo bobagem e tem uma
+
+[15:49] fase em que você tem que passar por isso
+
+[15:50] mesmo é normal não se sinta mal por isso
+
+[15:52] então a a as nossas imagens mentais elas
+
+[15:56] induzem emoções na gente só que muitas
+
+[15:58] vezes essas imagens mentais elas
+
+[16:00] aparecem na nossa cabeça por conta de um
+
+[16:03] de um problema que a gente passou ou
+
+[16:05] algo que aconteceu Sim Isso é um pouco
+
+[16:08] diferente do trauma né É É um
+
+[16:10] detalhezinho diferente do trauma porque
+
+[16:11] no no caso do trauma teve um evento que
+
+[16:13] a gente não tem controle que acontece E
+
+[16:16] aí ele gera um um ele não gera rancor né
+
+[16:19] Ele é mais ligado ao medo ele gera algo
+
+[16:21] ligado ao medo a dor e tal né Eh o
+
+[16:24] rancor não é algo que aconteceu você
+
+[16:26] entende o porquê que sofreu e tal E aí
+
+[16:29] você meio que entre aspas escolhe
+
+[16:31] carregar não é uma escolha consciente
+
+[16:33] Mas você escolhe carregar aquilo por um
+
+[16:35] tempo né E aí é é importante discriminar
+
+[16:39] rancor raiva e desprezo e é uma coisa
+
+[16:41] que as pessoas em geral não pensam você
+
+[16:43] aprende isso mas não não não não pensa
+
+[16:45] Por exemplo quando você sente rancor por
+
+[16:47] alguém né em geral você sente por alguém
+
+[16:51] que você considera que tem um nível mais
+
+[16:53] alto que o seu nível qu intelectual é
+
+[16:57] isso econômico qualquer coisa alguma
+
+[17:00] coisa a pessoa tem de melhor que você na
+
+[17:02] sua cabeça é o que você acha aí você
+
+[17:04] sente rancor tá quando a pessoa tá no
+
+[17:07] mesmo nível que você você sente raiva
+
+[17:09] dela E quando a pessoa tá no nível mais
+
+[17:11] baixo que você você sente desprezo é
+
+[17:13] interessante que a gente tem palavras
+
+[17:15] relacionadas à hierarquia né e e não
+
+[17:17] necessariamente é uma hierarquia real é
+
+[17:19] é é como a gente coloca a pessoa tá não
+
+[17:21] tem a ver com não tem a ver com de fato
+
+[17:23] o que é né pode ser um chefe um colega
+
+[17:25] de trabalho ou um subordinado se pensar
+
+[17:27] no trabalho pode tá se você pensar o seu
+
+[17:30] chefe em geral você sente rancor se
+
+[17:32] pensar o seu colega é raiva e o seu
+
+[17:34] subordinado é desprezo mas vale para
+
+[17:37] qualquer pessoa que você coloque num no
+
+[17:39] lugar tá E aí é uma coisa interessante é
+
+[17:42] é de novo é contraditório né é uma coisa
+
+[17:45] interessante que a a o que a gente
+
+[17:48] recente revela na verdade o que você
+
+[17:50] valora a coisa ou a pessoa que você está
+
+[17:53] ressentido que você sente rancor na
+
+[17:55] verdade mostra que você valora a pessoa
+
+[17:57] você valoriza ela você tem um apreço por
+
+[18:00] ela é que é um apreço negativo mas você
+
+[18:02] tem um apreço Mas é porque o apreço era
+
+[18:05] positivo anteriormente assim por exemplo
+
+[18:08] é uma pessoa que você tinha uma
+
+[18:10] admiração um respeito tal e aí a pessoa
+
+[18:13] pisou na bola e aí você complementa a
+
+[18:16] outra parte então o que você recente
+
+[18:18] revela o que você valora e também o que
+
+[18:20] você esperava do outro então tem uma
+
+[18:22] quebra de expectativa né E aí é por isso
+
+[18:24] que essa parte do episódio relaciona
+
+[18:26] muito com os nossos dois episódios
+
+[18:27] duplos que foram M ouvidos por sinal né
+
+[18:30] Foi meio Bad vi mas os episódios sobre
+
+[18:31] traição envolve isso também tá mas mas a
+
+[18:34] ideia a ideia que essa ideia do rancor
+
+[18:36] não vale só para para relacionamento
+
+[18:39] vale para qualquer coisa coisas de
+
+[18:40] trabalho enfim qualquer
+
+[18:42] coisa e é interessante mostrar que como
+
+[18:44] o rancor ele se vincula com a maneira
+
+[18:46] como a gente constrói memória e com a
+
+[18:49] maneira como a gente valoriza nós mesmos
+
+[18:51] e os outros em relação a nós Então a
+
+[18:54] maneira como você sente rancor fala
+
+[18:56] muito mais de você do que do outro fala
+
+[18:58] mais de
+
+[18:59] né então é interessante isso é
+
+[19:01] contraintuitivo né então é é é
+
+[19:04] importante pensar pensar nisso E aí
+
+[19:06] assim quando como como eu falei
+
+[19:07] anteriormente né se você se uma pessoa
+
+[19:09] que não tem moral se ela não tem noção
+
+[19:12] de certo errado ela não consegue
+
+[19:14] experienciar ressentimento Tipo se eu se
+
+[19:16] o que você faz para mim eu não acho nem
+
+[19:18] bom nem ruim eu posso ficar com raiva de
+
+[19:20] você mas eu não fico ressentido tá
+
+[19:23] entende eu posso ficar chateado mas eu
+
+[19:25] não fico ressentido eu não fico
+
+[19:26] ruminando sabe você eu só fico fico com
+
+[19:29] raiva e tudo bem Uhum Então é bem
+
+[19:31] interessante né mostra como como as a
+
+[19:34] construção São complexas né E como o
+
+[19:36] rancor Depende muito da maneira como a
+
+[19:38] gente constrói imagens mentais e aí e aí
+
+[19:41] você vai pensar todo mundo é capaz de
+
+[19:42] ter rancor Sim todo mundo você pode
+
+[19:45] carregar ou não algumas pessoas carregam
+
+[19:47] mais do que outras a maneira como a
+
+[19:49] gente experiencia as emoções negativas e
+
+[19:51] no passado se mantém no presente e aí
+
+[19:54] tem um problema porque se você carrega
+
+[19:56] esse rancor muito tempo na sua cabeça e
+
+[19:58] ele fica voltando e você pensa nele você
+
+[20:00] tá pensando com a emoção do presente
+
+[20:02] usando o seu corpo do presente com base
+
+[20:05] numa sensação do passado né claro que
+
+[20:07] isso vai afetar sua saúde Você concorda
+
+[20:10] sim isso vai afetar sua saúde por quê
+
+[20:11] Porque tá afetando agora né E como eu
+
+[20:14] comentei anteriormente é como se fosse
+
+[20:15] um protocolo de stress então imag volta
+
+[20:18] na situação de trabalho imagina que você
+
+[20:19] tá fazendo um trabalho chatíssimo né E
+
+[20:22] você não gosta tá sofrendo assédio
+
+[20:23] alguma coisa assim no trabalho claro que
+
+[20:25] isso vai minar sua saúde aí dá Burnout
+
+[20:27] dá vários problemas
+
+[20:29] o rancor é a mesma coisa só que não é um
+
+[20:30] trabalho mas mas você traz ele pro
+
+[20:33] presente o tempo inteiro claro que você
+
+[20:35] vai cair numa situação de stress E aí a
+
+[20:38] referência é robusta em relação a isso
+
+[20:40] mostra que isso afeta o seu corpo isso
+
+[20:43] afeta a maneira como o seu sistema
+
+[20:45] imunológico funciona e aí você é mais
+
+[20:47] suscetível a doenças sistema imunológico
+
+[20:51] chega a atingir o sistema imunológico
+
+[20:53] isso por o mecanismo é bem é bem
+
+[20:55] descrito porque quando você fica mais
+
+[20:57] estressado aumenta seu cortisol entre
+
+[20:59] outras substâncias né E aí o o seu corpo
+
+[21:02] acha que você tá sobre ataque de alguma
+
+[21:04] coisa então seu sistema imunológico fica
+
+[21:06] mais ativo e aí por ficar mais ativo ele
+
+[21:09] ele cansa sabe ele ele não consegue mais
+
+[21:11] discriminar um patógeno de um stress
+
+[21:14] interno aí o o sistema fica pouco
+
+[21:16] vigilante faz todo sentido tá E aí a a
+
+[21:19] literatura a gente tem uns trabalhos
+
+[21:21] mostrando que quando você fica por
+
+[21:23] estress crônico por muito tempo sua
+
+[21:25] frequência cardíaca aumenta né você fica
+
+[21:27] com uma pressão mais alta um pouquinho
+
+[21:28] mais alta e aí conforme o tempo vai
+
+[21:30] aumentando você tem mais problemas
+
+[21:32] cardiovasculares e digestivos né então
+
+[21:35] problema de problema de estômago
+
+[21:37] gastrite essas coisas tá tem pessoas que
+
+[21:39] são mais suscetíveis outras menos então
+
+[21:41] tem pessoas que tem mais problemas
+
+[21:42] intestinais por exemplo e mas todas
+
+[21:45] todas começam a ter uma maior
+
+[21:47] variabilidade cardíaca tá então assim o
+
+[21:49] mecanismo é bem conhecido não é nada
+
+[21:51] espiritual Místico é porque você se
+
+[21:54] coloca numa situação de estress crônico
+
+[21:56] o tempo todo né Por conta dessa imagem
+
+[21:58] mental que você cria então é operacional
+
+[22:01] tá é bem conhecida tranquilo não tem não
+
+[22:03] precisa de uma explicação muito
+
+[22:04] elaborada é porque a gente é um ser um
+
+[22:06] um um organismo elaborado e a gente cria
+
+[22:09] imagens na cabeça a gente escolhe
+
+[22:11] carregar tralha com a gente é é é é isso
+
+[22:13] tá e quando eu falo escolher não é
+
+[22:15] intencionalmente é porque a gente não
+
+[22:17] tem controle as coisas acontecem a gente
+
+[22:19] fica puto e e tá tudo bem Tá e aí indo e
+
+[22:23] qual que é a importância evolutiva disso
+
+[22:25] né porque porque de novo a seleção
+
+[22:27] natural não tá nem aí para mim e para
+
+[22:28] você ela se importa que a gente se
+
+[22:30] reproduza né mas assim se a gente vai
+
+[22:32] ser feliz ou não azar né então se existe
+
+[22:35] alguma se se essa coisa de guardar
+
+[22:38] rancor tem alguma validade que aumenta a
+
+[22:41] probabilidade de você gerar mais
+
+[22:43] descendentes vai ser um traço adaptativo
+
+[22:45] né E aí a gente tem teorias que
+
+[22:48] descrevem isso e outros animais têm
+
+[22:51] rancor sobretudo mamíferos e aves né
+
+[22:55] algumas aves não todas mas por exemplo
+
+[22:57] se você pega
+
+[22:59] tem Corvo e Pitaco que é papagaio a
+
+[23:02] família do Papagaio ali certo como como
+
+[23:04] eles vivem muito e eles são espécies
+
+[23:07] sociais eles têm que lembrar uns dos
+
+[23:08] outros porque eles passam muito tempo
+
+[23:10] juntos né então tem experimentos que
+
+[23:12] papagaios guardam rancor de ou pessoas
+
+[23:16] ou outros papagaios que fizeram mal para
+
+[23:18] eles em média por 17 anos 17 17 anos 17
+
+[23:26] anos e você reclamando do seu he Nossa
+
+[23:29] Senhora rapaz que pássaros rancorosos é
+
+[23:33] muito ódio no coração não é verdade e aí
+
+[23:35] o bicho fica no veneno para se vingar
+
+[23:37] mesmo né É é é tão impressionante como
+
+[23:40] mostra que a gente não precisa de um
+
+[23:41] cérebro muito elaborado a gente a gente
+
+[23:43] conhece a média do ser humano
+
+[23:45] comparativo ah varia não vamos falar
+
+[23:48] sobre isso vamos falar sobre isso né Tem
+
+[23:51] um peixe é um peixe do tamanho de uma
+
+[23:53] manjubinha ele tem coisa de 5 5 cm né é
+
+[23:56] um peixe que em português chama bar
+
+[23:58] barrigudinho é um peixe bem pequenininho
+
+[24:00] né E eles andam em grandes cardumes esse
+
+[24:02] peixinho né é um peixe coloridinho bem
+
+[24:04] pequeno barrigudinho né tem o
+
+[24:06] experimento Fantástico que fizeram com
+
+[24:07] com os barrigudinhos que é assim e e
+
+[24:10] eles colocaram um aquário aí tinha lá os
+
+[24:13] os peixinhos e eles colocaram O Predador
+
+[24:15] do peixe né aí o Predador tava no outro
+
+[24:18] lado mas mas ele não tava em contato com
+
+[24:20] os Peixinhos ele tava com tipo um vidro
+
+[24:22] na frente bom então os peix eles se viam
+
+[24:25] mas o o o Predador não conseguia lá né
+
+[24:27] aí o que acontece o Cardum dos Peixinhos
+
+[24:29] chegava ali perto do Predador para ver
+
+[24:31] se era mesmo
+
+[24:32] sabe e aí o que aconteceu eles
+
+[24:34] monitoravam os Peixinhos que ficavam
+
+[24:37] mais para trás porque assim quando
+
+[24:39] quando você você vai monitorar o
+
+[24:40] Predador é uma situação perigosa né
+
+[24:42] então tem os Peixinhos que vão na frente
+
+[24:44] tem a meiota e tem aqueles que ficam
+
+[24:46] para trás sabe o medroso fica para trás
+
+[24:48] sim sim sim Aí eles eles pegaram eles
+
+[24:50] verificaram esses que ficavam para trás
+
+[24:52] assim mais distantes aí o que aconteceu
+
+[24:55] os outros reparam que esses ficavam para
+
+[24:57] trás quando eles O Predador o Cardum
+
+[25:00] corria e deixava aqueles para trás ficou
+
+[25:02] com rancor se vingou Caraca isolou eles
+
+[25:06] isolou os medrosos Ah olha que
+
+[25:08] interessante
+
+[25:11] né lembra bastante o humano é então
+
+[25:15] lembre que você tem que sair dessa
+
+[25:16] questão moral tá não tem isso é mais
+
+[25:19] ligado a cooperação a cooperação se você
+
+[25:21] Coopera comigo eu coopero com você essa
+
+[25:23] a ideia e aí assim você você guardar
+
+[25:26] rancor né Tem uma ância porque você tem
+
+[25:29] que você não pode deixar todo mundo
+
+[25:31] passar por cima de você ainda mais num
+
+[25:32] ambiente pense em outros organismos né
+
+[25:34] você tem que se impor de certo em certa
+
+[25:37] de certa forma né E daí quando você se
+
+[25:40] impõe mesmo que o outro tenha vantagem
+
+[25:42] sobre você você guarda essa informação
+
+[25:44] para marcar o outro sobretudo em
+
+[25:46] espécies sociais né E também para
+
+[25:49] planejar fazer algo Então existe existe
+
+[25:51] uma certa tendência em várias espécies
+
+[25:53] de e ficar kit sabe sabe essa sensação
+
+[25:58] de de buscar a igualdade não que a
+
+[26:00] natureza seja igualitária A questão não
+
+[26:02] é essa mas em espécies sociais se eu
+
+[26:04] faço algo ruim para você Você vai tentar
+
+[26:07] fazer algo ruim mas não não quer dizer
+
+[26:09] que você seja vingativo porque às vezes
+
+[26:11] você não precisa fazer algo por mim você
+
+[26:14] pode tirar algo de mim entende então O
+
+[26:16] negativo anula com positivo sabe eu faço
+
+[26:19] algo para você aí você deixa de fazer
+
+[26:21] algo por mim anula também tá ou eu posso
+
+[26:24] fazer algo por você e você revida né
+
+[26:26] Então essa é a diferença da
+
+[26:27] agressividade
+
+[26:28] que é quando eu faço algo você revida né
+
+[26:31] Mesmo que seja depois mas você revida
+
+[26:33] depois isso é diferente de de cooperação
+
+[26:36] negativa né de falta de altruísmo quando
+
+[26:38] eu faço por você aí você deixa de fazer
+
+[26:40] por mim
+
+[26:41] tá Os dois v os dois são Vingança os
+
+[26:45] dois tá bom no ponto de vista de
+
+[26:47] genética de população você fazer algo
+
+[26:50] contra mim é o mesmo que deixar de fazer
+
+[26:52] algo por mim porque do ponto de vista da
+
+[26:54] evolução se isso me compromete e eu não
+
+[26:57] tenho desendentes seus gênios passam pra
+
+[27:00] frente Uhum tudo bem Entendeu sim faz
+
+[27:03] sentido é muito importante tirar essa
+
+[27:05] questão moral tá não tem nada nada nada
+
+[27:08] a ver com isso então é importante a
+
+[27:10] gente ter um certo ressentimento por um
+
+[27:12] tempo o problema é que isso tem um lado
+
+[27:14] negativo porque o que que acontece
+
+[27:16] quando você é jovem e aí a literatura
+
+[27:18] mais robusta quando você é jovem jovem
+
+[27:21] até 40 anos tá as pessoas tendem a ser
+
+[27:24] mais rancorosas quando é jovem quando é
+
+[27:27] mais jovem quando você é adolescente e
+
+[27:29] você não tem muito lastro anterior
+
+[27:31] geralmente quando acontece uma coisa
+
+[27:33] muito ruim com você é a primeira vez que
+
+[27:35] acontece uma coisa ruim então você vai
+
+[27:36] guardar tá porque você não tem muita
+
+[27:38] memória de outras coisas e E aí demora
+
+[27:40] mais conforme você vai ficando mais
+
+[27:42] velho e você e de novo tem a ver com
+
+[27:43] essa imagem mental né Toda a vez que
+
+[27:46] alguém passa a perna em você já passaram
+
+[27:49] antes também de formas diferentes então
+
+[27:52] meio que você já tem um treinamento sabe
+
+[27:54] você já tem um treino é ruim mas não é
+
+[27:57] tanto sabe
+
+[27:58] Então você sente o rancor mas em geral
+
+[28:00] por menos tempo conforme você vai
+
+[28:02] ficando mais velho tem tem algum motivo
+
+[28:05] biológico para isso assim sim sim tem
+
+[28:07] tem a ver com com a metáfora que eu
+
+[28:09] comentei por exemplo da montanha Quando
+
+[28:11] você vê uma montanha pela primeira vez
+
+[28:12] sendo que você nunca viu uma é muito
+
+[28:14] especial né gera um efeito né mas quando
+
+[28:17] você vê uma montanha mesmo que seja
+
+[28:19] bonita dado que você viu várias outras a
+
+[28:21] própria imagem dessa montanha é mudada
+
+[28:23] pelas montanhas anteriores que você viu
+
+[28:25] né então quando você passa por várias
+
+[28:27] situações em que você tem não precisa
+
+[28:29] ser um um um não precisa ser um rancor
+
+[28:32] terrível mas quando você passa várias
+
+[28:34] vezes você tem um treinamento né e é por
+
+[28:36] isso você vai ficando menos rancoroso
+
+[28:38] com a idade em média tá porque isso
+
+[28:41] depende da personalidade do indivíduo
+
+[28:43] também certo tem tem tem indivíduos que
+
+[28:45] guardam mais rancor que outros né mas em
+
+[28:48] geral em média conforme você vai ficando
+
+[28:50] mais velho você é mais tolerante o
+
+[28:52] rancor diminui um pouco você guarda
+
+[28:54] menos tempo tá E e eu não expliquei o
+
+[28:57] que é perdão também perdão é uma outra
+
+[28:59] coisa a ruminação por causa do rancor é
+
+[29:01] menor conforme você vai ficando mais
+
+[29:03] velho tá porque você tem mais coisa para
+
+[29:04] pensar sabe você tem outras coisas para
+
+[29:06] fazer entendeu então faz sentido tá faz
+
+[29:09] sentido aí a gente entra numa coisa
+
+[29:11] muito importante que é a ideia da
+
+[29:12] ruminação né porque o rancor É um
+
+[29:15] mecanismo de ruminação o negócio volta
+
+[29:17] na sua cabeça né fica ruminando
+
+[29:18] ruminando ruminando e tem o termo Claro
+
+[29:20] clássico que é o over finking overthink
+
+[29:23] em geral não é um defeito pode ser uma
+
+[29:25] Skill muito útil pode ser uma habilidade
+
+[29:28] se você sabe lidar com isso uhum o
+
+[29:30] problema é quando você não tem controle
+
+[29:31] da ruminação tipo a a a o evento
+
+[29:35] negativo te invade sabe te invade E aí é
+
+[29:38] por isso e é por isso que a ruminação é
+
+[29:40] meio que um luto ao contrário é um luto
+
+[29:43] ao contrário porque por exemplo quando
+
+[29:44] você teve quando você teve uma perda
+
+[29:46] você perdeu alguém né claro que você vai
+
+[29:48] ficar pensando na pessoa mas você não
+
+[29:50] fica com rancor né é muito tem que ser
+
+[29:52] uma coisa muito particular assim mas em
+
+[29:54] geral você perder um amigo alguma coisa
+
+[29:55] assim né uma morte algo do tipo você
+
+[29:58] sente a perda a coisa volta Claro você
+
+[30:00] fica lembrando da pessoa e aí tem o
+
+[30:02] nosso narod sobre o luto que é uma
+
+[30:04] questão Dual aí isso é uma coisa o
+
+[30:06] rancor não é quando tem um evento e o
+
+[30:09] evento volta intencionalmente ele fica
+
+[30:11] voltando voltando voltando na sua cabeça
+
+[30:13] tem pessoas que romin mais tá E aí a
+
+[30:15] gente tem o nosso narodo 220 221 sobre
+
+[30:18] depressão assim se você não precisa ter
+
+[30:20] depressão Clínica não é uma questão
+
+[30:23] psiquiátrica mas pessoas que T um um
+
+[30:25] score um pouquinho mais alto em escalas
+
+[30:27] de
+
+[30:28] e e pessoas que tem um score mais alto
+
+[30:31] num componente de uma escala de
+
+[30:32] personalidade que é o Big F ligada ao
+
+[30:35] neuroticismo pessoas que t o
+
+[30:36] neuroticismo um pouco mais alta que são
+
+[30:38] pessoas noias as pessoas muito
+
+[30:40] preocupadas em geral ruminam mais o que
+
+[30:43] faz todo sentido porque se você é
+
+[30:45] preocupado é porque você tá sempre
+
+[30:46] pensando e se você tá sempre pensando
+
+[30:48] você tem imagens mentais Tá tudo bem Tá
+
+[30:51] tudo bem Tá não é um problema uma
+
+[30:52] característica e tal o problema é o
+
+[30:54] quanto você deixa isso dominar você né
+
+[30:56] claro que em casos graes isso é
+
+[30:58] relacionado a depressão é relacionado a
+
+[31:00] algo do tipo Pode ser que o próprio
+
+[31:01] evento deixe você deprimido também né E
+
+[31:04] aí E aí tem que ver tá mas em geral é
+
+[31:08] normal você sentir rancor por um tempo e
+
+[31:10] depois isso vai se modificando Mas e aí
+
+[31:13] é uma mensagem muito importante para dar
+
+[31:14] uma paulada nessa porcaria de Psicologia
+
+[31:16] positiva do inferno não é um processo
+
+[31:18] passivo tá você transformar o seu rancor
+
+[31:21] em algo diferente eu ainda não cheguei
+
+[31:24] no perdão tá você transformar o seu
+
+[31:26] rancor em algo diferente não é um
+
+[31:28] processo passivo ele tem que ser ativo
+
+[31:31] você tem que trabalhar com rancor você
+
+[31:34] tem que ter uma intencionalidade ali é
+
+[31:36] isso você tem que pensar de forma
+
+[31:39] produtiva em relação a isso e aí vem
+
+[31:40] essa bobagem é uma bobagem mesmo é uma ó
+
+[31:44] a psicologia de Boteco que as pessoas
+
+[31:46] falam que aquela bobagem o tempo cura
+
+[31:48] tudo bobagem Isso é uma asneira o tempo
+
+[31:51] não cura [ __ ] nenhum nada tempo
+
+[31:53] sozinho É nada você é só uma variável a
+
+[31:56] mais aí nada é por por porque o tempo
+
+[31:58] você não controla o tempo você
+
+[32:00] experiencia porque o tempo passa de
+
+[32:01] qualquer jeito então o que que acontece
+
+[32:03] outros eventos entram na frente né E aí
+
+[32:07] você não tem escolha na verdade o o o
+
+[32:09] tempo não faz você lidar com o rancor
+
+[32:11] ele tira sua capacidade de escolher e aí
+
+[32:14] você cronifica essa merda e você o
+
+[32:16] otário que você é hoje você não
+
+[32:18] trabalhou isso de forma ativa ou você é
+
+[32:20] cristão demais porque ISO um uma bobagem
+
+[32:23] de pensamento Cristão tá o tempo cura
+
+[32:25] tudo vamos ser redimidos no final eh no
+
+[32:28] m no futuro as coisas vão ser melhor
+
+[32:30] bobagem tá assim eh vivemos hoje num
+
+[32:33] mundo extremamente complexo e e cada vez
+
+[32:36] mais complexo daí a polarização é o
+
+[32:38] resultado dessa complexidade né e e uma
+
+[32:41] das coisas muito importantes tem muita
+
+[32:42] literatura sobre isso é essa questão do
+
+[32:44] rancor político sobretudo em ambientes
+
+[32:47] polarizados né certo e porque agora
+
+[32:49] antes o o as pessoas de outro espectro
+
+[32:51] político elas moravam longe hoje você
+
+[32:54] tem pessoas de espectros diferentes
+
+[32:55] dentro da mesma casa por causa dess
+
+[32:57] graça de rede social né que que
+
+[33:00] polarizou pessoas geograficamente muito
+
+[33:01] próximas ou menos na mesma casa isso
+
+[33:03] gera rancores sobretudo rancores
+
+[33:07] eh por faixas etárias diferentes Aham
+
+[33:11] agora a a a o tempo o tempo isoladamente
+
+[33:16] Ok já entendi que é uma bobagem mas eu
+
+[33:18] queria entender se o tempo é uma
+
+[33:20] variável importante ele a gente não tem
+
+[33:23] escolha o tempo vai passar de qualquer
+
+[33:25] jeito tá não tem jeito não tem jeito
+
+[33:28] sabe então é é assim o o tempo é uma
+
+[33:30] variável contingente você não tem
+
+[33:32] controle dele assim Claro você pode
+
+[33:35] escolher aí quando eu tô falando
+
+[33:36] escolher não é intencionalmente você
+
+[33:38] pode escolher manter o rancor em você e
+
+[33:40] aí ele fica voltando na sua cabeça né E
+
+[33:42] aí é a melhor analogia é com a situação
+
+[33:45] de trabalho você tá num trabalho muito
+
+[33:47] ruim mas você não consegue mudar porque
+
+[33:49] você precisa do dinheiro e tal você se
+
+[33:51] coloca numa situação de estress
+
+[33:52] constante certo sim no no caso do do
+
+[33:55] trabalho é justificável vai Claro que
+
+[33:57] você tem que tentar criar as condições
+
+[33:59] para mudar mas é meio justificável o
+
+[34:00] rancor nesse sentido é uma escolha
+
+[34:02] também você escolhe se manter nessa
+
+[34:05] situação de estress crônico que é
+
+[34:07] desadaptativo né E aí assim então
+
+[34:10] primeira coisa o tempo cura [ __ ] cura
+
+[34:13] nada tá você pode ficar com muita coisa
+
+[34:15] cronificada por causa disso e é um saco
+
+[34:17] sabe é um saco e a culpa é sua tá isso é
+
+[34:20] importante porque quando você guarda o
+
+[34:22] rancor e E aí o rancor tem a ver com com
+
+[34:25] o aquilo que você valora né você
+
+[34:28] ressente algo que você valora no fundo
+
+[34:31] você tá dando valor para aquilo né E no
+
+[34:33] fundo você está esperando que a solução
+
+[34:36] venha do outro por isso que é um
+
+[34:38] pensamento Cristão meio infantil sabe
+
+[34:41] então aconteceu uma coisa de horrível é
+
+[34:43] uma droga é uma droga eu tenho direito
+
+[34:45] de ter rancor tem pode ter rancor não
+
+[34:47] tem problema só que isso só vai fazer
+
+[34:49] mal para você né porque você tá
+
+[34:51] revisitando a imagem e você não tem
+
+[34:52] controle do outro o outro é que se
+
+[34:54] lasque sabe porque você não tem controle
+
+[34:56] e o tempo tá passando de qualquer jeito
+
+[34:58] né as coisas estão acontecendo Então
+
+[35:00] como você não é onipotente né você tem
+
+[35:03] que dar um jeito de lidar com isso E aí
+
+[35:04] ou você cronifica se ou você tem uma
+
+[35:07] postura passiva e cronifica isso porque
+
+[35:09] se você cronificar o rancor sem
+
+[35:11] trabalhar com ele você repete você se
+
+[35:14] coloca em situações
+
+[35:16] parecidas Então você aprende pela
+
+[35:18] negação né mas se você movimenta isso
+
+[35:22] Fala Não tudo bem eu vou me dar o tempo
+
+[35:24] de ficar puto tudo bem tem a ruminação
+
+[35:26] tudo bem e tal mas eu vou ter que fazer
+
+[35:28] alguma coisa vou ter que usar isso aí
+
+[35:30] para fazer alguma coisa e você começa a
+
+[35:32] movimentar isso né É É bem na expressão
+
+[35:35] mesmo que seja na força do Ódio Não tem
+
+[35:37] problema questão não é moral Tá mas
+
+[35:39] conforme você movimenta esse rancor o
+
+[35:41] rancor vai começar a virar uma certa
+
+[35:44] indiferença né vai virar uma indiferença
+
+[35:47] e aí você começa a separar o o que você
+
+[35:50] valora no outro e o que é valoroso em
+
+[35:52] você porque você é o o produtor do
+
+[35:55] resultado então por exemplo quem eu
+
+[35:57] gosto muito de de você né valorizo muito
+
+[35:59] a pessoa que você é eu gosto de você e
+
+[36:01] tal tal tal você você passou a perna em
+
+[36:02] mim fiquei puto e E aí fiquei com rancor
+
+[36:05] tudo bem aí o que que seria o lado
+
+[36:08] produtivo é primeiro eu sinto isso tudo
+
+[36:10] bem Tem uma fase normal tá mas conforme
+
+[36:13] o tempo vai passando eu tenho que
+
+[36:15] conseguir perceber o quanto eu gosto de
+
+[36:17] você é ligado a você a características
+
+[36:20] que você tem e o quanto é o quanto eu
+
+[36:23] gosto de você por causa de coisas que eu
+
+[36:24] faço por você e aí tem a ver comigo você
+
+[36:27] conseguiu ver esse ponto é crucial é
+
+[36:28] nevrálgico tá tá então assim isso é
+
+[36:30] muito importante e isso é uma coisa
+
+[36:32] fundamental da literatura é fantástico
+
+[36:33] por exemplo quem ó se eu gosto de você
+
+[36:37] eu gosto eu gosto de você de verdade tá
+
+[36:38] é um exemplo tá se eu gosto de você eu
+
+[36:41] faço coisas por você tá eu gosto de você
+
+[36:44] eu faço coisas por você só que na
+
+[36:45] verdade eu não tô fazendo nada por você
+
+[36:47] eu tô fazendo por mim onde que é o
+
+[36:49] grande problema que gera rancor onde que
+
+[36:51] é o grande problema se eu gosto de você
+
+[36:53] isso não tem nada a ver com você tem a
+
+[36:54] ver comigo se eu gosto de você eu faço
+
+[36:56] coisas por você
+
+[36:58] muita gente faz pelo outro esperando que
+
+[37:00] o outro faça de volta isso é evolutivo é
+
+[37:03] a cooperação né é evolutivo igual o
+
+[37:06] peixinho vamos ver o Predador eu vou com
+
+[37:08] você você vai comigo a gente V O
+
+[37:09] Predador quer dizer aquela coisa de faça
+
+[37:12] as coisas sem esperar nada de volta ela
+
+[37:15] isso é
+
+[37:16] contra instinto é isso contra o nosso
+
+[37:19] instinto ISS não é não é tão adaptativo
+
+[37:22] só que só que só que na verdade isso tem
+
+[37:24] a ver com com o marodo que a gente
+
+[37:26] gravou sobre educação científica ali eu
+
+[37:28] dei um exemplo sobre o que é dividir
+
+[37:31] duas frações né quando você divide duas
+
+[37:33] frações você pega a primeira e
+
+[37:34] Multiplica pelo inverso da segunda então
+
+[37:36] por exemplo se eu tenho uma postura
+
+[37:38] pessoal que é assim as pessoas que eu
+
+[37:40] gosto eu demonstro que eu gosto mas aí
+
+[37:42] eu não faço só por você tipo eu gosto de
+
+[37:44] você eu faço coisas por você mas eu faço
+
+[37:46] por todo mundo todo mundo todo mundo que
+
+[37:48] eu gosto de verdade eu faço coisas pela
+
+[37:50] pessoa essa a minha disposição aí isso é
+
+[37:53] multiplicar pelo inverso isso é dividir
+
+[37:55] é uma ideia de doação tá bom só que você
+
+[37:58] está dividindo com uma pessoa com com
+
+[38:01] esse outro esse outro são todos os
+
+[38:03] outros não é só você são todos o todo
+
+[38:06] cresce a a comunidade toda cresce e de
+
+[38:09] alguma forma Isso volta mas eu não tô
+
+[38:11] falando de lei de ação e reação essa
+
+[38:13] babaquice de
+
+[38:14] segredo é um mecanismo de teoria de
+
+[38:17] jogos se todo mundo por qual que é o
+
+[38:20] fato dessa afirmação se eu gosto de você
+
+[38:22] e eu faço algo por você isso diz
+
+[38:24] respeito a mim você não é obrigado a
+
+[38:26] reciprocar você não é obrigado ponto sim
+
+[38:29] você não é tá a menos que a gente faça
+
+[38:31] parte da mesma seita religiosa só que a
+
+[38:33] gente tá preso num pacto disso assim é
+
+[38:36] só que aí a gente tá preso na mesma
+
+[38:37] religião aí você é obrigado a fazer aí
+
+[38:39] não é Genuíno mas se eu gosto de você eu
+
+[38:41] faço coisas por você isso diz respeito a
+
+[38:43] mim uhum reciprocar desrespeito a você
+
+[38:46] tudo bem só que assim às vezes eu faço
+
+[38:48] muito por você esperando muito muito de
+
+[38:51] você e você não tá no mesmo nível sabe
+
+[38:53] não não é assim entende então o o rancor
+
+[38:56] às vezes cresce nessa as expectativas
+
+[38:58] que a gente cria quando na verdade é uma
+
+[39:00] disposição que a gente tem que ter com
+
+[39:01] todo mundo e aí é o ponto importante
+
+[39:03] quando você faz algo por alguém você faz
+
+[39:06] uma parte por pelo outro mas você faz
+
+[39:08] uma parte por você e muitas vezes é mais
+
+[39:11] fácil fazer pelo outro do que por você e
+
+[39:13] aí como é mais fácil fazer pelo outro do
+
+[39:15] que por você você tá esperando a solução
+
+[39:17] do outro porque você é um [ __ ] de um
+
+[39:18] otário então a a esse esse mecanismo do
+
+[39:21] do ressentimento é algo importante
+
+[39:23] muitas vezes o ressentimento é a busca
+
+[39:26] que você encontra de uma solução no
+
+[39:28] outro que na verdade tem que vir de você
+
+[39:29] essa é a parte ativa isso é é
+
+[39:32] aprendizado é tempo você não aprende
+
+[39:34] sabendo fazer isso isso é aprendizado é
+
+[39:36] regulação emocional aí o termo é esse
+
+[39:38] regulação emocional e E aí tem um texto
+
+[39:40] Fantástico que bate numa coisa isso
+
+[39:42] também a psicologia de Boteco diabo o
+
+[39:45] povo que é formado é isso é minha bronca
+
+[39:47] com a análise do comportamento dbd act
+
+[39:50] todas essas linhas de análise de
+
+[39:51] comportamento sabe que quer formar a
+
+[39:53] pessoa rápido né porque você formar o
+
+[39:56] cara para atender não é não é é demorado
+
+[39:58] é difícil sabe tem muito treino né Aí
+
+[40:01] temos essas linhas que quer formar num
+
+[40:03] curso de se meses sabe porque já pega o
+
+[40:05] cara mal formado em psicologia aí quer
+
+[40:08] inventar umas regras pronta tipo ah eu
+
+[40:10] quero formar você para ser marqueteiro
+
+[40:11] eu consigo formar em se meses que só dar
+
+[40:13] um monte de regra pronta psicologia não
+
+[40:15] é assim né tem um negócio que ainda bem
+
+[40:17] que tá diminuindo na literatura mas tem
+
+[40:19] um negócio que chama crença limitante
+
+[40:21] que no tiktok que como é pega fácil a
+
+[40:24] galera fica falando Ah você tem uma
+
+[40:25] crença limitante então temos que mudar
+
+[40:27] as suas crenças limitantes isso é um
+
+[40:30] [ __ ] de um argumento religioso sabe eu
+
+[40:32] tenho que catequisar você para mudar
+
+[40:34] suas crenças isso é asneira tá existe
+
+[40:37] todo um discurso por trás dessa ideia de
+
+[40:40] crença limitante que é você tem que ter
+
+[40:42] um compromisso com a mudança você tem
+
+[40:44] que abrir mão dessa crença limitante e
+
+[40:46] pensar diferente é a mesma coisa k você
+
+[40:49] tem que deixar de ser cristão e virar da
+
+[40:51] igreja de sei lá o quê né a verdade está
+
+[40:53] na outra crença você vai trocar uma
+
+[40:55] crença limitante por outra issoão
+
+[40:57] momento completamente religioso não faz
+
+[40:59] nenhum sentido e aí tem um texto muito
+
+[41:01] legal que mostra isso que no mundo
+
+[41:03] moderno que a gente tem hoje a gente a
+
+[41:06] gente propicia mudança e aceitação a
+
+[41:09] partir do respeito pela verdade objetiva
+
+[41:12] E aí o que que seria isso que que seria
+
+[41:14] o respeito pela verdade objetiva é você
+
+[41:17] desenvolver em você mesmo a coragem de
+
+[41:20] escolher quem ser na Na incerteza vou
+
+[41:24] repetir isso de novo que é importante tá
+
+[41:26] você tem que ver a coragem de escolher
+
+[41:30] quem ser Na incerteza Então essa é uma
+
+[41:33] questão bem moderna pense hoje quem que
+
+[41:36] que o mundo é muito complexo né Tem
+
+[41:38] guerra acontecendo em todo lugar as
+
+[41:39] questões econômicas políticas e tal
+
+[41:41] então a gente vive no mundo muito
+
+[41:42] complexo sim e a rede social não é um
+
+[41:45] lugar que serve para discutir qualquer
+
+[41:47] coisa É uma feira do rolo a gente já
+
+[41:48] falou antes as pessoas na rede social S
+
+[41:50] tão tempo inteiro gritando eu tenho eu
+
+[41:53] quero eu preciso eu sou a Feira do Rolo
+
+[41:56] Gostei da definição toda a rede social é
+
+[41:58] uma feira do rolo é um lugar para vender
+
+[41:59] coisas e por qu foi criada por vocês
+
+[42:02] porque o objetivo é comprar e vender né
+
+[42:04] você falar da sua vida dos seus Crush é
+
+[42:06] o de menos né então não interessa então
+
+[42:09] a a qual é a premissa final o tempo não
+
+[42:12] cura nada o que cura é o trabalho é esse
+
+[42:14] processo ativo de trabalhar com seus
+
+[42:16] pensamentos tá com essas imagens mentais
+
+[42:19] e e o objetivo último não é crenças
+
+[42:21] limitantes é uma besteira tá isso é
+
+[42:23] muito religioso é você aceitar a
+
+[42:26] ambiguidade você é uma pessoa ambígua
+
+[42:29] assim como os outros também são ambíguos
+
+[42:31] você não vai ser feliz para você pode
+
+[42:33] estar sendo Mas você não vai certo tá
+
+[42:36] não é um foco final Então você tem que
+
+[42:38] desenvolver em você uma coragem de
+
+[42:40] escolher quem você Quem ser Na incerteza
+
+[42:43] e e isso você tem que usar para preparar
+
+[42:46] suas ações mais do que as falas isso é
+
+[42:49] uma coisa importante por exemplo e agora
+
+[42:51] a gente fala assim do do do Perdão né
+
+[42:54] Tem vários tipos de perdão né então por
+
+[42:56] exemplo eu posso desenvolver um tipo de
+
+[42:58] perdão com base na indiferença Então
+
+[43:00] você foi muito chato comigo eu fiquei
+
+[43:02] com rancor até muito tempo mas depois
+
+[43:04] ficou indiferente Ah eu não penso mais
+
+[43:06] não me ocorre mais isso é um tipo de
+
+[43:08] perdão tá você ficar indiferente mostra
+
+[43:11] que você mudou né E é um trabalho para
+
+[43:13] isso você não se importa de verdade
+
+[43:16] então pensea um rancor que você tinha no
+
+[43:17] passado não se importa o suficiente para
+
+[43:20] voltar conviver voltar conversar
+
+[43:22] normalmente com pesso Então isso é outro
+
+[43:24] tipo de perdão isso é outro tipo então
+
+[43:25] assim tem um tipo que é é não não não me
+
+[43:28] ocorre mais eu nem penso mais nisso tá
+
+[43:30] esse é um tipo é e é saudável e tá tudo
+
+[43:33] bem E tá tudo bem tá isso é saudável o
+
+[43:36] outro tipo é quando você acha que merece
+
+[43:38] e e reconciliação né ou algum contato e
+
+[43:42] aí tem um segundo tipo o segundo tipo é
+
+[43:44] foi horrível foi muito ruim guardo o
+
+[43:46] ressentimento e tal mas quero saber só
+
+[43:49] se você existe sabe quero saber se você
+
+[43:52] mudou e aí uma coisa importante Ninguém
+
+[43:54] é obrigado a perdoar ninguém tanto é que
+
+[43:56] você pode ficar diferente isso é um tipo
+
+[43:58] de perdão tá não é o tipo de perdão
+
+[44:00] Cristão mas é um tipo de perdão tá
+
+[44:03] porque pelo menos você não vai ficar
+
+[44:04] ruminando tá ótimo tá um outro tipo de
+
+[44:07] perdão é esse assim tudo bem mas e Eh aí
+
+[44:10] tem a aquele Naroto que a gente gravou
+
+[44:12] que é porque algumas pessoas gostam de
+
+[44:14] terminar as coisas e outros não às vezes
+
+[44:16] você quer só fechar alguma coisa mas
+
+[44:19] assim você pode se comunicar com com a
+
+[44:21] pessoa mas você não quer contato você
+
+[44:23] vai manter sempre uma distância vai
+
+[44:25] ficar algo amistoso uhum uhum ou às
+
+[44:27] vezes você quer manter a Network mesmo
+
+[44:29] quer manter né Às vezes tem outras
+
+[44:31] pessoas no meio alguma coisa assim você
+
+[44:33] só quer manter a a a boa vizinhança sabe
+
+[44:36] esse é um outro tipo de perdão né e o
+
+[44:38] outro tipo de perdão é quando você de
+
+[44:40] fato reata relações com a pessoa nunca
+
+[44:42] mais é o mesmo porque você não é o mesmo
+
+[44:44] e o outro não é o mesmo mas aí uma uma
+
+[44:46] dica importante a literatura é robusta
+
+[44:48] nisso também nada contra você perdoar da
+
+[44:50] da forma mais próxima né Muito pelo
+
+[44:54] contrário é ótimo tá faz bem é muito
+
+[44:56] legal se dá certo Mas aí tem um uma dica
+
+[44:59] repare muito mais no que o outro faz do
+
+[45:01] que o que ele fala então assim ah você
+
+[45:04] fez mal para mim foi muito chato e tal
+
+[45:05] tal tal mas quero conversar com você
+
+[45:07] para colocar em pratos limpos né O que
+
+[45:09] aconteceu aí vocês conversam e e foi
+
+[45:11] legal repara posteriormente mais no que
+
+[45:13] a pessoa faz de fato do que o que ela
+
+[45:16] fala o que ela fala é irrelevante Presta
+
+[45:18] atenção nos comportamentos os
+
+[45:20] comportamentos são a medida mesmo porque
+
+[45:22] os comportamentos são o processo ativo
+
+[45:24] de utilização do tempo sabe então então
+
+[45:27] a a a pessoa por exemplo ela pode estar
+
+[45:29] indiferente com você ela não sente mais
+
+[45:31] o rancor ela tá indiferente ela mantém o
+
+[45:33] contato de boa vizinhança Mas você
+
+[45:35] percebe que ela não reciproca mais nada
+
+[45:37] então você teve um tipo de perdão que
+
+[45:38] ela tem outro e tá tudo bem então o o o
+
+[45:41] indo pro pro fechamento né do do final
+
+[45:43] do episódio tem um trabalho de 2006 que
+
+[45:47] é a da Universidade de Stanford que eles
+
+[45:49] fizeram um estudo enorme e aí é ligado
+
+[45:51] com o texto que você leu eles pegaram
+
+[45:52] uma parte desse dinheiro tem um trabalho
+
+[45:54] do Stanford ele abrir eles abriram
+
+[45:56] centro de tudo sobre perdão para estudar
+
+[45:58] Isso esse esse mecanismo mesmo de como
+
+[46:00] você cria imagens mentais né porque isso
+
+[46:02] faz mal para muita gente gera o estress
+
+[46:04] crônico como tudo que a gente viu né só
+
+[46:07] mais uma metáfora imagina por exemplo
+
+[46:09] kem que você tem pavor de aranhas tá e
+
+[46:12] você e você não vê uma aranha você
+
+[46:14] imagina na sua cabeça eles fizeram um
+
+[46:16] experimento assim eles pediram para
+
+[46:17] pessoas com medo de aranha imaginarem
+
+[46:19] aranhas né o batimento cardíaco da
+
+[46:21] pessoa aumenta Claro ela vai ficar mais
+
+[46:23] tensa Só de imaginar Aranha o rancor é a
+
+[46:26] mesma coisa coisa o rancor é a mesma
+
+[46:28] coisa você volta com a imagem né E aí
+
+[46:30] vai gerar alterações no seu corpo e você
+
+[46:31] sofre por causa disso aham tem um papel
+
+[46:34] de saúde pública de cuidado de educação
+
+[46:36] e tal é importante né e e e aí eles
+
+[46:39] viram que existem experimentos de
+
+[46:42] visualização né que eles fizeram um
+
+[46:44] experimento é bem legal assim por
+
+[46:45] exemplo Pensa a situação que te gerou
+
+[46:47] muito rancor aí tenta produzir alguma
+
+[46:50] coisa Você pode gravar um áudio ou
+
+[46:51] escrever uma carta um e-mail alguma
+
+[46:53] coisa né imaginando como seria como
+
+[46:57] seria no futuro é tipo aconteceu uma
+
+[46:59] coisa muito ruim tá quem aconteceu uma
+
+[47:01] coisa muito ruim aconteceu você tá com
+
+[47:03] rancor tá ruim tá é Escreva num num
+
+[47:05] e-mail numa carta que quer que seja como
+
+[47:08] seria no futuro o contato com essa
+
+[47:10] pessoa se o rancor não existisse Tente
+
+[47:14] fazer esse exercício de imaginar
+
+[47:15] situações Às vezes você não precisa
+
+[47:17] falar como seria mas imagine um cenário
+
+[47:19] uhum Imagine você tomando um café com
+
+[47:21] uma pessoa que te magoou muito tenta
+
+[47:23] imaginar como seria a conversa se você
+
+[47:26] não sentisse o rancor tá e se você fizer
+
+[47:29] esses experimentos de visualização eles
+
+[47:31] eles eles perceberam que a a é um
+
+[47:33] experimento longitudinal longo que as
+
+[47:35] pessoas que faziam esses exercícios de
+
+[47:37] visualização tinham uma melhora de de
+
+[47:41] parâmetros clínicos três vezes maior né
+
+[47:43] do que outras pessoas que só tinham um
+
+[47:45] rancor e era um grupo controle então é
+
+[47:47] legal mesmo é útil e e de novo a a a
+
+[47:51] ideia é desenvolver uma coragem de você
+
+[47:54] escolher quem ser Na incerteza estamos
+
+[47:57] num mundo incerto cada vez mais incerto
+
+[47:59] e aí você tem Duas escolhas ou tentar
+
+[48:02] controlar o ambiente e é por isso que
+
+[48:03] você tem cada vez mais pessoas
+
+[48:05] conservadoras né isso a gente falou no
+
+[48:07] episódio sobre traição e de novo eu não
+
+[48:09] culpo as pessoas extremamente
+
+[48:11] conservadoras eu não não culpo porque se
+
+[48:13] você lutar politicamente por um mundo
+
+[48:15] mais conservador moralmente mesmo você
+
+[48:19] precisa pensar menos já parou para
+
+[48:21] pensar nisso quem se o mundo externo
+
+[48:22] tiver por exemplo se a gente tiver numa
+
+[48:24] teocracia teocracia mesmo a a tipo
+
+[48:27] macharia mesmo tá tudo rígido Uhum você
+
+[48:30] precisa pensar menos Tipo você vai
+
+[48:32] pensar nesse sentido você vai ser mais
+
+[48:34] feliz olha que desgraça você vai ser
+
+[48:37] mais feliz porque se você jogar o jogo
+
+[48:39] tá tudo bem tudo bem que que meio que
+
+[48:41] deve explicar em parte a preferência de
+
+[48:45] algumas pessoas por um método por um um
+
+[48:48] por um regime mais autoritário porque
+
+[48:52] sobra menos para ela ter que ficar
+
+[48:54] pensando também ex exatamente não não
+
+[48:55] mas mas de isso isso conversa com o
+
+[48:58] marketing você pegar uma mensagem e
+
+[49:00] facilitar o acesso ao produto tem mais
+
+[49:03] conforto mastigar os argumentos né você
+
+[49:07] tá dando PR ela os argumentos que depois
+
+[49:09] ela vai usar PR se convencer de que fez
+
+[49:12] a coisa certa percebeu desgraçados de
+
+[49:15] vocês que fizeram isso criaram toda base
+
+[49:16] epistemológica para essa merda maldito
+
+[49:18] marketing Mas enfim mas assim faz todo
+
+[49:21] sentido faz sentido por porque no fundo
+
+[49:23] a pessoa quer ser feliz e essa é a
+
+[49:25] grande por isso que tenho bronca com a
+
+[49:27] psicologia positiva ass inferno do
+
+[49:28] satanás né porque o objetivo é você
+
+[49:30] abrir mão da felicidade e abraçar a
+
+[49:32] ambiguidade A incerteza mesmo assim aí o
+
+[49:36] que que o que que assim você abraçar a
+
+[49:38] ambiguidade A incerteza o que que vai te
+
+[49:40] trazer movimento movimento então
+
+[49:42] movimento para conhecer o mundo como ele
+
+[49:44] é de verdade a abraçar as complexidades
+
+[49:46] Então você vai estudar mais você vai se
+
+[49:48] entender menos você vai entender você
+
+[49:50] pelas negações por aquilo que você não é
+
+[49:52] e não por aquilo que você é você vai
+
+[49:54] achar cada vez mais que você não é algum
+
+[49:56] uma coisa do que você é né então você
+
+[49:58] vai ser um um um um ser fluido mesmo um
+
+[50:01] ser incerto e nessas incertezas você
+
+[50:04] aumenta sua flexibilidade eu tenho
+
+[50:06] certeza você não vai ser muito menos
+
+[50:08] feliz não necessariamente Infeliz você
+
+[50:10] vai ser muito menos feliz mas você vai
+
+[50:13] ter senso de realizações estéticas muito
+
+[50:15] maiores o mundo vai ficar muito muito
+
+[50:16] muito mais maior para você na sua cabeça
+
+[50:19] e e e São nesses espaços pequenos que
+
+[50:22] você encontra felicidade né tendo a
+
+[50:24] possibilidade de ter conversas que você
+
+[50:26] não em outro lugar né tendo
+
+[50:28] possibilidade de conhecer pessoas muito
+
+[50:30] diferentes nesse espaço de busca você
+
+[50:32] vai virar um antropólogo da realidade
+
+[50:34] sabe em vez de virar o Mero consumidor
+
+[50:37] da realidade você vai virar um
+
+[50:38] antropólogo dela sim não é interessante
+
+[50:42] eu não sei de vocês mas acho isso
+
+[50:43] Fantástico abraçar ambiguidade mesmo e é
+
+[50:45] por isso o povo fica tirando sarro de
+
+[50:47] mim por isso que eu adoro o Rogério
+
+[50:48] Skylab adoro eu acho ele o o
+
+[50:51] representante da música moderna desde as
+
+[50:54] músicas escatológicas até as românticas
+
+[50:56] Exatamente isso ele Abraça a ambiguidade
+
+[50:58] eu adoro ele de verdade adoro mesmo eu
+
+[51:01] eu acho muito bom muito bom mesmo o o
+
+[51:03] tem várias ele escreveu muitas músicas
+
+[51:05] eu nem vou fazer um uma seleção assim
+
+[51:07] mas porque ouça todas né de todas as
+
+[51:09] fases porque é exatamente isso o o foco
+
+[51:11] da estética dele é ambiguidade não
+
+[51:13] existe nada mais pós-moderno do que isso
+
+[51:16] é algo bem pós-moderno mesmo é esse essa
+
+[51:18] busca pela ambiguidade e é por isso que
+
+[51:20] gera a polarização no fundo não é
+
+[51:22] direita esquerda é quem quer ser feliz e
+
+[51:25] quem não se importa com a felicidade sim
+
+[51:27] no fundo no fundo mesmo essa é a
+
+[51:29] dicotomia sabe essa é a dicotomia tô
+
+[51:31] entendendo em geral quanto mais
+
+[51:33] privilegiado você é mais você vai ter
+
+[51:35] oportunidade de abraçar a felicidade e
+
+[51:37] não vai querer abrir mão e mais você vai
+
+[51:39] cercear a liberdade dos outros e aí você
+
+[51:42] não vai entender que dividir é
+
+[51:44] multiplicar com o inverso E aí você vai
+
+[51:46] achar que toda vez que você divide você
+
+[51:48] perde E aí você não vai e eh de fato
+
+[51:52] expor o quanto você gosta dos outros a
+
+[51:54] menos que o outro reciproque e aí você
+
+[51:56] vai ser uma pessoa mais rancorosa por
+
+[51:58] isso que Todo religioso demais é
+
+[52:00] rancoroso uhum porque em última análise
+
+[52:03] vai ter rancor de Deus do do do de Jesus
+
+[52:05] do que quer que seja porque no fundo não
+
+[52:07] não não tanca a a o fato dele ser um
+
+[52:09] [ __ ] de um otário Sabe percebe como o
+
+[52:12] ciclo fecha a a política é o de menos a
+
+[52:15] política é o de menos dane-se O bagulho
+
+[52:18] é individual O processo está ali você
+
+[52:20] começar aceitar a a de fato a incerteza
+
+[52:23] e é um bagulho tenso é difícil é uma é
+
+[52:26] difícil é uma merda mas é um processo é
+
+[52:30] um processo então o tempo precisa de
+
+[52:32] intencionalidade o tempo todo o tempo
+
+[52:34] todo sabe então assim você não tem
+
+[52:36] escolha em em ser rancoroso porque se
+
+[52:38] você for hostil com todo mundo ah eu sou
+
+[52:41] rancoroso você é hostil com todo mundo
+
+[52:42] você acaba com todas as suas relações
+
+[52:44] daí não adianta nada você tá sempre
+
+[52:46] perdendo Então você tem que mudar isso
+
+[52:48] você tem que mudar né ou você vai ficar
+
+[52:50] totalitário ou você vai começar Se tiver
+
+[52:52] uma postura de liderança vai começar a
+
+[52:53] matar as pessoas né para manter a sua a
+
+[52:56] manter o seu as suas imagens mentais
+
+[52:59] limitadas mais possíveis né mas na
+
+[53:02] verdade no mundo mais fraterno você tem
+
+[53:04] que abrir mão de ser feliz mesmo a a a
+
+[53:06] grande dicotomia não é entre esquerda e
+
+[53:08] direita é entre quem escolhe ser feliz e
+
+[53:11] quem não se importa sabe e e isso existe
+
+[53:13] nos dois espectros tá E verdade você já
+
+[53:16] dita não estou por isso que eu não estou
+
+[53:17] associando um com o outro tá porque tem
+
+[53:19] o cirandeiros também tá tem cirandeiro
+
+[53:22] tem tem de tudo então tem que tomar
+
+[53:24] cuidado com isso também tá Então você
+
+[53:26] nem esperava que a gente ia chegar nesse
+
+[53:27] Episódio assim né que é não bem mais
+
+[53:30] cabeludo bem mais cabeludo que eu
+
+[53:33] esperava hein é pois é a dificuldade é
+
+[53:36] real né não é real e cotidiana tem que
+
+[53:39] ser um trabalho cotidiano você tem que
+
+[53:41] trabalhar por você mesmo o tempo todo é
+
+[53:43] uma desgraça E aí você percebe que você
+
+[53:45] tipo Exatamente isso quando eu gosto de
+
+[53:47] você eu faço coisas por você Uhum E eu
+
+[53:50] tenho que fazer por você porque eu faço
+
+[53:51] por mim tem a ver comigo tá E eu não
+
+[53:54] posso esperar não a ideia não é esperar
+
+[53:55] a ideia é perceber eu faço por você
+
+[53:57] porque eu gosto de você e acabou isso
+
+[53:59] tem a ver comigo vire-se você dane-se
+
+[54:01] você sabe a A questão não é essa que
+
+[54:03] você vai fazer com isso é Azar o seu né
+
+[54:05] E e aí é é um fechamento muito
+
+[54:07] interessante na na nessa nessa busca
+
+[54:09] pela coragem de escolher quem ser Na
+
+[54:11] incerteza é importante perceber dois
+
+[54:14] tipos de pessoa existem as pessoas que
+
+[54:16] terminam coisas e as pessoas que
+
+[54:18] abandonam coisas né e de novo não tem
+
+[54:21] moral não tem certo e errado são
+
+[54:22] características as pessoas que abandonam
+
+[54:24] elas deixam as coisas elas vão
+
+[54:26] empurrando com a barriga né no curto
+
+[54:28] prazo você ganha porque vai ficar aquele
+
+[54:30] Marasmo só que você tá perdendo tempo no
+
+[54:33] longo prazo você vai ficar carregando um
+
+[54:34] monte de tralha porque é o outro que vai
+
+[54:36] ter que fazer claro o outro que faz
+
+[54:38] então você deixa estourar né aí estoura
+
+[54:41] aí você cria rancor do outro né mas na
+
+[54:43] verdade é você que empurrou e não
+
+[54:45] percebeu E aí você vai carregar a tralha
+
+[54:47] você vai ficando carregando cada vez
+
+[54:49] mais tralha você vai repetir vai vai
+
+[54:51] jogar essa tralha no outro e vai repetir
+
+[54:52] tudo de novo tá quem termina quem
+
+[54:55] termina é pior no comenso terminar e eu
+
+[54:57] não tô falando de relacionamento só é
+
+[54:59] qualquer coisa trabalho sei lá alguma
+
+[55:01] coisa uma mudança na sua vida tal uma
+
+[55:03] amizade uma qualquer coisa qualquer
+
+[55:05] coisa quem e às vezes pode ser uma
+
+[55:07] decisão pessoal você com você mesmo eu
+
+[55:09] vou fazer isso é é também uma coisa né
+
+[55:12] Tem gente que não faz porque abandona
+
+[55:15] quando você termina é muito ruim no
+
+[55:17] começo é muito ruim porque você tá tanc
+
+[55:19] a responsabilidade para você mas você
+
+[55:21] isso gera uma inércia isso é como um
+
+[55:24] empurrão que te joga da montanha sabe E
+
+[55:26] aí isso gera um movimento que você pode
+
+[55:28] usar para algo muito positivo gera
+
+[55:29] rancor também claro você tá fazendo todo
+
+[55:32] o esforço sozinho né mas isso te gera um
+
+[55:35] drive te gera um drive para gerar um
+
+[55:38] movimento e aí você pode usar isso para
+
+[55:39] algo muito positivo posteriormente muito
+
+[55:41] positivo e aí fica melhor depois certo
+
+[55:45] fica fica melhor então essa essa
+
+[55:46] dicotomia é importante e e isso sim você
+
+[55:49] tem as pessoas que preferem terminar em
+
+[55:51] relação às pessoas que eh abandonam isso
+
+[55:55] tem uma relação também com que quem
+
+[55:56] prefere ser feliz Em vez de abrir mão da
+
+[55:58] felicidade tá quem abre mão da
+
+[56:00] Felicidade em geral termina mais e e
+
+[56:03] nesse sentido abraça incerteza escolhe
+
+[56:05] ser Na incerteza Bora sabe Bora eu eu
+
+[56:09] tenho isso muito com judô assim né e por
+
+[56:12] isso que eu falo que o judô não é o
+
+[56:13] lugar para onde eu vou é para onde eu
+
+[56:14] volto eu nunca vou pro judô eu volto pro
+
+[56:16] judô eu sempre falo isso né e o judô
+
+[56:19] para mim tem essa coisa assim tipo eu
+
+[56:21] não vou perder mas se você quiser você
+
+[56:23] vai ter que ganhar e e não é ser
+
+[56:24] competitivo não tem a ver com
+
+[56:26] competitividade tem a ver com estar no
+
+[56:27] momento assim ser sim eu não vou perder
+
+[56:30] para mim mesmo tipo eu não vou perder
+
+[56:32] mas se você quiser você vai ter que
+
+[56:33] ganhar E aí se você ganha você foi
+
+[56:35] melhor perfeito eu fiz o que eu tinha
+
+[56:37] que fazer eu aprendi eu aprendi alguma
+
+[56:39] coisa obrigado eu sou muito grato quando
+
+[56:40] eu perco de verdade né mas eu não vou
+
+[56:43] perder para mim mesmo não vou entrar
+
+[56:44] derrotado eu não vou perder mas se você
+
+[56:46] quiser você vai ter que ganhar sabe é é
+
+[56:48] essa a perspectiva que você tem que ter
+
+[56:49] para buscar esse ser Na incerteza sabe e
+
+[56:52] abrir mão dessa bobagem de crença
+
+[56:54] limitante que é uma bobagem é você fazer
+
+[56:56] fazer de fato um bom uso do seu tempo
+
+[56:58] sabe fazer um uso ativo do seu tempo não
+
+[57:00] é legal qu
+
+[57:02] rapaz foi
+
+[57:05] realmente bem mais longe do que eu
+
+[57:08] esperava é eu confesso dessa vez ó já
+
+[57:10] gravamos mais de 400 episódios e a gente
+
+[57:12] eu eu quem assim a gente se olha um pro
+
+[57:14] outro é foi a primeira vez que eu olhei
+
+[57:16] as expressões do kem você realmente
+
+[57:17] ficou pensando é realmente bateu aí
+
+[57:20] alguma coisa É então bom fun Eu entendi
+
+[57:23] a dificuldade e eh e de conseguir não só
+
+[57:29] escolher né Não só ter a
+
+[57:31] intencionalidade mas de conseguir exato
+
+[57:35] conseguir deixar o rancor de lado é é um
+
+[57:37] processo longo e de novo para fechar eu
+
+[57:39] associo igual judou você fazer um golpe
+
+[57:40] É muito difícil você usar o seu corpo
+
+[57:42] inteiro para fazer certo e aí quando
+
+[57:44] você para de pensar e só faz aí você
+
+[57:46] aprendeu e você aprendeu ser Na
+
+[57:48] incerteza sabe é essa é a ideia Essa é a
+
+[57:51] mensagem do episódio de hoje é então
+
+[57:55] espero que tenha sido também muito
+
+[57:57] aproveitador para você que tá ouvindo e
+
+[58:01] principalmente muito aproveitador para
+
+[58:04] nossa e ouvinte Raquel isso hã e e fica
+
+[58:09] a lição para todos nós aí n ter ter
+
+[58:14] intencionalidade para deixar o rancor de
+
+[58:17] lado e tentar viver a vida com menos
+
+[58:22] peso isso você não tem você não tem
+
+[58:24] escolha mesma então Azar o seu é verdade
+
+[58:26] então e naro rodou ilustríssimo
+
+[58:31] ouv E você já sabe aqui no naro Rod quem
+
+[58:35] faz a pauta é você Você tem alguma
+
+[58:37] pergunta pra gente ou Quer comentar
+
+[58:39] algum episódio escreva para nós podcast
+
+[58:43] @n.com repetindo podcast
+
+[58:47] @n.com e lembre-se mande nome completo
+
+[58:50] idade profissão e a cidade de onde você
+
+[58:53] está falando é isso aí
+
+[58:57] [Música]
+
+[59:04] podc apresentado b9.com.br
+
+[59:11] [Música]

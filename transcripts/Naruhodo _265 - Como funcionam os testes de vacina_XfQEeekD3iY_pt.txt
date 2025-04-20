@@ -1,0 +1,2615 @@
+Title: Naruhodo #265 - Como funcionam os testes de vacinas?
+URL: https://www.youtube.com/watch?v=XfQEeekD3iY
+Language: pt
+Extracted on: 2025-04-06 16:43:36
+================================================================================
+
+[00:00] e como funcionam os testes de vacinas e
+
+[00:07] E aí
+
+[00:09] [Música]
+
+[00:12] olá bem-vindo ao nosso rodou podcast
+
+[00:14] para quem tem fome de aprender eu só Ken
+
+[00:16] Fujioka eu sou até de Souza e hoje é dia
+
+[00:19] de que se tem senso comum ao tá aí vamos
+
+[00:22] para os recados da Paróquia quais são
+
+[00:24] número um vai nosso histórico de cinco
+
+[00:27] estrelas e faça o seu comentário isso aí
+
+[00:29] número dois indique o episódio do Naruto
+
+[00:31] Rodolfo para alguém que nunca ouviu na
+
+[00:33] rodou ao mesmo nunca tem ouvido um
+
+[00:35] podcast Vamos aumentar o tamanho de
+
+[00:37] nossa todas as férias em número 3 Altair
+
+[00:39] a o número 3 é sobre ajudar a manter o
+
+[00:43] naro rodou no ar Altair isso aí e para
+
+[00:46] contribuir basta usar aplicativo picpay
+
+[00:48] assinar o apoio mensal de 15 reais são
+
+[00:51] duas Coca Zero que lhe dou 20 querido
+
+[00:54] ouvinte uma pronto aí E outra mim e como
+
+[00:57] assinante além da nossa gratidão você
+
+[00:59] terá três coisas ou você terá acesso ao
+
+[01:02] grupo secreto no telegram ou seja
+
+[01:04] assinante pode conversar com a gente com
+
+[01:06] a comunidade de ouvintes assinantes dois
+
+[01:08] você terá vantagens especiais por
+
+[01:11] exemplo se não
+
+[01:12] e os episódios no grupo secreto telegram
+
+[01:14] antes de todo mundo e três você receberá
+
+[01:17] conteúdos exclusivos por exemplo
+
+[01:19] assinante recebe episódios que só são
+
+[01:21] distribuídas no grupo secreto do
+
+[01:23] telegram Então é isso baixe o aplicativo
+
+[01:26] picpay e assine o apoio mensal com
+
+[01:29] picpay você ainda vai poder pagar boleto
+
+[01:31] transferir dinheiro entre amigos
+
+[01:33] recarregar celular sacar o saldo em
+
+[01:35] qualquer banco 24 horas sem taxa e olha
+
+[01:38] só no primeiro mês de apoio na rodou
+
+[01:40] Você ainda tem um Cash back de 15 reais
+
+[01:43] isso mesmo Você assina e recebe seus r$
+
+[01:47] 15 de volta tá temos desde já e
+
+[01:50] participe por favor é isso aí antes da
+
+[01:53] falta mais um recado na rodou abre
+
+[01:56] espaço para os podcast das meninas
+
+[01:59] porque representa a atividade é
+
+[02:00] importante também na fotosfera o
+
+[02:02] destaque de hoje vai para o podcast
+
+[02:05] sonora ouço recado que a Talita takeda
+
+[02:08] deixou para você ouvinte donar
+
+[02:12] o e conheço podcast sonora sonora é um
+
+[02:16] podcast dedicado à música para quem quer
+
+[02:19] entrar no mundo da composição e da
+
+[02:21] produção musical Esse é um prato cheio
+
+[02:24] toda semana eu Talita takeda e também
+
+[02:28] Bel Fer convidamos um músico para contar
+
+[02:31] sobre seus processos criativos como ele
+
+[02:34] compõe como os discos são produzidos e a
+
+[02:37] divulgação desse material estamos em
+
+[02:40] todos os agregadores de Podcast ou no
+
+[02:43] link direto anchor.fm/sonora anchorfix-4
+
+[02:50] [Música]
+
+[02:53] assim que chegamos ao momento alura
+
+[02:56] querido 20 querido ouvinte Eu sei que
+
+[02:58] nessa época de isolamento social a gente
+
+[03:00] é bombardeado o tempo todo com lives web
+
+[03:02] nas cursos embora o senso comum tente
+
+[03:05] nos convencer de que estamos em Home
+
+[03:07] Office a verdade que estamos sendo
+
+[03:09] forçados a ficar em casa e tentando
+
+[03:11] trabalhar em meio a uma pandemia então
+
+[03:13] meu recado é antes de mais nada Vá com
+
+[03:16] calma e cuide de sua saúde mental dito
+
+[03:19] isso pode ser sim um bom momento para
+
+[03:21] dar uma acelerada em sua carreira
+
+[03:23] profissional e é para quem estiver afim
+
+[03:25] de fazer isso que eu quero falar aqui da
+
+[03:27] a loira a maior plataforma de cursos
+
+[03:29] online do Brasil tem mobile programação
+
+[03:33] front-end e infraestrutura de tecnologia
+
+[03:35] design e os piercings marketing digital
+
+[03:38] data Science inovação gestão tem para
+
+[03:41] todos os gostos e a lua não é só uma
+
+[03:43] plataforma ela é uma instituição de
+
+[03:45] ensino ou seja lá garante a qualidade
+
+[03:47] dos cursos que são produzidos por ela
+
+[03:50] mesma e funciona de um jeito muito
+
+[03:51] simples você tem
+
+[03:53] de 1000 cursos com uma única assinatura
+
+[03:55] agora vantagem ouvinte na rodô tem
+
+[03:58] desconto de 100 reais mas pra ter esse
+
+[04:01] desconto precisa acessar a seguinte URL
+
+[04:04] anota aí alura.com.br/promoção na rodô
+
+[04:09] repetindo alura.com.br/promoção Barra na
+
+[04:15] Rodolfo a família B9 podcast se está com
+
+[04:19] novidades a produção de um novo podcast
+
+[04:22] sobre investimento junto com o Santander
+
+[04:25] chamado próxima ação o próximo ação é
+
+[04:29] apresentado pelo Teco Medina que traz
+
+[04:31] toda quarta-feira de manhã uma análise
+
+[04:34] financeira das notícias do Brasil e do
+
+[04:36] mundo junto com o especialista Santander
+
+[04:38] com o objetivo de ajudar os investidores
+
+[04:41] a entender em o que podem fazer e o que
+
+[04:44] afeta os seus investimentos lembrando
+
+[04:47] Então rola toda quarta-feira às 5:00 da
+
+[04:50] manhã Bora escutar busque por
+
+[04:53] a ação no Spotify ou em
+
+[04:57] youtube.com/Santander Brasil Altair
+
+[05:01] temos pergunta de novo 20 Altair Quem
+
+[05:04] esse é o motivo para comemorarmos
+
+[05:06] chegamos ao final do ano incólumes né e
+
+[05:08] conseguimos fazer durante esse ano
+
+[05:10] apesar das adversidades episódios todas
+
+[05:12] as semanas é verdade eu tá estamos aqui
+
+[05:17] por enquanto pelo menos até o momento
+
+[05:19] dessa gravação estamos livres da corrida
+
+[05:23] e 19 exatamente E aí para fechar o ano
+
+[05:26] nada mais importante do que o episódio
+
+[05:27] que discute a questão mais importante do
+
+[05:30] ano que era a gente ter ou não é verdade
+
+[05:32] e a parte mais importante da parte mais
+
+[05:35] importante do que faz é né que é sobre
+
+[05:39] as vacinas alto assim não é finalmente
+
+[05:41] as vacinas estão sendo disponibilizadas
+
+[05:46] para a população gradativamente já tá
+
+[05:48] saindo elas estão sendo elaboradas que
+
+[05:50] já é um tem um histórico mas assim já é
+
+[05:53] um fim
+
+[05:53] o único em menos de um ano em vacina
+
+[05:57] serem elaboradas testadas re testadas na
+
+[06:00] acordes e mesmo assim as pessoas são
+
+[06:03] lenientes em achar que tá demorando
+
+[06:05] demais na verdade o objetivo desse
+
+[06:07] Episódio é informativo para mostrar que
+
+[06:10] na verdade a gente está passando por um
+
+[06:12] momento histórico mesmo do ponto de
+
+[06:15] vista de aplicação do método científico
+
+[06:16] em coisas que modificam a vida das
+
+[06:19] pessoas mostrando que a ciência nunca
+
+[06:20] foi tão importante e também mostrando
+
+[06:23] que as pessoas em geral não conhecem
+
+[06:24] como funciona a metodologia mesmo de
+
+[06:26] como uma vacina testada e tal Porque as
+
+[06:29] pessoas acham que demora muito menos do
+
+[06:31] que de fato demora que seria correto de
+
+[06:33] volta e que nunca na história da
+
+[06:36] humanidade a ciência produziu tanto
+
+[06:38] estudos sobre uma doença em tão pouco
+
+[06:40] tempo sem nenhuma vacina foi produzida
+
+[06:43] em tão pouco tempo sem sem dúvida é até
+
+[06:46] o ano passado assim as pessoas falavam
+
+[06:48] porque o tempo médio de uma vacina por
+
+[06:51] uma doença não tão prevalente né
+
+[06:53] de 10 a 15 anos quando é feita a sonhar
+
+[06:57] coisa de 12 anos atrás eles conseguiram
+
+[06:59] criar uma vacina razoavelmente eficaz
+
+[07:01] para o ebola Né É uma doença muito grave
+
+[07:03] e tal e ele estavam Super Os
+
+[07:06] imunologista está o pessoal da pesquisa
+
+[07:08] clínica super feliz porque eles
+
+[07:10] conseguiram muito rápido ele só levaram
+
+[07:11] oito anos só 8 anos morre o rebola e foi
+
+[07:14] a própria HIV Ou nem aí nem temos ainda
+
+[07:18] não nem temos sei porque é realmente
+
+[07:20] difícil não é por falta de investimento
+
+[07:22] A Gente Tem investimento há décadas no
+
+[07:24] estudo de HIV e tal você você e eu
+
+[07:26] lembramos né nos anos 80 90 não vi uma
+
+[07:29] um investimento tão massivo mas durante
+
+[07:33] pelo menos uma década só se falava de
+
+[07:35] HIV Né verdade entre por exemplo entre o
+
+[07:38] aparecimento dos primeiros casos e o
+
+[07:40] azeite né que é o primeiro remédio é que
+
+[07:43] prolonga né o aparecimento da Aids nas
+
+[07:46] pessoas foi foi coisa de menos de dez
+
+[07:48] anos também foi algo na época
+
+[07:50] considerado o assombroso mas a única
+
+[07:53] o HIV é muito diferente do mecanismo no
+
+[07:55] caso da cor verde né temos um lar o rodo
+
+[07:57] sobre se é possível ter uma cura para
+
+[07:59] AIDS vamos deixar na descrição que ainda
+
+[08:01] é um episódio atual mas em relação a
+
+[08:05] corrigir é esse é um feito histórico
+
+[08:07] mesmo que mostra nossa capacidade de
+
+[08:09] quando a água bate na bunda a gente
+
+[08:11] reúne esforços científicos e realmente
+
+[08:14] construir coisas interessantes assim foi
+
+[08:16] também a primeira vez que ouvi no mundo
+
+[08:19] inteiro tanta parceria público-privada
+
+[08:22] para investimentos em vacina né foi a
+
+[08:25] primeira vez na história só para você
+
+[08:27] ter uma ideia quem o custo né de você
+
+[08:29] construir do zero uma vacina como da
+
+[08:31] convide é de cerca de oito Bilhões de
+
+[08:33] Dólares oito Bilhões de Dólares em oito
+
+[08:38] bilhões sem nenhuma garantia de que se
+
+[08:40] vai conseguir também por isso que temos
+
+[08:42] vários centros que testam separadamente
+
+[08:45] para algum dá certo né custo médio é de
+
+[08:48] oito bilhões porque tem que você tem que
+
+[08:51] fazer testes em vários locais com
+
+[08:53] as duas todo o controle de qualidade o
+
+[08:55] que a gente dos Testes é tudo muito caro
+
+[08:57] mesmo e aí em Maio de 2020 World Health
+
+[09:01] organization organizou um Teleton também
+
+[09:04] esse programa de TV que você dá o
+
+[09:05] dinheiro sem ser e só esse Teleton
+
+[09:08] arrecadou 8.1 bilhão de Dólares de 40
+
+[09:13] países e várias empresas inclusive
+
+[09:15] bilionários que doaram dinheiro para
+
+[09:17] pesquisa sensacional né Pois é inclusive
+
+[09:21] isso é chamado de solidário e te traiu
+
+[09:23] né que é o ensaio da Solidariedade Então
+
+[09:27] esse dinheiro foi utilizado para a
+
+[09:29] maioria dos Testes de vacina que temos
+
+[09:31] hoje feito ao tá aí a pergunta de hoje
+
+[09:35] veio da Karen sim que tem 45 anos moro
+
+[09:40] em Santos e diz que houve a gente faz um
+
+[09:43] tempo ou tá aí desde que as nossas vozes
+
+[09:47] soavam tampada sem áudio porquê
+
+[09:53] é consideravelmente obrigado olha um
+
+[09:57] elogio ou na verdade uma crítica
+
+[10:00] trânsito travestida de elogio a crítica
+
+[10:02] Josa Pois é ela diz o seguinte eu sou
+
+[10:06] mãe em tempo integral de três meninos e
+
+[10:09] meu caçula já tem mais de 1 aninho a
+
+[10:12] pergunta é adianta esperar a vacinação
+
+[10:16] para sair com bebê olha só pergunta digo
+
+[10:19] isso porque ouvi dizer que os bebês
+
+[10:21] nasciam com uma imunidade igual à da mãe
+
+[10:25] e que isso perdura por alguns meses e no
+
+[10:28] posto de saúde informaram que a memória
+
+[10:31] imunológica do bebê só começava a se
+
+[10:34] desenhar depois de doze meses a final
+
+[10:37] porque vacinamos tão cedo se não
+
+[10:39] funciona entre aspas esse Devemos
+
+[10:42] esperar o bebê ser vacinado para ir a
+
+[10:44] lugares públicos fechados só para
+
+[10:47] esclarecer Eu sou daquelas que vacinam
+
+[10:50] os filhos e trata a carteirinha de
+
+[10:51] vacinação com mais orgulho
+
+[10:53] Você pode carimbando muito bem e aí tem
+
+[10:56] uma segunda parte da pergunta dela
+
+[10:57] estamos falando muito sobre vacina por
+
+[11:00] conta da produção e pesquisa de vou
+
+[11:01] parar covid-19 pergunta como se faz uma
+
+[11:05] vacina como sabemos que ela funciona e
+
+[11:07] conta gente precisa estar imunizada para
+
+[11:10] barrar a propagação de uma doença no
+
+[11:13] programa de vacinação de influência por
+
+[11:15] exemplo todo ano vacina o grupo de risco
+
+[11:18] idosos crianças pequenas profissionais
+
+[11:21] em áreas de risco nos HPV apenas
+
+[11:23] crianças são imunizadas enfim como se dá
+
+[11:26] tudo isso obrigado e continue o ótimo
+
+[11:29] trabalho obrigado a você Karen pela
+
+[11:32] audiência Obrigado faltas são muitas
+
+[11:34] perguntas Ah tá Aí sim Vamos por partes
+
+[11:37] como diria Jack O Estripador e ciência
+
+[11:41] tem a dizer sobre as questões da Karen
+
+[11:43] Então a primeira pergunta sobre a esse
+
+[11:46] passaporte imunológico dos bebês né nem
+
+[11:48] como o filhinho dela já tem mais de um
+
+[11:50] ano e isso já não vale assim quando
+
+[11:52] Quando bebemos
+
+[11:53] é um beijo então ele consegue aumentar o
+
+[11:57] a variabilidade o espectro de antígenos
+
+[12:01] que ele tem contra eventos externos
+
+[12:03] contra vírus bactérias coisas do tipo
+
+[12:06] através da amamentação amamentação ajuda
+
+[12:08] bastante início no começo da vida mas
+
+[12:10] essa essa ideia de que o sistema
+
+[12:12] imunológico da criança não está pronta
+
+[12:14] até um ano isso aí não faz nenhum
+
+[12:16] sentido os macrófagos já estão lá
+
+[12:18] células B células t tá todo mundo lá
+
+[12:21] esperando para ser usado ou seja desde
+
+[12:23] os primeiros meses de vida o bebê está
+
+[12:29] sujeito a doenças que poderiam ser
+
+[12:32] evitadas com ímanes assim totalmente
+
+[12:34] totalmente então assim o sistema
+
+[12:36] imunológico já está pronto ali né o
+
+[12:39] leite materno amamentação ajuda numa
+
+[12:41] parte desse aprendizado Inicial
+
+[12:43] imunológico mais rapidamente tem que
+
+[12:45] tomar as primeiras vacinas segundo o
+
+[12:47] calendário de vacinação tem algumas
+
+[12:49] vacinas que são tomadas logo quando o
+
+[12:51] bebê nasce e outras durante o quê
+
+[12:53] é E essas vacinas são são feitas para
+
+[12:56] serem dadas naqueles períodos
+
+[12:58] estabelecidos já tem vários estudos que
+
+[13:00] mostram a importância por exemplo da BCG
+
+[13:02] que aqui no Brasil ela tem uma das
+
+[13:05] coberturas maiores do mundo assim para
+
+[13:08] prevenir por exemplo problemas
+
+[13:10] respiratórios mais pra frente em
+
+[13:11] crianças pequenas tal isso é muito
+
+[13:13] importante inclusive até saiu um artigo
+
+[13:15] que depois foi uma associação muito
+
+[13:18] fraca mostrando que aqui no Brasil a
+
+[13:20] taxa de pessoas que tomaram a BCG quando
+
+[13:23] bebês é muito maior que em vários outros
+
+[13:25] países e isso poderia conferir uma certa
+
+[13:28] a chance de uma menor probabilidade de
+
+[13:31] pegar convide Os estudantes não não não
+
+[13:34] ratificam isso mas assim pelo tamanho de
+
+[13:37] efeito da diferença mostra que tem um
+
+[13:38] pouquinho de efeito mas ele não é grande
+
+[13:41] o suficiente para ser Clínico para de
+
+[13:43] fato imunizar você encontra corrigir
+
+[13:45] isso não faz nenhum sentido Tá bom então
+
+[13:47] só só para fechar a primeira pergunta da
+
+[13:49] Karen é importante vacinar as crianças a
+
+[13:51] partir do Nascimento
+
+[13:53] e do calendário de vacinação porque o
+
+[13:56] sistema imunológico da criança já nasce
+
+[13:58] ativo não é que leva um ano para ele
+
+[14:01] funcionar ou não e a importância de você
+
+[14:04] ser vacinado para algumas vacinas de
+
+[14:06] sarampo por exemplo você é exposto a uma
+
+[14:09] versão atenuada do vidro real Então se o
+
+[14:12] sistema imunológico aprende a atacar que
+
+[14:15] ele vire os antes que vire uma infecção
+
+[14:16] mais grave então a primeira resposta é o
+
+[14:20] que o informaram para ela no posto de
+
+[14:22] saúde é equivocado não é o bebê não
+
+[14:26] começa a desenhar seu sistema
+
+[14:29] imunológico só depois de 12 meses né
+
+[14:31] então ela pode sim deve tomar as vacinas
+
+[14:35] conforme o calendário de vacinas assim
+
+[14:38] que nasce isso E na verdade a o sistema
+
+[14:42] de defesa imunológico do bebê vai ser
+
+[14:45] desenhado pela aplicação das vacinas
+
+[14:46] durante o primeiro ano essa ideia tá é
+
+[14:49] muito melhor com certeza isso treinando
+
+[14:51] pelas vacinas o que te ter
+
+[14:53] e pela vida real onde a seleção natural
+
+[14:55] tem pô e você pode parecer ai então para
+
+[14:59] garantir Na verdade só tem antivacinas
+
+[15:03] hoje porque as vacinas funcionam na
+
+[15:04] verdade seja dita né porque se não
+
+[15:07] tivesse vacinas os primeiros que
+
+[15:09] preferiam se ele seria um antes vacinas
+
+[15:11] É verdade cara então a primeira converse
+
+[15:14] se você tiver mais um filho não tem nada
+
+[15:17] que esperar pensa sério caras a Segue o
+
+[15:20] pediatra da vacinação mandei a
+
+[15:22] carteirinha e é isso aí vamos subir o
+
+[15:24] gol do sobre isso né Porque precisamos
+
+[15:26] falar sobre vacinas que foi bem antes
+
+[15:28] dele nós vamos deixar no episódio no 146
+
+[15:32] piso E aí que a gente vai querer se tem
+
+[15:34] mais informações a respeito a gente
+
+[15:35] explica como é o sistema de imunização
+
+[15:37] do Brasil né do ponto de vista
+
+[15:39] epidemiológico só que esse episódio é um
+
+[15:41] pouco diferente porque a gente vai falar
+
+[15:43] de uma coisas mas que naquele Episódio
+
+[15:44] 146 gente não comentou muito é sobre os
+
+[15:47] mecanismos das vacinas só preciso duas
+
+[15:49] da convide na verdade dos mecanismos
+
+[15:51] moleculares das vacinas
+
+[15:53] é bem como são feitas os testes clínicos
+
+[15:55] Nunca na história da humanidade Também
+
+[15:58] quem apareceram tanto epidemiologist e
+
+[16:00] imunologista sim na na história nunca 40
+
+[16:04] ser comentador de futebol né É verdade
+
+[16:07] ninguém dava bola para entender meu para
+
+[16:10] nada hoje aparece economista Engenheiro
+
+[16:11] falando de epidemiologia só porque sabe
+
+[16:13] fazer conta e calcular regressão linear
+
+[16:15] né É muito mais complicado que isso tá
+
+[16:18] metodologia doado os desenhos do
+
+[16:20] experimento e tal então vamos explicar
+
+[16:23] inicialmente como que funcionam as fases
+
+[16:25] de um ensaio Clínico por quê que o
+
+[16:27] ensaio Clínico demora tanto é uma década
+
+[16:29] às vezes é a primeira coisa é o
+
+[16:31] investimento então é aí a sua área ajuda
+
+[16:34] bastante né porque eu lançar um novo
+
+[16:37] remédio né que vai tratar alguma doença
+
+[16:39] essa doença tem que ser minimamente
+
+[16:41] prevalente para que o custo compensa e a
+
+[16:44] pesquisa então assim você tem algumas
+
+[16:47] doenças que são alvo da Indústria
+
+[16:49] Farmacêutica por exemplo doenças mais
+
+[16:51] prevalentes doenças tropicais
+
+[16:53] as doenças endêmicas e a indústria
+
+[16:56] centro investe dinheiro mas quando fala
+
+[16:58] em dinheiro na casa de brilham mesmo só
+
+[17:00] que só que de forma fracionada para o
+
+[17:02] desenvolvimento de várias vacinas então
+
+[17:04] a vacina do igual várias vacinas que
+
+[17:06] surgiram por aí remédios é funciona mais
+
+[17:09] ou menos desse dessa forma essa lógica
+
+[17:12] financeira ela vale tanto para
+
+[17:15] desenvolver medicamentos para combater
+
+[17:18] doenças quanto vacinas para evitar
+
+[17:21] doenças isso Exatamente porque a gente
+
+[17:24] precisa de dinheiro não tem jeito você
+
+[17:25] precisa de dinheiro e o dinheiro não vem
+
+[17:27] não cai do céu né e nada com maior
+
+[17:30] potencial de de virar uma doença e
+
+[17:33] poderá ser visitada do que uma pandemia
+
+[17:35] Pois é aí é o dinheiro Brota né Parece
+
+[17:38] que é muito fácil mas em situações mais
+
+[17:41] onde você tem vários interesses
+
+[17:42] competindo Então você tem que fracionar
+
+[17:45] essa quantidade de lembre limitada de
+
+[17:47] recursos e vários estúdios então o
+
+[17:49] primeiro fator que influencia na
+
+[17:52] aceleração do
+
+[17:53] o desenvolvimento de um imunizador uns
+
+[17:57] um alisante uma vacina é dinheiro sim é
+
+[18:01] a questão é economia é o retorno Eu
+
+[18:04] imagino que tem coisas que o dinheiro
+
+[18:05] acelera mas tem coisas também que como é
+
+[18:09] que é a duas mulheres é o nove mulheres
+
+[18:13] carregando um mês uma criança não faz um
+
+[18:17] parto isso né você já tem coisas que o
+
+[18:20] dinheiro não consegue acelerar muito bem
+
+[18:22] vamos deixar um editorial muito bom da
+
+[18:25] BMG do mês passado na descrição que fala
+
+[18:29] sobre a taxa de eficácia dos ensaios
+
+[18:31] clínicos então por exemplo a cada cem
+
+[18:34] pesquisas de teste de remédio ou vacina
+
+[18:36] que eu começo de pessoa me disse a
+
+[18:38] farmacêutica eu tenho sem testes apenas
+
+[18:41] Vinte por cento deles vai gerar vai
+
+[18:43] chegar na fase 3 que é quando eu consigo
+
+[18:45] tentar lançar o remédio oitenta por
+
+[18:47] cento Então vai morrer no meio do
+
+[18:50] caminho aí na fase 1 fase 2 ou até
+
+[18:53] é né então é muito dinheiro que você
+
+[18:56] coloca no começo é uma questão com
+
+[18:58] Otávio sabe não dá Entendeu não tem como
+
+[19:00] fazer essas vacinas que a gente tá vendo
+
+[19:02] aí que evoluíram né ela faz assim Oxford
+
+[19:07] não sei o que são Então são esses Vinte
+
+[19:09] por cento que conseguiram sobreviver a
+
+[19:11] isso fazem parte desse impulsionar a no
+
+[19:13] início sim só que essas vacinas não
+
+[19:16] surgiram em sendo então assim a gente
+
+[19:18] conseguiu testar fazer todo o processo
+
+[19:21] de teste fazer um dois e três a gente
+
+[19:24] conseguiu fazer todo o processo de
+
+[19:25] manufatura da vacina e fazia um dois e
+
+[19:28] três em um ano Mas a pesquisa sobre o
+
+[19:30] coronavírus já existe há pelo menos dez
+
+[19:33] anos por causa das Artes né então assim
+
+[19:37] você tem a Indústria Farmacêutica
+
+[19:39] trabalhando de um lado e você tem as
+
+[19:41] Universidades trabalhando do outro então
+
+[19:43] por exemplo pega pega a pesquisa com
+
+[19:46] Zika a os primeiros trabalhos a pesquisa
+
+[19:48] com Zika surgiram nas universidades
+
+[19:50] então em geral doentes as Tropicais em
+
+[19:53] eu tenho linhas de pesquisa dentro da
+
+[19:55] Universidade Quando surge alguma solução
+
+[19:57] interessante aí ainda só farmacêutica
+
+[20:00] pode financiar para fazer um ensaio
+
+[20:02] maior o maior número de pessoas você
+
+[20:05] fazendo que então que se a gente não já
+
+[20:07] tivesse pesquisando há mais de dez anos
+
+[20:10] aí por conta do sars é esse tipo de
+
+[20:13] vírus na essa família como o time
+
+[20:16] coronavírus aí você acha que a gente
+
+[20:18] pode chamar desse jeito a gente não
+
+[20:20] teria conseguido desenvolver vacinas tão
+
+[20:22] rápido assim não teria nada nada zero
+
+[20:24] sabe então é a gente deu sorte que eu
+
+[20:28] não quer um vírus muito parecido com
+
+[20:29] outras coisas que a gente já conhece
+
+[20:30] então tenta sair de conta Mércio né
+
+[20:33] porque agora você entende porque a
+
+[20:35] vacina de Oxford Oxford porque a gente
+
+[20:37] começou os testes dela York foi já
+
+[20:39] tentei danos né então não é de agora uma
+
+[20:42] coisa crucial para a existência de
+
+[20:45] remédios medicamentos e vacinas é um
+
+[20:48] investimento do Estado em instituições
+
+[20:51] públicas universitárias para pesquisa
+
+[20:53] e isso é uma receita que a Inglaterra
+
+[20:55] faz muito bem como ninguém pode trocar
+
+[20:58] governo o que for o até Reborn isso é o
+
+[21:01] as Universidades tem dinheiro para fazer
+
+[21:03] as pesquisas em questões estratégicas
+
+[21:05] uma das questões estratégicas é saúde
+
+[21:08] pública e biotecnologia Tá então não só
+
+[21:12] essa vacina de Oxford ela ela é nova
+
+[21:14] como a metodologia que ela tá usando a
+
+[21:17] metodologia inovadora que já tem assim
+
+[21:19] 10 anos e nunca tinha sido aprovada
+
+[21:21] antes que que essa metodologia inovadora
+
+[21:24] então é é a maneira como a vacina
+
+[21:26] funciona É eu vou explicar primeiro essa
+
+[21:29] vacina da fazer assim vacinas em fazer
+
+[21:32] três né que era aqui tá esperando o
+
+[21:35] teste para aprovação até hoje a gente
+
+[21:38] tem a gente tem nove candidatos a vacina
+
+[21:41] e já estão na fase Player buscando
+
+[21:44] aprovação daqui a pouco eu vou explicar
+
+[21:45] quando o que é a fazer um dois e três a
+
+[21:47] vacina da fazer é uma a vacina de Oxford
+
+[21:50] a outra cor ou na vaq
+
+[21:53] e a terceira não é um três exemplos a
+
+[21:56] seguir os exemplos mais comuns que a
+
+[21:57] gente vê por aí e só que a gente ouvir
+
+[22:00] mais da empresa no Brasil né é a vacina
+
+[22:02] para fazer da Fox work em parceria quase
+
+[22:05] transgênica EA Corona Mack né Elas têm
+
+[22:09] mecanismos diferentes de ação a coluna
+
+[22:11] waqia russa outra chinesa laca chinesa
+
+[22:15] Corona vá que dá-se Novak isso é como é
+
+[22:18] o mecanismo dessas três vacinas tem
+
+[22:20] outros mas os principais a vacina da
+
+[22:22] fazer ela chamada de vacina dr.na assim
+
+[22:26] dentro da suas células Você tem uma
+
+[22:28] máquina né que promove a reprodução de
+
+[22:31] fitas de DNA na sua célula E aí
+
+[22:34] possibilita a reprodução das células os
+
+[22:36] vírus em geral eles precisam dessa
+
+[22:38] maquininha dentro da célula para se
+
+[22:40] reproduzir a vacina de RNA ela faz ou de
+
+[22:43] RNA mensageiro ela faz o seguinte em
+
+[22:47] janeiro de 2020 então assim ó os
+
+[22:50] primeiros casos de convívio começaram no
+
+[22:51] final de 2019
+
+[22:53] Tá certo em janeiro de 2020 a China já
+
+[22:57] tinha publicado o sequenciamento
+
+[22:59] genético do vírus então assim esse vírus
+
+[23:02] Ele é composto das seguintes letrinhas E
+
+[23:04] aí a sequência de alegrias dias depois
+
+[23:06] dias não não levou nem uma semana depois
+
+[23:09] de Janeiro já identificaram que o
+
+[23:12] coronavírus esse o site cov2 coronavírus
+
+[23:16] ele é composto de 29 proteínas ele
+
+[23:18] codifica as receitas que tem dentro
+
+[23:21] deles é para codificar 29 proteínas isso
+
+[23:24] você descobriu em uma semana lá em
+
+[23:25] janeiro que que significa isso o
+
+[23:27] coronavírus conseguir processar 29
+
+[23:30] proteína você como programador entendi
+
+[23:32] isso bem É como se tivesse fosse um
+
+[23:34] programa e dentro desse programa você
+
+[23:37] tivesse 29 funções cada função com
+
+[23:39] código tá E aí cada código faz uma
+
+[23:42] tarefa de na verdade produz uma proteína
+
+[23:44] essa proteína faz uma tarefa então o
+
+[23:46] vírus tem que encostar na célula quando
+
+[23:49] ele encostar na célula tem que ter um
+
+[23:50] receptor esse receptor é criado por uma
+
+[23:53] E aí depois que ele entra ele tem que ir
+
+[23:55] até um certo lugar aí tem uma outra
+
+[23:56] função é uma ordem de coisa aí 29 coisas
+
+[24:00] que vão acontecendo aí numa certa ordem
+
+[24:03] para que ele consiga se reproduzir
+
+[24:06] entrar na célula se reproduzir né Aí
+
+[24:09] você identificar essas 29 por tem a sua
+
+[24:10] estudando e aí acharam e uma delas uma
+
+[24:13] dessas proteínas que é chamado de
+
+[24:16] proteína Spin ou Spike Protein é a
+
+[24:19] proteína espinho porque o coronavírus
+
+[24:21] ele tem uma dica umas coroinhas do lado
+
+[24:24] de fora que parecem espinhos e espinho
+
+[24:26] encaixa na célula E aí com base nessa
+
+[24:29] mecanismo de chave fechadura ele entra
+
+[24:31] na célula e ainda descobriram o a
+
+[24:34] proteína que faz essa chave esse esse
+
+[24:37] Spike essa espinha nesses pin E aí eles
+
+[24:40] tiveram seguinte eles pegaram essa
+
+[24:42] fitinha que é eles pegaram a receita
+
+[24:44] dessa proteína não é o vírus é a receita
+
+[24:47] da proteína pegar a receita da proteína
+
+[24:50] colocaram dentro de uma nanopartículas
+
+[24:53] o que isso tem a ver com o funcionário
+
+[24:55] quanto da semana passada sobre
+
+[24:56] colesterol que é o mesmo tipo de postura
+
+[24:59] aqui não é solúvel no sangue então ele
+
+[25:01] protege o RNA dentro do sangue para
+
+[25:03] chegar dentro da célula olha tecnologia
+
+[25:05] então colocaram a receita dentro de uma
+
+[25:08] nanopartícula aí e transforma em tomar
+
+[25:11] vacina tem um método para isso né tal
+
+[25:12] pedido de eluição injetando a pessoa a
+
+[25:16] nanopartícula vai até célula entra na
+
+[25:18] célula chega na maquininha de reprodução
+
+[25:21] celular e o cara abre a cartinha nós
+
+[25:23] troca essa é a receita do Spike do vírus
+
+[25:26] aí o que que o que que a célula vai
+
+[25:27] começar a fazer vai começar a reproduzir
+
+[25:29] esses essas proteínas E aí o corpo vai
+
+[25:33] reconhecer que essas proteínas são
+
+[25:35] estranhas que não não tava ali é tipo
+
+[25:37] Por que que você tá fazendo esse xerox
+
+[25:39] errado sabe O estagiário que usa a
+
+[25:42] máquina de xerox da empresa para copiar
+
+[25:44] outras coisas que não é da empresa então
+
+[25:46] aparece no registro lá que tem umas
+
+[25:47] cópia mais aí Quem o pessoal da empresa
+
+[25:50] Vai avisar o macrófago aí uma crosta vai
+
+[25:52] lá
+
+[25:53] tô te mandando partícula fazendo cópias
+
+[25:55] de uma coisa que não é ícone ele né como
+
+[25:57] me ajudando a partícula quando ele
+
+[25:59] comendo a partícula ele volta para o e
+
+[26:02] ele avisa para o sistema imunológico eu
+
+[26:03] peguei o marginal que estava ali
+
+[26:05] produzindo coisa assim sem autorização e
+
+[26:07] esse é é a receita dele aí o resto da
+
+[26:10] polícia do corpo ficar sabendo se eu
+
+[26:12] achei essa proteína esse código essa
+
+[26:15] esse essa cartinha eu já sei que eu
+
+[26:17] tenho que atacar né então o mecanismo é
+
+[26:19] esse ou eu não coloco vírus dentro de
+
+[26:22] você eu coloco a receita que faz a chave
+
+[26:26] para que o vírus entre na célula Esse é
+
+[26:28] o mecanismo da vacina da faz isso da do
+
+[26:31] quadradinho rma e se você for infectado
+
+[26:34] quando o vírus encostar na célula e essa
+
+[26:37] proteína aparecer se expressar uma troca
+
+[26:39] do Vem come o vírus antes dele entrar
+
+[26:41] entendeu então deixa Fica de olho pelo
+
+[26:44] perder vocês mas esse mecanismo é bacana
+
+[26:46] demais né não é sofisticado né Muito
+
+[26:49] muito tanto é que ele ele tem uma
+
+[26:51] propriedade que é como é
+
+[26:53] a receita da proteína especificamente
+
+[26:55] isso gera uma maior ativação de células
+
+[26:59] células de defesa do corpo do tipo B que
+
+[27:02] é a célula do tipo B é o alarme é aquela
+
+[27:06] que quando você tá com um patógeno lá na
+
+[27:07] Anvisa mais rápido para o macrófago
+
+[27:09] comer e tem a célula T que a célula que
+
+[27:12] dá uma uma imunidade de longo prazo Ela
+
+[27:15] guarda a informação ela é tipo um
+
+[27:16] arquivo tá sabe a diferença da Polícia
+
+[27:19] Civil a polícia militar a polícia civil
+
+[27:21] não faz a investigação eo militar desce
+
+[27:22] o é mais ou menos assim então a
+
+[27:25] célula abelha que vai lá fazer a
+
+[27:27] diligência a célula ter é que faz a
+
+[27:29] investigação lá guarda evidência dentro
+
+[27:31] dela é basicamente isso então vacina
+
+[27:34] negócio Fantástico né dá para fazer um
+
+[27:36] filme Quem gosta de anime recomendo
+
+[27:39] muito anime tem na Netflix chama cells
+
+[27:41] At Work que explica certinho todas as
+
+[27:43] funções das células quem tiver gostar
+
+[27:45] tiver preguiça de estudar livro de
+
+[27:47] mitologia vale muito a pena aviões muito
+
+[27:49] legal 7 Worten objeto recomendo para
+
+[27:51] você viu agora você gosta de mim também
+
+[27:53] e essa é da fazer como funciona a vacina
+
+[27:56] de Oxford tá a vacina de opção é um
+
+[27:58] mecanismo pouquinho mais tradicional que
+
+[28:00] é baseado no vetor modificado de uma
+
+[28:03] adenovírus de um chimpanzé então assim
+
+[28:05] eu não eu não pego várias chimpanzés não
+
+[28:07] eu pego só um E aí resolveu reproduzir
+
+[28:10] indo isso depois tá ela tem que eu tenho
+
+[28:12] uma adenovírus que é um vírus só que eu
+
+[28:15] modifico geneticamente ele para ele se
+
+[28:17] parecer um pouquinho mais com o Corona o
+
+[28:19] adenovírus é isso é um vírus modificado
+
+[28:22] o adenovírus é uma classe de vírus é uma
+
+[28:25] família Rafa adenovírus só que eu
+
+[28:28] denuncio na gente ele gera efeitos bem
+
+[28:30] leves assim um resfriado leve né Aí eu
+
+[28:33] modifico ele fazendo parecer um
+
+[28:34] pouquinho mais que o Corona Ah entendi
+
+[28:37] eu pego um outro vírus então faça uma
+
+[28:39] modificação para que ele se aproxime do
+
+[28:41] coronel isso e ainda não ficar meio o
+
+[28:44] vírus que era de certa forma inofensiva
+
+[28:45] para o corpo isso exatamente e aí e aí
+
+[28:49] estudar já era menor na memória
+
+[28:50] imunológica e tudo mais para que as
+
+[28:52] pessoas respondem
+
+[28:53] e essa vacina Jackson foi prestada no
+
+[28:56] Brasil teve uma monstrinha aqui em São
+
+[28:59] Paulo que achou na Unifesp o da fazer
+
+[29:02] foi testado o principalmente na nos
+
+[29:05] Estados Unidos e na Alemanha o outro que
+
+[29:07] o coronel aqui foi prestado mais no
+
+[29:09] Brasil também né ele ele é o mais
+
+[29:12] clássico ele é feito a partir de um
+
+[29:13] vírus no coronavírus mesmo só que na
+
+[29:15] ativado a vantagem do Corona vá que que
+
+[29:17] ele é mais fácil de produzir a
+
+[29:19] tecnologia já existe para vários outros
+
+[29:21] tipos de vacina é o que se chama
+
+[29:23] popularmente de usar o vírus morto isso
+
+[29:26] exato sem usar ele praticamente morto
+
+[29:29] bem enfraquecido para gerar a memória
+
+[29:31] imunológica outros vírus são outras
+
+[29:33] vacinas são assim como da Hepatite B por
+
+[29:35] exemplo é assim faz parte de Deus um
+
+[29:37] pedacinho do vírus mesmo e aí o seu
+
+[29:40] corpo identifica e cliente copo e aí a
+
+[29:43] franja né os testes de eficácia da
+
+[29:46] Corona vaca um pouquinho menor do que eu
+
+[29:48] do da faz ele dióxido é um pouco menor
+
+[29:51] mas não muito só que a van
+
+[29:53] o caso da vontade sem aqui é muito mais
+
+[29:55] fácil de produzir assim se o Butantã
+
+[29:57] pode produzir hoje porque ele já produz
+
+[29:59] a mesma tecnologia outras vacinas até
+
+[30:02] uma é uma vacina um pouquinho mais
+
+[30:04] barata Você consegue produzir em vários
+
+[30:06] locais ao mesmo tempo então você resolve
+
+[30:08] um grande gargalo que é o Logístico sem
+
+[30:12] o transporte né de vacina julgamento é
+
+[30:15] estima-se vamos deixar um artigo na
+
+[30:17] descrição tem muita gente engenheiros
+
+[30:19] que estudam isso de pesquisa operacional
+
+[30:20] e para você distribui as vacinas tem que
+
+[30:23] ser feito o maior esforço Logístico já
+
+[30:25] feita na história de aviões reuniu sobre
+
+[30:28] isso também né a quantidade de viagem
+
+[30:30] Sim tudo né E no caso da vacina da faz
+
+[30:34] ainda tem a complicação dessa viagem tem
+
+[30:36] que ser refrigerada - 70 cause entendi
+
+[30:40] também então o a vacina da fazer ela é a
+
+[30:43] mais efetiva não efetiva não é mais vai
+
+[30:46] ficar só que ela não ela ela só pode ser
+
+[30:49] administrada em centros muito com muito
+
+[30:51] recurso né então
+
+[30:53] e não limitante a Corona vaca um pouco
+
+[30:55] menos eficaz mas ela pode ser um uso
+
+[30:57] mais abrangente então ainda é você meio
+
+[30:59] que mesclar mesmo né os estudos aí agora
+
+[31:03] já explicar os mecanismos explicando
+
+[31:05] como que funciona o horário para
+
+[31:06] garantir antes de você falar do item
+
+[31:09] seguinte ó tá aí uma pergunta que
+
+[31:11] provavelmente passa pela cabeça de muita
+
+[31:13] gente muitos nossos ouvidos tomar as
+
+[31:16] três vacinas deixar gente tem aumentar
+
+[31:21] as chances da gente ficar imune ou não
+
+[31:26] aceitar Central tipo para comprar uma de
+
+[31:28] cada tomar as três no gargalo da força
+
+[31:31] uma escada a bunda assim não não não
+
+[31:34] funciona assim você com seu corpo ele só
+
+[31:37] precisa saber quem ele tem que atacar tá
+
+[31:39] é isso você não suavizar 20 vezes né
+
+[31:41] então não tá eu não é não é tão assim
+
+[31:45] não é assim a qualquer uma delas que for
+
+[31:48] disponibilizado a gente pode tomar o que
+
+[31:50] falta ainda são mais estudos de
+
+[31:52] segurança ea
+
+[31:53] é importante assim porque que porque as
+
+[31:56] vacinas demoram tanto para sair e tem a
+
+[31:58] ver com desenho do próprio ensaio
+
+[32:00] Clínico das vacinas uma parte importante
+
+[32:02] delas são os estudos de efetividade de
+
+[32:05] segurança e aí venham vamos deixar
+
+[32:07] vários artigos na descrição sobre isso
+
+[32:09] vem uma discussão bem interessante dessa
+
+[32:11] parte assim que é o seguinte como que
+
+[32:13] funciona as fases de um ensaio Clínico
+
+[32:15] você tem a primeira assim você tem uma
+
+[32:18] fase pré-clínica a fase pré-clínica
+
+[32:20] quando eu descubro uma molécula uma
+
+[32:22] substância vale para medicamento vale
+
+[32:25] para vacina eu descubro alguma coisa não
+
+[32:27] é uma molécula um mecanismo alguma coisa
+
+[32:30] em geral os estudos pré-clínicos são
+
+[32:33] feitos na universidade raramente uma uma
+
+[32:36] Indústria Farmacêutica vai financiar
+
+[32:38] estudo pré-clínico Sabe aquele aquela
+
+[32:40] primeira molécula que depois vai gerar
+
+[32:42] em geral e na universidade e por quê
+
+[32:44] Porque antes farmacêutica entra quando a
+
+[32:46] coisa eu já tem mais chance de virar com
+
+[32:48] alguma coisa algum produto Você conhece
+
+[32:50] muito bem o modelo Ever
+
+[32:53] bom então A grande maioria esmagadora
+
+[32:55] maioria das moléculas que a gente tem
+
+[32:57] hoje todas elas passarão por uma fase
+
+[33:00] pré-clínica dentro de uma universidade
+
+[33:01] financiada pelo Estado. Tá não nunca foi
+
+[33:05] raramente é financiada por uma
+
+[33:07] universidade particular ou uma empresa é
+
+[33:10] muito raro tá então os ensaios
+
+[33:12] pré-clínicos dependem de investimento
+
+[33:14] estatal. A gente vai ficar para trás e
+
+[33:17] não fizer isso tá já está já estão né
+
+[33:21] não estivermos por muitos anos mas
+
+[33:23] estamos estamos ficando agora isso é uma
+
+[33:26] grande conquista do governo federal
+
+[33:28] atual é deixar a gente mais atrasado em
+
+[33:31] relação ao desenvolvimento sentir mexer
+
+[33:33] não era grande né e agora deprimir mais
+
+[33:35] ainda mas enfim o objetivo dos estudos
+
+[33:38] pré-clínicos né quando eu descubro algum
+
+[33:40] alguma substância é verificar toxicidade
+
+[33:43] se faz mal EA farmacocinética
+
+[33:46] farmacocinética é o que que é meu corpo
+
+[33:49] faz com a droga que eu consumo então por
+
+[33:52] exemplo eu tô com dor de
+
+[33:53] é um remédio esse remédio diminui o
+
+[33:56] sintoma mas depois que ele diminuiu isso
+
+[33:58] então o que que ele faz Será que ela tá
+
+[34:00] com ruim Será que ele já era um composto
+
+[34:02] metabólito ruim né negativo Então tudo
+
+[34:05] isso é estudado na França na fase
+
+[34:07] pré-clínica você vai entender o
+
+[34:08] mecanismo inicial de funcionamento de
+
+[34:11] uma substância não adianta nada te dar
+
+[34:13] uma substância que resolve o seu
+
+[34:14] problema mas geram um problema maior
+
+[34:17] depois então esses estudos pré-clínicos
+
+[34:19] em geral eles são feitos na nossa
+
+[34:21] universidades e eles são ou modelos
+
+[34:23] animais ou modelos em célula dá para
+
+[34:26] você verificar dentro das células mesmo
+
+[34:28] de tecido coisa do tipo é uma vez que
+
+[34:31] você é viu que o modelo Clínico aí você
+
+[34:35] pública se dado você viu que ele é pouco
+
+[34:37] promissor aí entra na fase zero em geral
+
+[34:41] as fases 0 e 1 são feitas meio juntos
+
+[34:44] mas eu vou fazer um pouquinho separado a
+
+[34:46] fase zero você já coleta pessoas em
+
+[34:49] geral apenas 10 em média dez pacientes e
+
+[34:52] você
+
+[34:53] a ser uma dose bem baixa mais baixa do
+
+[34:56] que o necessário para tratar tá porque o
+
+[34:58] seu objetivo é ver se faz mal entender
+
+[35:01] um pouco melhor a farmacocinética no
+
+[35:03] Sujeito como um todo e não não a célula
+
+[35:05] e também ver a meia-vida da droga quanto
+
+[35:08] tempo ela fica no seu sistema e seria
+
+[35:10] fazer zero é uma massa bem pequena em
+
+[35:12] geral é publicado como um trabalho a
+
+[35:15] parte tal né informativo é aí entra na
+
+[35:18] fase um Então tenta fazer pré-clínica
+
+[35:21] quanto a 0 em geral são feitas na
+
+[35:23] universidade ou em parceria da
+
+[35:24] Universidade com a Indústria
+
+[35:27] Farmacêutica tá passando essas duas
+
+[35:29] partes quando aquela fazer um o objetivo
+
+[35:31] da fase um não é testar se a droga
+
+[35:34] funciona é testar a dose qual dose
+
+[35:37] funciona então é eles eles dividem em
+
+[35:40] grupos de pacientes aí aí é uma mostra
+
+[35:42] de 20 a 100 pacientes em média eles
+
+[35:46] dividem em grupos E aí vai dando tempo
+
+[35:48] Eles Não Usam grupo Placebo em geral
+
+[35:51] eles dão doses mínimas
+
+[35:53] e médias e altas e vai verificando a
+
+[35:56] dose necessária para gerar o efeito eles
+
+[35:59] buscam além de outros com então aí então
+
+[36:02] geralmente não se usa grupo Placebo na
+
+[36:06] fazenda essa vacina tá na fazenda Brasil
+
+[36:08] é porque cada fase tem um objetivo né o
+
+[36:11] objetivo da fase um é descobrir a dose a
+
+[36:14] quantidade que eu tenho que te dar
+
+[36:15] especificamente né aí passou disso eu
+
+[36:18] descobri uma dose ok que não faz nem tão
+
+[36:20] não faz mal não não tem um efeito
+
+[36:23] adverso é muito grande então aí eu vou
+
+[36:25] para fazer dois o objetivo da fase 2 E
+
+[36:28] aí sim a descobrir a eficácia e
+
+[36:30] possíveis efeitos colaterais aí começa a
+
+[36:32] ter o controle aí tem o Placebo EA droga
+
+[36:35] né a partir da fase 2 E aí a ideia é
+
+[36:38] você já coleta em média entre 100 e 300
+
+[36:40] pessoas depende da prevalência da doença
+
+[36:42] e tal você cola tem entre 100 e 300
+
+[36:45] pessoas com a doença e aí você parei aí
+
+[36:47] nesse com pessoas é controle né senha
+
+[36:49] doença Eu também tá sim e o objetivo
+
+[36:52] aqui é
+
+[36:53] a droga tem eficácia mas não fala do
+
+[36:56] efeito terapêutico então por exemplo eu
+
+[36:59] quero descobrir uma droga que reduzem o
+
+[37:02] colesterol por exemplo aí na fase dois
+
+[37:05] eu descubro que há droga diminui o seu
+
+[37:07] colesterol mas não sei se diminui Na
+
+[37:10] quantidade necessária para você deixar
+
+[37:13] de ser de ter problemas clínicos sabe
+
+[37:16] então eu vou pegar tem um outro exemplo
+
+[37:17] que é diabetes se você tem a sua
+
+[37:20] glicemia acima de 100 pontos
+
+[37:22] Tecnicamente você é diabético acima de
+
+[37:25] 100 tons Então imagina que eu te dou um
+
+[37:26] remédio e esse remédio diminuem sua
+
+[37:28] glicemia mas ele não deixa você com
+
+[37:31] menos de 100 tá então ele teve eficácia
+
+[37:34] mas não teve um impacto terapêutico
+
+[37:36] porque ele não diminuiu de 100 entendeu
+
+[37:38] a ideia do da fase dois então a temos um
+
+[37:42] lar o rodo também é o Naruto 28 lá no
+
+[37:45] começo lá no Rodo que a gente explica a
+
+[37:46] diferença entre eficiência eficácia e
+
+[37:48] efetividade mas só um resumo rápido é e
+
+[37:53] fiz
+
+[37:53] se você tem que vocês tem que pensar que
+
+[37:55] eficiência é uma variável contínua é uma
+
+[37:57] quantidade eficiência você fala em
+
+[38:00] porcentagem tipo 10 por deficiência
+
+[38:02] Vinte por cento Então quando você diz
+
+[38:05] que uma coisa é eficiente na verdade que
+
+[38:07] não tá falando muito tipo homeopatia
+
+[38:09] eficiente do Acervo eficiente benzedeira
+
+[38:12] eficiente o problema é o grau o problema
+
+[38:15] assim eu te dou um Placebo ele melhora
+
+[38:17] um pouco seu sintoma mas melhora dois
+
+[38:19] por cento cinco porcento não é
+
+[38:21] terapeuticamente relevante só o fato de
+
+[38:23] você acreditar que uma coisa funciona
+
+[38:25] melhorou um pouco tem eficiência mas não
+
+[38:28] tem eficácia o que que seria ficasse
+
+[38:30] ficasse uma variável categórica eficácia
+
+[38:32] é se a melhora foi maior ou menor do que
+
+[38:35] uma meta que eu estabeleço aí tem que
+
+[38:38] ter essa meta então por exemplo o
+
+[38:40] remédio só vai ter eficácia quando ele
+
+[38:43] reduzir sua glicemia para baixo de 100
+
+[38:45] pontos a ele tem eficácia se ele não
+
+[38:47] reduzir para baixo de 100 pontos você
+
+[38:49] ele só vai ser eficiente mas não vai ser
+
+[38:51] ficasse tudo bem
+
+[38:53] Ah tá tu geral a gente começa a
+
+[38:55] descobrir aí ficar se ela fazer dois se
+
+[38:58] ele passa dessa dessa faixa terapêutica
+
+[39:00] ou não a gente começa a descobrir na
+
+[39:02] fazer dois Mas o mais importante a fazer
+
+[39:04] três por quê Porque em geral a fase dois
+
+[39:07] só tem de 100 a 300 pessoas em geral eu
+
+[39:10] vou colocar muitos fatores de inclusão
+
+[39:12] eu vou pegar pessoas muito homogêneas
+
+[39:15] para fazer parte desse grupo de pesquisa
+
+[39:17] né E aí o que que o que que acontece
+
+[39:19] geralmente quando estudos de fase dois a
+
+[39:21] gente pega as pessoas mais próximas do
+
+[39:24] pesquisador e quais são as pessoas mais
+
+[39:26] próximas dos pesquisadores as pessoas
+
+[39:28] brancas que vivem com uma renda razoável
+
+[39:30] não eu tenho uma falta de menor de
+
+[39:33] minorias minorizadas e tudo mais então
+
+[39:35] os estudos da fase dois me mostram que o
+
+[39:38] remédio funciona um pouco mas eu não sei
+
+[39:41] se funciona do mesmo jeito para todo
+
+[39:42] mundo para isso eu preciso da fazer três
+
+[39:44] a fazer três já é um estudo bem maior é
+
+[39:47] o que mais gasta dinheiro porque aí eu
+
+[39:49] voltei até 3 mil pessoas participando 3
+
+[39:52] mil pessoas com
+
+[39:53] e fora os controles e eu tenho que fazer
+
+[39:56] um estudo multicêntrico tem que fazer em
+
+[39:58] vários locais ao mesmo tempo vários
+
+[40:00] países vários locais diferentes para ter
+
+[40:02] alguma medida da heterogeneidade
+
+[40:04] populacional né eu vou eu vou testar
+
+[40:08] tanto e ficar a a eficácia quanto à
+
+[40:12] efetividade tá então eficiência 1° é um
+
+[40:16] número eficácia é se o efeito que o que
+
+[40:20] eu espero é maior ou menor do que um
+
+[40:23] nível que eu estabeleço efetividade é
+
+[40:27] ser um Observo a eficácia na população
+
+[40:30] ou seja seu sortear uma pessoa da
+
+[40:33] população geral e nem se a pessoa tiver
+
+[40:35] eficácia aí eu voltei afetividade então
+
+[40:38] é quando a vacina funciona Independente
+
+[40:40] se você branco o negro o homem e mulher
+
+[40:42] é gordo magro alto baixo todo mundo é
+
+[40:44] isso você começa a conseguir na fazer
+
+[40:46] três E aí eu em muito grande muita gente
+
+[40:49] e aí a gente tem nove vacinas nessa fase
+
+[40:52] 3
+
+[40:53] e faz e fez um teste com 30 mil pessoas
+
+[40:55] a ver o que foi para mim para mim para
+
+[40:58] mim o Corona vai que foi complica 3.620
+
+[41:01] pessoas é um ele grande vários países
+
+[41:04] para você testar se existe efeito
+
+[41:07] terapêutico nessa de fato ali impede no
+
+[41:10] caso da vacina que impedem a infecção EA
+
+[41:13] manifestação dos sintomas e aí o estudo
+
+[41:16] da fazer três um último objetivo dele
+
+[41:18] além da efetividade da eficácia na
+
+[41:21] invadir as populações diferentes é
+
+[41:23] verificar a segurança e aí um pouco
+
+[41:25] importante a segurança é se dá efeito
+
+[41:27] adverso porque por exemplo eu coloco uma
+
+[41:30] massa de 30 mil pessoas dificilmente
+
+[41:32] nessas mesmo sendo em muito grande
+
+[41:34] dessas 30 mil pessoas eu não
+
+[41:36] dificilmente voltei uma pessoa que tem
+
+[41:38] uma doença imunológica muito rara ou uma
+
+[41:41] pessoa muito especial quando chega na no
+
+[41:43] final da fazer três eu mando se o
+
+[41:45] remédio esse remédio pode estar
+
+[41:47] disponível para pessoas que poderiam ter
+
+[41:49] problemas poderia também mais adversas E
+
+[41:51] aí os estudos de segurança são muito
+
+[41:53] o monitoramento e aí a gente tem uma
+
+[41:55] última fase que a chamada fazer quatro
+
+[41:57] que quando o remédio já foi lançado
+
+[41:59] então milhares milhões de pessoas estão
+
+[42:02] tomando e a indústria vai fazendo
+
+[42:04] monitoramento de efeito adverso é o será
+
+[42:07] que uma pessoa teve um efeito adverso
+
+[42:08] depois de dez anos tem um ensaio Clínico
+
+[42:11] muito legal disse que a com Tylenol
+
+[42:12] Tylenol remédio comum né todo mundo nos
+
+[42:16] anos 80 ou 90 Na verdade o Tylenol foi
+
+[42:19] recolhido pela Indústria Farmacêutica
+
+[42:21] porque começou a dar efeito adverso numa
+
+[42:23] mostra muito particular de pessoas na
+
+[42:25] Tailândia né Então imagina o teste o
+
+[42:27] remédio foi testado nos Estados Unidos
+
+[42:29] aí o mundo inteiro começou a usar aí um
+
+[42:31] pessoal lá na Tailândia sei lá porque
+
+[42:33] começou até efeito adverso grave né aí o
+
+[42:36] que você tem que fazer recolher o
+
+[42:37] remédio ver o que tá acontecendo e
+
+[42:39] lançar uma fórmula modificada que
+
+[42:41] contento e também essas pessoas isso se
+
+[42:44] você só vai descobrir na fase 4 ano tem
+
+[42:46] jeito Então veja que para fazer essas
+
+[42:49] fases demora muito E essa que
+
+[42:51] especificamente de efeitos adversos
+
+[42:53] a TV tá dizendo que vai demorar
+
+[42:55] realmente muito tempo para aparecer neta
+
+[42:58] E aí numa vacina com o tempo recorde de
+
+[43:00] desenvolvimento como a essas de
+
+[43:02] coronavírus a gente simplesmente
+
+[43:04] desconhece né exatamente percebeu porque
+
+[43:07] não basta só o dinheiro né você tem que
+
+[43:09] esperar manifestação naturalística do
+
+[43:11] fenômeno também acontecer dúvida não tem
+
+[43:14] não basta só o dinheiro tem que ter todo
+
+[43:15] uma questão de monitoramento e é aí onde
+
+[43:18] cresce é muitas das teorias
+
+[43:20] conspiratórias anti-vacina porque aí
+
+[43:23] você pega um caso de uma pessoa que teve
+
+[43:25] uma reação você nem sabe porque nem sabe
+
+[43:28] nem tenho uma prova Cabal de associação
+
+[43:30] entre o uso da vacina e o efeito E aí
+
+[43:33] começa a pagar desinformação um evento
+
+[43:35] recente que teve no Brasil foi a
+
+[43:37] paralisação da fase 3 do Corona vaca
+
+[43:40] aqui no Brasil depois que não voluntário
+
+[43:43] cometeu suicídio E aí começou a sair uma
+
+[43:45] série de sites e posts falando que a
+
+[43:48] vacina induz as pessoas a terem
+
+[43:50] problemas é ética
+
+[43:53] e os enfim e tal vou deixar na descrição
+
+[43:56] também um post que eu colaborei junto
+
+[43:59] com professor DH seu gallucci em que a
+
+[44:02] gente pegou os artigos que esses post-it
+
+[44:05] esses sites de desinformação ficam
+
+[44:08] colocando né eles colocam vários de
+
+[44:10] referência a gente for meus artigos viu
+
+[44:13] que não era nada daquilo e aí a gente
+
+[44:14] colaborou com site e-farsas é um site
+
+[44:17] que há mais de uma década gilmarla
+
+[44:20] obrigado um abraço para você e eles
+
+[44:22] colaboram né para evitar fake News dessa
+
+[44:24] informação muito bem aceite News ele já
+
+[44:26] fazia esse trabalho a gente colaborar
+
+[44:28] com eles um post E aí vou deixar na
+
+[44:30] descrição também tá Corona vaca e não
+
+[44:32] gera suicídio não tem nada a ver a não
+
+[44:35] tem nenhum mecanismo que ele isso então
+
+[44:37] assim o problema dos estudos de
+
+[44:39] segurança É isso aí e e o problema do
+
+[44:41] próprio método científico né as pessoas
+
+[44:43] vêm a vacina como uma cura e a vacina
+
+[44:45] não é uma cura vacina é uma prevenção
+
+[44:47] ela é uma prevenção contra um problema
+
+[44:50] né você tá sempre indo e a cor
+
+[44:53] é muito mais demorado Depende de muitas
+
+[44:55] outras coisas e tal né Isso mostra como
+
+[44:57] a ciência funciona que é uma coisa que
+
+[44:58] há anos não roda a gente fala que o
+
+[45:01] objetivo da ciência não é dizer se você
+
+[45:03] tá certo mas dizer que um errado a gente
+
+[45:05] tá não tinha então eu não tô dando a
+
+[45:07] vacina como se fosse um Elixir eu tô
+
+[45:09] dando a vacina para minimizar a
+
+[45:11] probabilidade de você se contaminar ou
+
+[45:15] de você ou você de você ter efeitos mais
+
+[45:17] graves caso você se contamine então mas
+
+[45:20] a sua vida quem viver você o risco que
+
+[45:23] vocês põe a você mesmo e os outros é seu
+
+[45:26] a ciência ela não não não tira a
+
+[45:28] responsabilidade das pessoas da vida que
+
+[45:30] elas levam sabe isso é muito importante
+
+[45:31] de ser publicizado assim hoje em dia por
+
+[45:35] conta da aqui no Brasil né das pessoas
+
+[45:38] flexibilizam ao isolamento social e tal
+
+[45:40] a gente tem caso de muitos jovens que
+
+[45:43] vão para festa e se contaminam mas tem
+
+[45:46] efeitos é pequenos e acabam contaminando
+
+[45:48] as pessoas mais velhas em casa e elas
+
+[45:50] acabam sendo hospitalizados
+
+[45:53] bom então isso é um fenômeno nosso é
+
+[45:56] ligado ao nosso auto-controle mesmo né
+
+[45:57] nossa capacidade de priorizar o ganho
+
+[46:00] agora né então tem muita gente estudando
+
+[46:03] isso eu tenho acompanhado assim é de
+
+[46:05] fora da minha partida mais Épica
+
+[46:06] biológica mas a minha parte de maior
+
+[46:09] conhecimento é do desenho dois tudo
+
+[46:11] mesmo e menos do mecanismo de ação das
+
+[46:13] vacinas e tal mas eu tenho acompanhado
+
+[46:15] isso colabora com outros grupos de
+
+[46:17] pesquisa e é uma das coisas que a gente
+
+[46:19] discute muito é essa questão
+
+[46:22] comportamental porque a tecnologia
+
+[46:24] biotecnologia a gente já tem Mas a
+
+[46:26] questão é dando essa vacina para as
+
+[46:28] pessoas será que elas vão aprender
+
+[46:29] alguma coisa como como sociedade eu
+
+[46:32] penso muito na lógica de criança pequena
+
+[46:34] que voce resolve o problema da criança
+
+[46:36] pequena depois ela volta a fazer a mesma
+
+[46:37] coisa de novo né Quais são as lições que
+
+[46:40] a gente vai tirar como sociedade disso e
+
+[46:42] isso é uma questão que novo da biológica
+
+[46:44] que vai responder quantas humanas que
+
+[46:46] tem hipóteses para isso eu não sei que
+
+[46:48] você acha a respeito disso quem se isso
+
+[46:49] vai mudar o comportamento isso cara eu
+
+[46:52] vi
+
+[46:53] Tá vendo como as pessoas estão se
+
+[46:55] comportando né assim eu seja uma certa
+
+[46:58] intolerância à ao isolamento social por
+
+[47:04] um período do muito grande na sequência
+
+[47:08] né e por isso a gente tem Inclusive a
+
+[47:11] segunda as ondas né acontecendo em
+
+[47:13] vários lugares é eu diria que a
+
+[47:18] imunização vai fazer a maior parte da
+
+[47:22] população tentar voltar a fazer tudo
+
+[47:26] como fazia antes assim eu acho que vai
+
+[47:29] ter uma parcela da população que vai
+
+[47:33] virar um ser mais desconfiado e vão
+
+[47:39] incorporar uma maior higienização das
+
+[47:43] mãos né eventualmente até o até o também
+
+[47:46] também até o uso de máscaras máscara
+
+[47:49] quando a gente vê a população como um
+
+[47:52] todo não
+
+[47:53] e vai ser a massa assim eu acho que a
+
+[47:56] massa tá louca para se livrar disso tudo
+
+[48:00] Flávia e voltar a ter um comportamento
+
+[48:03] parecido com o anterior assim só pode
+
+[48:06] visitar social né Eu acho que no meio de
+
+[48:09] trabalho a gente vai ter algumas
+
+[48:10] transformações mas eu acho que a
+
+[48:14] pandemia acabou acelerando algumas
+
+[48:16] transformações como por exemplo a
+
+[48:19] digitalização das pessoas há no caso
+
+[48:23] disse de trabalhos que permitem né
+
+[48:25] trabalhos mais de escritório as pessoas
+
+[48:29] não irem necessariamente todos os dias
+
+[48:31] até o escritório não acho que tem essa
+
+[48:34] essa transformação foi acelerada agora
+
+[48:37] só ponto de vista social as pessoas
+
+[48:38] estão loucas para se aglomerar de novo
+
+[48:41] loucas para ir no show de música onde
+
+[48:45] você tem milhares de pessoas juntas né É
+
+[48:49] tudo aquilo que tudo aquilo que a gente
+
+[48:52] não faz ahm
+
+[48:53] E aí você consegue perceber que o que
+
+[48:57] mais vai nos ajudar agora a partir de
+
+[48:59] agora é a publicidade porque o que mais
+
+[49:03] gera mudança rápida do comportamento da
+
+[49:05] Massa é a publicidade eo marketing é eu
+
+[49:08] acho que a publicidade e marketing um
+
+[49:09] papel sim né tem um papel mas acho
+
+[49:12] também que mudar comportamento acho que
+
+[49:17] tem que a gente vai ter que ir além da
+
+[49:19] comunicação né Eu acho que assim é usar
+
+[49:22] cinto de segurança publicidade sozinha
+
+[49:25] não resolve não resolveu entendeu
+
+[49:28] resolver coisa botou uma lei botou multa
+
+[49:30] né você combinado a esforço de
+
+[49:35] comunicação sobre os efeitos benéficos
+
+[49:37] do cinto ou os maléficos do Não Uso do
+
+[49:43] cinto e para você nem a mesma coisa se
+
+[49:46] não tiver uma combinação entre atividade
+
+[49:49] biológica de biotecnologia e a
+
+[49:53] a comunicação de riscos da epidemiologia
+
+[49:55] e da publicidade é a eficácia e
+
+[49:58] efetividade da vacina vai ser
+
+[50:01] comprometida se eu não não importa com
+
+[50:03] boa ela seja depende do Quando você vai
+
+[50:06] tomar como você vai tomar tem a questão
+
+[50:08] logística vamos deixar um relatório né
+
+[50:10] Logístico mesmo pessoa da área que falam
+
+[50:14] assim tudo bem Eu passei na tá surgindo
+
+[50:15] hoje as primeiras pessoas estão sendo
+
+[50:17] imunizados ou Brasil a gente é muito
+
+[50:20] grande e tem muita gente para o Brasil
+
+[50:22] ter uma indenização boa o suficiente a
+
+[50:25] gente vai levar mais um ano por exemplo
+
+[50:27] pega o exemplo do Canadá Canadá tem uma
+
+[50:28] população menor mas ele é tão grande
+
+[50:30] quanto né ou Canadá ele já planeja desde
+
+[50:33] o começo do ano o processo de imunização
+
+[50:34] dele ele já já tem comprado todas as
+
+[50:37] vacinas já tem dentro do país Instituto
+
+[50:41] para produção eles vão conseguir
+
+[50:43] imunizar a população até julho do ano
+
+[50:44] que vem a gente podia estar nessa
+
+[50:46] posição se a gente fizesse as coisas
+
+[50:48] direito e a gente tinha capacidade
+
+[50:50] técnica para isso porque falta eu faltam
+
+[50:52] esforço
+
+[50:53] E aí e compromisso social né
+
+[50:56] infelizmente mas é pelo menos a gente
+
+[50:59] fizer tudo certo a partir de agora a
+
+[51:01] gente vai levar mais um ano nesse nessa
+
+[51:03] situação mais ou menos e nesse um ano
+
+[51:06] muitas pessoas podem morrer por questões
+
+[51:09] tratáveis com uma vacina sabe então eu
+
+[51:13] sei que é difícil para mim ainda mais
+
+[51:14] para quem é jovem mas é um esforço que é
+
+[51:17] por isso que esse é o último lado oposto
+
+[51:19] do ano todo final de ano As pessoas
+
+[51:21] sempre falam de questões de ligadas à
+
+[51:24] solidariedade tudo mais né Então nada
+
+[51:28] mais importante para estimular a
+
+[51:29] solidariedade dos outros de verdade do
+
+[51:32] que esse compromisso com as pessoas mais
+
+[51:34] velhas com as pessoas que podem vir a
+
+[51:36] falecer por conta dessa doença que
+
+[51:38] teríamos sua morte evitada se a gente
+
+[51:42] adotasse estratégias de contenção e
+
+[51:45] isolamento mais eficazes né certo é pois
+
+[51:49] é isso isso é o é na verdade a grande
+
+[51:52] mensagem que tem
+
+[51:53] o final do ano dá para gente sabe Então
+
+[51:56] coloque em prática a solidariedade sabe
+
+[51:58] coloque em prática independente você
+
+[52:00] religioso não o que importa na vida é
+
+[52:02] você acha que é importante solidário
+
+[52:04] faça isso sabia é proteger as pessoas
+
+[52:07] que você gosta é é muito ruim ficar
+
+[52:10] doente com isso então só para você ter
+
+[52:12] uma ideia é de todas as pessoas que
+
+[52:14] pegaram convite no mundo três e meio por
+
+[52:17] cento delas são internadas tá e desses
+
+[52:21] três e meio cerca de oito por cento
+
+[52:24] falecem tá então é oito por cento de
+
+[52:26] três e meio por cento é bem pouquinho né
+
+[52:29] já morreram 1 milhão de pessoas no mundo
+
+[52:32] mais de 1 milhão imagina a conta se
+
+[52:34] infectaram faz a compra contrário sabe a
+
+[52:37] gente tem milhões de casos milhões e
+
+[52:39] fora as pessoas que não se internaram
+
+[52:41] mais vão ter consequências de médio e
+
+[52:43] longo prazo problemas cardíacos
+
+[52:45] problemas de outra ordem Então a gente
+
+[52:47] tem muitos desafios do ponto de vista de
+
+[52:49] saúde pública e muito desafios do ponto
+
+[52:51] de vista da psicologia e da publicidade
+
+[52:53] e como informar para as pessoas a partir
+
+[52:55] de agora e eu encerro esse episódio do
+
+[52:57] mesmo jeito que eu encerrei o primeiro
+
+[53:00] episódio que a gente grava sobre no
+
+[53:01] começo do ano sobre como lidar com
+
+[53:03] pandemias a questão assim a gente vai
+
+[53:05] passar por isso mas eu tenho uma certeza
+
+[53:08] de que vai acontecer de novo mas nem se
+
+[53:11] mas vai acontecer de novo e ter frente
+
+[53:13] ao da gente está preparado É isso mesmo
+
+[53:15] ou tá aí então eu queria antes de me
+
+[53:19] dispedir agradecer a sua companhia
+
+[53:23] ouvinte por mais um ano mais uma mais
+
+[53:28] uma vez mais dezenas de episódios
+
+[53:31] publicados aí né e desejar a todos
+
+[53:36] dentro da medida do possível que esse
+
+[53:39] ano nos propor ciona desejar a todos aí
+
+[53:43] Boas festas né um bom Natal e um Feliz
+
+[53:47] Ano Novo com muito cuidado lá muito
+
+[53:50] cuidado porque esses são momentos que
+
+[53:52] podem
+
+[53:53] em reais na para evolução ou não Da
+
+[53:59] pandemia e a gente se vê ou a gente se
+
+[54:03] ouvir novamente no ano que vem isso a
+
+[54:08] gente vai ter aí um período de férias a
+
+[54:10] gente Então vai descansar a semana do
+
+[54:13] Natal do ano novo e o Episódio primeiro
+
+[54:18] episódio do ano que vem vai ao ar no dia
+
+[54:23] onze de Janeiro É isso aí então até lá
+
+[54:28] fiquem bem e nar o rodou ilustríssimo 20
+
+[54:34] e você já sabe aqui no não rodou quem
+
+[54:37] faz a pauta é você Você tem alguma
+
+[54:39] pergunta para a gente o que é comentar
+
+[54:41] algum episódio escreva para nós
+
+[54:44] podcast@narodów a.com.br repetindo
+
+[54:48] podcast@andar o Rodolfo. Com.br e
+
+[54:51] lembre-se mande nome completo
+
+[54:53] a profissão EA cidade de onde você está
+
+[54:55] falando é isso aí não é
+
+[54:59] e nada mudou a
+
+[55:03] E aí
+
+[55:06] o apresentador b9.com.br e

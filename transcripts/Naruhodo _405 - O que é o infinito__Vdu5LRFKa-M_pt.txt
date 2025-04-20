@@ -1,0 +1,2893 @@
+Title: Naruhodo #405 - O que é o infinito?
+URL: https://www.youtube.com/watch?v=Vdu5LRFKa-M
+Language: pt
+Extracted on: 2025-04-06 16:39:06
+================================================================================
+
+[00:00] [Música]
+
+[00:01] O que é O
+
+[00:04] [Aplausos]
+
+[00:10] infinito bemvindo ao naro Rod podcast
+
+[00:13] para quem tem fome de aprender eu sou K
+
+[00:15] fioca eu sou Souza e hoje é dia de qu
+
+[00:18] fúteis e
+
+[00:21] úteis você quer apoiar a ciência quer
+
+[00:25] apoiar o pensamento científico quer
+
+[00:27] ajudar o naro Rod a se manter no ar
+
+[00:30] ouvir os episódios e espalhar a palavra
+
+[00:32] já é um grande Passo mas existe um outro
+
+[00:35] jeito quem possibilita isso é a orelo
+
+[00:39] você escolhe um valor de contribuição
+
+[00:40] mensal e tem acesso a conteúdos
+
+[00:42] exclusivos conteúdos antecipados e
+
+[00:45] vantagens especiais Além disso você pode
+
+[00:48] ter acesso ao nosso grupo fechado no
+
+[00:49] telegram e conversar comigo com alí e
+
+[00:52] com outros apoiadores Toda vez que você
+
+[00:55] ouvir ou fizer download de um episódio
+
+[00:57] pelo aurelo vai também estar pingando
+
+[01:00] uns trocadinhos para o nosso projeto
+
+[01:01] Combinado então baixa agora mesmo o app
+
+[01:04] orelo no endereço orelo.cc ou na sua
+
+[01:08] loja de aplicativos e ajude a fortalecer
+
+[01:11] o conhecimento é a black friday
+
+[01:18] alura
+
+[01:20] Aí temos pergunta de ouvintes aí uma
+
+[01:25] pergunta que nunca acaba uma pergunta
+
+[01:27] que nunca
+
+[01:28] acaba seria um tempo infinito para ser
+
+[01:31] respondida mas vamos ter que discretizar
+
+[01:34] esse infinito e e trazer algumas as
+
+[01:36] respostas parciais que temos até agora
+
+[01:38] tá certo Vamos tentar falar sobre
+
+[01:40] infinito de uma maneira finita Então
+
+[01:43] isso é vamos fazer um disclaimer Inicial
+
+[01:46] Eu não vou dizer que tem quatro causas
+
+[01:47] do infinito assim a ideia não é essa né
+
+[01:49] e o desafio né que me tomou alguns anos
+
+[01:51] dessa dessa pergunta o infinito tem
+
+[01:54] definições só que elas são definições
+
+[01:55] meio áridas esse episódio não é pro povo
+
+[01:58] de exatas se você é tipo matemático
+
+[02:01] mesmo você vai ver que eu vou cometer
+
+[02:02] umas obscenidades elas são totalmente
+
+[02:04] previsíveis e esperadas porque o
+
+[02:06] conceito do infinito ele é um conceito
+
+[02:08] que une exatas humanas biológicas mesmo
+
+[02:10] sim e a ideia é criar essas Pontes então
+
+[02:13] eu vou abrir mão do Rigor mas vou
+
+[02:15] construir pontes que provavelmente se
+
+[02:17] você entende infinito por uma certa
+
+[02:19] vertente você não pensaria isso reflete
+
+[02:22] muita angústia de uma das nossas
+
+[02:24] ouvintes Tá certo então aí disclaimer
+
+[02:28] feito n a primeira pergunta veio
+
+[02:32] justamente de uma professora de língua
+
+[02:34] portuguesa a Lucineide Lima de Paulo que
+
+[02:37] é de B rxo Rio de Janeiro e ela diz o
+
+[02:41] seguinte queridos alta Ken a qualidade
+
+[02:45] do trabalho de vocês que Uni precisão e
+
+[02:47] simplicidade me leva à decisão de lhes
+
+[02:49] dirigir uma grande inquietação o
+
+[02:52] infinito sou infinitamente confusa
+
+[02:55] porque eu não compreendo a noção de
+
+[02:57] infinito o universo é infinito
+
+[03:00] você vai indo vai indo e vai indo os
+
+[03:04] números são infinitos aceito isso meio
+
+[03:07] sem questionar porque não quero sofrer 1
+
+[03:10] 2 3 ok mas me dizer que há um infinito
+
+[03:14] entre os números entre 1 e 2 entre 1,1 e
+
+[03:19] 1,2 né 1,1 v2,3 e ainda tem infinito pro
+
+[03:24] lado negativo gente como conceber isso
+
+[03:28] meu cérebro dá é tilt há um jeito dócil
+
+[03:32] de assimilar a noção de
+
+[03:34] infinitude abraços infinitos a vocês que
+
+[03:37] tanto admiro Ô lucine Muito obrigado
+
+[03:40] pelas palavras a gente é que admira a
+
+[03:44] persistência de vocês aqui no no nar
+
+[03:47] rodou ela ainda tira um sarro aqui de si
+
+[03:49] mesmo alta aí eu não sou de exatas viu
+
+[03:52] só Sou professora de língua portuguesa
+
+[03:53] será essa a razão de eu não digerir
+
+[03:56] infinitos Não não é a
+
+[03:58] razão não é a razão Lucineide embora ó
+
+[04:01] Taí já tenha dado disclaimer aí que a
+
+[04:03] gente vai fazer um episódio dirigido
+
+[04:06] para todo mundo né não só pessoal de
+
+[04:09] exatas examente a gente tem também o
+
+[04:11] e-mail do Fabiano Ventura que é do
+
+[04:14] interior de Santa Catarina mas
+
+[04:15] atualmente mora em Joinville e trabalha
+
+[04:17] com vendas e ele diz o seguinte Olá quem
+
+[04:20] é tá aí como vocês estão Estamos bem
+
+[04:23] Estamos bem né apesar de tudo apesar do
+
+[04:26] mundo não estar contribuindo né do Plan
+
+[04:29] tá derretendo e guerras enfim né mas
+
+[04:34] estamos bem dentro do possível sempre
+
+[04:36] ouço Pessoal parabenizando vocês pelo
+
+[04:38] ótimo trabalho que fazem eu quero
+
+[04:40] começar diferente quero agradecer por
+
+[04:42] fazer o que fazem realmente toda a
+
+[04:45] pesquisa e curadoria do material que
+
+[04:46] vocês fazem é extremamente cansativa
+
+[04:48] apesar de necessária e aprender com
+
+[04:50] vocês é muito legal continue enquanto
+
+[04:53] fizer
+
+[04:55] sentido continuar enquanto faz sentido é
+
+[04:57] ótimo he essa é uma bom critério é um
+
+[04:59] bom CR critério É isso aí agora falando
+
+[05:02] da minha pergunta essa é uma questão
+
+[05:03] antiga na minha cabeça mas nunca fui
+
+[05:05] atrás de tentar encontrar uma resposta
+
+[05:08] porque sempre me pareceu óbvia a
+
+[05:10] resposta de que A matemática foi
+
+[05:12] encontrada uma coisa que me marcou muito
+
+[05:14] é que quando eu estava na faculdade eu
+
+[05:16] sou formado em engenharia eu ouvi um
+
+[05:18] professor falar matemática é o idioma
+
+[05:21] pelo qual a natureza se expressa e a
+
+[05:23] física é a maneira que nós interpretamos
+
+[05:25] o que ela diz e na minha cabeça isso fez
+
+[05:28] muito sentido só que recentemente a
+
+[05:30] pergunta voltou a ecar na minha cabeça
+
+[05:32] quando eu vi no meu Instagram uma pessoa
+
+[05:34] afirmando que a matemática era inventada
+
+[05:37] não discuti porque eu não tenho nenhum
+
+[05:39] argumento mas fiquei curioso com o fato
+
+[05:41] de a pessoa afirmar e aí começaram a
+
+[05:43] surgir alguns questionamentos se a
+
+[05:45] matemática é o idioma da natureza todos
+
+[05:47] os idiomas Que nós conhecemos foram
+
+[05:49] inventados uma coisa que me fazia pensar
+
+[05:52] que a matemática havia sido descoberta é
+
+[05:54] que ela é perfeita entre aspas há muito
+
+[05:57] tempo não teria como alguém ter pensado
+
+[05:59] em tudo mas aí eu lembrei das dízimas
+
+[06:01] periódicas E pensei meu Deus tem falha
+
+[06:04] Aí lembrei que não pode dividir por zero
+
+[06:07] infinito positivo e negativo e nesse
+
+[06:10] momento eu parei de pensar e percebi que
+
+[06:11] daria um episódio muito bom tomara que
+
+[06:13] você topem falar disso topamos jogou a
+
+[06:17] bucha para
+
+[06:19] nós não restou outra coisa senão a gente
+
+[06:23] topar
+
+[06:25] aí o infinito pode ser explicado de uma
+
+[06:29] maneira acessível mas com argumentos
+
+[06:32] científicos at aí pode pode não assim O
+
+[06:34] infinito é experienciado por todo mundo
+
+[06:36] é que as pessoas não percebem isso O
+
+[06:38] infinito é um conceito muito legal
+
+[06:40] porque ele é de fato a Vert a
+
+[06:41] intersecção entre a lógica filosofia e a
+
+[06:43] matemática sim hum eu eu trouxe esse
+
+[06:46] e-mail do Fabiano porque ele ele é muito
+
+[06:48] bom exatamente né primeiro porque ele
+
+[06:50] jogou a bucha pra gente né então assim a
+
+[06:52] a tudo bem eu te dou a resposta Mas você
+
+[06:54] me dá o tempo então levou uns anos para
+
+[06:56] sair essa resposta então tá tudo bem
+
+[06:58] acho que é um acordo justo justo é mas a
+
+[07:01] a inquietação dele né É É muito
+
+[07:03] interessante assim porque ele fala ah eu
+
+[07:05] eu fiz Engenharia e tal tal tal aí Me
+
+[07:06] disseram que a matemática é inventada a
+
+[07:08] matemática e ela é muito perfeita há
+
+[07:11] muito tempo não teria como alguém ter
+
+[07:12] pensado em tudo aí eu pensei em dizima
+
+[07:14] periódica que é uma coisa que não acaba
+
+[07:16] né Sim 0,33 3 33 vai embora e aí e aí
+
+[07:20] meu Deus tem falha né esse jeito de
+
+[07:23] pensar é o jeito como os gregos pensavam
+
+[07:26] a matemática Ah é um jeito grego né É ou
+
+[07:29] seja ele fez uma reflexão filosófica aí
+
+[07:31] exatamente não é uma inquietação
+
+[07:33] filosófica que é é recorrente Volta nas
+
+[07:35] pessoas certo as pessoas t a a noção de
+
+[07:38] que a a matemática assim é algo
+
+[07:40] inerentemente perfeito que descreve a
+
+[07:42] natureza e e e é a linguagem da natureza
+
+[07:45] uhum e e inclusive muitas pessoas de
+
+[07:47] exatas caem nisso as pessoas não
+
+[07:49] acreditam mas eu tenho muita dificuldade
+
+[07:51] de matemática assim na na nas matérias
+
+[07:53] da escola eu nunca eu nunca tirei 10 em
+
+[07:55] todas eu sempre tirei nota média eu
+
+[07:57] tirava sete Mas em tudo uhum eu era
+
+[07:59] médio em tudo tá então assim eu não
+
+[08:01] tinha uma matéria que eu ia melhor eu ia
+
+[08:03] igual em todas médio e a matemática era
+
+[08:06] o que tirava mais da minha média sabe
+
+[08:08] era era que puxava mais n Eu sempre tive
+
+[08:10] dificuldade de matemática e é por isso
+
+[08:12] que eu me esforço muito assim eu eu fico
+
+[08:14] batendo nas coisas que eu tenho
+
+[08:15] dificuldade sabe eu eu não fico
+
+[08:17] reduzindo as coisas que eu tenho mais
+
+[08:19] facilidade
+
+[08:20] estudo estudo ainda matemática com
+
+[08:22] frequência eu tenho muito contato com
+
+[08:25] matemáticos mesmo né puros e aplicados e
+
+[08:27] tal e a a matemática é um é uma pessoa
+
+[08:31] exigente ela não se vende barato tá essa
+
+[08:34] a ideia né então é por isso que tem uma
+
+[08:36] aura de de uma coisa intelectual demais
+
+[08:39] ou ou que seja inacessível ela não é
+
+[08:41] inacessível ela só é difícil e ela é
+
+[08:43] difícil para todo mundo seja você que se
+
+[08:45] acha burro por matemática seja você que
+
+[08:47] é pesquisador com doutorado
+
+[08:48] pós-doutorado em matemática é difícil
+
+[08:50] para todo mundo tá então é uma coisa que
+
+[08:52] não se vende barato é essa é a ideia
+
+[08:55] porque é uma abstração né Matemática é
+
+[08:57] uma abstração por isso é não é não é tão
+
+[08:59] fácil assim mesmo né É então é é uma
+
+[09:01] linguagem e e é uma linguagem que você
+
+[09:03] não pratica no Dia a diaum ela usa
+
+[09:05] elementos que você não tem muito
+
+[09:06] correlato no dia a dia sim né
+
+[09:09] Principalmente quando ela vai ficando
+
+[09:10] mais abstrata você pega aritmética um
+
+[09:12] pouco de álgebra até vai né que é coisa
+
+[09:14] do ensino médio tal mas chega coisas que
+
+[09:16] você trabalha com com objetos né e a
+
+[09:19] ideia desse Episódio é trazer um
+
+[09:20] pouquinho dessa abstração tá que que
+
+[09:22] essa abstração tem uma ponte com o mundo
+
+[09:24] moderno o mundo moderno atual presente
+
+[09:27] mas tem uma coisa que é da Matemática
+
+[09:28] mesmo uhum e e e um doss objetivos desse
+
+[09:31] Episódio é desconstruir essa ideia de
+
+[09:33] que a matemática é perfeita tanto é que
+
+[09:35] tem campo de pesquisa em matemática se
+
+[09:37] ela fosse perfeita não precisaria
+
+[09:38] pesquisar mais nada ela já tá pronta
+
+[09:40] verdade então assim muita gente que é
+
+[09:42] das exatas fica com essa coisa né A
+
+[09:43] matemática foi descoberta ou inventada
+
+[09:45] assim eu venho da Psicologia né eu eu
+
+[09:47] nunca vou deixar de ser psicólogo na
+
+[09:49] psicologia a pergunta é meio óbvia vem
+
+[09:50] do Pag né A matemática foi inventada ela
+
+[09:53] não é a linguagem da natureza ela não é
+
+[09:55] a descoberta ela é autorreferente da
+
+[09:57] gente se a gente fosse outra coisa a
+
+[10:00] matemática seria outra coisa Claro que
+
+[10:02] tem existem a a matemática reflete
+
+[10:05] certas propriedades naturais com uma
+
+[10:07] certa acurácia né só que só que assim eu
+
+[10:11] dizer que a por exemplo né eu dizer que
+
+[10:13] a equação da força na física f = m x a e
+
+[10:17] essa equação descreve bem fenômenos não
+
+[10:20] quer dizer que os fenômenos acontecem
+
+[10:22] por causa da equação então uma equação
+
+[10:25] descreve o como de uma coisa mas não o
+
+[10:27] porquê por quê Porque por exemplo eh eh
+
+[10:29] f = m x a foi descoberto pelo Newton se
+
+[10:32] o Newton num contrafactual qualquer se O
+
+[10:34] Newton não tivesse nascido tivesse sido
+
+[10:36] outra pessoa ou na época do Newton né
+
+[10:38] que era 1600 e pouco não tivesse a peste
+
+[10:40] negra que obrigou ele a ficar internado
+
+[10:42] em casa e criar o cálculo diferencial a
+
+[10:44] ótica porque tava sozinho em casa não
+
+[10:46] tinha videogame não tinha internet
+
+[10:48] Netflix aí ele criou tudo cálculo a a a
+
+[10:52] ótica e tal se se isso não tivesse
+
+[10:54] acontecido a gente chegaria na mesma
+
+[10:56] conclusão só que de outro jeito por
+
+[10:57] outra pessoa sim então o o eu vou
+
+[11:00] começar com o argumento barra de humanas
+
+[11:02] né que é assim o argumento Porque Que A
+
+[11:04] matemática foi inventada Ela não é uma
+
+[11:05] descoberta né ela não é ela não é a
+
+[11:08] linguagem da natureza a linguagem tem um
+
+[11:10] a natureza tem regras que são dela Nós
+
+[11:13] não somos onipotentes você dizer que a
+
+[11:15] matemática é uma regra e é é a linguagem
+
+[11:18] da natureza é na verdade você achar que
+
+[11:21] você é onipotente em relação à natureza
+
+[11:23] e que você entende todas as regras pelas
+
+[11:25] quais ela funciona isso não é verdade e
+
+[11:27] outra coisa a que a gente tem hoje né
+
+[11:31] claro que ela tem todo um Rigor e tal
+
+[11:33] mas a matemática não deixa de refletir
+
+[11:35] questões históricos sociais tá então por
+
+[11:38] exemplo se a gente tivesse um futuro
+
+[11:41] diferente em que a matemática fosse mais
+
+[11:43] descrita a matemática ocidental tivesse
+
+[11:46] mais peso da Matemática africana Moura e
+
+[11:50] e árabe a gente teria outras coisas né a
+
+[11:53] gente teria a gente teria descoberto
+
+[11:55] coisas antes do que foi descoberto e
+
+[11:58] teria problemas que que não teriam sido
+
+[11:59] resolvidos até hoje uhum sabe Então
+
+[12:02] imagina a matemática como se fosse uma
+
+[12:04] eh um lago a matemática é um lago só que
+
+[12:07] sem borda tá e você vai colocando água
+
+[12:10] vai colocando água ele vai enchendo e
+
+[12:11] vai vai construindo uma forma dependendo
+
+[12:14] da densidade da água das características
+
+[12:16] da água a borda final vai ficando
+
+[12:18] diferente mas não quer que não quer
+
+[12:20] dizer que você chega na borda final do
+
+[12:21] Lago você chega na borda final da água
+
+[12:24] que você colocou e dependendo da
+
+[12:25] densidade eu tô fazendo uma analogia
+
+[12:27] física mas essa densidade pode ser um
+
+[12:29] momento histórico pode ser uma guerra
+
+[12:32] que você ganhou ou perdeu né então o o a
+
+[12:35] a matemática que a gente tem é muito
+
+[12:37] influenciada pela lógica grega e hoje em
+
+[12:39] dia europeia e americana mas tem Teve
+
+[12:42] muita matemática que foi subestimada na
+
+[12:44] Arábia no na África teve Sacadas né
+
+[12:48] maimonides é um exemplo aí eu não vou
+
+[12:50] entrar para Não divergir muito mas tem
+
+[12:52] muita matemática em outras regiões que
+
+[12:54] se tivesse absorvido tido sido absorvido
+
+[12:57] há tempo geraria outros tipos de solução
+
+[12:59] que a gente tem hoje tá então assim só
+
+[13:01] só para resolver essa pergunta do uma
+
+[13:04] dessas perguntas do Fabiano né a
+
+[13:07] matemática não é a linguagem da natureza
+
+[13:09] é a linguagem que os homens dão pra
+
+[13:10] natureza não Exclua o agente da
+
+[13:13] explicação tá essa é a pegada e e Esse
+
+[13:17] homem é um homem homem masculino branco
+
+[13:20] europeu e grego tá tem essa pegada então
+
+[13:24] existem outras linguagens possíveis
+
+[13:26] assim como existem outras linguagens no
+
+[13:28] mundo né Então essa coisa de você falar
+
+[13:30] que todos os idiomas foram inventados
+
+[13:32] claro que foram né existe um assim eles
+
+[13:35] não foram inventados intencionalmente é
+
+[13:37] uma construção coletiva Mas é uma
+
+[13:39] invenção né se você pensar toda a Gama
+
+[13:42] de sons que a gente consegue produzir é
+
+[13:43] muito maior uhum do que qualquer língua
+
+[13:46] que existe tanto é que a língua é uma
+
+[13:48] simplificação né a língua é uma função
+
+[13:51] simplificada a partir de toda essa
+
+[13:53] expressividade que a gente tem na
+
+[13:54] natureza então isso dá uma outra paulada
+
+[13:56] no pensamento muita gente De sociais
+
+[13:58] assim que estuda pouca matemática é
+
+[14:00] assim né fica achando que a a Biologia
+
+[14:03] reduz né a Biologia simplifica o
+
+[14:06] pensamento social é bobagem ao contrário
+
+[14:09] se você pensa natureza biológica a
+
+[14:12] natureza biológica tem uma variabilidade
+
+[14:13] tão grande muito maior do que qualquer
+
+[14:16] sociedade que você imaginar só que isso
+
+[14:18] é incompreensível à luz da visão de
+
+[14:21] seres não onipotentes como a gente então
+
+[14:24] a gente que não é capaz de verificar a
+
+[14:26] variabilidade da natureza então a gente
+
+[14:28] acha que a Biologia simplifica mas na
+
+[14:30] verdade não se você pensa a seleção
+
+[14:32] natural ela modela por variabilidade ela
+
+[14:34] não modela a média ela modela a
+
+[14:35] variabilidade e essa variabilidade é
+
+[14:37] muito maior do que qualquer sociedade
+
+[14:39] que a gente pode imaginar Então a gente
+
+[14:41] tem as sociedades reais mas a gente tem
+
+[14:43] uma série de sociedades potenciais que
+
+[14:46] poderiam ter existido né mas não
+
+[14:48] existiram por conta de certas demandas
+
+[14:50] forças e e consensos sociais que estão
+
+[14:54] para Muito Além da Imaginação de um ser
+
+[14:56] individual não onipotente como a gente
+
+[14:58] CTO certo é essa é a primeira grande
+
+[15:01] resposta tá e o que que o infinito tem a
+
+[15:03] ver com isso O infinito reflete isso o o
+
+[15:05] infinito ele pode ser expresso de vários
+
+[15:07] jeitos assim quem é depois dessa
+
+[15:10] primeiro preâmbulo uhum pensa comigo ó
+
+[15:12] eu não dei nenhuma resposta ainda o que
+
+[15:13] que você acha que é o infinito eu não
+
+[15:15] sei descrever o que é o infinito mas é
+
+[15:19] engraçado que quando se fala Infinito ou
+
+[15:22] quando eu falo a palavra infinita a
+
+[15:24] imagem que me vem à cabeça é de um pru
+
+[15:29] aham é de uma coisa escura uma coisa sem
+
+[15:34] luz sabe Ampla Ampla e e indescritível
+
+[15:40] assim sabe a não ser dizer que é escuro
+
+[15:42] e e e você relaciona com o espaço é
+
+[15:45] relaciono com o espaço eu acho e e
+
+[15:47] relaciono também ao mesmo tempo com as
+
+[15:49] menores partículas sabe assim essa
+
+[15:52] sensibilidade é boa mas assim descrever
+
+[15:54] é difícil isso então o que o que ajuda a
+
+[15:58] gente a entender de o infinito como uma
+
+[15:59] coisa né É É as descrições mas a a a sua
+
+[16:02] descrição é bem sensível por exemplo o
+
+[16:05] uma definição de infinito que é uma
+
+[16:07] definição meio besta assim O infinito é
+
+[16:09] o contrário de finito então assim vou
+
+[16:11] vou fazer níveis de descrição tá O
+
+[16:13] infinito é o contrário de finito Mas uma
+
+[16:16] coisa finita eu consigo definir Uhum
+
+[16:18] Então o que que seria uma coisa finita
+
+[16:21] uma coisa finita é uma coisa descrita
+
+[16:23] por um processo de Contagem em um tempo
+
+[16:26] finito Uhum deixa eu te dar um exemplo
+
+[16:29] do que seria uma coisa finita tá é como
+
+[16:31] um processo de Contagem Como é que você
+
+[16:33] sabe que uma coisa é finita porque você
+
+[16:35] consegue contar ela porque você tem que
+
+[16:37] chegar no final não é verdade Então essa
+
+[16:39] é a primeira sensibilidade Como é que
+
+[16:41] você sabe que uma coisa é infinita é uma
+
+[16:42] coisa que você não consegue contar não
+
+[16:44] chega no final o finito chega né então
+
+[16:47] por exemplo Ó imagina um copo sabe um
+
+[16:49] copo americano esses copos de Boteco né
+
+[16:51] de mesa de bar de de de de Ferro tá tem
+
+[16:54] aquele copo padrão americano e sabe o
+
+[16:56] que é um mm o chocolatinho uhum quantos
+
+[16:59] MM você consegue colocar num Copa
+
+[17:01] americano você tem um palpite sei lá não
+
+[17:03] tem não tem não tem certo e errado é
+
+[17:05] algumas dezenas vai tá bom mas você você
+
+[17:08] percebe que é um número finito Sem
+
+[17:10] dúvida é um número finito tá aí como que
+
+[17:12] a gente faria para chegar nesse valor né
+
+[17:14] do número de MMS dentro de um copo
+
+[17:16] americano você pega um copo americano
+
+[17:18] faz uma aproximação mede o volume dele
+
+[17:20] um copo americano tem mais ou menos 190
+
+[17:22] ML né E aí você pega um mm e mede a
+
+[17:25] largura altura e o comprimento para
+
+[17:26] calcular o volume de 1 m sim e 1 mm ele
+
+[17:30] tem uma largura de 6 mm uma altura e um
+
+[17:33] e um uma profundidade de 1 mm né E aí e
+
+[17:37] e você converte isso vai dar 0,6 ml tá
+
+[17:42] em volume Aí você pega 190 divide por
+
+[17:44] 0,6 dá
+
+[17:45] 317 mm é uma aproximação Então dentro de
+
+[17:49] um copo americano cabe 317 mm tá então
+
+[17:52] você chega nesse número aproximado
+
+[17:54] porque você sabe a priori que a
+
+[17:56] quantidade de MMS no um copo é finita
+
+[17:59] então dá para você contar Pode ser que
+
+[18:01] dê trabalho mas você pode contar Então
+
+[18:03] imagina o copo cheio de MMS você pega um
+
+[18:06] conta 1 2 3 isso é um processo é um
+
+[18:09] processo de Contagem que pode demorar
+
+[18:12] muito tempo mas é um tempo finito uhum
+
+[18:15] se você leva um tempo finito para contar
+
+[18:17] uma sequência de coisas é um processo
+
+[18:20] finito Então você tem uma coisa finita
+
+[18:22] perfeito tudo bem Tá agora imagina que
+
+[18:25] nesse copo de Americano em vez de ter mm
+
+[18:28] tem glitter Sabe aquele glitter que o
+
+[18:30] povo usa para poluir o mundo na no
+
+[18:32] carnaval né então você enche aquilo lá
+
+[18:34] com glitter até a boca né o glitter são
+
+[18:36] bolinhas minúsculas uhum quantas quantos
+
+[18:39] quantos pontinhos de glitter tem numa no
+
+[18:41] Copa
+
+[18:42] americano complicado complicado bem mais
+
+[18:44] difícil de medir Mas você sabe que é
+
+[18:46] possível assim dá muito trabalho mas é
+
+[18:49] possível porque é finito Uhum tudo bem
+
+[18:51] então a gente define o o finito com com
+
+[18:54] base nisso né um processo de Contagem
+
+[18:56] que com com o tempo o finito você
+
+[18:59] termina Tá mesmo que demore muito mesmo
+
+[19:01] que demore mais que a sua vida ainda
+
+[19:03] continua finito porque uma hora acaba tá
+
+[19:06] o infinito seria o contrário disso né é
+
+[19:08] uma definição Inicial assim é tá
+
+[19:11] melhorou a gente saiu do nada deu uma
+
+[19:14] melhorada tá Uhum deu uma melhorada é
+
+[19:16] então mas ainda né aí vale a pena falar
+
+[19:19] um pouco da história assim a primeira
+
+[19:20] vez que o infinito foi citado né pelo
+
+[19:23] menos num texto escrito foi um texto de
+
+[19:24] anaximandro em 500 antes de Cristo quem
+
+[19:27] quem ANX mandr aí ah ANX mandr é um ele
+
+[19:31] é é naquela época que todo mundo era
+
+[19:33] filósofo matemático tudo junto né Ah
+
+[19:36] então o o ANX mandor ele fazia parte da
+
+[19:39] o Aristóteles veio um pouco depois né
+
+[19:40] ele fazia parte de uma escola na verdade
+
+[19:43] a gente falou um pouquinho dele mas não
+
+[19:45] não citando o nome dele no episódio 171
+
+[19:48] Porque que o o papel o tamanho do papel
+
+[19:50] sufite era um A4 né que a gente descreve
+
+[19:53] a a religião pitagórica né então o o o
+
+[19:56] os gregos na época lá do Pitágoras eles
+
+[19:58] não viam a matemática como uma ciência
+
+[20:00] eles viam a matemática como uma religião
+
+[20:01] né era uma religião com dogmas né e os
+
+[20:04] dogmas da religião eh eh pitagórica
+
+[20:07] diziam que a matemática era exata a
+
+[20:09] matemática se você estuda matemática
+
+[20:11] você vai descrever os princípios da
+
+[20:13] natureza e daí que surgiram a proporção
+
+[20:15] Áurea aquelas coisas todas né regras de
+
+[20:19] de e e tem tudo a ver com a arte grega
+
+[20:21] né uma coisa simétrica bela né uma coisa
+
+[20:25] harmônica né e eh isso tem muita com com
+
+[20:28] o ideário grego né Principalmente essa
+
+[20:30] percepção pitagórica E aí o coitado do
+
+[20:32] ipus de metaponto que era o cara que a
+
+[20:34] gente descreveu no 171 Episódio
+
+[20:35] identificado a ele que ele foi o
+
+[20:37] primeiro cara que descobriu o número
+
+[20:38] irracional ele descobriu raiz de dois aí
+
+[20:42] quando ele descobriu raiz de dois que é
+
+[20:43] um número que não tem fim né E aí a
+
+[20:45] mesma angústia do nosso ouvinte aqui o
+
+[20:47] coitado o Fabiano a dizima periódica
+
+[20:50] acabou lascou-se né então ele pi né
+
+[20:53] quando Desc quando as pessoas falam
+
+[20:54] começar a falar de Pi isso exatamente pi
+
+[20:57] né aí o que AC Então nesse Episódio 1
+
+[21:00] você mostra pess de meta ponto mostrou
+
+[21:02] Poxa existe um número que é a divisão de
+
+[21:04] dois números inteiros não dá inteiro aí
+
+[21:06] os amigos dele falou é a conta parece
+
+[21:08] que não tá errada então o que que a
+
+[21:09] gente vai fazer mudar a nossa religião
+
+[21:11] ou matar o cara óbvio que matar o cara
+
+[21:14] né aí mataram o cara não D conta da
+
+[21:16] religião triste né triste tá então assim
+
+[21:19] axim era dessa época tá E aí ele ele ele
+
+[21:22] descrevia assim uma a ideia de infinito
+
+[21:24] ele chamava de apeiron apeiron em em
+
+[21:27] grego é infinito airum né só que aí a a
+
+[21:30] é interessante que os gregos eles tinham
+
+[21:32] medo do infinito porque o infinito
+
+[21:35] mostrava uma falha né assim mostrava uma
+
+[21:37] falha isso tem a ver com a concepção de
+
+[21:39] Deus deles né a concepção de Deus mesmo
+
+[21:42] Deus sendo falho né tem aqueles Deuses
+
+[21:44] falhos que cometem problemas que sofrem
+
+[21:46] e tal é é é tudo parecido com que a
+
+[21:48] gente tem aham né então assim eu quero
+
+[21:51] eu quero virar um Deus a partir do
+
+[21:52] momento que eu entendo as regras da
+
+[21:54] natureza que são dadas por seres
+
+[21:56] imperfeitos Então como como os deuses
+
+[21:58] são imperfeitos Mas as coisas têm uma
+
+[22:00] certa regra eu como um ser imperfeito
+
+[22:03] mas parecido com aquele só que eles têm
+
+[22:05] poderes Extra naturais né supranatural
+
+[22:07] se eu descobrir essas Regras eu vou me
+
+[22:09] tornar um Deus né E aí tem muitos muitos
+
+[22:11] casos disso né então a busca de
+
+[22:13] anaximandro enfim outros filósofos
+
+[22:15] também E aí eles tinham medo do infinito
+
+[22:17] né Euclides Por exemplo quando ele
+
+[22:20] grande livro de Euclides né A o o de
+
+[22:23] geometria porque os os gregos faziam
+
+[22:25] matemática com uma régua um esquadro e
+
+[22:27] um compasso não tinha álgebra não tinha
+
+[22:29] x x = 3 né você você lembra dos números
+
+[22:33] romanos você acha que dá para fazer
+
+[22:35] álgebra com número romano já é tudo v i
+
+[22:37] c você vai Pô o x já tinha o x o x era
+
+[22:41] um número não dáa para pôr uma variável
+
+[22:43] então não tinha álgebra né então eles
+
+[22:45] tinham dificuldade de lidar com o
+
+[22:46] infinito sabe sabe quando foi a primeira
+
+[22:49] vez que o infinito foi usado num texto
+
+[22:52] assim texto matemático como como valor
+
+[22:55] né foi em
+
+[22:56] 1655
+
+[22:58] uau 1000 anos depois do dos dos gregos
+
+[23:02] né Aham eh tem um um um pesquisador que
+
+[23:06] ele usou assim ele definiu inicialmente
+
+[23:08] o infinito e ele foi o primeiro que usou
+
+[23:10] o símbolo de infinito né que é aquele
+
+[23:12] oito deitado né na verdade aquele nome
+
+[23:14] chama lemin escata o nome daquele
+
+[23:16] símbolo é lemin escata lemin escata é o
+
+[23:19] nome do símbolo do infinito né foi usada
+
+[23:21] a primeira vez em 1655 Mas é
+
+[23:24] interessante trazer uma fala do
+
+[23:25] Aristóteles né ele ele falava do
+
+[23:27] infinito né do apeiron né e ele falava
+
+[23:29] assim que existem dois infinitos tem um
+
+[23:32] infinito potencial e o infinito atual é
+
+[23:35] interessante essa definição porque ela
+
+[23:37] volta de vários jeitos tá o infinito
+
+[23:39] potencial é uma coisa do campo das
+
+[23:41] ideias assim quando você pensa em
+
+[23:43] infinito por exemplo quem na sua cabeça
+
+[23:45] né é o infinito potencial quando eu eu
+
+[23:48] pergunto para você o que que é infinito
+
+[23:49] você descreve como espaço escuro vazio e
+
+[23:53] tal né esse é o infinito atual é como
+
+[23:55] você representa o infinito certo então o
+
+[23:58] infinito tem essas duas partes né Tem
+
+[24:00] uma parte infinita potencial e a
+
+[24:02] infinita atual né O que a matemática
+
+[24:04] hoje estuda é essa parte mais infinita
+
+[24:07] atual mas tem essa ideia tem uma um dois
+
+[24:09] infinitos meio que competem assim ou
+
+[24:12] trabalham juntos e é interessante que
+
+[24:15] 1450 tem um matemático que é o Nicolau
+
+[24:18] cus anos né ele ele tem um termo na a
+
+[24:21] gente eu deixei uma um um verbete de
+
+[24:24] infinito de um de um dicionário de
+
+[24:25] filosofia aí tem todo histórico é bem é
+
+[24:28] bem legal né que ele ele descreve né
+
+[24:30] filosoficamente né que toda quantidade
+
+[24:32] contínua seja ela geométrica perceptual
+
+[24:35] física é dividida em dois sensos o senso
+
+[24:39] ideal e o senso atual então e mesmo na
+
+[24:42] filosofia a ideia de infinito potencial
+
+[24:45] e atual continua tem essa coisa né Isso
+
+[24:48] volta no Kant no Crítica da Razão Pura o
+
+[24:50] Kant fala do infinito em 1781 ele tece a
+
+[24:54] diferença entre discretização e
+
+[24:57] continuidade então uma coisa que é
+
+[24:59] discreta é uma coisa que você consegue
+
+[25:01] contar em partes volta no exemplo do MM
+
+[25:04] um copinho de mm eu não posso dividir o
+
+[25:07] mm em grupinhos de cinco sim Pode Ou
+
+[25:09] seja eu tenho o copo de mm que é um um
+
+[25:11] conjunto eu posso dividir em conjuntos
+
+[25:13] menores Pode Ou seja eu posso
+
+[25:15] discretizar eu pego um conjunto finito e
+
+[25:23] discretizar então uma coisa infinita
+
+[25:26] discreta é uma coisa que você consegue
+
+[25:28] discriminar em partes menores perfeito
+
+[25:31] Tá mesmo que ela seja infinita então o
+
+[25:33] Kant trouxe na filosofia uma coisa que
+
+[25:36] na matemática surgiu depois a prova
+
+[25:38] matemática então existem coisas
+
+[25:40] infinitas que são infinitos atuais né
+
+[25:43] existem coisas infinitas que eu consigo
+
+[25:46] dividir em partes que também são
+
+[25:48] infinitas mas são contáveis dá para
+
+[25:50] contar tá pode ser que eu não chegue no
+
+[25:53] final da conta mas dá para contar tá
+
+[25:55] isso é diferente da noção de contínuo
+
+[25:58] quando você pega uma coisa realmente
+
+[25:59] contínua uma reta que não tem buraco não
+
+[26:02] tem espaços lá dentro né Não dá para
+
+[26:05] contar você consegue dividir em partes
+
+[26:07] você pega esse contínuo e divide em
+
+[26:09] partes mas essas partes são contínuas
+
+[26:11] dentro delas também então não dá para
+
+[26:13] contar então isso seria a ideia do
+
+[26:15] infinito potencial tá então isso ajuda a
+
+[26:19] diminuir um pouco a angústia da nossa
+
+[26:21] ouvinte a lucade né então ah tem os
+
+[26:23] números Tudo bem consigo contar 1 2 3
+
+[26:25] vai vai embora né mas a ter 1.1 1.2 e
+
+[26:29] entre 1.1 e 1.2 também é infinito mas
+
+[26:32] como sabe então uma coisa louca é
+
+[26:35] exatamente isso essa angústia que o Kant
+
+[26:37] descreveu que vem lá do anaximandro
+
+[26:38] depois do Aristóteles do Nicolas cusanus
+
+[26:40] e do Kant né que existem dois tipos
+
+[26:43] básicos de infinito tem um infinito que
+
+[26:44] você consegue dividir em coisas que você
+
+[26:46] conta que são os infinitos contáveis né
+
+[26:49] esses assim são são interessantes mas
+
+[26:51] não é tão surpreendente o negócio é o
+
+[26:53] infinito contínuo Porque mesmo que você
+
+[26:56] quebre ele num pedaço ele é contínuo
+
+[26:58] ainda então você não consegue contar
+
+[27:00] porque quando você conta uma coisa você
+
+[27:02] limita ela já PR pensar quando você
+
+[27:05] conta uma coisa você cria um conjunto
+
+[27:06] dessa coisa logo você limita e quando
+
+[27:09] você limita uma coisa você entende mas a
+
+[27:11] natureza é muito maior que você ser
+
+[27:13] insignificante né Isso tem muito a ver
+
+[27:15] com o nosso Episódio anterior não é
+
+[27:16] verdade né de mostra como você é
+
+[27:18] insignificante e ao mesmo tempo as
+
+[27:19] coisas são estimulantes quando você
+
+[27:21] entende nisso né então assim chegamos à
+
+[27:23] conclusão de que o infinito é uma coisa
+
+[27:25] não finita a gente definiu o que é
+
+[27:28] e tem basicamente dois tipos de infinito
+
+[27:30] o infinito que dá para contar e o
+
+[27:32] infinito que não dá tá assim que são
+
+[27:34] coisas que tem a ver com a densidade a
+
+[27:36] densidade dos elementos dentro do
+
+[27:38] conjunto infinito é tão grande que você
+
+[27:40] não consegue ver os pontos vira uma um
+
+[27:42] plano uma massa de coisas você não
+
+[27:44] consegue ver as unidades básicas tá E aí
+
+[27:47] o Kant mesmo falava né porque Por que
+
+[27:49] que as coisas contínuas realmente
+
+[27:51] contínuas Elas Não elas são potenciais e
+
+[27:54] não atuais não existe na natureza o
+
+[27:57] infinita o contínuo contínuo é um
+
+[27:59] potencial por quê Porque o nosso espaço
+
+[28:02] e o nosso tempo é finito é contável Hum
+
+[28:06] então você não consegue colocar um
+
+[28:07] objeto incontável num num espaço de
+
+[28:12] tempo contável não cabe vai ficar um
+
+[28:15] buraco Você não vai ver uhum entende é é
+
+[28:18] é como você Ener é como você enxergar em
+
+[28:20] cinco dimensões por exemplo quem você
+
+[28:22] enxerga em cinco dimensões você enxerga
+
+[28:24] em três né sim você enxerga em três a
+
+[28:28] física é em quatro dimensões porque tem
+
+[28:29] o tempo né a a métrica de mincol São
+
+[28:32] quatro dimensões Mas você consegue
+
+[28:34] enxergar em cinco não você não consegue
+
+[28:37] enxergar em cinco dimensões mas ela
+
+[28:39] existe hum existe do ponto de vista
+
+[28:41] Potencial em algumas situações você até
+
+[28:44] consegue modelar essa coisa mas não quer
+
+[28:45] dizer que você vai ver percebe tá por
+
+[28:48] exemplo ah pensa em economia aham e e
+
+[28:51] imagina uma variável eu quero prever a
+
+[28:54] inflação eu vou inventar tá esse modelo
+
+[28:55] não é acurado eu quero prever quanto vai
+
+[28:58] ser a inflação do mês que vem tá então
+
+[29:00] eu quero descrever essa variável
+
+[29:01] inflação e eu vou usar outras quatro
+
+[29:03] variáveis macroeconômicas tá bom ou seja
+
+[29:05] eu tenho um plano com cinco dimensões Eu
+
+[29:07] tenho quatro dimensões que são variáveis
+
+[29:09] para prever uma isso existe você até Mat
+
+[29:12] tematiza chega no resultado consegue
+
+[29:14] prever vê a qualidade da previsão só que
+
+[29:16] você não vê com olho você não vê com
+
+[29:18] olho né Por quê Porque o que que você tá
+
+[29:20] estudando na natureza existem cinco
+
+[29:22] dimensões mas essas dimensões existem
+
+[29:24] pela interação de outras dimensões Uhum
+
+[29:28] Então assim o que a realidade é descrita
+
+[29:30] por um plano com quatro dimensões x y z
+
+[29:33] e o tempo certo só que as interações
+
+[29:35] entre os elementos dentro desse Campo
+
+[29:38] geram outras interações que você não vê
+
+[29:40] diretamente Mas você vê por meio de uma
+
+[29:42] linguagem e uma dessas linguagens é a
+
+[29:45] matemática percebe é uma forma de
+
+[29:48] acessar né e e sabe que outra sabe que
+
+[29:51] outra linguagem ajuda a entender isso
+
+[29:52] que aí tem a ver mais com a nossa
+
+[29:54] ouvinte alucin a poesia tem a mesma o
+
+[29:57] mesmo papel ou a filosofia quando eu te
+
+[29:59] conto uma ideia por exemplo antes de
+
+[30:01] começar o episódio você tinha uma
+
+[30:03] concepção muito vaga do infinito Uhum é
+
+[30:06] muito estética conforme eu vou te dando
+
+[30:08] algumas definições você localiza ela um
+
+[30:10] pouco melhor parece que ela ganha uma
+
+[30:12] materialidade sim você percebe quando eu
+
+[30:14] digo que o infinito não é finito e eu
+
+[30:16] defino o finito como um processo de
+
+[30:18] Contagem já dá uma melhoradinha você não
+
+[30:20] chega lá no que é mas dá uma melhorada
+
+[30:22] você percebe que o infinito começou a
+
+[30:24] ficar algo um pouco mais material apesar
+
+[30:26] do infinito ser algo potencial você
+
+[30:29] aproximou ele por meio de conceitos
+
+[30:31] atuais sim conceito de Contagem conceito
+
+[30:34] de conjunto ou seja O infinito é algo
+
+[30:37] que você não chega Mas você aproxima E
+
+[30:39] aí isso tem tudo a ver com o segundo
+
+[30:40] episódio que a gente gravou sobre se o
+
+[30:42] ser humano é inerentemente bom ou mau
+
+[30:44] que é como você se define você se define
+
+[30:46] pela negação Então você nasceu no Paraná
+
+[30:48] né kem Uhum você não sabe o que é ser
+
+[30:50] paranaence você sabe o que é ser
+
+[30:52] Paranaense pela negação você sabe que
+
+[30:54] você não é Gaúcho certo certo Gaúcho
+
+[30:57] você não é baiano não exato né você não
+
+[30:59] é paraense certo por aquilo que você
+
+[31:02] sabe né eu sei que eu não sou uma coisa
+
+[31:04] você aproxima daquilo que você é mas
+
+[31:06] você não vai descobrir o que você é você
+
+[31:08] só só sabe A negação disso O infinito é
+
+[31:10] exatamente o mesmo processo estético é
+
+[31:12] uma entidade potencial que tem
+
+[31:15] correlatos atuais presentes Como dizia o
+
+[31:17] Aristóteles que a gente descobrindo
+
+[31:19] regras de diferentes Campos do
+
+[31:20] conhecimento a gente aproxima ele e
+
+[31:22] nesse sentido a gente ganha a concretude
+
+[31:24] do infinito Mas a gente nunca tem uma
+
+[31:26] dimensão do infinito que é misteriosa
+
+[31:28] mesmo por conta da nossa insignificância
+
+[31:31] né então a gente acha que o infinito é
+
+[31:32] paradoxal quando na verdade a gente que
+
+[31:34] não é onipotente é só isso a gente
+
+[31:36] coloca a culpa ah O infinito é paradoxal
+
+[31:38] não a gente que é errado a gente que é
+
+[31:40] zoado né a gente que é modelado por um
+
+[31:43] um senso de um processo de seleção
+
+[31:45] natural que não tem consciência de si
+
+[31:46] mesmo cujo força evolutiva é pra gente
+
+[31:50] se reproduzir para sobreviv e não para
+
+[31:51] entender o mundo o errado é a gente tá a
+
+[31:54] natureza tem as regras delas tá a gente
+
+[31:56] que é zoada a gente que lute não é
+
+[31:58] interessante essa essa parte filosófica
+
+[32:00] assim né E aí eu vou eu vou e eh você me
+
+[32:03] fez adiantar o pedaço só para dar um
+
+[32:05] vislumbre dessa ideia paraa parte de
+
+[32:06] humanas eu quero dar uma explicação
+
+[32:09] poética do que seria o infinito tá E aí
+
+[32:11] é um exercício rápido todo mundo vai
+
+[32:12] fazer você também vai fazer quem tá um
+
+[32:14] exercício rápido é o seguinte então ó
+
+[32:16] Preste atenção no que eu vou falar tá E
+
+[32:18] e tenta assim e eh não Não julgue Não
+
+[32:21] julgue só só sinta tá e eh Pronto quem
+
+[32:24] pronto Reginaldo sim então assim ó o
+
+[32:27] exercício é o seguinte feche os
+
+[32:30] olhos conte até
+
+[32:33] um é assim que parece uma eternidade
+
+[32:36] isso que é o infinito entre o zero e o
+
+[32:38] um passou uma quantidade infinita de
+
+[32:40] unidades de tempo quantificáveis que que
+
+[32:43] não é mensurável entre zero e um é assim
+
+[32:45] que parece a eternidade a eternidade é
+
+[32:47] um processo tão longo que você não sabe
+
+[32:49] o que é você não não tem nem capacidade
+
+[32:51] de expressar ele né O infinito tempo
+
+[32:54] Infinito ou a questão infinita você não
+
+[32:56] consegue nemum o universo é infinito mas
+
+[32:58] você o universo é repetido a cada
+
+[33:01] momento que você para olha para você
+
+[33:02] mesmo e conta até um aquele momento é o
+
+[33:05] momento onde você sente o infinito para
+
+[33:07] dentro uhum e um pouco para fora também
+
+[33:09] então o infinito você vivencia
+
+[33:11] continuamente continuamente certo não é
+
+[33:13] bonito essa é uma parte estética aham tá
+
+[33:16] mas agora vamos assim Falta Carne porque
+
+[33:19] aqui tá muito abraçada eu diria eu diria
+
+[33:21] até que essa essa definição mais tilelê
+
+[33:24] aí é a que que conversa com de maneira
+
+[33:27] forte isso então exato A ideia é d
+
+[33:30] várias definições para que não é para
+
+[33:32] que você escolha qual Conversa melhor
+
+[33:34] com você é que você perceba que tem
+
+[33:36] várias porque a gente nós todos somos
+
+[33:38] falhos e limitados e a ideia é você
+
+[33:40] quanto mais definições você tiver mais
+
+[33:42] rica é a sua definição intelectual
+
+[33:44] individual essa a ideia não é ficar com
+
+[33:46] a definição til Lelê ela é falha também
+
+[33:48] ela é ruim porque você pode usar isso
+
+[33:49] para extrapolar para várias coisas
+
+[33:50] zoadas também assim como a definição
+
+[33:53] estritamente matemática você pode usar
+
+[33:55] isso para limitações também é claro e
+
+[33:58] você pode usar isso por exemplo para ser
+
+[34:00] colonialista né Ah você que não entende
+
+[34:02] isso é porque você é uma raça limitada
+
+[34:04] você não é bom suficiente para ser
+
+[34:06] eugenista quando na verdade você é só um
+
+[34:08] tapado mais um né limitado também agora
+
+[34:11] vamos para uma parte um pouco mais
+
+[34:12] matemática então assim você já entendeu
+
+[34:14] que o infinito tem a ver com contagem
+
+[34:16] uhum né E a questão é se eu consigo
+
+[34:18] contar at eu consigo chegar no final ou
+
+[34:20] não tá é é uma ideia assim você deve ter
+
+[34:22] estudado você estudou na escola com
+
+[34:24] certeza os conjuntos de números lembra
+
+[34:26] conjunto dos números naturais dos
+
+[34:27] inteiros e tal então Imagine na sua
+
+[34:29] cabeça uma reta com os números naturais
+
+[34:32] por isso que chama natural não tem
+
+[34:33] negativo número natural 0 1 2 3 vai
+
+[34:36] embora Esses são os naturais Tá qual que
+
+[34:39] é o tamanho desse conjunto Qual o
+
+[34:41] tamanho do conjunto Infinito infinito
+
+[34:42] ótimo tá o conjunto isso porque vai
+
+[34:44] embora né Agora imagina os números
+
+[34:46] inteiros que é o conjunto Z os números
+
+[34:48] inteiros ele ele é parecido com os
+
+[34:51] naturais só que tem os negativos do
+
+[34:53] outro lado tá por isso que é chamado
+
+[34:55] número inteiro porque ele é inteiro mas
+
+[34:57] não é natural o natural inclui o natural
+
+[34:59] é coisa que você vê na vida z0 1 2 3
+
+[35:02] bananas quatro tá os inteiros são os
+
+[35:04] negativos não tem número negativo na
+
+[35:06] natureza na natureza não tem meia menos
+
+[35:08] uma banana O negativo É somar com o
+
+[35:11] inverso a gente fala muito no no no
+
+[35:13] episódio duplo que eu eu pessoalmente
+
+[35:15] gosto que é eu explico lá o que que é
+
+[35:16] número complexo né que é 135 e 136 como
+
+[35:19] que eu sei que eu sou eu mesmo e não
+
+[35:20] você tá E aí eu entro nessa parte mas ó
+
+[35:24] pensa comigo fala com o coração tá o o
+
+[35:26] tem o conjunto o tamanho do conjunto dos
+
+[35:28] números naturais tem um certo tamanho e
+
+[35:30] os números inteiros incluem os negativos
+
+[35:32] Qual que é o tamanho do do conjunto dos
+
+[35:34] números inteiros para mim é infinito
+
+[35:36] também isso é é infinito também tá mas
+
+[35:39] qual dos dois é maior é o natural ou o
+
+[35:41] inteiro coração coração não então
+
+[35:44] intuitivamente o de inteiros né porque
+
+[35:47] ele tem infinito para um lado e pro
+
+[35:48] outro exatamente não parece exatamente
+
+[35:50] tá aí a gente vê a contradição do
+
+[35:52] infinito e porque que ele não é um
+
+[35:53] número necessariamente ele não partilha
+
+[35:55] a mesma a mesma questão do do número tá
+
+[35:57] coloca a reta dos naturais e a reta dos
+
+[35:59] inteiros uma em cima da outra e faça
+
+[36:01] correspondências de um com o outro então
+
+[36:04] por exemplo o zero do natural bate com
+
+[36:06] zero do inteiro Beleza o um do natural
+
+[36:09] bate com um do inteiro beleza aí eu vou
+
+[36:11] fazer assim ó eu vou pegar porque você
+
+[36:13] concorda que o natural só tem um lado e
+
+[36:15] o inteiro tem os dois lados positivo e
+
+[36:17] negativo Tá eu vou fazer assim 0 1í eu
+
+[36:19] vou pegar o dois o dois e jogar pro lado
+
+[36:22] do men1 eu pego o dois e jogo pro lado
+
+[36:25] do men1 tá OK aí o três eu vou jogar pro
+
+[36:28] lado do dois positivo o quatro eu vou
+
+[36:31] jogar pro menos do tá tudo bem Você
+
+[36:33] concorda que eu tô criando duas séries
+
+[36:35] de números sim então de um lado vai ter
+
+[36:38] 0 1 3 5 7 9 vai ter os os ímpares e do
+
+[36:43] outro lado vai ter os pares uhum tá 0 2
+
+[36:46] 4 6 8 vai ter os pares sim com sinal
+
+[36:48] negativo é isso do lado negativo ou seja
+
+[36:51] os dois conjuntos não são infinitos sim
+
+[36:54] mas vai ter uma Total correspondência em
+
+[36:56] Entre todos os elementos todos os
+
+[36:58] elementos dos naturais vão ter um
+
+[37:00] parzinho nos inteiros logo o tamanho dos
+
+[37:03] dois infinitos é igual hum você parou
+
+[37:05] para pensar sim o tamanho dos infinitos
+
+[37:08] é igual mesmo assim e eu tinha pensado
+
+[37:10] de uma outra forma até assim né porque
+
+[37:12] eu respondi intuitivamente né porque
+
+[37:14] enfim né Eh o natural o o infinito dos
+
+[37:18] números inteiros parece maior né porque
+
+[37:20] tem infinito doos dois lados
+
+[37:22] etc mas também a gente tende a enxergar
+
+[37:28] como se as coisas fossem só pra direita
+
+[37:30] e pra esquerda assim né isso E aí fica
+
+[37:33] dando essa sensação de que os inteiros
+
+[37:35] tem é o infinito maior exato quando na
+
+[37:38] verdade eles podem ir para qualquer
+
+[37:39] sentido e aí não necessariamente um tem
+
+[37:43] um tamanho maior que o outro e e a
+
+[37:45] questão de não ter fim aham né como não
+
+[37:47] tem fim sempre vai ter uma
+
+[37:48] correspondência né sempre vai ter uma
+
+[37:51] função que liga eles e e vai ter uma
+
+[37:53] correspondência de um ponto para outro
+
+[37:54] né isso em matemática você viu no
+
+[37:56] Colégio chamado bijeção lembra de função
+
+[37:58] injetora bijetora o nome você lembra o
+
+[38:01] nome já bateu no seu hipoc mas mas eu
+
+[38:04] não lembro o que que é isso não então
+
+[38:06] assim quando você tem dois conjuntos que
+
+[38:08] para cada elemento de um conjunto tem um
+
+[38:10] parzinho no outro eles são bijetoras Ah
+
+[38:13] então eu vou do A1 do a do conjunto um
+
+[38:15] pro a do conjunto do e volto sim são
+
+[38:18] bijetoras tá então isso é chamado
+
+[38:21] bijeção Então existe uma bijeção entre o
+
+[38:23] conjunto dos naturais e dos inteiros
+
+[38:25] certo doss dos naturais bate no inteiro
+
+[38:28] como tem uma correspondência dos dois
+
+[38:30] eles TM o mesmo tamanho então assim você
+
+[38:33] não sabe o tamanho real do porque é
+
+[38:34] infinito Você não sabe o tamanho Mas
+
+[38:36] você sabe que tem uma corespond sabe são
+
+[38:38] iguais isso mas não cont tem mesmo
+
+[38:40] tamanho não iguais é bem contraintuitivo
+
+[38:42] exato né E essa essa contradição tá na
+
+[38:45] natureza não tá na gente porque a gente
+
+[38:47] não é capaz de contemplar o infinito na
+
+[38:49] sua dimensão potencial é por isso que a
+
+[38:51] gente não entende depois tem o conjunto
+
+[38:53] dos números racionais lembra porque a A
+
+[38:55] primeira é 0 1 2 3 4 aí tem meio 3/7 né
+
+[39:00] tem os números quebrados tá os números
+
+[39:02] racionais Aham Aí você assim Aí não dá
+
+[39:04] para fazer por áudio mas imagina um eixo
+
+[39:06] cartesiano x e y Uhum em que x tá nos
+
+[39:09] inteiros Z e o y também nos inteiros né
+
+[39:13] certo se você tem um um uma um gráfico x
+
+[39:15] e y e você pega um ponto um ponto no
+
+[39:17] gráfico esse ponto não vai ter uma
+
+[39:18] coordenada no x e no Y sim então você
+
+[39:21] não consegue imaginar esse plano XY como
+
+[39:23] uma matriz de pontinhos sim sendo que
+
+[39:26] cada ponto tem uma coordenada no x e no
+
+[39:27] Y correto ó eu pego um eixo de números
+
+[39:31] inteiros e eu consigo colocar nessa
+
+[39:33] Matriz de pontinhos todos os Racionais
+
+[39:36] aham todas as frações vão estar dentro
+
+[39:39] dessa Matriz vai ter um pontinho para
+
+[39:41] elas ou seja os números naturais os
+
+[39:43] números inteiros e os números racionais
+
+[39:45] tem o mesmo tamanho mesmo parecendo mais
+
+[39:47] coisas Tem Tudo o mesmo tamanho porque o
+
+[39:50] infinito não tem fim Uhum é é muito
+
+[39:52] louco tá então até aí já tava bugando a
+
+[39:55] galera né aí assim Isso aí até até o
+
+[39:58] século X Beleza já sabia o bagulho
+
+[40:00] chegou o século XIX chegou o século
+
+[40:02] quando eu entro no conjunto dos reais
+
+[40:04] que é o que o números reais né os reais
+
+[40:06] entra e as dízimas entra raiz de2 entra
+
+[40:10] pi entra e entra esses negócios todo o o
+
+[40:13] os reais é o contínuo real todos os
+
+[40:16] outros você consegue contar né Mesmo que
+
+[40:17] seja uma conta infinita Mas você
+
+[40:19] consegue contar tem chega no final lá
+
+[40:20] cinco quartos tem tem um um final o Real
+
+[40:23] você não consegue contar é contínuo
+
+[40:25] mesmo é E aí não existe um ponto do de
+
+[40:29] uma dízima no eixo X dessa Matriz
+
+[40:32] bidimensional é quando você chegar lá já
+
+[40:35] já não é ela porque tem mais sabe então
+
+[40:38] então a analogia que eu sempre faço é
+
+[40:39] assim e pensa o número pi pi é TR víg 14
+
+[40:43] 15 vai embora vai embora tá imagina que
+
+[40:45] isso né você plantou uma árvore e hoje
+
+[40:48] essa árvore tem 10 anos sim ok algum dia
+
+[40:51] na vida dessa árvore ela teve TR anos
+
+[40:54] sim algum dia dessa da vida dessa árvore
+
+[40:56] lá teve pianos sim teve isso passou né
+
+[40:59] ou seja na natureza existe essa
+
+[41:01] quantidade infinitesimal só que você não
+
+[41:03] consegue captar porque você é falo você
+
+[41:06] é discreto a natureza contínua você é um
+
+[41:08] ser discreto tá o objeto de medida que
+
+[41:11] você usa para medir é discreto mas a
+
+[41:12] coisa é contínua aham percebe tá então é
+
+[41:16] buga mesmo buga mesmo aí o grande cara e
+
+[41:20] Inclusive eu deixei na descrição uma
+
+[41:22] biografia simples da vida dele o George
+
+[41:24] cantor século X
+
+[41:27] ele mostra que o os reais é um conjunto
+
+[41:30] maior que os outros o conjunto dos reais
+
+[41:33] é um conjunto maior porque você não
+
+[41:34] consegue contar aham E aí tem uma prova
+
+[41:36] com meio de uma por meio de uma matriz
+
+[41:38] que você pega a diagonal né a diagonal
+
+[41:40] dessa Matriz sempre vai ser um número
+
+[41:42] real diferente de qualquer outro número
+
+[41:44] real que você tiver olhando então aí a
+
+[41:46] matriz fica mais difícil tem uma
+
+[41:47] referência mas a ideia que ele mostra é
+
+[41:49] ele descobriu mostrou né que existe os
+
+[41:52] infinitos contáveis que é o número dos
+
+[41:55] naturais dos inteiros dos dos Racionais
+
+[41:57] e os infinitos incontáveis ou seja ele
+
+[41:59] foi o cara na matemática que juntou com
+
+[42:01] a filosofia do do Aristóteles e do Kant
+
+[42:04] o que o Aristóteles e o Kant falava na
+
+[42:06] filosofia daquela coisa do contínuo e do
+
+[42:08] discreto ele pegou e formalizou
+
+[42:10] matematicamente E aí o que aconteceu com
+
+[42:12] ele tinha outros matemáticos da época
+
+[42:15] que começaram a fazer um bullying sério
+
+[42:17] com ele
+
+[42:18] mesmo porque uma coisa que o cantor
+
+[42:21] falava tinha implicações isso era século
+
+[42:23] XIX é a mesma coisa dos gregos muita
+
+[42:26] gente que é matemático Raiz rut Se não
+
+[42:28] sai de casa né começa a ter uma visão
+
+[42:31] muito religiosa da matemática que a
+
+[42:32] matemática é a linguagem de Deus sabe
+
+[42:34] uma coisa assim e não é velho não é
+
+[42:36] quando o cantor mostrou essa essa coisa
+
+[42:38] que tem coisas que não dá para provar né
+
+[42:41] não tem como não tem como contar não dá
+
+[42:43] né ele provou que é impossível contar é
+
+[42:46] impossível contar um um conjunto
+
+[42:49] infinito não contável ele provou isso
+
+[42:51] você percebe que a matemática não é
+
+[42:53] perfeita não como assim que eu provei
+
+[42:55] que é IMP possível fazer uma parada né
+
+[42:57] aí os outros matemáticos fizeram um
+
+[42:59] bullying tão grande com ele com cantor
+
+[43:01] que durante décadas da vida dele ele
+
+[43:03] sofreu de depressão crônica ele teve uma
+
+[43:05] vida miserável miser culpa dos putos
+
+[43:09] crentes do inferno que igual ipos de
+
+[43:11] metaponto um morreu afogado outro morreu
+
+[43:13] deprimido né inclusive nessa nessa
+
+[43:16] descrição da vida dele tem um relato do
+
+[43:18] psiquiatra dele que fala assim do quanto
+
+[43:20] ele sofria mesmo tipo ele sofria
+
+[43:21] bullying direto o tempo todo né então
+
+[43:24] ele ele realmente deu a dele para
+
+[43:27] mostrar que hoje é um dado assim ele
+
+[43:29] criou toda uma área nova da matemática
+
+[43:31] que é a teoria de conjuntos e tal na
+
+[43:34] verdade a teoria das categorias né que é
+
+[43:35] uma área da matemática pura veio graças
+
+[43:37] a ele né como é que você opera com
+
+[43:39] infinitos incontáveis e tal foi uma
+
+[43:41] pessoa que sacrificou sua vida por conta
+
+[43:42] disso tá é muito triste vale a pena Veja
+
+[43:45] uma fotinho do cara em homenagem a ele
+
+[43:47] pelo menos então a gente chega num ponto
+
+[43:48] ó que pela filosofia e pela matemática a
+
+[43:51] gente chega nessa ideia que tem dois
+
+[43:52] infinitos tem o infinito contável e o
+
+[43:54] não contável ah Ah E aí assim falando da
+
+[43:57] matemática pura mesmo né Qual que é a
+
+[43:59] ponte disso pra computação E aí é a sua
+
+[44:01] área né é uma área antiga mas é a sua
+
+[44:03] área né Por que que é computação E aí
+
+[44:06] Você lembra do Alan Turin né o Alan
+
+[44:08] Turin dos Pais lá junto com a ADA Love
+
+[44:10] Lace depois a ADA veio antes Alan turing
+
+[44:12] vem depois criptografia computação e tal
+
+[44:15] tem aquela ideia da máquina de turing né
+
+[44:17] da máquina de turing E aí ele o o o
+
+[44:19] turing ele mostrou que tem vários assim
+
+[44:22] tem infinitos números reais que não são
+
+[44:26] computáveis num computador por que que
+
+[44:28] eles não são computáveis Porque como não
+
+[44:30] dá para contar eu vou precisar de um
+
+[44:32] número infinito de máquinas de tuning
+
+[44:35] para computar esses números Logo eles
+
+[44:36] não são computáveis Então essa essa essa
+
+[44:39] brecha na Matrix da Matemática gerou uma
+
+[44:41] brecha na Matrix da Computação também né
+
+[44:44] e isso é a base da da criptografia o
+
+[44:46] quanto que eu consigo aproximar do
+
+[44:48] incontável é o quanto que eu consigo
+
+[44:50] esconder uma coisa então isso tem uma
+
+[44:52] uma sacada muito importante pra
+
+[44:53] criptografia pr pra matemática aplicar
+
+[44:56] também uhum como que hoje por exemplo a
+
+[44:59] gente estuda um pouco a ideia do
+
+[45:00] infinito assim de uma forma mais
+
+[45:02] abstrata existe assim tem tem uma uma
+
+[45:05] área que é chamado teoria teoria dos
+
+[45:07] conjuntos ou teoria das categorias a
+
+[45:09] teoria das categorias Ela estuda a
+
+[45:11] matemática da matemática como é que você
+
+[45:13] cria formalizações para descrever certos
+
+[45:16] objetos matemáticos e ela trabalha muito
+
+[45:18] em função de conjuntos você percebeu que
+
+[45:21] para eu entender o infinito eu tenho que
+
+[45:22] entender o que é um conjunto Uhum E eu
+
+[45:24] tenho que entender a idades dentro do
+
+[45:26] conjunto se eu consigo contar ou não tá
+
+[45:28] volta lá nos MMS tá bom e E aí tem um
+
+[45:31] tem um negócio que é chamado que eu
+
+[45:33] falei antes que é a função né uma função
+
+[45:35] que liga dois conjuntos como é que eu
+
+[45:37] sei que os que os naturais e os inteiros
+
+[45:39] t o mesmo tamanho porque eu criei uma
+
+[45:41] função que liga cada elemento dos
+
+[45:43] naturais com dos inteiros e eu chego que
+
+[45:46] eles são correspondentes eles são
+
+[45:47] bijetoras logo tem o mesmo tamanho tudo
+
+[45:50] bem Tá então a teoria das categorias
+
+[45:52] estuda isso estuda Essas funções de
+
+[45:55] Contagem funções de tamanhos de
+
+[45:57] conjuntos então por exemplo o o pro pros
+
+[46:00] teóricos da teoria das categorias O
+
+[46:02] infinito é um número por que que ele é
+
+[46:04] um número porque ele é o valor de um
+
+[46:07] conjunto ele não é o número ele é o
+
+[46:09] número de elementos de um conjunto ele
+
+[46:11] não é o conjunto então pro pro pessoal
+
+[46:13] da teoria das categorias O infinito é
+
+[46:15] muito importante porque ele é de fato um
+
+[46:17] número ele é um número que descreve um
+
+[46:20] valor associado com um conjunto isso é
+
+[46:22] uma coisa para quem é da á mas PI pi
+
+[46:26] seria um elemento pi seria um elemento
+
+[46:28] incontável pi seria um elemento
+
+[46:29] incontável mas ele é um elemento ele é
+
+[46:31] definido ok né eu defino pi pela divisão
+
+[46:34] de dois números inteiros eu chego em pi
+
+[46:36] é lá o círculo diâmetro pelo comprimento
+
+[46:38] dá o pi acabou tá então eu defino ele se
+
+[46:41] eu defino ele existe Ele só não é
+
+[46:42] contável mas ele tá lá ele faz parte do
+
+[46:45] conjunto aí eu tenho que criar um
+
+[46:46] conjunto com características
+
+[46:48] particulares onde o pi more Ah e outros
+
+[46:50] números aí você vai estudar propriedades
+
+[46:52] disso e tal né a teoria das categorias e
+
+[46:54] tal e aí Existem duas leis não leis mas
+
+[46:56] dois axiomas vai básicos né da teoria
+
+[46:59] das categorias um é o axioma da Escolha
+
+[47:02] que que é matemático delira o axioma da
+
+[47:04] Escolha porque não dá para testar ele né
+
+[47:06] o axioma da Escolha diz o seguinte né
+
+[47:08] que a se você tem um uma família
+
+[47:12] arbitrária de conjuntos e você sabe com
+
+[47:15] certeza que nenhum desses conjuntos é
+
+[47:16] vazio eu tenho vários conjuntos imagina
+
+[47:18] várias bolinhas eu tenho vários
+
+[47:20] conjuntos e nenhum deles é vazio tá eu
+
+[47:23] consigo criar uma função que consegue
+
+[47:26] sortear esse conjunto dentre outros
+
+[47:29] certamente então por exemplo imagina um
+
+[47:31] saco cheio de conjuntos aham e eu pensei
+
+[47:34] na minha cabeça uma ordem de conjuntos
+
+[47:37] eu consigo criar uma função por mais
+
+[47:40] complexa que ela seja eu consigo ir
+
+[47:42] naquele naquele barril de conjuntos e
+
+[47:44] sortear um conjunto de conjuntos igual
+
+[47:47] que eu tô pensando tá bom Ok tudo bem
+
+[47:49] esse é o axioma da Escolha tá só que não
+
+[47:52] dá para provar isso por que que não dá
+
+[47:54] para provar porque o o conjunto dos
+
+[47:56] números reais não é contável incontável
+
+[47:59] não dá para contar ele né Eu só vou
+
+[48:01] dizer que isso é verdade que existe essa
+
+[48:03] função se eu consegui contar e eu não
+
+[48:05] consigo Então é um paradoxo hum percebe
+
+[48:08] que é um paradoxo então a a matemático
+
+[48:10] puro ele chega um pro outro e fala assim
+
+[48:12] você acredita na no axioma da Escolha ou
+
+[48:14] não se você acredita você é o meu amigo
+
+[48:16] se você não acredita vai para lá né tipo
+
+[48:19] é a piada deles né você você percebe que
+
+[48:21] até em matemática pura tem Dogma tem uma
+
+[48:23] coisa que depende fé né sim se você
+
+[48:25] assume que o axioma da escolha é bom ele
+
+[48:28] ele vale porque não dá para provar se
+
+[48:30] você assume que ele é válido aí tem as
+
+[48:32] consequências aí você prova várias
+
+[48:33] coisas né E aí muita gente fica provando
+
+[48:37] outras coisas para aproximar da Verdade
+
+[48:40] que é dizer que o axioma da escolha é
+
+[48:42] verdade porque você nunca vai conseguir
+
+[48:43] provar ele aham percebe que a que a
+
+[48:45] matemática mesmo pura no limite ela tem
+
+[48:47] uma falha ela tem uma falha que você
+
+[48:49] consegue provar que você não consegue
+
+[48:51] provar uma coisa e e assumindo que ela é
+
+[48:53] verdade provando outras coisas você
+
+[48:55] reduz a incerteza em relação a aquilo
+
+[48:58] você não consegue provar hein não é
+
+[49:00] bacana que [ __ ] isso é [ __ ] me agora fui
+
+[49:03] eu que buguei não mas você entendeu vai
+
+[49:05] você sentiu no seu coração né Isso
+
+[49:07] parece mais tilelê você sentiu no
+
+[49:09] coração é um outro tipo de tilelê não é
+
+[49:11] verdade é o tilelê de exatas chegamos o
+
+[49:14] tilelê de exatas ISO isso Isso é verdade
+
+[49:16] e aí e aí tem a ver com outro axioma né
+
+[49:19] que é o o princípio da boa ordem né pro
+
+[49:21] pros números discretos para pros
+
+[49:23] conjuntos discretos é fácil mas pros
+
+[49:25] contínuos é difícil o princípio da boa
+
+[49:27] ordem diz o seguinte que todo conjunto
+
+[49:30] nos reais pode ser bem ordenado você
+
+[49:33] consegue ordenar sabe vai ter um que vem
+
+[49:35] antes do outro que vem antes do outro
+
+[49:36] você consegue ordenar de algum jeito tá
+
+[49:38] esse é o princípio da boa ordem graças
+
+[49:40] ao princípio da boa ordem a gente
+
+[49:42] acredita que o princípio do o axioma da
+
+[49:44] Escolha dá certo tá mas você percebe
+
+[49:47] isso tá no limite eu isso é um dos
+
+[49:49] exemplos de limites da Matemática tem
+
+[49:50] gente fazendo doutorado sobre isso uma
+
+[49:52] pira louca de de estudando isso tá Mas a
+
+[49:55] mas a ideia é que você sai de uma coisa
+
+[49:57] muito formal que você viu no ensino
+
+[49:58] médio os conjuntos função injetor bijut
+
+[50:02] sub injetor P pá aí cai na filosofia lá
+
+[50:05] os caras falou umas ideias aí você vê
+
+[50:07] que o cter provou que Existe dois tipos
+
+[50:09] de infinito contável e incontável né E
+
+[50:11] aí você chega num limite que por conta
+
+[50:13] do do infinito ser incontável você
+
+[50:16] consegue provar que você não consegue
+
+[50:17] provar algumas coisas Ou seja a
+
+[50:19] matemática é falha sim porque ela é
+
+[50:22] feita pela gente que somos seres falhos
+
+[50:23] também E aí volta a ser volta ser
+
+[50:25] Filosofia de novo não é legal e que uau
+
+[50:29] não é interessante não é muito muit esse
+
+[50:32] e olha e olha que a gente nem viu o
+
+[50:34] impacto disso para probabilidade porque
+
+[50:37] assim que é a minha área mais eu não sou
+
+[50:38] matemático tá eu tô aqui de pico eu tô
+
+[50:41] dando de bicão tá porque eu sei quem é
+
+[50:43] da Matemática vai doer o ouvido várias
+
+[50:45] coisas tá existe uma discussão hoje na
+
+[50:48] matemática pura tal que esse que essa
+
+[50:50] teoria das categorias vai mudar e vai
+
+[50:53] virar uma coisa que chama teoria dos
+
+[50:54] tipos Então em vez de ter categorias vão
+
+[50:57] ter tipos e aí mas aí é uma discussão
+
+[50:59] toda abstrata quem tem geometria eu não
+
+[51:01] não eu eu não tenho capacidade de
+
+[51:02] entender isso agora tá tudo bem você
+
+[51:04] você percebeu que o que o infinito Vem
+
+[51:06] de um processo de Contagem e vem de
+
+[51:08] conjuntos para você entender ele de uma
+
+[51:10] forma um pouco mais palatável e na
+
+[51:12] verdade tem dois tipos de de infinitos
+
+[51:14] os contáveis e os não contáveis os Os
+
+[51:15] discretos e os contínuos né E aí tem uma
+
+[51:18] série de implicações aí tem uma pira das
+
+[51:20] pessoas Principalmente eu tinha isso
+
+[51:21] quando eu era criança que qual que é o
+
+[51:23] maior número que existe já parou para
+
+[51:25] pensar um dois aí tem os bilhões os os
+
+[51:27] septilhões Sei lá o qu Qual que é o
+
+[51:30] maior número porque se infinito não tem
+
+[51:32] fim não tem o maior número né mas tem os
+
+[51:34] matemáticos fica buscando isso números
+
+[51:36] maiores os o Google Google e as coisas e
+
+[51:39] tal né eu sei que pros românticos o
+
+[51:41] maior número é infinito Isso é só que
+
+[51:45] infinito não tem então eles falam assim
+
+[51:47] só que infinito não é um número isso né
+
+[51:50] um um infinito mais um infinito não dá
+
+[51:52] dois infinito exatamente e E aí fica
+
+[51:55] Aquela coisa né Eu te amo ah mas eu te
+
+[51:57] amo 1 milhão isso exato não mas eu te
+
+[52:00] amo infinito né E aí começa aqui não mas
+
+[52:04] eu te amo infinito mais um não vamos
+
+[52:06] melhorar esse Chaveco vamos melhorar
+
+[52:07] esse Chaveco né porque claramente isso
+
+[52:09] não o infinito mais um quer dizer que
+
+[52:11] você não sabe do que você tá falando
+
+[52:12] você não sabe o que você sente ex é
+
+[52:14] então na na verdade o que eles tentam
+
+[52:16] descobrir é o maior número que tem
+
+[52:18] propriedades de número que não é
+
+[52:19] infinito tá E aí dentro da teoria das
+
+[52:22] categorias tem esse número Ah é tem esse
+
+[52:24] número que é existe um número que na
+
+[52:26] verdade não é um número dentro de um
+
+[52:27] conjunto é um número que reflete o
+
+[52:30] número de elementos de um conjunto tá
+
+[52:32] Então imagina um conjunto esse conjunto
+
+[52:33] tem uma etiqueta e a etiqueta isso é
+
+[52:36] chamado cardinalidade tá é é a
+
+[52:38] quantidade cardinal do maior conjunto
+
+[52:41] não enumerável que você imaginar tá aham
+
+[52:44] Esse número é chamado de cardinal
+
+[52:46] inacessível então você pode falar eu te
+
+[52:47] amo o cardinal inacessível pronto
+
+[52:51] uau elevado a cardinal inacessível isso
+
+[52:55] isso o número de coisas que eu faria por
+
+[52:58] você é um conjunto com a cardinalidade
+
+[53:00] inacessível pronto tá certo com certeza
+
+[53:03] você perdeu a pessoa já perdeu ela na
+
+[53:04] metade mas não importa tá não importa tá
+
+[53:07] bom perdeu a o romance mas não perdeu o
+
+[53:09] chav mas provou A Teoria é o que importa
+
+[53:11] provou o teorema tá então assim toda
+
+[53:14] essa parte relacionada à estatística tem
+
+[53:16] uma estatística entendeu infinito opera
+
+[53:17] muito na estatística na álgebra e tal
+
+[53:20] esse episódio é para dar uma explicação
+
+[53:21] um pouquinho mais interdisciplinar do
+
+[53:23] infinito que ele que ele veio da
+
+[53:24] filosofia vem da matemática Vem da
+
+[53:26] física e ele é uma coisa que de fato
+
+[53:29] existe enquanto ideia potencial né volta
+
+[53:32] na diferença lá do do Aristóteles ele
+
+[53:35] existe enquanto ideia potencial quanto
+
+[53:37] mais você conhece de conceito sobre ele
+
+[53:39] mais você aproxima dele você nunca vai
+
+[53:41] saber potencialmente o que ele é e cada
+
+[53:43] uma das definições que você entende de
+
+[53:45] infinito é uma é um infinito atual então
+
+[53:47] todas essas definições que a gente deu
+
+[53:49] de infinito são definições atuais que
+
+[53:52] aproximam dessa potencial que na verdade
+
+[53:54] a gente nunca vai chegar porque a gente
+
+[53:55] não é onipotente mas a busca é o caminho
+
+[53:57] e ir aproximando nisso E aí você vai
+
+[54:00] aproximar pela filosofia pela poesia
+
+[54:01] pela Matemática A ideia é que você não
+
+[54:03] escolha só um caminho sen não vai ficar
+
+[54:05] te Lelê ou você vai virar xenofóbico ou
+
+[54:07] eugenista a ideia é botar tudo no balá E
+
+[54:10] você tá lá no meio da marola certo mas
+
+[54:11] mas mas só para encerrar o episódio né
+
+[54:14] Eh vamos deixar como recomendação final
+
+[54:16] deste Episódio um vídeo que é está no
+
+[54:19] entre os primeiros links da descrição
+
+[54:20] que é chamado time lapse of of the
+
+[54:22] future né um time lapse do Futuro que é
+
+[54:25] um um vídeo muito acurado recomendo que
+
+[54:28] você veja sozinho assim numa tela boa
+
+[54:30] tal com uma qualidade de áudio e vídeo
+
+[54:33] bom que é um vídeo que conta sobre o
+
+[54:35] futuro do universo né Eh até o final dos
+
+[54:38] tempos mesmo então a o que o que seria
+
+[54:41] de fato mais próximo do infinito que
+
+[54:43] chegaremos né como o futuro a terra vai
+
+[54:46] acabar muito antes disso né mas e só
+
+[54:48] para dar um pouco de dimensão né do
+
+[54:50] tamanho e da grandiosidade desse
+
+[54:52] conceito de infinito e do tempo enfim
+
+[54:55] Esse vídeo é muito bom é muito sensível
+
+[54:57] e ele é muito acurado do ponto de vista
+
+[54:58] da física Então fica como uma
+
+[55:00] recomendação estética para as pessoas
+
+[55:02] que se interessaram por esse episódio e
+
+[55:04] chegaram até aqui tá então espero que
+
+[55:06] ISO tenha diminuído a angústia né da da
+
+[55:08] Luc nente né agora como professora de de
+
+[55:11] portuguesa ela Talvez consiga escrever
+
+[55:12] um texto sobre isso né E o nosso amigo
+
+[55:14] Engenheiro o o Fabiano Ventura Espero
+
+[55:17] que ele tenha vencido essa angústia
+
+[55:18] grega E agora se coloca em outra
+
+[55:20] angústia né que é a angústia moderna É
+
+[55:22] verdade porque nossas angústias também
+
+[55:25] são infinitas E chegamos ao final do do
+
+[55:30] episódio que fala daquilo que não tem
+
+[55:32] fim exato e naro rodou
+
+[55:39] ilustríssimo E você já sabe aqui no naro
+
+[55:42] rodol quem faz a pauta é você Você tem
+
+[55:44] alguma pergunta pra gente ou Quer
+
+[55:46] comentar algum episódio escreva para nós
+
+[55:49] podcast
+
+[55:50] @n.com repetindo podcast @ narodo comom
+
+[55:55] PBR e lembre-se mande nome completo
+
+[55:58] idade profissão e a cidade de onde você
+
+[56:00] está falando é isso
+
+[56:04] [Música]
+
+[56:10] aí podcast apresentado
+
+[56:15] b9.com.br
+
+[56:19] [Música]

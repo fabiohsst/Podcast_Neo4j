@@ -1,0 +1,2755 @@
+Title: Naruhodo #358 - Para que serve o dinheiro?
+URL: https://www.youtube.com/watch?v=rkzRK1frpWM
+Language: pt
+Extracted on: 2025-04-06 16:40:34
+================================================================================
+
+[00:00] Para que serve o dinheiro
+
+[00:04] [Aplausos]
+
+[00:08] [Música]
+
+[00:11] bem vindo ao Rodolfo podcast para quem
+
+[00:13] tem fome de aprender eu sou quem Fujioka
+
+[00:18] [Música]
+
+[00:23] você quer apoiar a ciência quer apoiar o
+
+[00:27] pensamento científico quer ajudar urinar
+
+[00:29] o rodô a se manter no ar ouvir os
+
+[00:32] episódios e espalhar a palavra já é um
+
+[00:34] grande Passo mas existe um outro jeito
+
+[00:37] quem possibilita isso é a ourelo você
+
+[00:40] escolhe um valor de contribuição mensal
+
+[00:42] e tem acesso a conteúdos exclusivos
+
+[00:44] conteúdos antecipados e vantagens
+
+[00:47] especiais Além disso você pode ter
+
+[00:49] acesso ao nosso grupo fechado no
+
+[00:51] telegram e conversar comigo com Altair
+
+[00:53] com outros apoiadores Toda vez que você
+
+[00:56] ouviram fizer download de um episódio
+
+[00:57] pelo orello vai também estar pingando os
+
+[01:01] trocadinhos para o nosso projeto
+
+[01:02] Combinado então Baixe agora mesmo App
+
+[01:05] orello no endereço
+
+[01:07] orello.cc ou na sua loja de aplicativos
+
+[01:10] e ajude a fortalecer o conhecimento
+
+[01:12] científico
+
+[01:17] E chegamos ao momento a lura que ele não
+
+[01:20] ouvinte querido ouvinte você quer dar um
+
+[01:22] verdadeiro mergulho no mundo da
+
+[01:24] tecnologia migrar para uma nova carreira
+
+[01:27] aprofundar-se nessa carreira então
+
+[01:29] assine a lura agora mesmo você vai
+
+[01:32] estudar praticar discutir e se
+
+[01:35] aprofundar em uma plataforma que respira
+
+[01:37] tecnologia na alura você terá acesso
+
+[01:40] completo ao conhecimento onde e quando
+
+[01:42] você quiser com novos cursos todas as
+
+[01:45] semanas e ainda tem vantagem ou vim te
+
+[01:48] dar Rodotrem desconto especial mas para
+
+[01:51] isso é preciso acessar a seguinte URL
+
+[01:53] anota aí a
+
+[01:57] lura.com.br/promoção/nar nesse endereço
+
+[02:00] além de desconto especial você vai
+
+[02:01] conhecer histórias reais de
+
+[02:03] transformação de pessoas que estudaram
+
+[02:06] na aluna então repetindo acesse a
+
+[02:09] lura.com.br/promoção/narrro
+
+[02:15] [Música]
+
+[02:20] Altair temos pergunta de ouvinte Altair
+
+[02:23] das típicas perguntas que eu gosto que
+
+[02:25] são aquelas cotidianas que ninguém para
+
+[02:27] para pensar mas espero que ao final do
+
+[02:29] episódio leve a reflexões muito
+
+[02:31] interessantes como a tentativa de todos
+
+[02:33] esses episódios né É verdade
+
+[02:35] e o e-mail do Anderson Vieira Santos que
+
+[02:39] a tecnólogo mecânico e é de Campinas São
+
+[02:43] Paulo Altair um abraço para o pessoal de
+
+[02:45] Campinas
+
+[02:54] espero semanalmente os novos episódios
+
+[02:57] enquanto os demais uma das perguntas que
+
+[03:00] me vem muito a cabeça é que é o dinheiro
+
+[03:03] é muito interessante que no mundo e que
+
+[03:06] vivemos a questão de valor é controversa
+
+[03:08] com o petróleo pode valer mais que trigo
+
+[03:11] soja arroz que são alimentos não me
+
+[03:15] parece fazer muito sentido
+
+[03:16] principalmente como foi atribuído um
+
+[03:19] valor de consumo a uma moeda ou um
+
+[03:21] pedaço de papel acredito que vocês
+
+[03:24] conseguiriam de forma simples e
+
+[03:25] divertida como sempre dar uma boa
+
+[03:27] pincelada nesse assunto Obrigado
+
+[03:30] Anderson pelo seu e-mail Altair o que é
+
+[03:34] que a ciência tem a dizer sobre o
+
+[03:37] dinheiro Altair várias coisas você gosta
+
+[03:39] de dinheiro quem olha eu gosto do mais
+
+[03:42] do que o dinheiro consegue proporcionado
+
+[03:45] que o dinheiro em si Isso é o que ele
+
+[03:48] faz né O que dá para fazer com ele exato
+
+[03:50] Então esse episódio tem três partes a
+
+[03:53] primeira explicada assim fisicamente O
+
+[03:54] que é o dinheiro né dá uma tentativa é
+
+[03:57] basicamente conceitos bem básicos de
+
+[03:59] macroeconomia assim e um pouco de
+
+[04:01] microeconomia mas bem básico depois
+
+[04:03] falar que na verdade assim as pessoas
+
+[04:04] gostam de dinheiro pelo que ele
+
+[04:06] representa não pelo que ele é né porque
+
+[04:08] o dinheiro é o meio para várias coisas
+
+[04:10] na verdade aí tem um nome para isso todo
+
+[04:12] dinheiro né na verdade é um token né
+
+[04:14] então quem é como se fosse uma um
+
+[04:17] atributo que é associado com algo que
+
+[04:19] você não tem então por exemplo quando eu
+
+[04:21] te dou sei lá você vai numa quermesse e
+
+[04:23] você paga para ter um sanduíche e eu te
+
+[04:25] dar uma ficha essa ficha é um token você
+
+[04:27] vai lá no outro lugar e dá esse token a
+
+[04:30] pessoa te dá o produto então tendo a
+
+[04:33] ficha você tem a certeza de que vai ter
+
+[04:35] o produto final que é o estímulo
+
+[04:36] primário que é a comida então o token é
+
+[04:39] um intermediário né o dinheiro tem esse
+
+[04:41] papel as pessoas gostam de dinheiro Não
+
+[04:43] pelo dinheiro mas sim pelo que ele
+
+[04:44] representa Então esse é a segunda parte
+
+[04:45] e a terceira parte é falado o papel
+
+[04:47] desse tokens né na nossa vida no nosso
+
+[04:50] dia a dia tem um papel muito útil né de
+
+[04:52] utilidade de facilidade de acesso a
+
+[04:55] coisas mas tem um papel negativo
+
+[04:57] sobretudo nos dias de hoje de reduzir a
+
+[04:59] nossa nosso controle e aumentar Nossa
+
+[05:01] impulsividade toque mal traduzindo um
+
+[05:06] símbolo uma ficha é isso isso é algo
+
+[05:08] assim é uma entidade mas que a entidade
+
+[05:11] não tem um valor em si mas um valor
+
+[05:13] imediato por algo que você vai ter no
+
+[05:14] futuro isso que é importante a ideia do
+
+[05:17] Token é uma coisa que você não sabe o
+
+[05:19] que é eu sei que eu tenho aquele
+
+[05:20] papelzinho na quermesse Por que que foi
+
+[05:22] atribuído que toda aquele papel vermelho
+
+[05:25] vale uma moeda vale um sanduíche por quê
+
+[05:27] Porque lá na festa combinado na
+
+[05:30] quermesse o papel vermelho é um
+
+[05:31] sanduíche Eu imagino que a gente vá
+
+[05:33] falar mais para frente aí de um processo
+
+[05:35] que está se falando bastante hoje em dia
+
+[05:38] no mundo mais digital que a tokenização
+
+[05:40] das coisas né isso Exatamente é um
+
+[05:43] processo crescente e que não assim eu
+
+[05:46] ganho o próximo é claramente ele torna
+
+[05:47] as coisas mais flexíveis mas a média
+
+[05:49] longo prazo ele tem um perigo grande que
+
+[05:52] não é estudado tá não é importante então
+
+[05:54] saber que token dinheiro já é token ou
+
+[05:58] seja Richard quermesse já é token né
+
+[06:02] fichas de vários tipos
+
+[06:04] fechadas né então é não é que é um
+
+[06:08] conceito que não existia né exagerando
+
+[06:10] uma outra escala agora então vamos
+
+[06:12] começar do começo vai então o dinheiro é
+
+[06:15] um token Ok isso vamos começar primeiro
+
+[06:17] com o que é dinheiro tá uma definição
+
+[06:19] básica dinheiro é abre aspas qualquer
+
+[06:22] item ou recordatório que é geralmente
+
+[06:24] aceito como pagamento por bens e
+
+[06:27] serviços ou repagamento de débitos
+
+[06:29] tributos e taxas em um país particular
+
+[06:33] ou um contexto sócio-cultural essa
+
+[06:35] definição de dinheiro então você pode
+
+[06:37] usar dinheiro assim Um item seria uma
+
+[06:39] moeda uma nota ou um recordatório Você
+
+[06:42] lembra das populares notas promissórias
+
+[06:44] lembra que nota promissória hoje em dia
+
+[06:46] hoje em dia parece um item de de vintage
+
+[06:49] né naquela nota promissória com aquela
+
+[06:51] aquela amarela com o ladinho lá que
+
+[06:53] tinha um desenho então aquilo nota
+
+[06:55] promissória é um recordatório anota
+
+[06:57] promissória não é dinheiro ela é um
+
+[06:59] recordatório você na- ok deve tantos
+
+[07:02] reais para fulano você bota ali né um
+
+[07:05] recordatório e é geralmente aceita como
+
+[07:07] pagamento no caso da moeda ou
+
+[07:09] repagamento no caso da nota promissória
+
+[07:11] né e tem vários outros tipos de
+
+[07:14] tokens ou de serviços que tem esse papel
+
+[07:17] aí por definição o dinheiro ele tem
+
+[07:20] algumas funções assim isso é o básico de
+
+[07:23] macroeconomia assim bem né o dinheiro
+
+[07:25] tem algumas funções o dinheiro serve
+
+[07:27] como meio de troca né eu posso trocar
+
+[07:29] dinheiro por coisas ele é uma unidade de
+
+[07:32] conta você pode usar o dinheiro para
+
+[07:34] contar então por exemplo quando eu falo
+
+[07:36] que um produto custa r$ 100 você cria na
+
+[07:39] sua cabeça por aprendizagem isso é
+
+[07:41] aprendido que r$ 100 tem um certo valor
+
+[07:43] tem uma contagem né E aí você associa
+
+[07:46] internamente com muito pouco mas isso é
+
+[07:48] aprendido claro que assim o dinheiro
+
+[07:50] para você quando você vai para um outro
+
+[07:52] país que você não conhece o dinheiro o
+
+[07:55] dinheiro é o meio de troca mas ele perde
+
+[07:57] a unidade de conta você não consegue
+
+[07:58] fazer conta com dinheiro direito porque
+
+[08:00] você não consegue fazer a conversão por
+
+[08:02] isso que você gasta demais ou gasta de
+
+[08:04] menos né Depende do país então o
+
+[08:06] dinheiro é um meio de troca ele é uma
+
+[08:08] unidade de Contagem ele é um depósito de
+
+[08:11] valor porque quando você pega uma nota
+
+[08:12] de dinheiro tem um valor ali e ele é um
+
+[08:15] depósito né Tem um valor depositado ali
+
+[08:17] e ele é um padrão de pagamento de ferido
+
+[08:20] ele é um padrão de pagamento Então
+
+[08:22] quando você fala crédito a débito o
+
+[08:24] dinheiro tem diferentes tipos de padrão
+
+[08:25] de pagamento Então você prefere pagar em
+
+[08:27] dinheiro em débito crédito o que você
+
+[08:30] prefere então o dinheiro assume essas
+
+[08:31] várias funções e o dinheiro ocorre né
+
+[08:34] ele aparece como um fenômeno de mercado
+
+[08:36] emergente Conforme você tem um grupo de
+
+[08:39] entes de pessoas aqui no nosso na nossa
+
+[08:41] terra são pessoas indivíduos seres
+
+[08:43] humanos as pessoas acham outros animais
+
+[08:45] usam dinheiro mas outros animais têm a
+
+[08:48] possibilidade de trabalhar com dinheiro
+
+[08:49] sim temos várias evidências de que
+
+[08:52] dinheiro assim você trocar
+
+[08:54] alimento por talkings né moedas e depois
+
+[08:58] pedir para o organismo utilizar as
+
+[09:00] moedas como moeda de troca né Isso é
+
+[09:04] visto em várias organismos é mesmo não
+
+[09:06] dá um exemplo dá um exemplo daí um
+
+[09:09] exemplo muito comum é como macaco tem
+
+[09:10] experimento Temos vários artigos
+
+[09:11] deixamos na descrição Inclusive tem uma
+
+[09:13] área do conhecimento da Psicologia
+
+[09:15] experimental mitologia que chama
+
+[09:18] economia de tokens a economia de tokens
+
+[09:20] é assim eu pego um macaquinho e mostro
+
+[09:22] para ele uma moeda verde e dou para ele
+
+[09:24] uma uva Então mostra a moeda do a uva
+
+[09:26] mostra a moeda do uva aí ele treina né e
+
+[09:29] depois eu eu mostro para ele um outro
+
+[09:31] objeto pode ser uma moeda de outra cor
+
+[09:32] um outro objeto e dou uma semente então
+
+[09:35] te mostra a moeda verde e te dou uma uva
+
+[09:37] um outro objeto Te dou essa semente e aí
+
+[09:39] eu faço essas pareamentos Aí chega uma
+
+[09:41] hora que eu não te dou nada eu te mostro
+
+[09:43] uma moeda e um objeto um outro objeto e
+
+[09:46] aí eu peço por macaco escolher aí
+
+[09:48] imagina que ele pega a moeda aí ele pega
+
+[09:50] a moeda aí eu estendo a mão e peço me dá
+
+[09:52] a moeda a ele me dá ele me devolve a
+
+[09:54] moeda eu dou para ele é uva se ele pegar
+
+[09:56] o outro objeto dou a semente né ou seja
+
+[09:58] o macaco aprendeu a parear o alimento
+
+[10:00] contou quem específico e depois escolher
+
+[10:03] entre os tons tem um artigo de 2017 que
+
+[10:07] eles fazem assim eles colocam por macaco
+
+[10:09] dois é dois receptáculos e um ele coloca
+
+[10:12] por exemplo uma moeda verde e no outro
+
+[10:15] ele coloca cinco né esses cinco objetos
+
+[10:18] seriam cinco sementes que que você
+
+[10:20] prefere cinco sementes ou uma uva tem
+
+[10:23] macacos que preferem a cinco sementes
+
+[10:24] Então pega os cinco objetos tem macacos
+
+[10:26] preferem a uva e aí eles trocam né eles
+
+[10:29] vão fazer essas trocas macaco é um
+
+[10:31] animal com uma capacidade cognitiva
+
+[10:35] bastante
+
+[10:37] grande para outros tipos né de animais
+
+[10:40] assim tem algum outro animal que Opa tem
+
+[10:44] um comportamento desse sim
+
+[10:46] e quem que é melhor que pombo quem dá
+
+[10:49] pau no pombo também a galinha galinha
+
+[10:50] também é claro galerinha é muito melhor
+
+[10:52] muito melhor dá para fazer a mesma coisa
+
+[10:54] de toquenização com galinha com a
+
+[10:56] galinha entende o valor do dinheiro você
+
+[10:58] tem que aprender também via pareamento é
+
+[11:01] isso exatamente só que assim como ela
+
+[11:04] ela tem dificuldade de pegar objetos né
+
+[11:06] você coloca dentro de uma caixinha né
+
+[11:08] Onde Ela opera você coloca tipo um LED
+
+[11:10] que vai acendendo luzes cada vez que ela
+
+[11:13] faz uma tarefa ela acende luzes é como
+
+[11:14] se ela ganhasse um pagamento
+
+[11:16] E aí ela troca essas luzes por comida ou
+
+[11:19] por água ou ela pode escolher então
+
+[11:21] assim esse episódio é muito legal para
+
+[11:23] quem faz economia se você faz a
+
+[11:25] faculdade de economia no primeiro ano
+
+[11:26] você tem microeconomia 1 né que você
+
+[11:29] aprende alguns conceitos por exemplo
+
+[11:31] macroeconomia você aprende o que que é
+
+[11:33] dinheiro o que que é o banco coisas do
+
+[11:35] tipo né o sistemas financeiros mas
+
+[11:36] também que a economia você aprende por
+
+[11:38] exemplo o que que é substituibilidade
+
+[11:41] por exemplo quem se você tem muito
+
+[11:44] dinheiro guardado dinheiro físico
+
+[11:46] guardado se você não tem como trocar
+
+[11:48] esse dinheiro o dinheiro perde o valor
+
+[11:50] para você né se você não tem como trocar
+
+[11:52] aí Imagine que você começa a trocar mas
+
+[11:55] a única coisa que tem na loja para você
+
+[11:58] comprar é água Esse é só comprar água
+
+[12:00] chega uma hora que você tem tanta água
+
+[12:02] que você não quer mais comprar água e aí
+
+[12:04] você prefere até trocar água por outra
+
+[12:06] coisa então isso é chamado
+
+[12:08] substituibilidade que todos os objetos
+
+[12:10] tem um valor para o indivíduo para o
+
+[12:13] agente os objetos têm um valor relativo
+
+[12:15] então se você tá com muita sede a água é
+
+[12:18] muito importante você pagaria mais
+
+[12:19] quando você tem muita água você prefere
+
+[12:22] às vezes outra coisa Você poderia trocar
+
+[12:24] os objetos será que você consegue
+
+[12:26] substituir a água por alguma coisa só
+
+[12:29] que por exemplo se você começar a dar
+
+[12:30] muito da sua água vai começar a faltar
+
+[12:33] para você né então aí é para eu tirar um
+
+[12:36] litro de água de você você vai ter que
+
+[12:38] você vai me pedir mais coisas Então
+
+[12:41] imagina uma situação você tem muita água
+
+[12:43] então eu peço me dá uma água eu te troco
+
+[12:45] por uma coisa né você troca porque você
+
+[12:47] tem muito quando você começa a diminuir
+
+[12:49] a sua quantidade de água você vai pedir
+
+[12:51] mais de mim para poder trocar isso é
+
+[12:53] chamado substituibilidade tá E aí tem
+
+[12:55] tudo isso tudo microeconômico do quão
+
+[12:58] substituíveis são bens tem bens que você
+
+[13:00] consegue substituir por exemplo água
+
+[13:03] mineral e água de coco você consegue
+
+[13:05] substituir são bem substituíveis Tem
+
+[13:07] bens que não são substituíveis tipo água
+
+[13:09] e comida não eles são parcialmente são
+
+[13:12] parcialmente substituíveis E você tem
+
+[13:14] bens que são complementares o
+
+[13:16] complementar é você precisa dos dois
+
+[13:18] você não pode ficar com um sem o outro
+
+[13:20] pensa uma bicicleta eu não te dou uma
+
+[13:23] bicicleta eu te dou o guidão da
+
+[13:24] bicicleta e aí eu pergunto quantos
+
+[13:26] guidão você tem que me dar para te dar
+
+[13:28] uma roda da bicicleta Você não vai falar
+
+[13:30] não dá para fazer isso eu preciso da
+
+[13:32] bicicleta inteira Então porque os bens
+
+[13:34] são complementares então isso a gente
+
+[13:36] vem microeconomia tá rato galinha vários
+
+[13:40] organismos tem esse princípio de
+
+[13:42] substituibilidade nas mesmas regras da
+
+[13:44] microeconomia só que como é que você faz
+
+[13:47] galinha galinha pensar em dinheiro você
+
+[13:49] pode toquenizar né tocar assim parei a
+
+[13:52] primeira Consultores depois você fala o
+
+[13:54] que que você prefere 5 grãos ou uma
+
+[13:57] frutinha E aí você vai operando com isso
+
+[13:59] quatro grãos ou duas frutas você vai
+
+[14:01] mexendo né E aí vai você vai fazendo uma
+
+[14:04] microeconomia de escolhas do organismo
+
+[14:06] em função dos tokens Então isso é muito
+
+[14:09] visto aves fazem isso bem mamíferos
+
+[14:12] fazem isso bem também tá no réptil fica
+
+[14:14] mais difícil mas assim de mamífero você
+
+[14:17] já vê isso muito bem toquenizar é muito
+
+[14:20] comum tá muito muito comum mesmo então
+
+[14:22] assim Santíssimo interessantíssimo E aí
+
+[14:24] eu tenho uma uma crítica importante que
+
+[14:26] eu eu acho que muita gente associa a
+
+[14:28] economia como uma ciência social
+
+[14:30] aplicada certo isso deve ter ouvido
+
+[14:32] falar isso né economia é uma ciência
+
+[14:34] social aplicada eu acho isso uma
+
+[14:36] definição incompleta Porque tem uma
+
+[14:37] parte importante sobretudo da
+
+[14:38] microeconomia que vem da biologia uma
+
+[14:40] parte da economia que não é ensinada em
+
+[14:42] economia é completamente negligenciado
+
+[14:44] são os aspectos microeconômicos que
+
+[14:46] todos nós organismos temos enquanto
+
+[14:48] biologia A microeconomia vem da biologia
+
+[14:51] A macroeconomia tudo bem é assim social
+
+[14:53] aplicada mas a microeconomia
+
+[14:55] elasticidade substituibilidade todos
+
+[14:58] esses fenômenos são coisas que você vê
+
+[15:00] em outros organismos e deveria ser
+
+[15:02] estudado pela economista Na graduação tá
+
+[15:04] você entender princípios as equações
+
+[15:07] microeconômicas se aplicam completamente
+
+[15:10] ao mundo animal pelo menos mamífero e
+
+[15:13] Aviário né se aplica muito bem Temos
+
+[15:15] vários artigos na descrição sobre isso
+
+[15:17] são muito interessantes mas aí voltando
+
+[15:19] na ideia do dinheiro mesmo né o dinheiro
+
+[15:21] tem algumas funções além das funções que
+
+[15:24] Eu mencionei antes ele pode ser o meio
+
+[15:26] de troca Como Eu mencionei ele pode ser
+
+[15:28] uma medida de valor né Muito pouco é e
+
+[15:31] por ser uma unidade de Contagem você
+
+[15:33] atribui um valor a ele ele pode ser um
+
+[15:35] padrão de valor um padrão também né de
+
+[15:39] não é só muito pouco é caro e barato
+
+[15:41] muito pouco é diferente de carne e
+
+[15:43] barato quando eu falo muito pouco é uma
+
+[15:45] medida de Contagem quando eu falo caro e
+
+[15:48] barato é uma medida de valor tá é
+
+[15:50] diferente e tem também a ideia do
+
+[15:52] depósito de valor né que tem uma
+
+[15:54] portabilidade aí em 1875 um rapaz o
+
+[15:58] William janomes escreveu um livro muito
+
+[16:00] interessante assim que eles sumarizou o
+
+[16:02] dinheiro esse é o mecanismo de troca
+
+[16:03] esse é o título do livro que ele fala
+
+[16:05] assim que o dinheiro tem que ser
+
+[16:06] fungível né ele tem que se fundir em
+
+[16:09] outras coisas então o dinheiro se funde
+
+[16:11] para virar comida para virar outra coisa
+
+[16:13] ela é fungível ele é durável ele é
+
+[16:16] divisível né então 100 50 10 ele é
+
+[16:19] divisível ele é portátil ele é aceitável
+
+[16:21] né as pessoas têm que aceitar né em
+
+[16:24] lugares e ele tem que ser capaz de fazer
+
+[16:26] reserva você tem que conseguir guardar
+
+[16:29] dinheiro Isso são as características do
+
+[16:31] que é dinheiro tá então fungível durável
+
+[16:33] divisível portável portátil aceitável e
+
+[16:37] capacidade de guardar tem que ser ter um
+
+[16:40] capacidade de ser um repositório esses
+
+[16:43] atributos a gente vê no dinheiro físico
+
+[16:45] notas né a gente vê no dinheiro virtual
+
+[16:48] Por exemplo quando você coloca seu
+
+[16:50] dinheiro na conta no banco você não vê
+
+[16:52] as notas né Fica ali e Vale também para
+
+[16:54] criptomoedas mas não vale para nft nft
+
+[16:58] não é fungível tá Quando você compra lá
+
+[17:00] a foto do raio do macaco por isso que
+
+[17:03] aquilo é um esquema de pirâmide nft é
+
+[17:05] uma pirâmide tá não caia nessa lorota
+
+[17:07] porque o lastro não tem lastro tá quando
+
+[17:10] eu pego o criptomoeda dependendo da
+
+[17:12] criptomoeda porque milhões também né tem
+
+[17:13] o nosso cenário sobre golpes cuidado né
+
+[17:16] a gente vai fazer um outro Episódio
+
+[17:17] explicando o que que é criptomoeda
+
+[17:19] bonitinho que tem uns detalhes não não
+
+[17:21] não cabe aqui mas você pega as
+
+[17:23] criptomoedas mais comuns Bitcoin
+
+[17:25] ethereum por exemplo Elas têm as
+
+[17:27] características do dinheiro a questão é
+
+[17:29] que o lastro delas é diferente mas é nft
+
+[17:32] não nft não é fungível então quebra com
+
+[17:35] o primeiro requisito já não vale uma
+
+[17:37] pergunta para você quem quando surgiu o
+
+[17:39] dinheiro assim quando quando esse
+
+[17:41] dinheiro como token sabe moedas coisas
+
+[17:43] quando você acha que surgiu você tem um
+
+[17:45] palpite Eu acho que já faz bastante
+
+[17:46] tempo hein Altair milhares de anos diria
+
+[17:49] que sim isso então assim a primeira
+
+[17:52] evidência de algum dinheiro algum alguma
+
+[17:55] troquinha assim de moeda por moeda né
+
+[17:57] Por Um token tem 100.000 anos é tempo
+
+[18:00] hein 100.000 anos a gente tem é então
+
+[18:02] Mas aí tem um meme econômico que eu
+
+[18:06] quero desconstruir com vocês os
+
+[18:08] antropólogos que chegam com evidências
+
+[18:09] mais antigas então pau na economista
+
+[18:11] assim pá né Eu acho o máximo o que que
+
+[18:14] você deve ter lembrar isso da antes do
+
+[18:17] dinheiro o que que você acha que as
+
+[18:18] pessoas faziam então existiam
+
+[18:20] comunidades com muitas pessoas pensa
+
+[18:21] Mesopotâmia alguma coisa assim antes do
+
+[18:25] dinheiro antes de ter dinheiro o que que
+
+[18:26] as pessoas faziam piscando isso não é
+
+[18:29] isso que você ouve né
+
+[18:30] é generalizado né Não antes as pessoas
+
+[18:33] faziam trocas por meio de escambo Então
+
+[18:35] é eu tenho duas galinhas você tem frutas
+
+[18:39] então vamos fazer um bem bolado porque a
+
+[18:41] sua sua razoável né Só que tem um
+
+[18:44] problema nisso tem um antropólogo um
+
+[18:47] livro dele é fantástico o livro dele
+
+[18:48] chama débito débito tá o livro o título
+
+[18:51] débito eu coloquei na descrição não tem
+
+[18:53] em português é um antropolo que chama
+
+[18:55] David groupber é o livro é fantástico
+
+[18:57] ele traz evidências antropológicas muito
+
+[18:59] boas mostrando que essa noção que a
+
+[19:02] gente tem de que antes do dinheiro eram
+
+[19:04] trocas por meio discando isso é meme é
+
+[19:07] foi construído e foi construído na época
+
+[19:10] do Adam Smith 1776 muito interessante
+
+[19:13] quando saiu riqueza das Nações como foi
+
+[19:16] que começou essa ideia de que antes da
+
+[19:18] da porque uma nação rica uma nação capaz
+
+[19:21] de gerar trabalho e trabalho tem um
+
+[19:23] sentido de alterar os preços dos
+
+[19:25] produtos né o valor dos preços Foi aí
+
+[19:28] que começou a surgir esse meme de que
+
+[19:30] antes do dinheiro as pessoas faziam
+
+[19:32] trocas Só que aí o David Gruber tem um
+
+[19:35] trabalho extenso antropológico indo nas
+
+[19:37] comunidades em outras comunidades que
+
+[19:39] não usam tanto dinheiro assim né Como
+
+[19:42] trocas como unidades não economicamente
+
+[19:44] baseadas em tokens né e vendo como é a
+
+[19:48] vida deles falar se antes do antes de
+
+[19:50] ter dinheiro existiam trocas e hoje
+
+[19:53] ainda a gente tem sociedades em que as
+
+[19:56] pessoas não usam dinheiro eu vou lá
+
+[19:58] visitar eles e olhar o que eles fazem lá
+
+[20:01] olhar e ver se eles trocam não é verdade
+
+[20:03] faz sentido Não faz vou pegar relatos
+
+[20:05] então
+
+[20:06] isso aí ele foi e qual que é o resultado
+
+[20:09] do trabalho dele as pessoas não trocavam
+
+[20:11] não era escambo o escambo não era
+
+[20:13] generalizado sabe tinha uma reunião
+
+[20:16] porque é bem bem o que você descreve nas
+
+[20:18] aulas de História né tipo ah tinha as
+
+[20:21] viagens Então os Viajantes saíam com
+
+[20:23] produtos iam na outra Vila e trocavam né
+
+[20:26] Sabe aquela coisa do do mascate né o
+
+[20:29] negócio assim não velho não não não lá
+
+[20:31] atrás não era assim isso tem a ver com o
+
+[20:34] Naruto que a gente gravou que é porque
+
+[20:36] que a gente se sente sozinho que na
+
+[20:39] verdade o título é o nairo rodou 261 o
+
+[20:41] que a solidão pode causar nas pessoas
+
+[20:43] ali eu falei de um autor que é uma
+
+[20:46] marselmosso que ele escreve um livro que
+
+[20:48] chama dádiva e o David Gruber resgata
+
+[20:50] esse livro e mostra que boa parte da
+
+[20:53] sociedade pré tocainizadas por dinheiro
+
+[20:55] elas não usavam o escambo o escambo não
+
+[20:58] era tão comum eles utilizavam os
+
+[21:00] produtos como que é chamado de economia
+
+[21:04] dos presentes de novo a lógica do
+
+[21:06] escambo ela é sedutora então Ah eu tenho
+
+[21:08] uma coisa você tem uma coisa vamos
+
+[21:09] trocar só que na maior parte das vezes
+
+[21:11] se você pensar isso tocaticamente ao
+
+[21:14] longo do tempo na maior parte vezes eu
+
+[21:16] tenho duas galinhas e você não tem
+
+[21:18] coisas para trocar comigo porque a sua
+
+[21:20] colheita vai sair só daqui a três meses
+
+[21:22] e as minhas galinhas eu tenho agora
+
+[21:23] então tem que existir uma coincidência
+
+[21:26] justamente hoje olha eu tenho duas
+
+[21:28] galinhas Olha você tem frutas né isso
+
+[21:31] não acontece no mundo real porque os
+
+[21:34] processos de manufatura e produção tem
+
+[21:36] temporalidades diferentes e tem muitos
+
+[21:38] gaps entre eles sabe não é interessante
+
+[21:41] porque assim a vida 50 mil anos atrás
+
+[21:44] era muito mais lenta pensa uma plantação
+
+[21:47] tudo bem que a agricultura tem tem
+
+[21:50] 15.000 anos pensa já era uma sociedade
+
+[21:52] que tenha agricultura mesmo uma
+
+[21:55] agricultura antiga a confiabilidade da
+
+[21:58] lavoura era baixa a produtividade era
+
+[22:01] baixa então demorava pra você ter
+
+[22:03] produtos então quando não tem produtos a
+
+[22:05] gente não troca né não é assim que
+
+[22:07] funcionava E aí tem essa ideia da
+
+[22:09] economia dos presentes que é fantástica
+
+[22:10] a ideia da economia dos Presentes vem do
+
+[22:13] Março mas o David Gruber pirata essa
+
+[22:16] ideia de que assim eu tô passando pela
+
+[22:18] sua fazenda aí você tem um boi uma vaca
+
+[22:21] Você tem uma vaca lá aí falou nossa você
+
+[22:24] tem uma vaca eu preciso dela aí a pessoa
+
+[22:26] fala então pega Ou seja a partir do
+
+[22:28] momento que você pega a vaca criou uma
+
+[22:30] relação entre a gente logo no futuro
+
+[22:33] você é obrigado a me devolver algo cria
+
+[22:36] esse senso de Compromisso Isso é a
+
+[22:38] economia dos presentes que vem do
+
+[22:40] Marcelo moço que ele verificou em
+
+[22:42] algumas culturas mas o David Gruber ele
+
+[22:45] ele descreve que isso é mais
+
+[22:46] generalizados muito mais que o escambo o
+
+[22:49] escambo só foi surgindo quando a
+
+[22:51] sociedade cresceram em complexidade
+
+[22:52] então no início no início o que garantiu
+
+[22:55] a nossa sobrevivência enquanto
+
+[22:57] coletividade é a cooperação não é a
+
+[22:59] troca é a cooperação eu confio em você
+
+[23:02] que eu vou te dar um negócio agora e eu
+
+[23:04] confio que depois você vai devolver
+
+[23:06] porque porque se você não fizer isso
+
+[23:08] ambos vamos perder em média né a gente
+
+[23:11] tem um narrordo que é três quatro um
+
+[23:13] nessa cooperação entre seres vivos é
+
+[23:15] Minato um aspecto da cooperação é mesmo
+
+[23:18] e Esse aspecto das trocas da economia
+
+[23:20] das trocas vem dessa disposição que a
+
+[23:23] gente tem para cooperar né cooperar E aí
+
+[23:26] a gente vai mostrar algumas evidências
+
+[23:28] mais para frente disso também atualmente
+
+[23:30] então é a ideia da muito antes do
+
+[23:33] escambo vem a economia das trocas a
+
+[23:35] economia dos Presentes eu te dou uma
+
+[23:37] coisa e essa coisa cria uma relação com
+
+[23:39] a gente então você não vai esquecer de
+
+[23:41] mim porque eu te dei a vaca não vai e aí
+
+[23:43] mais para frente você vai me ajudar
+
+[23:45] porque a gente vive no mesmo coletivo
+
+[23:46] então agora essa lógica da troca de
+
+[23:50] presentes continua valendo mesmo depois
+
+[23:53] da proliferação do uso do dinheiro da
+
+[23:57] dominação do capitalismo enquanto
+
+[24:00] sistema econômico Então você pensando na
+
+[24:03] sociedades atuais nas pessoas Vale menos
+
+[24:05] mas existem resquícios mas a gente tem
+
+[24:08] ainda hoje sociedades E aí o Episódio 3
+
+[24:11] 4 1 sobre solidão sob cooperação
+
+[24:14] desculpa mostra isso a gente tem
+
+[24:16] sociedades que não são baseadas em
+
+[24:18] dinheiro ainda E aí dá para ver que na
+
+[24:20] verdade as economias são economias de
+
+[24:22] presentes porque ainda não foram
+
+[24:24] dominadas pelo dinheiro mas a minha
+
+[24:26] questão é depois que forem dominadas
+
+[24:28] pelo dinheiro né então isso aí a gente
+
+[24:32] entra no papel do Token Qual que é o
+
+[24:34] papel porque assim de novo o dinheiro é
+
+[24:36] um token e qual que é o papel dessa
+
+[24:37] tokenização que primeiro começa com a
+
+[24:40] moeda nas pessoas a gente tem evidência
+
+[24:42] de dinheiro e escambo de a 100.000 anos
+
+[24:45] que é bastante tempo mas são trocas
+
+[24:47] locais a maior parte das relações é
+
+[24:50] relacionada por presentes eu te dou algo
+
+[24:52] depois você quando você conseguir alguma
+
+[24:54] coisa você me devolve e não precisa
+
+[24:56] devolver a vaca devolve outra coisa ou
+
+[24:58] seja qualquer diferença do escambo eu te
+
+[24:59] dou algo Agora você me dá algo agora na
+
+[25:01] economia dos presentes não eu te dou
+
+[25:03] algo é o tempo e aí você tem que me
+
+[25:06] devolve algo necessariamente com o tempo
+
+[25:08] porque porque eu vou ter que te devolver
+
+[25:09] de novo e aí você cria uma relação você
+
+[25:12] cria uma relação de convivência onde a
+
+[25:14] comunidade toda cresce dinheiro dinheiro
+
+[25:16] a gente tem evidência já desde a
+
+[25:18] Mesopotâmia 3.200 Anos Antes de Cristo
+
+[25:20] já tinha moeda moeda troca era moedas de
+
+[25:24] cobre que eram trocadas mesmo e já tinha
+
+[25:26] até um sistema de cobrança de juros
+
+[25:28] inclusive Então já era bem na
+
+[25:31] Mesopotâmia já era bem elaborado e isso
+
+[25:33] é chamado dinheiro fiduciário o dinheiro
+
+[25:36] fiduciário é uma moeda Por exemplo
+
+[25:38] quando eu te dou uma moeda de cobre essa
+
+[25:40] moeda de cobra a moeda em si ela vale
+
+[25:42] pouco só que nela tem um número por
+
+[25:45] exemplo o número às vezes vale mais do
+
+[25:47] que a moeda pega uma nota de r$ 10 Sei
+
+[25:49] lá uma nota de r$ 10 Vale menos que r$
+
+[25:51] 10 para fazer a nota né você não faz
+
+[25:54] sentido isso é chamado dinheiro
+
+[25:55] fiduciário existe um consenso de que
+
+[25:59] aqueles r$ 10 são r$ 10 independente do
+
+[26:02] valor nominal do Papel físico tá então
+
+[26:05] eu gastei r$ 5 para fazer a nota de r$
+
+[26:07] 10 mas ele vale r$ 10 tá então tem um
+
+[26:10] lastro a mais né Isso é definido pela
+
+[26:13] coletividade pelo estado pelo recurso
+
+[26:15] brasileiro Você tem o contrário você tem
+
+[26:18] moedas que a moeda vale mais do que o
+
+[26:21] valor dela que é por exemplo quando eu
+
+[26:22] faço um real de ouro imagina que eu faço
+
+[26:25] uma moeda de r$ 1 de ouro aquele ouro
+
+[26:27] vale mais do que r$ 1 né tanto é que
+
+[26:29] essas moedas mais caras assim são
+
+[26:31] comemorativas são em situações presentes
+
+[26:33] né são situações especiais Então essa
+
+[26:36] essa ideia do dinheiro fiduciário é
+
+[26:39] importante e o dinheiro fiduciário ou a
+
+[26:42] moeda em si tem um valor de uso ela não
+
+[26:45] tem um valor em si ela tem um valor de
+
+[26:46] uso aí o que que seria o valor de uso é
+
+[26:49] uma característica tangível de um
+
+[26:51] commodit porque o dinheiro vira um
+
+[26:53] commodit Nesse contexto que satisfaz
+
+[26:55] alguma necessidade humana utilitária tá
+
+[26:58] então quando eu tenho dinheiro físico eu
+
+[27:00] consigo trocar por coisas o dinheiro
+
+[27:03] nesse caso dentro de um sistema
+
+[27:04] financeiro ele é um commodit Tá mas na
+
+[27:07] natureza ele não é um commodit tipo
+
+[27:09] porque você não come dinheiro não bebe
+
+[27:10] dinheiro então comodit mesmo é uma coisa
+
+[27:13] que vem de uma é prato da natureza que
+
+[27:17] você tem um uso em si dele então por
+
+[27:19] exemplo a pergunta do nosso ouvinte o
+
+[27:21] petróleo trigo coisas do tipo Por que
+
+[27:24] que o petróleo vale mais do que trigo em
+
+[27:27] geral porque dentro de uma sociedade
+
+[27:29] industrializada o petróleo vira mais
+
+[27:32] coisas ele é um commodit que pode se
+
+[27:34] transformar em mais coisas se a economia
+
+[27:37] entra em colapso automaticamente o trigo
+
+[27:39] vai valer mais por quê Porque eu preciso
+
+[27:41] de menos passos de transformação para
+
+[27:44] ter um fim último do Trigo então numa
+
+[27:46] sociedade mais organizada o petróleo tem
+
+[27:49] várias cadeias de transformação e cada
+
+[27:51] cadeia me dá um produto e agregando
+
+[27:54] todos esses produtos Eu tenho um valor
+
+[27:55] agregado maior do petróleo do que o
+
+[27:58] trigo numa sociedade mais simples o
+
+[28:00] trigo tem um papel muito maior óbvio né
+
+[28:03] porque Eu transformo ele menos mas eu
+
+[28:05] chego mais rapidamente no produto final
+
+[28:07] que é o meu consumo Tá bom então tem
+
+[28:09] esse trade então assim o petróleo vale
+
+[28:12] mais do que o trigo depende depende numa
+
+[28:15] sociedade moderna sim né porque a gente
+
+[28:17] tem mais capacidade de transformação
+
+[28:19] numa sociedade menos simples mas mas
+
+[28:21] comum é não né o trigo vale mais tanto é
+
+[28:25] que você não vê como unidades com menos
+
+[28:27] menos pessoas procurando o posto de
+
+[28:29] petróleo posto de petróleo uma coisa
+
+[28:31] adiada de uma grande elaboração do
+
+[28:33] estado e do sistemas financeiro
+
+[28:36] econômico tecnológico tá então isso é
+
+[28:39] importante então commodities seriam ouro
+
+[28:42] prata água comida
+
+[28:44] coisas do tipo o dinheiro dentro do
+
+[28:47] sistema financeiro virão com modity mas
+
+[28:49] em teoria ele não é porque se tiver o
+
+[28:51] colapso da sociedade o dinheiro não vale
+
+[28:53] nada ele perde o valor né Nós já
+
+[28:56] experienciamos momentos em que o
+
+[28:57] dinheiro o dinheiro como meio de troca
+
+[29:00] perde o valor que é por exemplo e pela
+
+[29:02] inflação maior parte das pessoas não
+
+[29:04] lembra mas a gente lembra e pela
+
+[29:05] inflação quando você tirava o dinheiro
+
+[29:07] do banco ele já valia menos tanto é que
+
+[29:09] você tinha que pôr na poupança para
+
+[29:10] render o Over Night lembra essas coisas
+
+[29:12] por exemplo países que tem muito
+
+[29:14] dinheiro falso o dinheiro falso faz você
+
+[29:17] perder o valor nominal do dinheiro por
+
+[29:19] isso que o dinheiro tem que ser lá tem
+
+[29:20] que ter toda uma tecnologia de fazer
+
+[29:22] dura né do dinheiro e situações de
+
+[29:24] hiperinflação também o dinheiro perde
+
+[29:27] valor E aí os commodities puros tem mais
+
+[29:29] valor em si o dinheiro surgiu ali a
+
+[29:31] Mesopotâmia 3.200 anos notas
+
+[29:33] promissórias anota promissória é
+
+[29:36] diferente porque a nota promissória não
+
+[29:37] é não é um papel que agrega valor é um
+
+[29:40] papel que agrega um débito Então quando
+
+[29:42] você deve dinheiro para mim eu te dou
+
+[29:43] uma nota promissória essa nota
+
+[29:45] promissória é um sinal do quanto você
+
+[29:47] deve tudo bem E aí eu posso te cobrar é
+
+[29:50] essa ideia
+
+[29:51] ainda assim é considerado um token ainda
+
+[29:54] é considerado um token só que é um token
+
+[29:56] do débito né não não do crédito né não
+
+[29:58] não agrega valor as notas premissórias
+
+[30:00] surgiram muito tempo depois surgiram do
+
+[30:02] século VII muito tempo depois essa noção
+
+[30:04] de de tokenizar ou débito é muito tempo
+
+[30:07] depois Então veja né que assim o crédito
+
+[30:10] tudo bem dinheiro beleza eu tô vendo né
+
+[30:12] tá tô juntando e tal agora a perda né o
+
+[30:15] Dé Demorou mais para ser entrar no
+
+[30:17] mercado financeiro enfim por meio de
+
+[30:19] tokens e aqui a gente entra numa numa
+
+[30:22] discussão interessante que assim tudo
+
+[30:23] bem dinheiro é um token outros
+
+[30:25] organismos tem capacidade de ter gerir
+
+[30:27] tokens Mas qual que é o papel dessa
+
+[30:29] tokenização na nossa vida quando você
+
+[30:31] pensa no dinheiro dá para entender bem
+
+[30:33] isso então primeiro o dinheiro ele não é
+
+[30:36] natural mas ele é naturalizado né as
+
+[30:39] pessoas naturalizaram o dinheiro você
+
+[30:40] quando você pensa no dinheiro você já
+
+[30:42] pensa nas coisas comida viagem você já
+
+[30:45] pensa mas não é assim não é assim que
+
+[30:47] funciona É tem que ter uma série de
+
+[30:49] garantias para que o dinheiro vale algo
+
+[30:51] de fato como meio de troca e tem a ver
+
+[30:53] até com essa coisa do escambo né é muito
+
+[30:56] interessante você acreditar que o
+
+[30:58] escambo é natural é uma forma de também
+
+[31:01] naturalizar o dinheiro porque a em
+
+[31:04] sociedades mais complexas onde as
+
+[31:05] pessoas não conseguem mais trocar eu
+
+[31:07] posso tokenizar essa troca por meio do
+
+[31:09] dinheiro então assim você não me dá
+
+[31:11] galinha você me dá um dinheiro e aí eu
+
+[31:13] posso trocar esse dinheiro para qualquer
+
+[31:14] outra coisa isso é toquenização né então
+
+[31:17] é um discurso muito muito sedutor que no
+
+[31:21] passado as pessoas trocavam conforme
+
+[31:23] ficou foi ficando mais complexo surgiu a
+
+[31:25] necessidade do dinheiro mas quando você
+
+[31:27] pega as evidências antropológicas só não
+
+[31:29] o escambo era muito menos comum do que
+
+[31:32] as pessoas achavam e na verdade o que
+
+[31:35] elas tinham era confiança e cooperação
+
+[31:37] mas com as outras Então você instituir o
+
+[31:40] dinheiro é uma forma de tirar a
+
+[31:43] legitimidade da confiança que eu tenho
+
+[31:44] em você e colocar essa legitimidade numa
+
+[31:48] instituição que é o banco então de novo
+
+[31:51] quem perceba profundidade desse desse
+
+[31:53] discurso tá que a gente você vive numa
+
+[31:56] fazenda vive em outra aí eu passo na sua
+
+[31:58] fazenda Olha você tem um pouquinho de
+
+[31:59] arroz eu vou lá pega aí e a gente é
+
+[32:01] vizinho né ah eu fiz umas frutinhas Aqui
+
+[32:04] tem uns ovinhos tal e tem essas trocas
+
+[32:06] que é o sistema de presentes economia
+
+[32:08] dos Presentes quando a sociedade vai
+
+[32:10] ficando mais complexa e você instituiu o
+
+[32:12] dinheiro o dinheiro é uma forma de
+
+[32:14] central de poder porque o poder tá
+
+[32:17] inteligente o poder é o sinal a nossa
+
+[32:20] relação eu troco com você você troca
+
+[32:22] comigo tem os presentes troca diferente
+
+[32:24] de presente troca é eu tenho uma coisa
+
+[32:26] agora você tem uma coisa agora a gente
+
+[32:27] troca presente não você me dá uma coisa
+
+[32:30] e o tempo aí vai saber quando não é por
+
+[32:34] isso que chama presente Porque queria
+
+[32:35] ser a relação eu tenho que te devolver
+
+[32:37] alguma coisa eu tento também quando você
+
+[32:39] coloca o dinheiro você tira o tempo da
+
+[32:42] relação né você coloca o tempo no token
+
+[32:45] e você tira a nossa relação de confiança
+
+[32:47] e coloca essa relação de confiança num
+
+[32:49] terceiro e quem é esse terceiro o órgão
+
+[32:52] financeiro seria o banco Então na
+
+[32:54] verdade você instituir o dinheiro é uma
+
+[32:58] forma de instituir competição num meio
+
+[33:01] que deveria ser colaborativo Olha que
+
+[33:03] [ __ ] e que beleza Olha esse aí é a
+
+[33:07] cooperação foi para o espaço vai pro
+
+[33:10] vinagre bonito claro né E aí você a
+
+[33:13] gente consegue ter alguma evidência
+
+[33:14] dedutiva né de que a competição ela é
+
+[33:17] construída na sociedade e a gente é
+
+[33:20] obrigado a naturalizá-la da mesma forma
+
+[33:22] como a gente naturaliza o discurso do
+
+[33:24] escambo ou bacana hein bacana veja os
+
+[33:28] textos do David Gruber tem outros outros
+
+[33:30] antropólogos aquele antropólogo mais
+
+[33:32] eminente nessa área tem uma linha de
+
+[33:34] pesquisa de Antropologia sobre economia
+
+[33:35] dos presentes lá do Marcelo moço Leia
+
+[33:38] esses textos são sublimes mas isso esse
+
+[33:41] raciocínio Então já me respondeu a
+
+[33:43] pergunta sobre a possibilidade de
+
+[33:45] Cultura de troca de presentes não do
+
+[33:49] escambo mas troca de presentes depois
+
+[33:51] que o dinheiro já dominou aquele sistema
+
+[33:53] né otário sim porque a cooperação é
+
+[33:56] substituída pela competição e
+
+[33:58] espaço isso exato tem uma vantagem do
+
+[34:02] dinheiro que é a flexibilidade Óbvio em
+
+[34:04] sociedades mais complexas é importante
+
+[34:05] tá mas você sabe a origem te dá uma
+
+[34:09] reflexão melhor sobre o valor dele sabe
+
+[34:11] Ah de novo a questão é vai acabar com a
+
+[34:13] sociedade não é não é o funcionamento
+
+[34:16] dele mas também as consequência disso
+
+[34:20] sabe você entendeu origem real você
+
+[34:22] ganha flexibilidade que é muito bom mas
+
+[34:25] em [ __ ] a desconfiança e a necessidade
+
+[34:28] de competição entre os agentes exato
+
+[34:30] acaba com acaba acaba com a cooperação
+
+[34:31] exato e assim como que a gente reverte
+
+[34:34] isso repensando as relações E aí e nos
+
+[34:38] dias de hoje o que acontece né a gente
+
+[34:40] grava um narro lá atrás que é o 64 você
+
+[34:43] é um salário maior traz mais felicidade
+
+[34:45] e a gente fala lá tem tem o dado
+
+[34:47] americano o artigo de 2010 que foi
+
+[34:49] atualizado enfim mas que falam que
+
+[34:51] pessoas que têm um salário nos Estados
+
+[34:53] Unidos até 75.000 dólares por ano Isso é
+
+[34:57] meio que um limite assim então a acima
+
+[34:59] de 75.000 Dólares você não é tão
+
+[35:01] satisfeito ou feliz quanto quem ganha 1
+
+[35:04] milhão de dólares por ano não é bem
+
+[35:06] assim tá tem artigos mais atuais que
+
+[35:08] veem isso com outros olhos complexifica
+
+[35:11] mas a questão e tem um trabalho está na
+
+[35:13] descrição muito bom sobre na loteria
+
+[35:15] aqui no Brasil você pode ganhar a
+
+[35:18] loteria e não ser identificado então é
+
+[35:20] mais difícil rastrear mas nos Estados
+
+[35:21] Unidos é obrigado você tem que tem que
+
+[35:23] se identificar E aí eles têm estudos
+
+[35:25] sobre isso né sobre ganhadores de
+
+[35:27] Loteria tem um caso muito muito
+
+[35:29] emblemático assim que é em 2006 um homem
+
+[35:33] ganhou na loteria 17 milhões de dólares
+
+[35:35] e depois de dois anos foram fazer uma
+
+[35:38] entrevista com ele e ele estava
+
+[35:39] deprimido assim ele não é aquele Gastou
+
+[35:42] todo o dinheiro em bagunça e foi roubado
+
+[35:43] não é isso ele estava deprimido ele
+
+[35:45] falou que ele preferia muito melhor
+
+[35:47] quando ele não tinha dinheiro e aí foram
+
+[35:49] fazer um assim um estudo dos ganhadores
+
+[35:51] mesmo né
+
+[35:52] a satisfação com a vida dessas pessoas
+
+[35:55] não mudou muito mesmo apesar de ter
+
+[35:57] ganhado uma bolada E aí é muito
+
+[35:59] interessante assim porque é o que você
+
+[36:01] faz com dinheiro que traz a felicidade
+
+[36:02] não o dinheiro então e aí você tem que
+
+[36:05] pensar o que é felicidade em dois
+
+[36:06] aspectos no longo prazo eu não curto
+
+[36:08] prazo quando você ganha na loteria você
+
+[36:11] tem um Burst de felicidade fala Nossa
+
+[36:13] ganhei só que para você esse dinheiro
+
+[36:15] que você ganhou infelicidade porque
+
+[36:18] assim pensa por exemplo quem pensa uma
+
+[36:21] escada com degraus né Aí tem um degrau
+
+[36:24] mais alto e o mais baixo são vários
+
+[36:25] degraus pense que essa escada é o seu
+
+[36:27] grau de felicidade atual em que lugar da
+
+[36:31] escada você estaria tá só para dar uma
+
+[36:33] se você tivesse muito baixo você tá
+
+[36:35] muito pouco feliz se eu tivesse lá em
+
+[36:37] cima você tá ao máximo de felicidade que
+
+[36:39] você já viveu as pessoas ficam ali no
+
+[36:41] meio tá em algum lugar no meio tá beleza
+
+[36:44] Felicidade é um com uma percepção média
+
+[36:47] de você mesmo quando você fala em
+
+[36:50] bem-estar felicidade geral você tá
+
+[36:53] pensando em você em média Quando você
+
+[36:55] pensa na satisfação satisfação é dia a
+
+[36:58] dia então pensa que tem duas variáveis a
+
+[37:01] satisfação diária que é cotidiana e você
+
+[37:04] tem a felicidade Geral com a vida tá uma
+
+[37:07] variável Média a outra é uma variável
+
+[37:09] pontual tem um artigo 2018 muito
+
+[37:12] interessante que mostraram assim tente
+
+[37:14] lembrar da vida as pessoas que lembram
+
+[37:17] mais de momentos felizes né ou seja as
+
+[37:20] estimativas pontuais de memória dela são
+
+[37:23] estimativas felizes Elas têm uma
+
+[37:25] satisfação com a vida média maior porque
+
+[37:28] elas lembram mais de coisas felizes
+
+[37:30] Então você parar para pensar você ganhar
+
+[37:32] na loteria é um fenômeno pontual mas
+
+[37:35] para você transformar esse fenômeno
+
+[37:37] pontual numa satisfação cotidiana você
+
+[37:40] tem que mudar você mesmo para isso e
+
+[37:43] muitas pessoas não conseguem Muitas
+
+[37:45] pessoas não conseguem transformar essa
+
+[37:47] riqueza não ganham individual diário E
+
+[37:51] aí assim o que que a psicologia
+
+[37:52] científica séria diz que assim dinheiro
+
+[37:56] traz felicidade sim desde que você saiba
+
+[37:58] transformar essa satisfações cotidianas
+
+[38:01] numa percepção média de satisfação Aí
+
+[38:04] traz felicidade e como é que você faz
+
+[38:06] essa transformação é a maneira como você
+
+[38:08] usa o dinheiro então tem algumas formas
+
+[38:11] de uso do dinheiro
+
+[38:12] cotidianamente que aumentam a sua SA aí
+
+[38:15] tem uns artigos fantásticos os artigos
+
+[38:17] são fantásticos que é assim baseado
+
+[38:19] nesse nesses trabalhos de ganhadores de
+
+[38:21] Loteria tem os ganhadores de Loteria
+
+[38:23] aqui de fato ficaram muito tristes
+
+[38:24] porque eles não souberam fazer essa
+
+[38:27] transformação da Média nos dados
+
+[38:29] individuais então o cara ganhou na
+
+[38:31] loteria começou a comprar carro casa
+
+[38:32] enfim e aí depois de um tempo isso aí
+
+[38:35] não né não vale mais outras pessoas não
+
+[38:37] investiram de formas diferentes aí
+
+[38:39] Aumentou a satisfação com a vida mesmo
+
+[38:41] diferentes em que sentido Então tem um
+
+[38:45] trabalho de 2017 que fizeram assim que
+
+[38:47] que mostrar foi feito no Canadá e na
+
+[38:50] África do Sul ali eles mostraram o
+
+[38:52] seguinte eles pegaram dois grupos de
+
+[38:54] pessoas em cada país e eles deram 40
+
+[38:57] dólares pra pessoa falou 40 dólares tal
+
+[38:59] só que agora você pegou esse dinheiro
+
+[39:02] você vai der um dinheiro de verdade você
+
+[39:04] vai gastar esse dinheiro com um presente
+
+[39:06] para você tá se der um alto um presente
+
+[39:08] com esses 40 dólares falou obrigado a
+
+[39:10] pessoa compra aí por outro grupo de
+
+[39:12] pessoas falam assim tá aqui 40 dólares
+
+[39:15] tinha esse dinheiro com algo que vai
+
+[39:16] poupar seu tempo você vai economizar
+
+[39:19] tempo com a compra Pense nisso então
+
+[39:21] eles fizeram isso durante uma semana né
+
+[39:23] então durante a semana faça essa compra
+
+[39:25] um presente para você ou algo que
+
+[39:27] economiza o seu tempo e na semana
+
+[39:29] seguinte eles inverteram os grupos o
+
+[39:31] grupo que gastou com presente gastava
+
+[39:32] economizando tempo e vice-versa e
+
+[39:35] durante a semana eles foram medindo
+
+[39:37] porquestionários os graus de satisfação
+
+[39:39] da pessoa de percepção da vida enfim as
+
+[39:42] pessoas a mesma a mesma pessoa nos
+
+[39:45] momentos em que ela utilizou o dinheiro
+
+[39:46] para poupar tempo dela ela ficava mais
+
+[39:50] satisfeita então é você gastar dinheiro
+
+[39:53] com coisas que economizam o seu tempo
+
+[39:55] torna o seu tempo mais eficaz de fato é
+
+[39:59] um indicador de que assim o uso do
+
+[40:01] dinheiro no sentido de gerar felicidade
+
+[40:03] mas aí ele precisa também usar esse
+
+[40:06] tempo que ele ganhou ao aplicar o
+
+[40:08] dinheiro dessa maneira em coisas que
+
+[40:11] geram um prazer maior para ele né isso
+
+[40:14] por exemplo uma dessas coisas é
+
+[40:16] simplesmente ter tempo para o ócio quer
+
+[40:19] prestar atenção em você mesmo que é um
+
+[40:20] tempo que a pessoa não tinha né eh e aí
+
+[40:23] isso em si já dá mais satisfação a
+
+[40:25] pessoa reflete mais ver alguma outra
+
+[40:27] coisa né Então esse é um exemplo você
+
+[40:29] gastar o dinheiro com coisas que são que
+
+[40:31] geram eficácia para você tem que sobrar
+
+[40:34] tempo tá isso é um jeito outro jeito
+
+[40:37] outro jeito que é de um outro
+
+[40:38] experimento que é o uso dos objetos que
+
+[40:40] você compra então assim você compra um
+
+[40:42] carro dado que você já tem um carro ele
+
+[40:44] não aumenta a sua eficiência em nada eu
+
+[40:45] sou um carro mais chique né e depois de
+
+[40:47] um tempo o carro deprecia ou seja não
+
+[40:49] gera satisfação gera satisfação no curto
+
+[40:52] prazo mas em média não gera satisfação
+
+[40:54] você vai criar um problema que é o que
+
+[40:56] que você vai fazer com o carro depois
+
+[40:56] Então imagina o cara que tem 20 carros
+
+[40:58] quando o cara que tem 20 carros deve ter
+
+[41:00] um problema ele não tem um carro então o
+
+[41:03] problema para resolver esse carro
+
+[41:04] deprecia tem cuidado dá uma voltinha
+
+[41:06] acaba a bateria de um do outro desgraça
+
+[41:08] tá querendo problema né você não tá
+
+[41:11] poupando o tempo você tá ganhando tem
+
+[41:13] criando o tempo né assim quanto tempo aí
+
+[41:15] tem um outro experimento que era assim
+
+[41:17] era o uso dos objetos isso você Você já
+
+[41:19] estudou muito bem quem que é o uso dos
+
+[41:21] objetos como objetos e o uso dos objetos
+
+[41:24] como experiências Então você gastar
+
+[41:26] dinheiro com experiências gera uma maior
+
+[41:29] satisfação então viagem
+
+[41:32] jantares coisas do tipo já era maior
+
+[41:35] satisfação tanto é que tem a estratégia
+
+[41:37] de vários produtos físicos de serem
+
+[41:39] vendidos como experiências e tem uma
+
+[41:42] característica uma característica dos
+
+[41:43] produtos como experiência que é o
+
+[41:45] seguinte pensa as pessoas que você segue
+
+[41:47] no Instagram sei lá quando a pessoa faz
+
+[41:49] uma viagem ela não pode postar as fotos
+
+[41:51] Olha estou fazendo uma viagem isso é uma
+
+[41:53] experiência que eu quero dividir é
+
+[41:54] socialmente aceitável dividir
+
+[41:57] experiências né de viagem agora comprei
+
+[42:00] o novo iPhone 17 que custa r$ 20.000
+
+[42:03] podia ter comprado o carro popular para
+
+[42:05] o iPhone você vai postar isso no
+
+[42:07] Instagram não vai né não vai então você
+
+[42:10] não essa compra envergonhada ela não não
+
+[42:13] é bem Vista coletivo e para você também
+
+[42:16] não é sabe você tem que criar uma
+
+[42:18] justificativa para lidar com a
+
+[42:20] dissonância cognitiva de ter aquele
+
+[42:21] objeto também tá Ah é para o meu
+
+[42:24] trabalho é para eu não né sabe não tá
+
+[42:27] quer comprar compra mas né então assim
+
+[42:29] os objetos serem vendidos como
+
+[42:30] experiência gera nas pessoas uma maior
+
+[42:33] satisfação local e vai aumentar a
+
+[42:36] satisfação média delas também e viver as
+
+[42:38] experiências é legal viagem enfim tá é
+
+[42:41] legal esse é o segunda forma de gastar
+
+[42:43] dinheiro gerando maior felicidade média
+
+[42:45] e o terceiro aí tem a ver com a teoria
+
+[42:48] do barcell maus é não gastar dinheiro
+
+[42:50] com você e esses artigos são fantásticos
+
+[42:52] não gastar dinheiro com você que tem um
+
+[42:56] artigo com um estudo populacional
+
+[42:58] macroeconômico com 136 países mostrando
+
+[43:02] assim pensem as últimas vezes você
+
+[43:04] gastou dinheiro né Tem um protocolo para
+
+[43:06] medir isso E aí e tem
+
+[43:08] métricas questionários de qualidade de
+
+[43:11] vida e satisfação com a vida existe uma
+
+[43:14] relação linear provável entre quanto
+
+[43:16] mais você gasta dinheiro com os outros
+
+[43:18] maior Sua percepção de satisfação com a
+
+[43:20] vida em geral e gastar dinheiro com
+
+[43:22] outros não é doar dinheiro não é só doar
+
+[43:24] é gastar dinheiro com pessoas que você
+
+[43:26] conhece
+
+[43:27] Voltamos no Marcel maus e a economia dos
+
+[43:30] Presentes tem até um trabalho né que o
+
+[43:33] trabalho Mostra assim eu te dou um
+
+[43:34] dinheiro de verdade né um grupo Compra
+
+[43:36] um presente para você o outro compra o
+
+[43:39] presente para alguém alguém e alguém que
+
+[43:41] você conhece as pessoas que compram um
+
+[43:42] presente para alguém reportam maior
+
+[43:44] satisfação em geral né parece que esse
+
+[43:47] efeito por exemplo me deram um dinheiro
+
+[43:49] eu comprei sei lá eu fui fiz um jantar
+
+[43:52] né para mim ou mesmo que eu convide
+
+[43:54] alguém mas fiz um jantar né Isso é uma
+
+[43:56] experiência outra coisa eu comprei um
+
+[43:58] presente para você quem E aí eu te dei o
+
+[44:00] presente o efeito disso em mim é mais
+
+[44:03] duradouro o efeito o efeito de Recall e
+
+[44:06] em você em mim é maior Voltamos no
+
+[44:09] exemplo das duas fazendas porque quando
+
+[44:11] eu te dou uma coisa Falar te dou não
+
+[44:14] quando você vem fazendo e falar você tem
+
+[44:16] ovos fala pega aí os ovos você você
+
+[44:19] ficou satisfeito porque pegou os ovos
+
+[44:21] que você precisava e eu fiquei
+
+[44:23] satisfeito porque eu te dei porque
+
+[44:25] criamos uma relação a partir daí que
+
+[44:27] conversa com a nossa
+
+[44:30] natureza cooperativas exatamente
+
+[44:33] conversa com a natureza cooperativa e o
+
+[44:36] capitalismo dá uma destruída mas enfim
+
+[44:38] mas enfim se uma pessoa é muito comum
+
+[44:41] por exemplo pessoas de origem humilde
+
+[44:43] que ganham uma bolada né de alguma forma
+
+[44:47] na loteria etc e aí primeira coisa que
+
+[44:50] faz é comprar alguma coisa para os pais
+
+[44:54] vivem numa situação mais difícil e tal e
+
+[44:58] aquilo parece que gera muito mais
+
+[45:00] felicidade do que comprar algo para si
+
+[45:02] próprio exato exato então assim não
+
+[45:05] precisa chegar no exemplo extremo mas
+
+[45:06] assim você você vai usar essa palavra
+
+[45:09] mas não no sentido religioso eu vou usar
+
+[45:10] no sentido Marcial né você cultuar as
+
+[45:13] pessoas por meio de você dá além do
+
+[45:16] presente em si que ele importa pouco mas
+
+[45:18] o uso dele é um uso cerimonial no
+
+[45:21] sentido de que você dá uma parte do seu
+
+[45:23] tempo para pessoa então quando eu quando
+
+[45:25] você pega os ovos ali você tá pegando
+
+[45:27] mas também uma parte do meu tempo esse
+
+[45:29] tempo é valioso isso que te dá
+
+[45:31] obrigatoriedade de me devolver de algum
+
+[45:33] jeito do jeito que você consegue e o
+
+[45:36] mais importante disso é que Longitude
+
+[45:38] não mente a gente tá criando uma relação
+
+[45:40] né estamos criando uma relação assim o
+
+[45:43] capitalismo não destrói isso é um
+
+[45:46] traidor ele dá eficiência mas a custa de
+
+[45:48] imputar competição ou o problema é
+
+[45:51] quando essa relação fica desa adaptativa
+
+[45:53] Porque pensa é impossível uma sociedade
+
+[45:55] hoje do tamanho que a gente tem só
+
+[45:57] baseado na lógica dos presentes não tem
+
+[45:59] como então assim tem que ter uma forma
+
+[46:00] meio termo medo que você colocasse uma
+
+[46:02] sociedade por exemplo mesmo você coloca
+
+[46:04] uma sociedade socialista em que os meios
+
+[46:06] de produção são totalmente do Estado
+
+[46:07] tudo é né dividido e tal essa
+
+[46:10] dificuldade da economia dos Presentes
+
+[46:12] também é muito difícil de implementar é
+
+[46:13] muito difícil de ter esse jogo não temos
+
+[46:15] uma estrutura se você tem uma ambição de
+
+[46:20] construir uma sociedade Global aí eu
+
+[46:23] concordo com você que a coisa fica
+
+[46:25] impossível né mas quando você vê por
+
+[46:28] exemplo modelos em aldeias indígenas
+
+[46:32] ecovilas né que aí você tem um limite da
+
+[46:36] quantidade de pessoas né que estão ali
+
+[46:38] vivendo comunitariamente aí a coisa já
+
+[46:41] fica mais viável né isso exatamente
+
+[46:42] Então essa é a discussão então uma
+
+[46:45] discussão que tem muito na internet é
+
+[46:46] essa coisa capitalismo verso socialismo
+
+[46:49] não existe um modelo ideal ele está para
+
+[46:51] ser construído a gente tem muitos
+
+[46:53] exemplos mas esses exemplos não são as
+
+[46:55] soluções a solução está para ser
+
+[46:57] construída não é nenhuma dessas opções a
+
+[47:00] questão é se a gente diminuir a a
+
+[47:02] desigualdade que o próprio capitalismo
+
+[47:04] gera que é resultado da ação dele se a
+
+[47:07] gente diminuir essa desigualdade já
+
+[47:08] melhora claro que melhora né é a ideia o
+
+[47:13] que que a gente tem que fazer
+
+[47:14] para criar um novo modelo de organização
+
+[47:17] social complexa baseado em tecnologia e
+
+[47:20] valorização do que a gente tem do que
+
+[47:22] nos faz humanos de forma diminuir as
+
+[47:25] desigualdades e aumentar as
+
+[47:26] potencialidades dos indivíduos dentro da
+
+[47:28] coletividade tá esse modelo ainda não
+
+[47:30] existe ele está para ser desconstruído a
+
+[47:34] gente por exemplo questionar e mostrar
+
+[47:36] né com as evidências de que a lógica do
+
+[47:38] escambo ela é um meme já ajuda a
+
+[47:41] repensar outros modelos já faz a gente
+
+[47:43] ter alteridade por outras situações eu
+
+[47:45] tô achando você bem mais otimista que eu
+
+[47:48] assim sabe eu acho que para diminuir
+
+[47:50] essa desigualdade social Só se a gente
+
+[47:53] voltar para o modelo de povos
+
+[47:55] originários assim então então certamente
+
+[47:58] acho que dentro desse modelo né
+
+[48:02] escalável baseado em tecnologia não sei
+
+[48:05] o quê ele parte da premissa da
+
+[48:08] desigualdade ele pagar premissa da
+
+[48:10] escassez então exatamente parte mesmo só
+
+[48:14] que uma questão que é o espectro do
+
+[48:15] tempo se você tiver um espectro do tempo
+
+[48:18] econômico né como economista de fato vai
+
+[48:21] ficar bolado não tem que acontecer a
+
+[48:22] revolução já tem que mudar já né mas se
+
+[48:25] você pensar no ponto de vista
+
+[48:26] antropológico né a nossa economia do
+
+[48:28] jeito que ela é Ela tem 250 anos
+
+[48:30] revoluções isso é hoje à tarde não é
+
+[48:33] nada já dos povos originários é bem
+
+[48:36] legal é milenar exato né então e
+
+[48:39] continua funcionando e destrói menos o
+
+[48:42] planeta então mas é exatamente mas qual
+
+[48:45] escala de tempo você quer e a grande
+
+[48:47] preocupação não é essa as coisas vão
+
+[48:49] mudar elas vão mudar mas a questão é
+
+[48:51] como a custa de que vai mudar porque vai
+
+[48:53] chegar uma hora que o dinheiro vai
+
+[48:54] deixar de ser um commodit porque não vai
+
+[48:56] ter água sabe eu acho que a crise
+
+[48:59] climática ela vai resolver boa parte
+
+[49:02] disso aí isso mas ela vai resolver a
+
+[49:04] custa de quê Esse é o problema a custo
+
+[49:06] de vidas isso então mas isso é
+
+[49:08] obrigatório não necessariamente acho que
+
+[49:10] a grande preocupação não é Qual deveria
+
+[49:12] ser o modelo mas são os passos e o custo
+
+[49:15] que a gente vai ter para chegar lá se o
+
+[49:17] custo é sacrificar a vida de milhões de
+
+[49:19] pessoas que vão passar por incertezas
+
+[49:21] tanto delas quanto dos seus descendentes
+
+[49:23] a solução que a gente vai ter daqui a
+
+[49:25] 500 anos vai ser tão ruim quanto a que a
+
+[49:28] gente tem hoje porque isso foi a custa
+
+[49:30] de muita gente do mesmo jeito que a
+
+[49:31] nossa sociedade atual é construída em
+
+[49:33] cima de exploração e escravidão e a
+
+[49:35] gente naturaliza isso a sociedade do
+
+[49:37] futuro vai ser construída da mesma forma
+
+[49:39] se a gente usar os mesmos padrões de
+
+[49:42] custo enquanto a gente não repensar isso
+
+[49:44] não importa o modelo que vai ter não
+
+[49:46] importa sabe a questão é o que que a
+
+[49:48] gente tá dando tudo bem eu trocar eu
+
+[49:50] trocar as trocas por moeda tem um lado
+
+[49:52] bom um lado ruim a gente exacerbou o
+
+[49:55] lado bom a custa de pressão para o lado
+
+[49:57] ruim então a gente vive numa sociedade
+
+[49:59] muito mais eficaz mas a custa do
+
+[50:01] sacrifício de muitas pessoas se a gente
+
+[50:03] manter essa lógica independente do
+
+[50:05] sistema que for a gente vai ser tão
+
+[50:07] regredido quanto é hoje né só a gente só
+
+[50:09] vai ter uma pilha de Corpos maior para
+
+[50:11] ele enterrar só isso né em escala então
+
+[50:14] Essa é a discussão sabe essa é a
+
+[50:17] verdadeira discussão eu não sou otimista
+
+[50:18] Eu acho que a gente vai empilhar mais
+
+[50:20] corpos mesmo até aprender sabe mas a
+
+[50:22] questão é colocar a discussão não
+
+[50:24] polarizada né não ah o modelo a é melhor
+
+[50:26] que b não tem modelo melhor sabe a
+
+[50:28] questão a gente tem que construir um E
+
+[50:30] para isso a gente precisa reunir
+
+[50:31] evidências e não tem evidência nenhuma
+
+[50:33] de que qualquer modelo funcione bem hoje
+
+[50:35] tá todos eles têm problemas a ideia a
+
+[50:38] gente bolar meditar para construir
+
+[50:40] possibilidade para ter uma estrutura
+
+[50:42] menos desigual eu não vejo a solução
+
+[50:44] para isso eu não vejo e quando ela
+
+[50:45] surgir se ela sujeira eu não sei como
+
+[50:48] ela vai surgir E é isso que me preocupa
+
+[50:49] mais eu como eu Eu também não vejo
+
+[50:52] solução mas eu acho que ela tá mais
+
+[50:53] perto do modelo milenar de povos
+
+[50:57] originários do que do modelo duelo mas
+
+[51:00] que povo
+
+[51:02] Com certeza não uma parte sim uma parte
+
+[51:05] da solução tá aí mas é tem uma questão
+
+[51:07] de implementação e tem uma questão de
+
+[51:09] educação tem uma questão Educacional
+
+[51:11] também que é muito importante que é
+
+[51:14] assim muitas pessoas é uma questão de
+
+[51:16] crença do mesmo jeito que você as
+
+[51:19] pessoas acreditam que o antes do
+
+[51:21] dinheiro tinha o escândalo Isso é uma
+
+[51:23] crença como é que você desconstrou isso
+
+[51:24] vai levar décadas para desconstruir isso
+
+[51:26] sabe então é muito difícil então
+
+[51:28] enquanto a gente não operar na educação
+
+[51:29] a educação é um meio de mudança mesmo
+
+[51:31] sabe a educação torna o capitalismo mais
+
+[51:34] saudável educação mesmo que ele tenha
+
+[51:36] problemas eu não quero me estender muito
+
+[51:38] aqui também mas se você olha o
+
+[51:40] funcionamento do modelo de aldeias
+
+[51:42] indígenas ele é praticamente todo
+
+[51:45] baseado em troca de presentes isso é
+
+[51:47] economia dos Presentes então Releia ler
+
+[51:50] sobre isso como funciona essa economia
+
+[51:51] quais são os impactos e tal Dá ideia de
+
+[51:54] uma estruturação escalar de escala para
+
+[51:57] isso mas a escala não é quando você
+
+[51:59] aplica isso no mercado a solução não é
+
+[52:02] isso porque não funciona a ideia é como
+
+[52:04] você cria uma pedagogia para educar as
+
+[52:07] pessoas a levar isso em conta no momento
+
+[52:09] de estudar matemática física história e
+
+[52:11] geografia todas as matérias no momento
+
+[52:13] que você coloca como um modelo para uma
+
+[52:15] grade curricular para a formação de um
+
+[52:18] sujeito social esse sujeito social
+
+[52:20] formado por essa educação vai saber a
+
+[52:23] solução a gente não sabe que a gente tem
+
+[52:25] que criar são as condições para surgirem
+
+[52:26] sujeitos sociais capazes de criarem as
+
+[52:30] soluções eu não sou pretensioso dizendo
+
+[52:31] que eu tenho a solução eu não tenho mas
+
+[52:33] eu tenho meio para isso que é reformular
+
+[52:35] totalmente a educação para entender a
+
+[52:37] complexidade em desmistificar esses
+
+[52:40] Malditos memes pirâmide de Maslow meme
+
+[52:43] do satanás e agora também o meme do do
+
+[52:45] escambo tá então essas pequenas pepitas
+
+[52:48] que estamos colocando são formas de você
+
+[52:50] reconstruir e entender o mundo da sua
+
+[52:52] complexidade e perceber que você sozinho
+
+[52:53] não resolve coisa nenhuma mas educando
+
+[52:55] mais pessoas a gente tem o caminho para
+
+[52:57] uma mudança realmente efetiva onde a
+
+[52:59] solução estará nesses Agentes do Futuro
+
+[53:01] que não são nós quem
+
+[53:05] gostou gostei que a gente deixou gancho
+
+[53:10] para vários outros assuntos inclusive
+
+[53:14] exato você leu muito bem esse episódio
+
+[53:15] espaço para vários outros aguardem é
+
+[53:18] isso daí e Naruto
+
+[53:23] e você já sabe aqui no Nardo rodou quem
+
+[53:26] faz a pauta é você Você tem alguma
+
+[53:28] pergunta pra gente ou Quer comentar
+
+[53:30] algum episódio escreva para nós podcast
+
+[53:33] @narok.com.br repetindo
+
+[53:37] podcast@narok.com.br e lembre-se mande
+
+[53:40] nome completo idade profissão e a cidade
+
+[53:43] de onde você está falando é isso aí
+
+[53:47] [Música]
+
+[53:57] [Música]

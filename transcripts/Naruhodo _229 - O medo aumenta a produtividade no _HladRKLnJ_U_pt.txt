@@ -1,0 +1,2413 @@
+Title: Naruhodo #229 - O medo aumenta a produtividade no trabalho?
+URL: https://www.youtube.com/watch?v=HladRKLnJ_U
+Language: pt
+Extracted on: 2025-04-06 16:44:39
+================================================================================
+
+[00:00] e o medo aumenta a produtividade no
+
+[00:04] trabalho
+
+[00:06] e aí
+
+[00:07] oi nádia rodolfo a
+
+[00:10] olá bem-vindo ao mar rodolfo podcast
+
+[00:12] para quem tem que forma de aprender eu
+
+[00:14] só ken fujioka eu sou daí de souza e
+
+[00:16] hoje é dia de que é
+
+[00:19] é sim senso comum tá aí vamos para os
+
+[00:23] recados da paróquia quais são número um
+
+[00:25] vai no play store de cinco estrelas e
+
+[00:28] faça o seu comentário isso aí número
+
+[00:29] dois indique o episódio donar o rodolfo
+
+[00:32] para alguém que nunca ouviu na rodou ao
+
+[00:34] mesmo nunca tem ouvido um podcast vamos
+
+[00:36] aumentar o tamanho de nossa todas férias
+
+[00:38] e número 3 altair a o número 3 é sobre
+
+[00:42] ajudar a manter o naro rodou no ar
+
+[00:45] altair isso aí e para contribuir basta
+
+[00:47] usar aplicativo picpay e assinar o apoio
+
+[00:50] mensal de 15 reais são duas coca zero
+
+[00:53] querido ouvinte que ele não 20 uma
+
+[00:55] pronto aí e uma para mim e como
+
+[00:57] assinante além da nossa gratidão você
+
+[01:00] terá três coisas você terá acesso ao
+
+[01:02] grupo secreto no telegram ou seja
+
+[01:04] assinante pode conversar com a gente com
+
+[01:06] a comunidade de ouvir se assinantes dois
+
+[01:09] você terá vantagens especiais por
+
+[01:11] exemplo assinante recebe os episódios no
+
+[01:13] grupo secreto telegram antes de todo
+
+[01:15] mundo e três você receberá conteúdos
+
+[01:18] exclusivos
+
+[01:19] e por exemplo o assinante recebe
+
+[01:20] episódios que só são distribuídas no
+
+[01:23] grupo secreto do telegram então é isso
+
+[01:25] baixe o aplicativo picpay e assine o
+
+[01:28] apoio mensal com picpay você ainda vai
+
+[01:31] poder pagar boleto transferir dinheiro
+
+[01:32] entre amigos recarregar celular sacar o
+
+[01:35] saldo em qualquer banco 24 horas sem
+
+[01:37] taxa e olha só no primeiro mês de apoio
+
+[01:40] na rodou você ainda tem um cash back de
+
+[01:43] 10reais isso mesmo você assina e recebe
+
+[01:46] r$10 de volta tá temos desde já e
+
+[01:50] participe por favor é isso aí ó
+
+[01:54] o item podcast novo da família b9 no ar
+
+[01:59] e você tem que ouvir especialmente você
+
+[02:04] homem ouço recado da juliana vai lavar
+
+[02:09] era uma vez num reino menos distante do
+
+[02:13] que a gente imagina uma história mais
+
+[02:16] comum do que a gente gostaria um lado
+
+[02:20] aterrador desse confinamento é que
+
+[02:23] aumentaram os casos de violência
+
+[02:25] doméstica
+
+[02:26] é só no paraná o aumento foi de vinte
+
+[02:29] por cento e no rio de janeiro cinquenta
+
+[02:32] por cento não é só na quarentena
+
+[02:37] infelizmente manchetes como essas ainda
+
+[02:40] estampa um jornais quase todos os dias
+
+[02:42] mais de 500 mulheres são agredidas por
+
+[02:46] hora no brasil na luta para combater a
+
+[02:50] violência contra mulher meninos com
+
+[02:52] apoio da natura lança agora a minissérie
+
+[02:55] era uma vez em cinco capítulos juntas e
+
+[02:59] juntos a gente vai refletir sobre como
+
+[03:01] trilhar caminhos para escapar desse
+
+[03:04] triste conto da violência doméstica que
+
+[03:06] quase nunca é acompanhado de um felizes
+
+[03:09] para sempre todos os episódios da
+
+[03:12] minissérie era uma vez já estão
+
+[03:14] disponíveis para download no filho do
+
+[03:16] mamilos no seu agregador de podcast
+
+[03:18] favorito escute agora em
+
+[03:22] e aí chegou o momento a lua desse
+
+[03:25] episódio ao tá aí isso aí dessa vez é
+
+[03:28] para gente divulgar um curso específico
+
+[03:31] a é o curso grátis inédito de cinco dias
+
+[03:36] sobre ciência de dados isso mesmo é a
+
+[03:40] sua chance de iniciar gratuitamente uma
+
+[03:44] formação de cientistas de dados mas para
+
+[03:47] fazer parte desta turma especial
+
+[03:49] gratuita você precisa fazer a sua
+
+[03:52] inscrição hoje mesmo porque elas acabam
+
+[03:55] no dia dezenove de abril então
+
+[03:58] inscreva-se grátis em alura.com.br barra
+
+[04:04] quarentena dados tudo junto repetindo
+
+[04:08] alura.com.br barra quarentena dados é a
+
+[04:13] lura ajudando você aprender enquanto
+
+[04:17] fica em casa ao
+
+[04:22] ah e hoje é dia de ficar em casa mais
+
+[04:26] uma vez com muito medo e a gente tem
+
+[04:30] pergunta de ouvinte que também tá em
+
+[04:32] casa ou tá indo também começa a pergunta
+
+[04:35] é do bruno gil miley está que eu tenho
+
+[04:39] falado nome dele corretamente tem 31
+
+[04:41] anos ea programador em são sebastião do
+
+[04:44] paraíso minas gerais mais um programador
+
+[04:47] e ele mandou uma pergunta que deixou a
+
+[04:50] gente angustiado tá no bom sentido vai
+
+[04:53] dar para trocar muita coisa interessante
+
+[04:55] mas eu peço que passam que ele tá
+
+[04:57] escrevendo a gente ele dia seguinte não
+
+[05:01] sei quem vários anos trabalhando com meu
+
+[05:03] chefe sempre que eu me sentia ameaçada
+
+[05:05] por ele a sentia muito mesmo daí algum
+
+[05:08] erro que não tinha percebido eu passava
+
+[05:10] enxergar muito facilmente para o mesmo
+
+[05:12] acontecia quando eu precisava lançar um
+
+[05:14] projeto e nos momentos finais eu
+
+[05:16] percebia algo que um bilizaria e corria
+
+[05:19] para corrigir eu achava que esse
+
+[05:22] eu exijo do ambiente de trabalho mas com
+
+[05:24] robloxs orientado pela pandemia do
+
+[05:27] corona eu não tenho mesmo comportamento
+
+[05:30] de minha parte em um episódio de medo
+
+[05:32] com minha esposa estava trabalhando ela
+
+[05:35] chegou em casa e como ela é psicóloga na
+
+[05:37] rede pública conversavam sobre o dia
+
+[05:39] dela um dos pontos era de que ela teria
+
+[05:42] que em todas as unidades de saúde da
+
+[05:44] cidade para atender os profissionais que
+
+[05:46] trabalham lá por conta da iminente
+
+[05:48] possibilidade de contaminação comentei
+
+[05:50] mas você tem que ir mesmo nesse momento
+
+[05:53] ela falou rispidamente comigo eu levei
+
+[05:55] susto fiquei com medo da reação dela aí
+
+[05:58] quando eu voltei meus olhos para a tela
+
+[06:00] do computador eu percebi uma instrução
+
+[06:03] no código do projeto que estava
+
+[06:05] completamente errado eu gostaria de
+
+[06:08] saber se esse comportamento de ficar com
+
+[06:11] medo e melhorar a produtividade a
+
+[06:14] qualidade do trabalho tem alguma
+
+[06:15] associação então olha só pra pergunta
+
+[06:18] curiosa vai ai curiosa uma situação de
+
+[06:21] angústia
+
+[06:22] eu não posso deixar de dizer que eu
+
+[06:24] industrial no lugar deles é por isso
+
+[06:27] como uma pessoa que trabalhou
+
+[06:29] principalmente agência de publicidade
+
+[06:31] outras empresas você já sentiu isso
+
+[06:33] alguma vez eu não sei se era uma
+
+[06:35] situação de medo pela presente dica
+
+[06:37] assim mas eu diria que aqui em momentos
+
+[06:40] de ser atenção um eu me sentia mais
+
+[06:43] concentrado assim para resolver os
+
+[06:45] problemas por causa que eu tomava uma
+
+[06:47] bronca assim logo depois quero ver com
+
+[06:50] bronca não privilegiado pelo tomei tanta
+
+[06:53] coisa assim não era mais pela atenção
+
+[06:56] mesmo assim gente prazo um prazo que já
+
+[06:59] estava todo mundo sabe é realmente uma
+
+[07:03] pressão mas imagina situações por
+
+[07:05] exemplo de assédio existe pelo menos na
+
+[07:08] cultura organizacional de várias
+
+[07:10] empresas de que se você aperta as
+
+[07:12] pessoas elas produzem mais tem aquela
+
+[07:14] figura do chefe que a gente vai tá
+
+[07:16] discutir aquela figura do chefe a os
+
+[07:18] meus funcionários são os que me aguentam
+
+[07:20] por isso que são os melhores tem um fio
+
+[07:22] e fica muito essa dinâmica assim que é
+
+[07:24] um filme que chama whiplash quem não
+
+[07:26] assistiu ainda assista recomenda né é um
+
+[07:29] professor de música de bateria que é
+
+[07:31] completamente obscena o grau de assédio
+
+[07:35] moral que imprimir nos alunos e ele
+
+[07:37] justifica essa esse grau de assédio tão
+
+[07:40] exacerbado porque somente os alunos que
+
+[07:42] superarem esse tipo de teste de assédio
+
+[07:44] extremo são aqueles que tem talento de
+
+[07:46] verdade esse talento florescerá tanto é
+
+[07:49] que lembra bastante inclusive
+
+[07:51] autoridades asiáticas né na escola de
+
+[07:56] arte tem uma questão cultural envolvida
+
+[07:59] também né o seu próprio trabalho o
+
+[08:01] relatório que você produziu com a anna
+
+[08:03] cortar lá e sobre assédio e agências
+
+[08:06] muitos dos relatos tem a ver com isso né
+
+[08:08] de em situações de stress onde as regras
+
+[08:11] não são claras mas tem uma imposição que
+
+[08:14] não necessariamente é de tempo mas sem
+
+[08:16] de autoridade mesmo por assédio o mesmo
+
+[08:18] porque a situação tá ruim tá difícil
+
+[08:20] acaba gerando um estado de
+
+[08:22] a tensão e medo nas pessoas e aí elas
+
+[08:25] agem inicialmente de forma adaptada mas
+
+[08:28] ao longo prazo isso gera consequências
+
+[08:30] graves né tem o episódio que eu até
+
+[08:32] gravei ontem podcast que a leila
+
+[08:34] participou também que achou hibernalt
+
+[08:35] que é uma consequência disso então assim
+
+[08:38] respondendo rapidamente a pergunta o
+
+[08:40] medo aumenta a produtividade no trabalho
+
+[08:42] sim dependendo do que você define como
+
+[08:45] trabalho tá independente definir
+
+[08:48] produtividade exatamente exatamente e
+
+[08:51] tem um outro ponto importante o medo
+
+[08:53] aumenta produtividade no trabalho apenas
+
+[08:56] do ponto de vista local assim logo
+
+[08:58] depois do evento e isso gera um efeito
+
+[09:00] negativo a longo prazo então por exemplo
+
+[09:03] se eu dou uma bronca em você e você
+
+[09:05] presta muita atenção aí você realiza
+
+[09:07] alguma tarefa em geral estereotipada
+
+[09:09] depois a gente fala dos artigos sobre
+
+[09:10] isso você realiza sua tarefa um
+
+[09:12] pouquinho melhor só que conforme eu vou
+
+[09:14] te dando broncas para você aumentar a
+
+[09:16] produtividade o efeito da bronca começa
+
+[09:18] a ser cada vez menor a pessoa vai
+
+[09:20] entrando e desamparo ela vai ficar
+
+[09:22] ou menos reativas o primeiro momento a
+
+[09:25] primeira reação até que colocou ela no
+
+[09:28] estado de atenção e isso você aumenta a
+
+[09:30] capacidade principalmente de atenção
+
+[09:32] então pra tarefas que demandam atenção
+
+[09:34] você até melhora mas esse efeito dura
+
+[09:37] muito pouco tempo e aí fica na verdade
+
+[09:39] que dura mais tempo a experiência
+
+[09:41] negativa do assédio ou dá bronca ou da
+
+[09:44] crítica e essa experiência negativa ela
+
+[09:46] vai se acumulando e aí ela acaba
+
+[09:48] inibindo o efeito teoricamente positivo
+
+[09:51] local do medo lá na produtividade e
+
+[09:54] existem empresas né a gente deve falar
+
+[09:56] isso existem empresas que tem como
+
+[09:58] cultura e estimular o medo nas pessoas
+
+[10:00] tá não funcionários faz parte da cultura
+
+[10:03] organizacional e algumas empresas e aí
+
+[10:06] se a pessoa vai certas classes de
+
+[10:09] empresas que têm isso como uma cultura
+
+[10:11] institucionalizada tanto é que tem um
+
+[10:15] ter novo é muito grande tem uma
+
+[10:16] rotatividade e aí a justificativa que se
+
+[10:19] dá ele não era bom bastante não aguenta
+
+[10:21] o tranco e aí
+
+[10:22] e esse episódio ele tem duas partes a
+
+[10:25] primeira parte ia falar porque assim do
+
+[10:27] ponto de vista individual né pensando na
+
+[10:29] causa material e formal do indivíduo por
+
+[10:31] quê que o medo aumenta localmente ea
+
+[10:33] produtividade e para quem temos de
+
+[10:35] tarefa isso funciona tá então vamos
+
+[10:37] falar primeiro nível individual depois a
+
+[10:40] ideia é atacar a ideia de grupo porque
+
+[10:42] para você sentir medo você tem que ser
+
+[10:44] ameaçado por alguém ou por algo e não ou
+
+[10:47] curau um ambiente mesmo contexto às
+
+[10:50] vezes uma pessoa e tal então nunca você
+
+[10:52] tá sozinho a nesse contexto então sempre
+
+[10:55] tem um papel do grupo mesmo que seja um
+
+[10:56] grupo de dois como nossa ouvinte ele
+
+[10:58] comentou da esposa pode ser um grupo de
+
+[11:00] dois mas tem geral no ambiente
+
+[11:02] organizacional é um clima um grupo maior
+
+[11:04] e aí vamos entrar em uma teoria clássica
+
+[11:07] assim muito clássica da psicologia de
+
+[11:08] grupos que vem da psicanálise que é a
+
+[11:10] teoria do peão vilfred bio naquela
+
+[11:13] apresentar para quem não conhece a
+
+[11:15] teoria dos supostos básicos né que é uma
+
+[11:17] teoria bem interessante de grupo e aí o
+
+[11:20] ken fujioka vai conseguir perceber muito
+
+[11:21] bem da lágrima
+
+[11:22] os grupos várias situações em que os
+
+[11:25] tipos de suposto básico costuma aparecer
+
+[11:27] que é uma coisa bem interessante essa
+
+[11:29] pergunta ela parece meio prosaica mas
+
+[11:31] ela afeta várias áreas do conhecimento
+
+[11:32] várias áreas estudando essa relação
+
+[11:35] entre medo barra stress né mas na
+
+[11:38] verdade eu vou focar bem a emoção de
+
+[11:40] medo porque a stress é um pouco
+
+[11:41] diferente o estresse é algo mais
+
+[11:43] sistêmico o stress a como se fosse uma
+
+[11:46] caixa d'água que vai enxendo você vai
+
+[11:48] enxendo você tá no ambiente estressante
+
+[11:50] você não tá com medo porque não tem algo
+
+[11:52] pontual que te ameaçou não é uma bronca
+
+[11:54] né então você tá ali de boa um ambiente
+
+[11:57] para que interessante mesmo várias
+
+[11:58] coisinhas inclusive só vai chamar né
+
+[12:02] então tem uma situação que você tá no
+
+[12:04] ambiente hostil só que isso não te afeta
+
+[12:06] muito vai somando então cê não fica com
+
+[12:08] medo vai acumulando uma coisa né e ainda
+
+[12:11] era uma câmera por volta isso a gente
+
+[12:14] não vai falar a gente vai falar da
+
+[12:16] situação de medo como algo pontual mesmo
+
+[12:18] lá depois fica outro episódio foi
+
+[12:21] questão do stress que aí
+
+[12:22] é porque são coisas completamente
+
+[12:24] diferentes vamos começar por exemplo com
+
+[12:27] esse essa ação do medo ou da bronca na
+
+[12:30] produtividade primeiro no ambiente
+
+[12:32] escolar escola é muito comum isso tem um
+
+[12:34] artigo muito interessante de 2015 que
+
+[12:37] mostra o estilo do docente do professor
+
+[12:40] no desempenho dos alunos em matemática
+
+[12:42] que é uma coisa muito comum muita gente
+
+[12:44] já viu isso né é um artigo bem legal
+
+[12:46] porque eles faz um desenho experimental
+
+[12:48] bem interessante eles pegam 273 alunos
+
+[12:51] eles têm entre 15 e 16 anos no colégio
+
+[12:54] na inglaterra e esses alunos eles fazem
+
+[12:58] um colégio normal ele tem a matéria de
+
+[13:00] matemática aí durante o ano né do
+
+[13:02] semestre de matemática eles vão fazendo
+
+[13:05] provas e quando eles terminam o ano
+
+[13:07] alguns alunos com 15 e outros com 16
+
+[13:10] anos eles tem que fazer um teste
+
+[13:11] nacional então quando eles terminam tipo
+
+[13:14] ensino médio ele tem que fazer um teste
+
+[13:16] nacional que é o a tradução é o
+
+[13:18] certificado geral de educação secundária
+
+[13:21] seria meu
+
+[13:22] me conta as coisas não é até mais
+
+[13:25] importante que o enem porque o quando
+
+[13:27] você termina o colégio não é o ensino
+
+[13:28] médio quando você terminar o ensino
+
+[13:30] médio você passou nas matérias seguir o
+
+[13:31] certificado do ensino médio se você
+
+[13:33] quiser fazer faculdade ou não é com você
+
+[13:35] na inglaterra você faz até o final do 3º
+
+[13:38] ano do ensino médio você tem que fazer
+
+[13:40] essa prova nacional quando você passa na
+
+[13:43] prova nacional aí você tem o certificado
+
+[13:44] então você não passa de ano no último
+
+[13:47] ano você tem que passar nacionalmente é
+
+[13:49] tipo um advogado que você forme
+
+[13:51] advocacia tem que fazer a prova da oab
+
+[13:52] para vir a advogada você tem que fazer
+
+[13:54] uma prova para vir alguém formado no
+
+[13:56] ensino médio e ainda tem dentro do seu
+
+[13:58] score da nota que você tem mesmo que
+
+[14:00] você não queira fazer faculdade isso te
+
+[14:03] garante alguns tipos de vagas de emprego
+
+[14:05] então tem algumas empresas que só
+
+[14:07] contratam jovens que tiveram a partir de
+
+[14:09] uma certa nota então negócio super
+
+[14:11] importante você não é uma coisa trivial
+
+[14:13] nessa prova né e a matemática é uma
+
+[14:16] matéria que conta muito fica você vê que
+
+[14:18] você tá no colégio ou se preparando para
+
+[14:20] essa prova aí eles pegaram esses
+
+[14:22] o e avaliaram os docentes e os alunos e
+
+[14:25] os professores responde a um
+
+[14:26] questionário é chamado to fakie no sofá
+
+[14:29] a tradução do inglês o questionário é o
+
+[14:32] questionário sobre estilos de ensino dos
+
+[14:35] professores então os alunos respondiam
+
+[14:37] questões sobre avaliação dos professores
+
+[14:40] não é avaliação dele mas vamos variação
+
+[14:42] do estilo dele que estilo que o
+
+[14:44] professor tinha então algumas perguntas
+
+[14:46] das questionário é assim o aluno
+
+[14:48] respondendo né meu professor sempre me
+
+[14:50] diz que é para eu ter altas notas em
+
+[14:52] matemática porque senão não vou ter um
+
+[14:54] bom trabalho porque eu não vou ter uma
+
+[14:56] nota alta na prova é meu professor me
+
+[14:58] faz pensar as vezes que eu acho que eu
+
+[15:00] não consigo ir bem em matemática são
+
+[15:03] algumas das perguntas né que os alunos
+
+[15:04] respondem bravo e aí eles pegaram os
+
+[15:07] alunos que eram ensinados por
+
+[15:09] professores de matemática que tinham
+
+[15:11] escores de medo mais altos que são
+
+[15:13] professores que usam estratégias de medo
+
+[15:15] não o professor que chega e fala seu
+
+[15:17] burro não é isso é mais útil né meu
+
+[15:22] em algum tipo de medo assim que seja não
+
+[15:25] é assédio tá vendo não fala seu burro
+
+[15:27] mas algum dele imprimir algum tipo de
+
+[15:29] competição exacerbada ou ele faz o aluno
+
+[15:32] que está aqui não é tão bom assim e não
+
+[15:34] é uma coisa mais útil você pode comprar
+
+[15:36] isso com não fosse me dar um exemplo é
+
+[15:40] uma coisa do tipo olha se você não levar
+
+[15:42] a sério você não vai arrumar um emprego
+
+[15:44] não vai nenhum por exemplo alguns
+
+[15:46] exemplos ou tá vendo como você é você
+
+[15:48] diga ser igual ovulando então você não
+
+[15:50] vem a pessoa pode faz agressivo pode ser
+
+[15:53] maior de pode a se você quiser se você
+
+[15:55] estudasse igual fulano você ia bem você
+
+[15:57] não respeita deus em trazer do indivíduo
+
+[15:59] às vezes né então eles pegaram os alunos
+
+[16:02] que vieram de professores que tinham
+
+[16:03] estilos mais medrosos né que imprimiram
+
+[16:05] mais rápido panela computadores e aí o
+
+[16:09] que que eles encontraram nas provas
+
+[16:11] durante o ano né que era os alunos e o
+
+[16:14] melhor então imagina eu tenho um grupo
+
+[16:16] de alunos que faz aula com professor que
+
+[16:18] dá medo e outro que não o professor que
+
+[16:20] dá medo ele gerava nós
+
+[16:22] e médias nos alunos nas provas dele mais
+
+[16:25] altas então durante o ano né ele dava
+
+[16:27] bronca e um mês depois você faz a prova
+
+[16:30] dois meses depois você faz a prova só
+
+[16:32] que quando você ia fazer essa prova
+
+[16:33] geral que era um ano depois eles vão
+
+[16:35] pior entendi então localmente eu
+
+[16:38] melhorar o seu desempenho mas de forma
+
+[16:40] distante eu atrapalho seu desempenho que
+
+[16:43] quando eu mais importante só que aí o
+
+[16:45] professor ele tem o feedback só do lado
+
+[16:47] bom então ele continua agindo do jeito
+
+[16:48] que ele acha porque ele acha bom esse
+
+[16:50] artigo dá uma paulada nesses professores
+
+[16:52] que é muito carrasco sabe uma coisa você
+
+[16:55] uma coisa o aluno ser um bombeiro que
+
+[16:56] não faz nada e vagabundo mas a maior
+
+[16:58] parte dos alunos são ok então na média
+
+[17:01] se você tem você entrando faltando lixo
+
+[17:04] e você tem que valorizar isso né mas aí
+
+[17:07] o docente e algo natural principalmente
+
+[17:09] quando são muitos alunos ele só reparou
+
+[17:11] no cara muito bom e é muito ruim ele não
+
+[17:13] repara o meião né aí o meio ele vai
+
+[17:15] homogeneizado e é isso que essas
+
+[17:17] professores que imprimem medo acabam
+
+[17:19] gerando você tem um aumento do
+
+[17:21] desempenho para o
+
+[17:22] é mais uma piora do desempenho digital e
+
+[17:25] aí que você gera hoje era o cara com 25
+
+[17:27] anos que tem medo de matemática por
+
+[17:29] exemplo é ótimo muito bom é isso essa
+
+[17:31] discussão é bem interessante ou o que lá
+
+[17:33] na frente vai ter medo de autoridade com
+
+[17:35] desenho não pode generalizar para outras
+
+[17:37] coisas também né isso a gente vai ver na
+
+[17:38] teoria do binho como isso generaliza
+
+[17:40] então a gente já viu alguma aplicação
+
+[17:41] para a escola né você viu que isso gera
+
+[17:43] efeitos de sais como que isso acontece
+
+[17:46] na causa material né esses experimentos
+
+[17:47] bem legal pena que eu ainda é pequeno
+
+[17:49] eles fizeram uma reprodução depois por
+
+[17:51] isso que eu tô trazendo esse artigo é
+
+[17:54] uma tipo de 2015 em que eles fizeram
+
+[17:56] assim eles pegaram um grupo de pessoas
+
+[17:58] assim tem um grupo que foi testado e tem
+
+[18:01] o grupo que preparou o teste então assim
+
+[18:04] eles pediram para um grupo de pessoas
+
+[18:05] durante as que quatro dias usa sabonete
+
+[18:08] neutro e shampoo sem nenhum cheiro né
+
+[18:13] não dá perfume não usar tá pode tomar
+
+[18:15] banho mas sem nenhum cheiro é isso
+
+[18:18] durante quatro dias a gente trouxeram as
+
+[18:20] pessoas no laboratório a pessoa assistir
+
+[18:22] e como a camiseta que eles ofereciam
+
+[18:24] então eu mostrava para você você com uma
+
+[18:26] camiseta branca por exemplo eu mostrava
+
+[18:28] para você um grupo de pessoas vir o
+
+[18:30] vídeos comuns sem nenhuma variabilidade
+
+[18:33] emocional um outro grupo viu filmes que
+
+[18:35] dava muito medo tá leva susto dava muito
+
+[18:38] medo e essa e aí esses grupos eram
+
+[18:41] monitorados por um eletrodo na mão e
+
+[18:44] avalia avaliava a variabilidade da
+
+[18:47] condutância da pele quando você leva um
+
+[18:50] susto por exemplo a condutância da sua
+
+[18:53] pele se altera né que a troca de água na
+
+[18:55] pele e gera uma despolarização né pelo
+
+[18:58] suor que uma máquina kafta então ela
+
+[19:01] consegue captar não que tipo de emoção
+
+[19:03] você sente mas que você está sob efeito
+
+[19:05] da emoção então eles mostrar um filme de
+
+[19:08] terror a pessoa assistia eu monitorava
+
+[19:11] só condutância da pele e isso me dizia
+
+[19:13] se você tava sentindo medo mesmo isso
+
+[19:15] tem a ver com o senhor isso apenas
+
+[19:17] sudorese né é todo mundo já deve ter
+
+[19:20] sentido isso que você sua frio como se
+
+[19:22] e quando você toma um susto parece que
+
+[19:24] sai água de dentro de você e sai mesmo é
+
+[19:27] o que o aparelho mente as mãos ficam
+
+[19:29] molhadas nós combinamos para ele médio
+
+[19:31] né e aí a pessoa estava usando uma
+
+[19:33] camiseta né e aí um grupo de pessoas vi
+
+[19:35] um filme neutro aí eu me dava camiseta
+
+[19:37] um outro grupo de pessoas vi o filme que
+
+[19:39] dava medo e me dava a camiseta então eu
+
+[19:41] tinha uma camiseta com o suor de pessoas
+
+[19:43] que passaram por medo e outra camiseta
+
+[19:45] com controle e daí eu trazer um outro
+
+[19:48] grupo de pessoas e mostrava a camiseta
+
+[19:50] eu deixava pessoa cheirar camiseta então
+
+[19:53] um grupo teve contato com time os sinais
+
+[19:56] de medo né que era camiseta de pessoas
+
+[19:58] que sentiram medo e o outro teve contato
+
+[20:00] com que me os sinais de controle né de
+
+[20:02] pessoas que só viram filmes literalmente
+
+[20:04] sentir o cheiro do norte igual cachorro
+
+[20:07] gato igual né e aí eu aplicava um teste
+
+[20:10] de pareamento de palavras antes e depois
+
+[20:14] da pessoa cheirar camiseta então é lá eu
+
+[20:16] fiz as camisetas depois eu aplicava um
+
+[20:18] teste de associação de palavras para
+
+[20:20] você tava camiseta t-shirt
+
+[20:22] em casa de novo e a gente a variação no
+
+[20:24] resultado do teste o que que aconteceu
+
+[20:26] as pessoas que chegaram a camiseta com
+
+[20:29] medo legal camiseta de medo elas tiveram
+
+[20:31] um desempenho melhor nas atividades de
+
+[20:33] associação de palavras eram era um teste
+
+[20:36] para você ver sinônimos por exemplo
+
+[20:39] então eu tava uma palavra e em outras
+
+[20:41] duas ou três para você dizer qual era
+
+[20:42] sinônimo de qual e você tinha que
+
+[20:44] responder bem rápido tá bom tá então é
+
+[20:47] uma coisa a simples mas que você seja a
+
+[20:50] velocidade responde aí a pessoa tinha um
+
+[20:52] incremento ela tinha um ganho a pessoa
+
+[20:53] que tinha contato com que meu receptor
+
+[20:55] de medo ela tinha uma resposta maior ela
+
+[20:57] acertava mais só que em outras tarefas
+
+[21:00] por esse mesmo grupo de pessoas outras
+
+[21:02] tarefas que eram ligadas a detectar
+
+[21:05] figuras ambíguas ela ia muito pior e
+
+[21:08] pela figura número significa que são
+
+[21:10] tarefas que exigiam mais detalhe mas é
+
+[21:13] isso vai ah mas não tem corretagem não
+
+[21:16] só os detalhes como a capacidade de
+
+[21:18] processamento maior era um tarefas mais
+
+[21:20] complexas isso então tá né
+
+[21:22] é só tensão comparar com a b com b
+
+[21:25] coisas assim até acerta mais nas tarefas
+
+[21:28] mais antigos que leva mais capacidade de
+
+[21:31] processamento a pessoa e é muito pior de
+
+[21:34] animais da capacidade cognitiva a tarefa
+
+[21:36] de alternância tarefas de percebeu o
+
+[21:38] contrário então não é o sinônimo é o
+
+[21:40] antónimo a pessoa é muito pior tá então
+
+[21:43] você vê que esse comportamento de medo
+
+[21:45] ele ele cia em você o comportamento de
+
+[21:48] ataque ou fuga ou você ataca você corre
+
+[21:50] e aí você quer resolver o problema do
+
+[21:52] jeito mais estereotipada possível por
+
+[21:54] isso que você ia bem tarefa simples e a
+
+[21:56] mal em tarefas que demandam um pouco
+
+[21:58] mais de processamento muito parecido com
+
+[22:00] efeito de xbox são que a gente viu no
+
+[22:02] nosso episódio sobre epidemias é pensa
+
+[22:05] de uma forma internet pada e aí logo a
+
+[22:07] pessoa começa no caso do nosso amigo
+
+[22:09] programador como ele já tem muito
+
+[22:11] incrementado nele a programação né as
+
+[22:14] regras de programação às vezes um erro
+
+[22:16] de programação atrai a atenção dele uma
+
+[22:18] tarefa para ele é trivial né então
+
+[22:20] portanto ele
+
+[22:22] a enxergar vou ele olha para uma tela de
+
+[22:25] códigos e ele ver que faltou uma vírgula
+
+[22:26] ou falta mico ao ou falta uma chave ele
+
+[22:30] pega isso né é bem essa tarefa de
+
+[22:32] atenção agora pensa numa agência de
+
+[22:34] publicidade um cara criativo ele trava
+
+[22:36] né na hora de inventar alguma coisa ele
+
+[22:37] trava né por isso que dá barnaut um
+
+[22:40] grupo e no outro demora mais para dar
+
+[22:41] bernalt né o cara só fica doido você não
+
+[22:44] tem perdão tá esse trabalho é bem
+
+[22:46] interessante usar ganho é pequeno ele é
+
+[22:48] bem interessante para mostrar essa coisa
+
+[22:50] mais material muito interessante é muito
+
+[22:52] interessante tem um outro lado também
+
+[22:54] ligado a causa formal que quando a
+
+[22:56] pessoa já senti medo sempre então tem
+
+[22:59] duas situações em que a diferente de
+
+[23:01] estresse a pessoa sempre senti medo da
+
+[23:04] onde eu vou pegar duas situações casos
+
+[23:06] de pessoas em que ela sempre está com
+
+[23:07] medo de alguma coisa uma situação é
+
+[23:09] quando a pessoa tá com dor
+
+[23:10] constantemente é um artigo muito legal
+
+[23:13] também que ele pega pessoas com cefaleia
+
+[23:15] não é dor de cabeça constantemente não
+
+[23:18] acontece um comportamento muito
+
+[23:20] interessante pessoas com cefaleia
+
+[23:22] e a pessoa que não se falei assim ela
+
+[23:25] tem medo de sentir dor porque ela não
+
+[23:27] tem controle né de ter dor de cabeça e
+
+[23:29] dor de cabeça vem né então a senti muito
+
+[23:32] medo não é um comportamento muito
+
+[23:33] interessante que as pessoas com cefaleia
+
+[23:36] constante assim elas têm medo de pensar
+
+[23:38] ao pensar ela vai acabar provocando a
+
+[23:41] falta que você faz um esforço com seu
+
+[23:44] cérebro assim sua cabeça dói é um
+
+[23:46] comportamento muito comum por isso que
+
+[23:48] pessoas que você fala aí assim muitos
+
+[23:50] anos por exemplo vai gerando uma redução
+
+[23:52] das funções cognitivas não pela cefaleia
+
+[23:54] mas pelo medo da inatividade a grande
+
+[23:57] deixa eu abrir um parênteses aqui ó tá
+
+[23:58] na que você tocou nesse assunto você
+
+[24:01] esforçar para pensar em relação que você
+
+[24:04] fala aí não tem não vou pegar não pode
+
+[24:07] colocar mais internet deve controle de
+
+[24:08] quando ganhador né claro você acha a dor
+
+[24:11] tá na cabeça então óbvio que deve estar
+
+[24:13] relacionado com quem você tem que
+
+[24:15] associar uma vez que você pensou muito e
+
+[24:17] a sua cabeça doeu logo depois por acaso
+
+[24:20] existirmos assim
+
+[24:22] o meu de tanto pensar existe até essas
+
+[24:24] coisas não faz sentido mas as pessoas
+
+[24:26] associam e é normal fazer essa
+
+[24:28] associação e nesse artigo mostra que ele
+
+[24:31] descreve o comportamento de pessoas com
+
+[24:32] cefaleia e pessoas controle frente a
+
+[24:35] esses medos de pensar tem um
+
+[24:37] comportamento muito legal que este
+
+[24:38] artigo descreve que quando eu sei que
+
+[24:41] vai vir minha dor de cabeça né eu sei
+
+[24:43] que vai vir então eu quero resolver o
+
+[24:45] meu trabalho mais rápido possível para
+
+[24:47] que minha dor passe logo ou para não
+
+[24:49] deixar até ouvir a eles aplicaram testes
+
+[24:51] também de associação de palavras pessoas
+
+[24:54] como cefaleia elas vão melhor elas um
+
+[24:57] pouquinho melhor em tarefas rotineiras
+
+[24:59] cotidianas estereotipados mas tá na cara
+
+[25:01] que existe um pouco mais de elaboração
+
+[25:03] elas vão pior isso é cefaleia se
+
+[25:05] prolonga por muito tempo mesmo as
+
+[25:07] tarefas mais simples ela começa a ir mal
+
+[25:09] então você ver que o medo eu te ajuda a
+
+[25:11] resolver localmente os problemas para
+
+[25:13] fugir mas depois a longo prazo ele te
+
+[25:15] gera desamparo então não é adaptativo
+
+[25:17] você criar um ambiente que gera medo não
+
+[25:19] é bom não é útil não é válido você
+
+[25:22] as pessoas tá não sei tem um sentido
+
+[25:24] isso também acontece numa outra área
+
+[25:27] quer esporte é um outro tipo de medo que
+
+[25:29] é o medo de perder pessoas mais
+
+[25:31] competitivas sabe esporte de alto nível
+
+[25:33] o medo é perder é a mesma coisa da
+
+[25:36] cefaleia né ela treina treina treina
+
+[25:38] treina treina muito treino corpo e tal
+
+[25:41] só que o medo de perder dela é tão
+
+[25:43] grande que às vezes na hora de
+
+[25:45] desempenhar a tarefa quando é uma tarefa
+
+[25:47] motora tipo sei lá aquele flash a uma
+
+[25:50] tarefa que depende só de você tirar o
+
+[25:52] alvo sabe coisas assim a pessoa tem
+
+[25:55] melhor quando são tarefas que dependem
+
+[25:57] unicamente de atividade motora e
+
+[25:59] controle mas por exemplo futebol a
+
+[26:01] pessoa trava porque é uma coisa de grupo
+
+[26:04] depende de mais pessoas depende de
+
+[26:06] integração a pessoa que tem medo muito
+
+[26:08] medo de perder ela sente dificuldades de
+
+[26:11] lidar em jogos o coisa de grupo eu pela
+
+[26:15] minha instintivamente ela saiu o
+
+[26:18] contrato só vou falei nada dividuais
+
+[26:20] aqui deixa a pessoa mais
+
+[26:22] e ainda e aí prejudicaria todas aquelas
+
+[26:25] atividades que dependem bom cidade
+
+[26:27] motora simples o que eu mais lembro
+
+[26:30] assim que é mais estereotipada que tem
+
+[26:31] no artigo é coisas ligadas não tirou o
+
+[26:32] alvo do tiro ao alvo e é uma coisa bem
+
+[26:34] motor assim mesmo por exemplo você pega
+
+[26:36] ping-pong é diferente peguei pão que
+
+[26:38] depende do outro de momento de muita
+
+[26:40] coisa aí o medo de perder ele não é ele
+
+[26:43] pode ser desadaptativo então se você
+
+[26:45] quiser se arco e flecha por exemplo o
+
+[26:47] seu medo de perder até para desativar
+
+[26:48] mas quando você jogando ping-pong não é
+
+[26:51] bom então todo mundo sente medo a
+
+[26:54] questão hoje a gestão que você faz desse
+
+[26:56] medo quando o medo paralisa ele só te
+
+[26:58] ajudem atividade bem locais mas não ao
+
+[27:00] longo prazo mas então faz sentido aquele
+
+[27:02] provérbio que tem no futebol de o medo
+
+[27:06] de perder tira a vontade de ganhar faz
+
+[27:09] realmente faz sentido de certa forma o
+
+[27:11] mesmo de perder acaba do leite dominando
+
+[27:14] a célula da pessoa aprende de forma
+
+[27:16] estereotipada numa tarefa mais complexa
+
+[27:18] que é um jogo em grupo você acaba
+
+[27:20] ficando limitado lembra muito o que
+
+[27:22] é por isso que é legal comparar esses
+
+[27:24] dois trabalhos e aí pra fechar agora a
+
+[27:26] gente chega na serviço de grupo né então
+
+[27:28] todas essas evidências do estudante da
+
+[27:31] pessoa com cefaleia do esportista são
+
+[27:33] fenômenos individuais né só falando com
+
+[27:35] você mesmo tá só que todo esse contexto
+
+[27:38] depende do grupo se você tá com medo que
+
+[27:40] tem um jogo que tem outras pessoas né se
+
+[27:43] você recebe bronca porque tenho chefe de
+
+[27:45] uma empresa e aí é uma ótima
+
+[27:47] oportunidade para apresentar um teórico
+
+[27:49] da psicologia e da psicanálise inclusive
+
+[27:51] que é o vilfred biomm eu eu gosto muito
+
+[27:53] dele eu ele veio para o brasil em 1970
+
+[27:56] tanto aqui tem um livro que a minha no
+
+[27:58] brasil que é contém um resumo das
+
+[28:01] palestras que ele deu da sua previsões
+
+[28:03] muito legal vale a pena falar um
+
+[28:05] pouquinho da história do rio ele é um
+
+[28:06] psicanalista inglês ele nasceu na índia
+
+[28:08] né apesar de ser inglês nasceu na índia
+
+[28:10] na época que a inglaterra dominava a
+
+[28:12] índia né ele entrou na primeira guerra
+
+[28:13] como comandante de tanque e ele saiu
+
+[28:18] começou a como soldado só voltou da
+
+[28:19] guerra como capitão e ele foi muito
+
+[28:21] marcado
+
+[28:22] e ele era uma pessoa muito sensível às
+
+[28:25] questões da guerra assim tanto que uma
+
+[28:27] das primeiras coisas que ele fez como
+
+[28:28] quando eu voltou foi abrir uma clínica
+
+[28:30] para tratar os soldados a própria
+
+[28:32] companhia dele que ficaram doidos por
+
+[28:34] conta daquela dirige numa cores da
+
+[28:37] guerra ele sofreu muito com isso e aí é
+
+[28:40] quando ele voltou ele começou a estudar
+
+[28:41] mesmo mais psicanálise assim foi que ele
+
+[28:43] queria realmente tratar os soldados os
+
+[28:46] colegas enfim né e apesar de ele ser uma
+
+[28:49] pessoa razoavelmente atormentada ele era
+
+[28:52] extremamente bem-humorado ele tinha um
+
+[28:54] otimismo em relação à vida muito
+
+[28:56] interessante tá parecendo os textos dele
+
+[28:58] sabe assim ele teve duas fases ele teve
+
+[29:01] uma fase inicial da carreira dele que
+
+[29:03] ele tentava entender grupos ele fugiu um
+
+[29:05] pouco da psicanálise clássica quero essa
+
+[29:07] coisa de divã e uma pessoa e outra né ou
+
+[29:11] na o analista eo analisando né ele
+
+[29:13] queria fugir disso e ele ele propôs uma
+
+[29:16] teoria de grupos para avaliar as pessoas
+
+[29:18] ele é um dos um dos teóricos da terapia
+
+[29:21] de grupo a
+
+[29:22] a teoria dele foi meio que propor uma
+
+[29:25] metodologia para você avaliar o processo
+
+[29:28] como que grupo se desenvolvem grupo de
+
+[29:31] pessoas tá mas depois que ele fez essa
+
+[29:33] primeira fase que é que eu vou usar aqui
+
+[29:35] que ele criou uma teoria chamada teoria
+
+[29:37] dos supostos básicos depois ele
+
+[29:39] desenvolveu mais essa teoria eu tanto de
+
+[29:41] vista clínico então do mesmo jeito que
+
+[29:43] eu faço um grupo para resolver o
+
+[29:46] problema de uma empresa eu tô dentro de
+
+[29:48] uma empresa a gente tem um projeto e
+
+[29:49] cada um faz uma parte o nosso objetivo
+
+[29:51] não é manter o grupo o nosso objetivo é
+
+[29:54] quando a tarefa acaba acabar o grupo
+
+[29:56] então o objetivo do grupo é orientado
+
+[29:59] por um fim e esse fim é a conclusão da
+
+[30:01] tarefa isso acontece empresa acontece um
+
+[30:04] monte de coisas só que eu posso utilizar
+
+[30:06] essa metodologia de grupos para poder
+
+[30:09] tratar pessoas só que aí o objetivo não
+
+[30:12] é um foco não é construir algo mas sem
+
+[30:15] trabalhar com a subjetividade de cada
+
+[30:17] pessoa então essa segunda parte que a
+
+[30:19] parte clínica não vou falar tanto eu vou
+
+[30:21] falar mais
+
+[30:22] é mas tem um ponto do bico é muito
+
+[30:24] interessante é por isso que eu gosto
+
+[30:25] dele assim ele é uma pessoa muito
+
+[30:27] sensível nesse sentido ele leu um texto
+
+[30:29] em 1916 que foi o que deu a sacada para
+
+[30:33] ele mano me minha vida é trabalhar com
+
+[30:35] grupo não é com pessoa vamos deixar na
+
+[30:37] descrição e chama extintos da horda em
+
+[30:40] momentos de paz e guerra é baseado no
+
+[30:42] texto do freud também né que é o
+
+[30:44] psicologia das massas e análise do eu em
+
+[30:46] que você quando você tá em grupo você é
+
+[30:48] diferente quando está sozinho claramente
+
+[30:50] você vê isso o jogo de futebol ele tava
+
+[30:52] começo dessa percepção né de indivíduo e
+
+[30:54] grupo tal ele entrou nessa corporativo
+
+[30:56] então você precisa disso é claramente
+
+[30:58] então de ouvir aquelas pessoas que agem
+
+[31:01] diferente quando os essa presente ou
+
+[31:04] quando ar está presente na sacada que
+
+[31:07] ele pegou e aí ele ele começou a reparar
+
+[31:09] isso né nos grupos ele criou a teoria
+
+[31:11] dos opostos básicos a teoria dos
+
+[31:13] impostos básicos funciona assim todo o
+
+[31:15] grupo e aí tem uma frase que eu peguei
+
+[31:17] do livro dele mesmo não é frase do bem o
+
+[31:19] abre aspas todo o grupo por mais calma
+
+[31:22] olá seja sempre se reúne para fazer algo
+
+[31:25] por exemplo você faz aquelas reuniões
+
+[31:27] para que a gente só fazer essa reunião
+
+[31:29] só reunião se resolve com o e-mail não
+
+[31:31] se resolve com e-mail você teve que ir
+
+[31:33] lá tem um motivo por que que as empresas
+
+[31:35] têm tantas reuniões inúteis elas são
+
+[31:38] importantes para fazer algo mas é se
+
+[31:39] algo não é ligado com a tarefa que
+
+[31:41] motivou a reunião e muitas vezes as
+
+[31:43] pessoas gastam mais energia lidando com
+
+[31:45] as outras do que resolvendo a tarefa é
+
+[31:48] totalmente claro a gente vê isso empresa
+
+[31:51] você ver isso muito mais que eu só que
+
+[31:53] ele reparou que isso tem um processo
+
+[31:55] então o objetivo último de um conjunto
+
+[31:57] de pessoas é eles saírem de um estado
+
+[32:00] inicial e o objetivo final é eles
+
+[32:03] chegarem no estado que chama grupo de
+
+[32:06] trabalho o grupo de trabalho é o grupo
+
+[32:08] saudável que é comprometido com a
+
+[32:11] execução da tarefa pois objetivo só que
+
+[32:13] não é porque você pega cinco pessoas
+
+[32:15] coloca numa sala que você tem um grupo
+
+[32:17] de trabalho você tem que gerir os
+
+[32:18] desejos das pessoas inicialmente
+
+[32:20] percebemos necessidade
+
+[32:22] o grupo vai se transformar no grupo de
+
+[32:24] trabalho e ele percebeu que ao invés de
+
+[32:26] atender uma pessoa eu atendo o grupo e
+
+[32:29] quando eu atendo o grupo percebendo as
+
+[32:31] necessidades ea dinâmica das pessoas eu
+
+[32:33] tô atendendo cada pessoa separadamente
+
+[32:36] completamente com isso porque a minha
+
+[32:38] consultoria ela tava metodologia exato
+
+[32:41] né surgiu excelentes e aí é legal
+
+[32:45] mostrar que ele descreveu de forma bem
+
+[32:47] interessante assim as fases as fases dos
+
+[32:50] grupos são mais ou menos as mesmas e aí
+
+[32:52] você vai que você quem tiver um filho a
+
+[32:53] gente pode perceber várias situações em
+
+[32:56] que você esteve em cada um desses grupos
+
+[32:57] não é a pessoa que já era o grupo mas a
+
+[33:00] combinação das pessoas que geram às
+
+[33:02] vezes você pode estar num grupo e ele é
+
+[33:04] de ataque fuga mas você pode estar no
+
+[33:06] outro grupo ele é de acasalamento não é
+
+[33:08] por sua causa mas também é por sua causa
+
+[33:10] tem um pedaço seu mesmo pedaço dos
+
+[33:12] outros então quando as pessoas se reúnem
+
+[33:14] num grupo elas formam uma entidade que é
+
+[33:17] maior do que a soma das pessoas que o
+
+[33:19] próprio bia me chama de o
+
+[33:22] e o leão silêncio entra muito no uma
+
+[33:25] definição de inefável é aquela coisa que
+
+[33:27] não forem palavra eu sinto isso o homem
+
+[33:30] né muitas vezes quando eu dou aula
+
+[33:32] porque quando você dá aula desde que
+
+[33:34] você gira próxima gestão do grupo boa as
+
+[33:37] pessoas estão ali pela aulas alma faz
+
+[33:39] sentido elas estão ali pela ao por isso
+
+[33:40] não sua marca presença na aula razoável
+
+[33:43] então as pessoas vão na aula como a
+
+[33:44] tarefa e objetivo essa tarefa se você
+
+[33:47] consegue colocar as pessoas na tarefa
+
+[33:49] elas estão entendendo o tempo que elas
+
+[33:51] estão gastando ali você vê o né você
+
+[33:53] olha para turma e você não vê as pessoas
+
+[33:55] você ver uma pessoa que é um grupo
+
+[33:57] sensacional se não experiência clínica
+
+[33:59] eu nunca atende po um grupo mas dando
+
+[34:01] aula você percebe o ou muitas vezes
+
+[34:03] assim e quais são essas passagens dos
+
+[34:05] supostos básicos o primeiro tipo de
+
+[34:07] suposto básico para chegar no grupo de
+
+[34:09] trabalho é chamado grupo de ataque e
+
+[34:11] fuga o grupo de ataque fuga ele se forma
+
+[34:14] a ideia não é o que está no inconsciente
+
+[34:16] do grupo nós estamos reunidos aqui para
+
+[34:19] fugir de algo ou nos defender de al
+
+[34:22] o que é aquele grupo que se une bem nós
+
+[34:24] contra eles pensa isso empresa a gente
+
+[34:27] faz um grupo de trabalho aqui para dar
+
+[34:28] uma solução só que essa solução platina
+
+[34:30] a gente não consegue achar a solução
+
+[34:32] então a gente para tentar dar alguma
+
+[34:35] saída a gente coloca nós contra eles a
+
+[34:38] gente tem que resolver porque senão a
+
+[34:39] gente não vai conseguir bater a meta a
+
+[34:42] gente não vai conseguir atender o chefe
+
+[34:43] em geral grupos de ataque fuga tem um
+
+[34:46] líder que é extremamente perverso é
+
+[34:48] aquele líder que aperta o tempo que bate
+
+[34:51] é um líder que por exemplo instiga você
+
+[34:53] conta outro grupo para aumentar a
+
+[34:55] produtividade muito comum em empresas de
+
+[34:58] bens de consumo tá eu vou dar meus dois
+
+[35:01] que delícia não deve ambev é uma empresa
+
+[35:03] que é baseada em ataque julga você
+
+[35:05] conhece pessoas que trabalhava na ambev
+
+[35:07] você lembra que pessoas que trabalham na
+
+[35:09] ambev era o satanás na terra quando sai
+
+[35:12] da ambev vira outra pessoa porque a
+
+[35:14] dinâmica de ataque fuga e que a pessoa
+
+[35:17] passa ali dentro chegar apertar o menino
+
+[35:19] é esse essa skin
+
+[35:22] o grupo para relações proximais dele
+
+[35:24] depois coca-cola é assim um deve assim
+
+[35:27] empresas de bens de consumo que tem que
+
+[35:28] bater meta venda alguns bancos somente
+
+[35:31] banco que precisa muito de meta onde o
+
+[35:34] gerente tem que bater meta sabe essas
+
+[35:37] coisas sempre quem tá em cima vai usar
+
+[35:39] um tipo de gestão que é baseado
+
+[35:41] impressão e vai gerar um grupo o aumento
+
+[35:44] amedrontado por ataque fuga esse grupo
+
+[35:46] na verdade ele não realiza o trabalho
+
+[35:48] ele está comprometido com a ausência de
+
+[35:51] dor então na verdade eu faço as minhas
+
+[35:53] coisas para poder não sentir mais dor e
+
+[35:55] não resolveu o problema por isso que
+
+[35:57] essas pessoas cometem erros né você tem
+
+[36:00] erros de processo muitas vezes porque as
+
+[36:03] pessoas têm tanta pressão tem um chefe
+
+[36:04] tão ameaçador que elas acertam no começo
+
+[36:07] mas vão errando assim estocasticamente
+
+[36:09] você consegue imaginar vários casos
+
+[36:11] disso né de empresa de ataque e fuga uma
+
+[36:13] comum também não exército na
+
+[36:15] instituições militares em geral são
+
+[36:16] instituições de ataque fuga e daqui eu
+
+[36:20] queria que no exército
+
+[36:22] o parceiro né e as empresas casa as
+
+[36:25] empresas nada mais fazendo aqui se
+
+[36:27] apropriada fico mais né da desgraça para
+
+[36:30] certo né e suas palavras incluem
+
+[36:33] palavreado mas mesmo assim o álcool é o
+
+[36:39] aberta que eu fiz uma empresa de
+
+[36:42] publicidade uma ponta o grupo de ataque
+
+[36:43] fuga por isso que tem assédio porque é
+
+[36:46] uma forma das pessoas exorcizar em as
+
+[36:48] coisas tipo a pessoa não sabe porque as
+
+[36:50] coisas estão dando certo ou errado
+
+[36:51] começa a ter um tipo de a satisfação
+
+[36:53] proximal então a ser de outro porque ela
+
+[36:55] também não sabe a regra e aí quem tá
+
+[36:57] embaixo faz o que der para fazer pra
+
+[36:59] poder ficar pode isso é extremamente
+
+[37:00] perverso esse grupo de ataque julga mas
+
+[37:03] no curto prazo ele já era resultado sai
+
+[37:05] que à custa da psique das pessoas então
+
+[37:07] terminou ver é enorme o segundo tipo de
+
+[37:09] suposto básico é chamado de grupo de
+
+[37:11] dependência existe uma dependência do
+
+[37:14] grupo com o líder o líder em geral ele é
+
+[37:17] uma pessoa que é vista como alguém
+
+[37:19] realizado não nosso líder ou melhor
+
+[37:22] só tem um problema é ele que resolve e o
+
+[37:24] líder é o que garante a estabilidade do
+
+[37:26] grupo ou a lei às vezes não é um líder
+
+[37:29] uma pessoa é a lei é a regra o livro de
+
+[37:32] reggae isso muito problema que tipo de
+
+[37:35] área né é empresas públicas onde você
+
+[37:38] contratado por uma regra qual que é a
+
+[37:40] lei que mantém as pessoas em grupo ali
+
+[37:42] você ter passado no concurso quando você
+
+[37:45] tem estabilidade você coloca pessoas que
+
+[37:47] não faz nenhum sentido estarem juntas
+
+[37:48] juntas então dá são unidas pela lei né e
+
+[37:53] aí a lei aqui não tem ali então eu tô
+
+[37:54] aqui porque o que me garante a
+
+[37:56] subsistência porque eu não já estou aqui
+
+[37:59] há muito tempo todo o discurso do
+
+[38:01] funcionalismo público do mal sentido
+
+[38:02] porque todos esses grupos podem evoluir
+
+[38:05] para um grupo de trabalho tanto é que
+
+[38:06] instituições públicas no exército na
+
+[38:09] ambev com não sei aonde mas existem
+
+[38:11] grupos que evoluíram para o grupo de
+
+[38:13] trabalho mas em geral muitos grupos de
+
+[38:15] dependência são nessas instituições em
+
+[38:17] que o líder alguém muito bom pra todo
+
+[38:19] mundo que na verdade ele é um total de
+
+[38:21] sefer e não
+
+[38:22] e nenhuma e só deixa as pessoas ali
+
+[38:24] encostados então fica todo mundo bem tá
+
+[38:26] todo mundo se sentindo bem usufruindo
+
+[38:28] deixa de pensar fica alienado porque
+
+[38:31] está acreditando no messias né que é o
+
+[38:34] líder é o a lei e o último tipo de grupo
+
+[38:38] é o grupo de acasalamento o grupo de
+
+[38:40] acasalamento é um grupo comprometido com
+
+[38:43] a esperança que a união a união do grupo
+
+[38:45] grupo só está unido porque eles estão
+
+[38:48] esperando algo que vai trazer a solução
+
+[38:50] então nós estamos aqui juntos porque a
+
+[38:53] gente vai preparar uma nova solução para
+
+[38:55] resolver uma coisa muito importante e
+
+[38:57] essa coisa muito importante nunca vem
+
+[38:59] muito comum também tá esse monte de
+
+[39:01] hackathon essas coisas que fazem tem
+
+[39:03] umas coisas assim também aí o que que
+
+[39:05] você faz por um limite de 24 horas os
+
+[39:07] grupos de acasalamento vira ataque e
+
+[39:09] fuga né é um menino comeu outro né
+
+[39:11] quando você aí você não tá resolvendo
+
+[39:13] nada por isso que eu sou contra a 14 as
+
+[39:15] coisas aí no ajuda nada sprint por
+
+[39:17] exemplo é muito mais último né então já
+
+[39:21] o build up
+
+[39:22] o identificou isso ele tem que ficou os
+
+[39:24] tipos de grupo os supostos básicos viu
+
+[39:27] exemplos né e ainda escreveu um livro
+
+[39:30] muito bom dele que chama experiências em
+
+[39:32] grupos e outros textos publicou esse
+
+[39:35] livro tem uma notoriedade muito grande
+
+[39:37] né pessoalmente na área de clima
+
+[39:39] organizacional nas empresas porque você
+
+[39:41] vê que a qualidade total né e é isso deu
+
+[39:44] a ideia para ele fazer isso na clínica
+
+[39:46] então ele nunca foi para área
+
+[39:47] organizacional nem sempre quis ir para
+
+[39:49] clínica mas ele canta uma pedra muito
+
+[39:50] útil que era qual o papel do mediador
+
+[39:53] porque assim às o chefe não é o mediador
+
+[39:55] o chefe é chefe né se ele for treinado
+
+[39:58] ele pode virar um mediador mas a rigor o
+
+[40:00] chefe é chefe os funcionários são os
+
+[40:02] funcionários existe a figura do mediador
+
+[40:04] que é uma pessoa que observa o grupo às
+
+[40:07] vezes a pessoa fala né vocês estão num
+
+[40:08] sistema de ataque fuga que a gente pode
+
+[40:10] fazer para melhorar ele identifica o
+
+[40:12] papel de cada pessoa as relações entre
+
+[40:14] as pessoas para procurar atividades para
+
+[40:16] o grupo convergir para o grupo de
+
+[40:18] trabalho e aí a gente entra por exemplo
+
+[40:20] na sprint qual que é o seu
+
+[40:22] se você é o mediador então o método da
+
+[40:25] sprint por exemplo outros métodos ágeis
+
+[40:27] tanto faz né tem vários mas os métodos
+
+[40:29] vagens o método em si é um mediador só
+
+[40:32] tem alguém que precisa conduzir e aí
+
+[40:34] você consegue transformar os grupos
+
+[40:36] mesmo com pessoas que não se gostam como
+
+[40:38] você controla o tempo as tarefas as
+
+[40:40] atividades mesmo com pessoas que não tem
+
+[40:42] compatibilidade elas são comprometidas
+
+[40:44] com a tarefa só que isso não é por causa
+
+[40:46] das pessoas é por causa do método e aí o
+
+[40:48] binho na verdade ele quer ele utiliza um
+
+[40:50] método parecido não não parecido com
+
+[40:52] metodologias ágeis né porque o foco não
+
+[40:54] é algo externo é algo interno ele estuda
+
+[40:57] a psique das pessoas no grupo para
+
+[40:59] tentar quando o grupo se tornar um grupo
+
+[41:01] de trabalho quer dizer que as pessoas
+
+[41:03] melhoraram tiveram uma progressão dos
+
+[41:05] sintomas então você age no grupo e
+
+[41:08] retroage por ele nessa dinâmica que ele
+
+[41:12] chama de rede para depois um conceito
+
+[41:14] dele eu conceito de rede é como você age
+
+[41:16] no grupo e recebe do grupo isso vai te
+
+[41:19] modificando mas como ficou
+
+[41:22] o tempo imagina um grupo a de pessoas e
+
+[41:25] você tá ali e o grupo tá falando sobre
+
+[41:27] um assunto e você não fala nada você
+
+[41:29] ficou nesse grupo sem falar nada e aí
+
+[41:30] você vai para um grupo b que fala do
+
+[41:32] mesmo assunto exatamente mais assunto
+
+[41:34] por quê que alguns conteúdos surgem em
+
+[41:37] um grupo e não no outro é por conta das
+
+[41:39] pessoas que estão ali e a sua presença
+
+[41:42] também faz essa diferença o fato de você
+
+[41:44] estar naquele grupo aumenta a
+
+[41:46] probabilidade de certo assunto aparecer
+
+[41:48] mesmo sem você falar nele e é por isso
+
+[41:51] que tem você vê isso em grupos mais
+
+[41:53] afetivos assim não grupos mais de não de
+
+[41:55] terapia né mas mais de contato
+
+[41:57] individual que o fato de uma pessoa tá
+
+[41:59] ali de repente surgiu um assunto e a
+
+[42:01] pessoa fala nossa era isso que eu queria
+
+[42:02] falar emerge do iniciou do inefável
+
+[42:07] benção sobre o mais bacana muito ó ela
+
+[42:10] não teoria científica ela na teoria
+
+[42:12] estética e a gente põe a diferença de
+
+[42:14] ciência aí clínica estética né é uma
+
+[42:17] teoria que ficaria naquele momento e um
+
+[42:19] método de ação é o método de gestão dos
+
+[42:22] e gera por exemplo ou sprint é um método
+
+[42:25] de gestão dos indivíduos pelas tarefas é
+
+[42:27] óbvio que no caso da minha construir a
+
+[42:30] mediação é um dos papéis que o líder
+
+[42:32] acaba cumprido né mas ela não
+
+[42:35] necessariamente o suficiente para a
+
+[42:37] resolução do problema em ciências ela
+
+[42:39] vai garantir acho que ela vai garantir
+
+[42:41] aqui o grupo funcione como esse trabalho
+
+[42:45] agora resolveu o problema já sou outro
+
+[42:48] que por isso que por exemplo igual bom
+
+[42:51] fala né quando você pensa na formação do
+
+[42:54] mediador do grupo uma das coisas
+
+[42:56] mediador tem que passar por terapia por
+
+[42:58] análise ele tem que perceber quais são
+
+[42:59] os calos dele porque ele consegue
+
+[43:01] perceber o calo na relação dos outros e
+
+[43:03] aí ele tem alguma dica de manejo então
+
+[43:06] do mesmo jeito que tem um terapeuta de
+
+[43:08] grupos o próprio terapeuta de grupos em
+
+[43:10] fazer parte de grupos também essa
+
+[43:13] percepção estética dela aconteça fazer
+
+[43:15] terapia ixi exato na formação dele mesmo
+
+[43:18] né tanto é que alguém que faz sprint por
+
+[43:21] exemplo tem que fazer várias
+
+[43:22] o e discutir com outras pessoas que
+
+[43:24] fazem sprint né agora tem dicas né é
+
+[43:27] muito mesmo processo estéticos só que no
+
+[43:29] caso da sprint é muito voltado para
+
+[43:31] tarefa né para digitar um das tarefas no
+
+[43:35] caso da clínica é voltado para
+
+[43:36] subjetividade para reconstrução da visão
+
+[43:39] que o indivíduo tem dele mesmo pela
+
+[43:41] reflexão que isso gera no outro lesão
+
+[43:43] paralelo realmente incrível não entendi
+
+[43:46] e qual a relação disso com o grupo de 2
+
+[43:49] que o nosso ouvinte vive em casa hoje o
+
+[43:53] grupo de 2 que aí você pode pegar para
+
+[43:54] casamento também não é relacionamento é
+
+[43:57] é um grupo que passa pelos supostos
+
+[43:59] básicos o tempo inteiro então às vezes
+
+[44:01] você tá bem com a pessoa vocês são
+
+[44:02] focadas de uma tarefa realizam várias
+
+[44:04] coisas juntos comprar uma casa sei lá
+
+[44:06] fazer uma viagem e tal às vezes eu
+
+[44:09] pergunto ainda tá que julga né não tá
+
+[44:11] querendo se defender do outro às vezes
+
+[44:13] tem acasalamento a gente não tá tão bem
+
+[44:15] por causa do fulano ou por causa de algo
+
+[44:17] externo eu tenho certeza que tem um
+
+[44:19] monte de gente que quer se separar só
+
+[44:21] não se separa por causa do cor
+
+[44:22] é isso aí no grupo é verdade é um grupo
+
+[44:25] de dependência tá dependendo do líder e
+
+[44:27] quem é o líder o corona o mediador não
+
+[44:30] tá sendo um mediador em deixar o grupo
+
+[44:32] como suposto básico não ser um grupo de
+
+[44:34] trabalho porque às vezes todo o grupo de
+
+[44:37] trabalho um dia acaba então todo o grupo
+
+[44:39] de trabalho quando finaliza o trabalho
+
+[44:40] ele termina para a gente virar um grupo
+
+[44:43] de trabalho a gente tem que se separar
+
+[44:45] como a gente tem essa lei externa a
+
+[44:47] gente não se separa então a gente está
+
+[44:49] no seu rosto básico de dependência o
+
+[44:51] grupo sempre evoluir mesmo grupo de dois
+
+[44:53] por isso que tem um relacionamento o
+
+[44:55] relacionamento é sempre uma alternância
+
+[44:56] de dependências né então veja que é algo
+
+[44:58] muito interessante essa questão trazer
+
+[45:00] para os canais um pouco para essa
+
+[45:02] discussão não só científica dos artigos
+
+[45:04] mas também um contraponto estético mas
+
+[45:07] já tá vendo então aqui para o nosso
+
+[45:08] ouvinte enquanto os problemas que ele
+
+[45:10] percebe estiver no nível da programação
+
+[45:12] que é uma coisa que ele domina o campo
+
+[45:14] que ele domina ele promete vai poder
+
+[45:17] tirar proveito do medo vamos vem
+
+[45:19] localmente bem mais se foi
+
+[45:22] é uma coisa mais tarefa um pouco mais
+
+[45:25] complexa aí uma garantia de remédio
+
+[45:28] longo prazo nem o medo não alimenta nem
+
+[45:31] a tarefa próxima você vai entrar em
+
+[45:33] desamparo então a ideia o medo aumenta a
+
+[45:35] produtividade no trabalho só na primeira
+
+[45:37] página a partir da página dois é assédio
+
+[45:39] é perda de produtividade doença mental
+
+[45:42] hibernalt não compensa tá então a grande
+
+[45:46] tarefa grande o grande missão assim tu
+
+[45:48] largou do nesse episódio é colocará seus
+
+[45:52] líderes que colocar a mão na consciência
+
+[45:53] começar a olhar para eles mesmos e se
+
+[45:56] possível começar a estudar psicologia de
+
+[45:57] grupo que não é muito interessante
+
+[45:59] recomendo muito esse livro do
+
+[46:00] experiências em grupos e outros textos e
+
+[46:03] tem um outro livro que chama segundo os
+
+[46:04] pensamentos do bichão tá ele também as
+
+[46:07] descrições que a gente deixou na
+
+[46:08] descrição do episódio então tá bom então
+
+[46:10] aproveite melhor o seu relacionamento
+
+[46:13] com grupos com pessoas virtualmente ou
+
+[46:15] pessoalmente não rodou ilustríssimo 20
+
+[46:21] e aí você já sabe aquilo não rodou quem
+
+[46:23] faz a pauta é você você tem alguma
+
+[46:26] pergunta para a gente o que é comentar
+
+[46:27] algum episódio escreva para nós podcast
+
+[46:30] arroba andar o rodou a.com.br repetindo
+
+[46:33] podcast arroba naru rodolfo ponto com.br
+
+[46:36] e lembre-se mande nome completo idade
+
+[46:39] profissão e a cidade de onde você está
+
+[46:42] falando é isso aí não é
+
+[46:46] oi nádia rodolfo
+
+[46:49] o principal pode ser apresentado
+
+[46:56] inove.com.br
+
+[47:00] e aí

@@ -1,0 +1,2709 @@
+Title: Naruhodo #330 - O teste palográfico funciona?
+URL: https://www.youtube.com/watch?v=zkkLLKB4LX8
+Language: pt
+Extracted on: 2025-04-06 16:41:24
+================================================================================
+
+[00:00] e
+
+[00:00] o teste palográfico funciona
+
+[00:04] [Música]
+
+[00:07] Bom Jardim de Goiás
+
+[00:11] olá bem-vindo ao mar Rodolfo podcast
+
+[00:14] para quem tem fome de aprender eu só
+
+[00:16] fiquei Fujioka resulta em Sousa de hoje
+
+[00:18] é dia de que ciência e senso comum um
+
+[00:22] se você já sabe que o naro rodou agora
+
+[00:25] está amor ela uma plataforma de apoio a
+
+[00:27] criadores de conteúdo e que é por meio
+
+[00:29] do orelo que você ajuda a manter a gente
+
+[00:31] no ar Morelo você escolhe um valor de
+
+[00:33] contribuição mensal e tenha acesso a
+
+[00:35] conteúdos exclusivos conteúdos
+
+[00:37] antecipados e vantagens especiais Além
+
+[00:39] disso você pode ter acesso ao nosso
+
+[00:41] grupo fechado no telegram e conversar
+
+[00:43] comigo com Altair com outros apoiadores
+
+[00:45] e apoiadoras mas não é só isso toda vez
+
+[00:48] que você ouvir eu fizer download de um
+
+[00:50] episódio pela ela vai também estar
+
+[00:52] pingando uns trocadinhos para o nosso
+
+[00:54] projeto E agora tem mais uma novidade
+
+[00:56] para você a promoção voltou ou seja quem
+
+[01:00] passar apoiar o meu rodor pelo Alelo no
+
+[01:03] mês de abril vai também concorrer a
+
+[01:06] Vários vários presentes donar rodou isso
+
+[01:09] mesmo quem passaram a apoiar o nervo do
+
+[01:11] Morelo ou transferir seu apoio anterior
+
+[01:13] do apoia seu do picpay paralelo até
+
+[01:16] trinta de Abril vai concorrer a dezenas
+
+[01:19] de vários presentes para usar como
+
+[01:21] quiser na American bom então vem por
+
+[01:24] Ello você também
+
+[01:27] bit.li/na rodô traço no traço Corello E
+
+[01:32] chegamos ao momento alura querido
+
+[01:34] ouvinte que lhe dou 20 eu sei que nessa
+
+[01:36] época de isolamento social a gente é
+
+[01:38] bombardeado o tempo todo com lá eles web
+
+[01:41] nas cursos e embora o senso comum tente
+
+[01:43] nos convencer de que estamos em Home
+
+[01:45] Office a verdade que estamos sendo
+
+[01:47] forçados a ficar em casa e tentando
+
+[01:49] trabalhar em meio a uma pandemia então
+
+[01:52] meu recado é antes de mais nada Vá com
+
+[01:54] calma e cuide de sua saúde mental dito
+
+[01:57] isso pode ser sim um bom momento para
+
+[01:59] dar uma acelerada em sua carreira
+
+[02:01] profissional e é para quem estiver afim
+
+[02:03] de fazer isso que eu quero falar aqui da
+
+[02:06] a loira a maior plataforma de cursos
+
+[02:08] online do Brasil tem mobile programação
+
+[02:11] front-end e infraestrutura de tecnologia
+
+[02:13] design e os piercings marketing digital
+
+[02:16] data Science inovação gestão tem para
+
+[02:19] todos os gostos e a lua não é só uma e
+
+[02:22] ela é uma instituição de ensino ou seja
+
+[02:25] lá garante a qualidade dos cursos que
+
+[02:27] são produzidos por ela mesma e funciona
+
+[02:29] de um jeito muito simples você tem
+
+[02:31] acesso a mais de 1000 cursos com uma
+
+[02:33] única assinatura agora vantagem ouvinte
+
+[02:36] na rodô tem desconto de 100 reais mas
+
+[02:39] pra ter esse desconto precisa acessar a
+
+[02:42] seguinte URL anota aí
+
+[02:45] alura.com.br/promoção na Rodolfo
+
+[02:48] repetindo
+
+[02:51] alura.com.br/promoção Barra na Rodolfo
+
+[02:55] Altair temos perguntas de ouvintes
+
+[02:58] Altair temos mais uma ouvinte que
+
+[03:01] perguntou mas é uma coisa que quase todo
+
+[03:03] mundo já passou que é passar por um
+
+[03:05] teste psicotécnico né muitas pessoas se
+
+[03:09] perguntam Por que que fazer esse teste
+
+[03:11] que aparentemente não é nada fala sobre
+
+[03:13] mim né Por onde que tá o que que esses
+
+[03:16] testes aí que eu não entendo significa
+
+[03:19] Então vamos falar um pouco sobre isso é
+
+[03:21] isso aí o mundo já passou por um teste
+
+[03:24] psicotécnico se é adulto né pra você
+
+[03:28] seja para tirar carta de motorista algum
+
+[03:31] processo de seleção empresa né porte de
+
+[03:34] arma pode arma também tem eh em tem esse
+
+[03:38] processo Eu não passei nem pretendo
+
+[03:40] então então não sabia mas é a primeira
+
+[03:44] pergunta a Taís vem do Renato show
+
+[03:47] abrandam Que acadêmico de gestão da
+
+[03:49] tecnologia da informação
+
+[03:51] de Paraíso do Tocantins Tocantins
+
+[03:56] Olha só um abraço para Tocantins a gente
+
+[04:00] já fechou as figurinhas de todos os
+
+[04:01] estados né quem
+
+[04:03] se não foram todos quase todos em é eu
+
+[04:08] acho que sim e o Renato diz o seguinte
+
+[04:10] Olá gostaria de sugerir uma dúvida o
+
+[04:12] teste palográfico tão adotado pelos
+
+[04:15] psicólogos para supostamente analisar a
+
+[04:18] personalidade das pessoas funcionam
+
+[04:20] ficam muito e quando vejo um psicólogo
+
+[04:24] de escrever alguém simplesmente olhando
+
+[04:26] para riscos e um papel
+
+[04:28] agradeço imensamente pela identificação
+
+[04:30] e produzindo conteúdo tão proveitoso e
+
+[04:33] aí a gente não entender o a mensagem do
+
+[04:35] Gabriel Felipe Souza que é de Curitiba
+
+[04:39] estuda Medicina na Federal do Paraná e
+
+[04:42] no dia seguinte parabéns pelo podcast
+
+[04:44] vocês Adoro o trabalho já ouvi todos os
+
+[04:47] episódios Obrigado Gabriel E aí ele
+
+[04:50] continua ouvindo Episódio sobre a
+
+[04:52] formação de psicólogo do Brasil me ver
+
+[04:54] mas dúvidas sobre a lisura dos testes
+
+[04:57] psicotécnicos no Detran que aplicado em
+
+[04:59] quem deseja tirar uma CNH por situar
+
+[05:03] melhor eu já tenho minha CNH Mas vejo
+
+[05:05] com frequência é conhecido os meus que
+
+[05:06] acabam reprovando nesses testes e após
+
+[05:09] pagar uma nova taxa uma reunião com a
+
+[05:11] psicóloga o psicólogo passam
+
+[05:14] tranquilamente em minhas observações
+
+[05:16] parece haver uma prevalência muito alta
+
+[05:19] de pessoas com algum transtorno afinar e
+
+[05:22] esperados inaptas maior até do que a
+
+[05:25] vista na população em geral Imagine o
+
+[05:27] que esses testes psicotécnicos devem ter
+
+[05:29] seu valor científico se não não seriam
+
+[05:32] amplamente aplicados na população porém
+
+[05:35] como uma pessoa pode em primeiro momento
+
+[05:37] ser considerado inapto e depois apto a
+
+[05:40] dirigir por simplesmente faz refazer um
+
+[05:42] teste continuo pela teorema de bens Os
+
+[05:46] Profissionais que aplicam os testes não
+
+[05:47] podem considerar resultados inaptos como
+
+[05:49] falsos negativos levando em conta a
+
+[05:51] entrevista que fazem com os futuros
+
+[05:53] motoristas ou então tudo não passa de
+
+[05:56] uma falcatrua para as clínicas em
+
+[05:58] bolsarem dinheiro Obrigado pela atenção
+
+[06:01] e continue com o ótimo trabalho
+
+[06:03] finalmente a mensagem da Maria Luiza
+
+[06:07] Leão que a estudante de Ciências
+
+[06:09] Aeronáuticas e moro em Cuiabá Mato
+
+[06:11] Grosso quando eu fiz na CMA certificado
+
+[06:14] médico aeronáutico
+
+[06:16] fiz o exame psicotécnico onde foi
+
+[06:18] submetido a várias atividades me deparei
+
+[06:21] também com é Boa tarde na auto escola e
+
+[06:23] recentemente um processo seletivo a
+
+[06:25] dúvida é o teste dos pauzinhos definir
+
+[06:29] mesmo alguma coisa nossa personalidade
+
+[06:31] capacidade cognitiva pode ser definida
+
+[06:34] por testes como esse Agradeço desde já
+
+[06:36] pela atenção e Desejo Muitos ouvintes
+
+[06:38] para vocês que continuem disseminando
+
+[06:40] conhecimento de uma falta tão
+
+[06:42] simplificada
+
+[06:44] Obrigado Maria Luiza nem sempre a gente
+
+[06:46] consegue simplificar tanto quanto a
+
+[06:48] gente quer ou não é possível
+
+[06:51] mas espero que a gente esteja alcançando
+
+[06:54] cada vez mais gente
+
+[06:57] Altair teste palografico teste dos
+
+[07:00] pauzinhos
+
+[07:01] ele funciona ou não funciona velho então
+
+[07:05] a resposta curta é que funciona Tá mas
+
+[07:08] depende também do uso que você tem Tá
+
+[07:10] bom então assim eu eu ia deixar para o
+
+[07:12] final vez eu mudei de ideia eu vou
+
+[07:14] deixar essa mensagem é porque eu ia
+
+[07:16] justificar toda ela mas eu vou deixar no
+
+[07:17] começo e depois Eu repito no final de
+
+[07:18] novo porque eu acho que é mais legal de
+
+[07:20] fixar a mensagem final a regra moral
+
+[07:23] assim a seguinte você não pode culpar a
+
+[07:26] régua por ser baixinho
+
+[07:28] muita não não copiar régua por ser uma
+
+[07:31] pessoa baixinha porque uma coisa é a
+
+[07:33] régua outra coisa é atribuição que você
+
+[07:35] dado o resultado então por exemplo se a
+
+[07:38] régua diz um metro e noventa você pode
+
+[07:41] sentir baixinho Auto a régua não tem
+
+[07:43] nada a ver com isso né a masturbação
+
+[07:45] atribuição do contexto você tiver um
+
+[07:47] metro e 50 só vai ter outra atribuição
+
+[07:49] do resultado da régua então você não
+
+[07:52] pode comprar a régua né uma discussão
+
+[07:55] diferente a dizer se a régua é boa se a
+
+[07:57] régua é boa para medir aquilo que você
+
+[07:59] gostaria que ela me disse essa outra
+
+[08:02] discussão tá bom senso comum não existe
+
+[08:05] essa separação as pessoas não entendem o
+
+[08:07] que faz todo sentido não entender que
+
+[08:10] que tem a ver ficar fazendo mão de traço
+
+[08:11] comigo o que que isso mede faz todo
+
+[08:14] sentido a pessoa não entender assim eu
+
+[08:17] para mim também era completamente
+
+[08:18] bizarra para estudar e mais a fundo
+
+[08:21] sobre isso e diga-se de passagem eu não
+
+[08:24] aprendi isso na graduação então eu quero
+
+[08:26] deixar uma coisa muito clara é descrito
+
+[08:28] pelo conselho Conselho Federal de
+
+[08:29] Psicologia que a aplicação de testes
+
+[08:31] psicológicos
+
+[08:33] normativos é que tem um manual que tem
+
+[08:36] regras normativas padronizadas é uma
+
+[08:39] atividade exclusiva do psicólogo então
+
+[08:41] Assim aplica a palográfico pmk Roger at
+
+[08:46] Risk todos esses testes de inteligência
+
+[08:48] teste projetivo teste expressivo que a
+
+[08:52] gente vai ver a diferença disso é uma
+
+[08:53] atribuição do psicólogo você tem que ser
+
+[08:55] psicólogo formado e terão crp para
+
+[08:57] aplicar não tá aí o povo fica criticando
+
+[09:00] que é de fora né a fica uma coisa de
+
+[09:02] reserva de mercado e tal não é bem assim
+
+[09:05] é porque assim o problema de novo
+
+[09:06] aprender a medir a altura de uma pessoa
+
+[09:10] usando uma trena todo mundo aprende você
+
+[09:12] treina um pouquinho e aprendi usar a
+
+[09:15] régua todo mundo usa a questão é qual a
+
+[09:17] interpretação do resultado da régua tá
+
+[09:20] então isso você deve o mano Mundo Ideal
+
+[09:24] deveria aprender na faculdade de
+
+[09:25] psicologia o problema que na psicologia
+
+[09:27] no Brasil não se ensina teste
+
+[09:30] psicológico direito você ensina a
+
+[09:32] pessoal usar a régua mas não ensina para
+
+[09:34] quê que é a régua serve tá esse é um
+
+[09:37] problema generalizado não tem uma
+
+[09:39] faculdade de psicologia no Brasil que
+
+[09:42] ensine teste psicológico direito tanto é
+
+[09:44] que eles chamam a área da Psicologia de
+
+[09:47] avaliação psicológica O que é o nome
+
+[09:49] zuado porque aqui por exemplo quando eu
+
+[09:52] tô medindo a sua altura eu posso estar
+
+[09:54] te avaliando dentro de um contexto por
+
+[09:56] exemplo de um exame ergométrico de
+
+[09:59] alguma coisa nade um exame médico ou
+
+[10:01] simplesmente isso está medindo a sua
+
+[10:03] altura Porque sim não é por curiosidade
+
+[10:05] Tá então não necessariamente você está
+
+[10:07] sendo avaliado para avaliar para usar o
+
+[10:10] teste né e mais que uma coisa que não
+
+[10:13] acontece sendo assim na faculdade de
+
+[10:15] psicologia é o uso dos Testes é como uma
+
+[10:20] ferramenta científica
+
+[10:22] Ah tá então por exemplo quando eu faço o
+
+[10:25] exame de sangue você quem né eu posso
+
+[10:27] usar o resultado desse exame de sangue
+
+[10:29] para fazer um diagnóstico sobre Você viu
+
+[10:31] seu colesterol alguma coisa mas eu posso
+
+[10:34] pegar esse resultado também e usar
+
+[10:36] dentro de uma pesquisa científica Então
+
+[10:38] você faz parte de um grupo controle de
+
+[10:40] uma pesquisa né aí a interpreta
+
+[10:42] avaliação desse resultado não importa
+
+[10:45] tipo se o seu colesterol é alto baixo o
+
+[10:47] que vai importar é dentro do grupo que
+
+[10:49] você faz parte né de uma pesquisa
+
+[10:51] acadêmica então não tá valendo você está
+
+[10:54] valendo o grupo onde você foi alocado
+
+[10:56] são perspectivas diferentes que usou a
+
+[10:58] mesma ferramenta o teste psicológico
+
+[11:00] psicotécnico o que quer que seja ele
+
+[11:03] pode ser usado como propósito científico
+
+[11:05] né também mas isso não é utilizado então
+
+[11:09] assim tem várias camadas esse problema a
+
+[11:12] senhor a primeira coisa é na faculdade
+
+[11:14] de psicologia você aprende a aplicar o
+
+[11:15] teste mas não sabe Para quê que o raio
+
+[11:17] do teste serve mas não tem uma discussão
+
+[11:19] porque falta entender estatísticas a
+
+[11:22] termologia a gente tem horário rodo
+
+[11:25] sobre isso né Quais são os problemas da
+
+[11:27] Psicologia no Brasil que é o Naruto o
+
+[11:29] 272 né E aí eu explico bem melhor porque
+
+[11:33] a psicologia no Brasil não é ensinada
+
+[11:35] direito a uma vergonha isso esbarra na
+
+[11:37] questão dos Testes Mas isso não é
+
+[11:39] justificativa
+
+[11:40] para outras áreas aplicarem os testes
+
+[11:44] acende de forma aplicar o teste de novo
+
+[11:46] qualquer um pode aplicar Se você treinar
+
+[11:48] a questão a interpretabilidade por quê
+
+[11:50] Porque antes de tudo você ficar fazendo
+
+[11:53] tracinho você dar o seu a sua resposta
+
+[11:56] verbal sobre uma imagem lembra que a
+
+[11:59] gente fez o narodo sobre o teste de
+
+[12:00] rocha que você ver as manchas em conta
+
+[12:03] uma história né do que tá aparecendo ali
+
+[12:05] todas todos esses produtos
+
+[12:07] comportamentais eles não são sintomas
+
+[12:09] antes disso eles são comportamentos e a
+
+[12:12] única área que em teoria deveria estudar
+
+[12:14] comportamento mas não estuda direito é a
+
+[12:16] psicologia psiquiatra não sabe nada de
+
+[12:19] comportamento biólogo não sabe o que é
+
+[12:21] comportamento que e também que é
+
+[12:23] psicólogo É uma vergonha que a gente é
+
+[12:25] um formado em média mas em teoria é a
+
+[12:28] área onde deveria ter de fato a
+
+[12:30] exclusividade na aplicação dessas
+
+[12:32] técnicas e emissão de laudos tá o que a
+
+[12:35] gente tem que lutar não é para outras
+
+[12:37] áreas aprenderem a só aplicar o teste e
+
+[12:40] usar de forma selvagem a gente tem que
+
+[12:42] instrumentalizar melhor a área de
+
+[12:44] formação do psicólogo Mas você tá
+
+[12:46] dizendo então que em linhas Gerais os
+
+[12:50] teste palográfico é uma régua válida
+
+[12:52] Então ela é uma régua válida Dependendo
+
+[12:57] do que você vai usar talvez ela não seja
+
+[12:58] tão precisa Então assim uma coisa
+
+[13:01] importante Quando você vai considerar a
+
+[13:03] validade de uma régua né que mede um
+
+[13:06] atributo seja físico seja interno lá
+
+[13:09] então pode ser sua altura pode ser seu
+
+[13:10] peso pode ser a sua inteligência sua
+
+[13:13] personalidade não é tudo isso tem réguas
+
+[13:16] né a régua são diferentes mas são réguas
+
+[13:18] né então por exemplo se eu quero só
+
+[13:21] medir a sua altura
+
+[13:22] há mais ou menos né mas por exemplo só
+
+[13:25] quero comparar a sua altura com uma
+
+[13:27] pessoa muito parecida com você Você
+
+[13:29] concorda com a minha trena tem que ser
+
+[13:31] muito precisa ele vai conseguir
+
+[13:33] discriminar coisas parecidas então
+
+[13:35] Existem algumas réguas por exemplo
+
+[13:37] palográfico é uma régua válida para
+
+[13:40] medir personalidade aí as pessoas
+
+[13:42] ficavam como é que fazer tracinho tem a
+
+[13:43] ver com personalidade a gente vai chegar
+
+[13:45] lá né Tem Amém então então assim ou
+
+[13:48] palográfico Eletro ele é válido para
+
+[13:50] medir personalidade em alguns contextos
+
+[13:52] Pode ser que ele não seja tão preciso
+
+[13:55] para discriminar grupos por exemplo né
+
+[13:58] então vamos lá vamos começar vamos
+
+[14:01] começar pelo começo vai o que que é o
+
+[14:03] teste palografico e dá onde ele surgiu
+
+[14:06] Então dentro dos Testes psicológicos né
+
+[14:08] o teste palográfico ele tá dentro de uma
+
+[14:10] caixa que chama testes gráficos ou
+
+[14:13] testes expressivos a definição de teste
+
+[14:15] expressivo em geral é um teste que eles
+
+[14:17] iam comportamento motor e esse
+
+[14:20] comportamento motor ele também a forma
+
+[14:23] de expressão das suas emoções então por
+
+[14:25] exemplo um jeito bem fácil de ver sabe
+
+[14:28] imagina uma sala com várias pessoas
+
+[14:30] sentadas não em carteiras como se fosse
+
+[14:33] uma escola várias pessoas sentadas se
+
+[14:35] você só olhar para as pessoas você não
+
+[14:37] vai ver que vai ter vai ter aquelas
+
+[14:38] pessoas muito paradas vai daquelas
+
+[14:40] pessoas que ficam mexendo a perna vai
+
+[14:42] ter pessoas com comportamentos
+
+[14:43] diferentes padrão né cada um desses
+
+[14:46] comportamentos motores né que são dela
+
+[14:49] de cada pessoa é uma forma de expressar
+
+[14:52] também características emocionais né
+
+[14:54] dela né Lembrando que a aí tem a ver com
+
+[14:58] o nosso lado o outro sobre emoções a
+
+[15:00] emoção sempre tá no corpo né então
+
+[15:03] existe uma diferença de afeto emoção e
+
+[15:05] sentimento a emoção ela sempre tem um
+
+[15:07] correlato no corpo na Mas eu não estou
+
+[15:10] dizendo que por exemplo pessoas que
+
+[15:12] ficam batendo a perna o tempo inteiro
+
+[15:13] são ansiosas Esse é um salto isso é um
+
+[15:15] salto tá antes disso eu quero mostrar
+
+[15:18] que quando você observa uma pessoa num
+
+[15:21] café parada e em geral as expressões
+
+[15:25] motoras dela fala um pouco sobre ela em
+
+[15:29] média tá isso tem a ver com o nosso
+
+[15:31] Desenvolvimento Infantil então por
+
+[15:33] exemplo quando você pega um bebê né E o
+
+[15:36] bebê vai se desenvolvendo ele aprende a
+
+[15:38] se arrastar depois ele aprende a sentar
+
+[15:40] depois ele aprende a ficar Em pézinho
+
+[15:42] apoiado depois ele começa a andar né e o
+
+[15:46] desenvolvimento motor da criança leva a
+
+[15:50] criança a interagir com o mundo então
+
+[15:53] quando você bebezinho né você só se bate
+
+[15:56] assistam se mexe né você depende muito
+
+[15:58] do contato com o outro e nesse contato
+
+[16:01] com outro você vai adquirindo
+
+[16:04] conhecimento não é a partir do contato
+
+[16:06] com o mundo a partir do seio da mãe a
+
+[16:08] partir do contato depois você começa a
+
+[16:11] interagir com os objetos olhando né
+
+[16:13] Depois você aponta depois você então o
+
+[16:16] comportamento motor ele é parte
+
+[16:19] indissociável não é parte constituinte I
+
+[16:22] da aquisição da mente outras estruturas
+
+[16:25] mentais e a gente escreve isso muito bem
+
+[16:27] todos boa parte dos livros do Piaget
+
+[16:30] sobre isso quem quiser ver um é o
+
+[16:32] nascimento da Inteligência na criança em
+
+[16:34] que ele fala uma frase que é fundamental
+
+[16:36] assim o todo o ato motor leva o ato
+
+[16:39] mental Então você só tem uma mente
+
+[16:41] porque antes disso você se comportava de
+
+[16:44] forma motora na eu acho Fantástico assim
+
+[16:48] eu lembro de uma vez que eu conversei
+
+[16:49] com uma criancinha que tinha uns 3 4
+
+[16:51] anos e ela tava falando contando uma
+
+[16:53] história né E aí eu perguntei para ela
+
+[16:55] quem está contando essa história ela
+
+[16:58] falou eu então vamos fazer um teste tipo
+
+[17:00] pensa na história pensa nesse personagem
+
+[17:02] que você tá falando mas tem que falar
+
+[17:04] nada né aí ela falou Ela ficou quietinho
+
+[17:07] assim né aí ela falou você tá pensando
+
+[17:10] falou onde que tá esse personagem ela
+
+[17:13] começou não sei ele sumiu por quê Porque
+
+[17:16] não tava dentro da cabeça dela ainda ela
+
+[17:18] não tinha aquela voz dentro da cabeça
+
+[17:20] que vai aparecer depois né
+
+[17:22] a imagem só aparecer quando ela falava
+
+[17:24] né e para você falar depende antes do
+
+[17:27] comportamento motor e não é porque você
+
+[17:30] cresce viram ser falante que o seu
+
+[17:32] comportamento motor também não demonstra
+
+[17:34] coisas um pouco pouco da sua história de
+
+[17:38] vida mas também coisas da sua
+
+[17:40] personalidade e aí a gente tem que
+
+[17:43] definir personalidade que é um caos
+
+[17:45] assim eu não causa da Psicologia eu
+
+[17:48] detesto usar o termo personalidade
+
+[17:50] pessoalmente porque é muito complicado
+
+[17:52] mas dá para dar uma uma palha assim né
+
+[17:56] uma definição bem genérica de
+
+[17:59] personalidade né é o grau de
+
+[18:01] generalidade e singularidade dos
+
+[18:04] comportamentos dos indivíduos com base
+
+[18:07] em padrões de ações e atitudes e esses
+
+[18:11] padrões de ações e atitudes podem servir
+
+[18:14] para separar grupos de indivíduos tá
+
+[18:17] então de novo a definição é um grau de
+
+[18:19] generalidade e singularidade
+
+[18:22] o pagamentos de indivíduos Com base no
+
+[18:25] padrão de ações e atitudes então é o seu
+
+[18:28] comportamento seu comportamento jeito
+
+[18:30] como você se comporta
+
+[18:32] motor mente também é motor a mente faz
+
+[18:35] parte da sua personalidade e o jeito
+
+[18:37] como você recorta o comportamento que
+
+[18:40] atitude também faz parte então o que
+
+[18:43] você faz e o que você acha que faz fazem
+
+[18:46] parte da sua personalidade e esses
+
+[18:48] traços de personalidade podem separar
+
+[18:51] grupos de indivíduos que você tem
+
+[18:53] características tem traços Gerais de
+
+[18:56] personalidade a gente tem um lado rodo
+
+[18:58] sobre teste de personalidade funcionam
+
+[19:00] né que testes de tipo de personalidade
+
+[19:02] não serve para nada mais teste de traço
+
+[19:05] de personalidade um exemplo é o Big five
+
+[19:07] tem alguma valia como régua não é para
+
+[19:10] medir essas coisas Gerais então o
+
+[19:13] primeiro ponto é que o comportamento
+
+[19:15] motor ele faz parte da personalidade ele
+
+[19:20] ele não é a personalidade mas eu Esse é
+
+[19:22] um pedaço e aí entra uma questão
+
+[19:24] histórica fantástica que não é visto na
+
+[19:27] faculdade de psicologia e de uma
+
+[19:28] trabalho eu tive que relembrar minhas
+
+[19:30] aulas de Russo porque tive Le Monde
+
+[19:31] ativo tem um artigo aí na descrição no
+
+[19:33] curso boa sorte que eu não tenho outra
+
+[19:35] referência um saco porque assim tem uma
+
+[19:37] questão política política histórica é os
+
+[19:41] testes gráficos assim esses testes é
+
+[19:43] porque assim oh oh palografico e o pmk
+
+[19:46] quero uma versão um pouco mais antiga
+
+[19:49] não é dele eles são chamados de testes
+
+[19:51] expressivos ou testes gráficos a gente
+
+[19:54] tem também os testes projetivos a gente
+
+[19:56] já falou de um deles tem o roster o
+
+[19:58] rotear né é um teste projetivo o nome
+
+[20:01] teste projetivo ele meio ruim ele Deu
+
+[20:03] uma mudada e hoje em dia assinaria
+
+[20:06] especializada técnica projetiva chamado
+
+[20:09] técnica de auto-expressão quando você em
+
+[20:11] conta uma história sobre uma mancha de
+
+[20:13] tinta e ser uma auto-expressão sua não
+
+[20:16] necessariamente está projetando alguma
+
+[20:18] coisa interessante né Essas utiliza
+
+[20:21] essas pra bom então
+
+[20:24] projetiva técnica projetiva também tá
+
+[20:28] absoleta da não está obsoleta é que ela
+
+[20:30] ela é própria de uma área da Psicologia
+
+[20:33] que a psicanálise eu vou deixar dois
+
+[20:35] artigos muito legais um é sobre o
+
+[20:36] histórico do conceito de projeção e o
+
+[20:39] outro é um artigo sensacional de uma das
+
+[20:41] professoras que marcou minha vida que a
+
+[20:42] professora Maristela que dava aula de
+
+[20:44] ter ela fala sobre a desvinculação do
+
+[20:47] conceito de projeção do TT e como a
+
+[20:50] gente pode usar o tem até para outras
+
+[20:52] coisas não necessariamente pensando em
+
+[20:53] projeção mas sim auto-expressão né todas
+
+[20:57] as sutilezas para quem for da Psicologia
+
+[20:59] ou quem tem interesse é interessante tá
+
+[21:01] mas o
+
+[21:03] palográfico no caso ele não fala ele não
+
+[21:05] é um teste projetivo é um teste
+
+[21:07] expressivo ou seja ele usa o seu
+
+[21:09] comportamento motor para detectar alguns
+
+[21:12] traços das suas emoções né E lembrando
+
+[21:15] que como pela definição cadeirantes é
+
+[21:18] personalidade também tem um componente
+
+[21:20] motor tá a teoria que personalidade e a
+
+[21:24] ver comportamento motor da onde veio né
+
+[21:26] veio o primeiro da Espanha né na Espanha
+
+[21:31] a gente tem dois vou deixar a biografia
+
+[21:32] do desses dois teóricos na um é o Mirai
+
+[21:37] Lopes né aí o histórico dele é bem
+
+[21:39] interessante o Mirai Lopes criou um
+
+[21:42] teste gráfico chamado pmk né o pênis cam
+
+[21:46] alguém alguém deve ter feito com certeza
+
+[21:49] que você ficar sentado numa cadeira eles
+
+[21:51] colocam um anteparo na sua frente para
+
+[21:53] você não enxergar e você usa as duas
+
+[21:55] mãos para desenhar os ou desenhar
+
+[21:57] círculos ou desenhar traços as duas mãos
+
+[22:00] ao mesmo tempo em dois papéis diferentes
+
+[22:04] e isso exatamente E aí você eles vêm a
+
+[22:07] simetria vem o quanto o conta fácil
+
+[22:09] porque é normal afastar um pouco porque
+
+[22:11] não tá vendo É normal tá então mas não
+
+[22:14] pode afastar muito nem muito pouco e tal
+
+[22:16] né hoje em dia a partir de 2012 esse
+
+[22:20] teste pmk ele assim O Regional de
+
+[22:23] Psicologia sempre faz uma revalidação
+
+[22:24] dos Testes de tempos em tempos né e o PM
+
+[22:28] caiu ele não não teve mais validação
+
+[22:31] reconhecida não por causa da teoria mas
+
+[22:34] sim por causa da
+
+[22:35] precisão quem é psicólogo já teve aula
+
+[22:38] de permica é um saco corrigiu pmk sabe é
+
+[22:42] você tem que arrumar uma régua
+
+[22:44] milimetrada super Precisa sim então como
+
+[22:47] a correção do pmk dá muito trabalho e
+
+[22:50] você precisa de uma pessoa altamente
+
+[22:52] treinada para corrigir tem muita
+
+[22:54] variabilidade do resultado esperado não
+
+[22:57] por causa da teoria mas por causa da
+
+[22:58] régua então imagina que eu tenho uma
+
+[23:00] trena que às vezes eu eu puxo a trena eu
+
+[23:03] medi para serem centímetros às vezes eu
+
+[23:05] puxo medir em milímetros e Depende de
+
+[23:08] quem mede se eu sou mais experiente eu
+
+[23:10] consigo captar os milímetros se eu sou
+
+[23:12] menos experiente consigo captar só em
+
+[23:14] centímetro aí fica ruim né quando eu vou
+
+[23:17] usar essa régua para avaliar alguma
+
+[23:19] coisa O palográfico também exige esse
+
+[23:22] grau a visão out senão você precisa de
+
+[23:24] lupa para corrigir ou para
+
+[23:27] avaliar é então o parágrafo já é melhor
+
+[23:30] ele é da mesma classe mas ele tem uma
+
+[23:33] precisão melhor claro que quanto mais
+
+[23:35] você treinar melhor fica mas ele é mais
+
+[23:37] objetivo assim as métricas são mais
+
+[23:39] fáceis de calcular então assim para quem
+
+[23:42] já fez o o palográfico mas pra quem não
+
+[23:44] fez ele te dá uma folha de papel tem uma
+
+[23:47] linha em cima o que você tem que ter
+
+[23:49] desenhar tracinhos verticais né seguindo
+
+[23:53] o modelinho tem um modelinho você
+
+[23:54] desenha né os tracinho faz os tracinhos
+
+[23:57] aí tem um momento de teste que é só para
+
+[23:59] você aprender a fazer o teste né e
+
+[24:02] depois tem um tempo cronometrado a falar
+
+[24:04] agora tá valendo clique E aí você fica
+
+[24:07] fazendo tracinhos você tem que fazer a
+
+[24:09] maior quantidade de trás Isso possível
+
+[24:10] naquele tempo isso é isso tem a ver com
+
+[24:13] a quantidade tem a ver com a qualidade
+
+[24:14] Então você tem que conseguir fazer o
+
+[24:16] mais parecido possível com o modelo e o
+
+[24:18] mais rápido possível então são as duas
+
+[24:20] coisas aí você faz e no final o
+
+[24:24] psicólogo pede para você contar quantas
+
+[24:28] tracinhos foram feitos e quantas linhas
+
+[24:30] foram produzidas e é isso então é um
+
+[24:32] teste rápido a aplicação é rápida né é
+
+[24:35] fácil na hora da correção é avaliada a
+
+[24:38] quantidade de traços assimetria o
+
+[24:41] comparecido ficou com diferente os
+
+[24:44] padrões dos traços ao longo das Linhas
+
+[24:46] tem tem uma série de métricas a partir
+
+[24:49] daí e E essas métricas são comparadas
+
+[24:52] com métricas normativas populacionais a
+
+[24:56] partir de estudos com amostras de
+
+[24:58] pessoas normais comuns e amostras que
+
+[25:02] que a gente chama de amostras
+
+[25:03] discriminantes então por exemplo eu
+
+[25:06] aplico o palográfico numa amostra
+
+[25:08] representativa de pessoas São Paulo
+
+[25:11] Então essa minha amostra normativa Então
+
+[25:14] se os seus escores porém parecidos com a
+
+[25:16] média da população Tudo bem então tá bom
+
+[25:18] né lembra o nosso lar o rodo O que é ser
+
+[25:20] normal então O que é normativo você está
+
+[25:24] com padrões parecidos com a média da
+
+[25:26] população aí existem amostras por
+
+[25:28] exemplo de pessoas que cometeram delitos
+
+[25:32] graves ou que já tem diagnóstico por
+
+[25:35] exemplo de transtornos psiquiátricos com
+
+[25:39] base em critérios outros critérios
+
+[25:40] objetivos então tem amostras
+
+[25:43] diferenciais que o coleta esses escores
+
+[25:45] normativos também E aí eu comparo com
+
+[25:47] todos eles aí tem a base que é essa no
+
+[25:50] existe então o resultado não é um sim ou
+
+[25:53] não não é um sim ou não o que é o
+
+[25:55] resultado então O resultado é o grau de
+
+[25:58] adequação à Norma então você pode estar
+
+[26:01] no 67 por cento da população que tem
+
+[26:05] esse comportamento tudo bem Já era um
+
+[26:07] número no final Então é isso no final já
+
+[26:09] era um número de conformidade ou não com
+
+[26:12] a norma populacional isso esse número é
+
+[26:15] chamado percentil ele já era um
+
+[26:16] percentil né de similaridade com a
+
+[26:19] amostra normativa que você quer avaliar
+
+[26:21] por exemplo se Oi para o gráfico para
+
+[26:23] avaliar piloto de avião né eu não posso
+
+[26:26] comprar você com a população normal eu
+
+[26:28] tenho que comprar comprar você com os
+
+[26:29] pilotos de avião Então depende tem que
+
+[26:31] situações específicas Tá então não você
+
+[26:34] pode fazer um palográfico para tirar a
+
+[26:36] carteira de motorista é diferente do
+
+[26:37] palografico para fazer um prever alguma
+
+[26:40] coisa mais especializada por quê Porque
+
+[26:42] as amostras normativas são diferentes
+
+[26:44] eventualmente então às vezes eu tô
+
+[26:46] fazendo uma avaliação psiquiátrica eu o
+
+[26:49] palográfico tem que ser aplicado com
+
+[26:50] outros testes não é uma bateria então é
+
+[26:53] diferente o contexto tá então o sei lá
+
+[26:56] se você tirou nota 20 no na carteira de
+
+[26:59] motorista não é igual 20 Quando você vai
+
+[27:01] tirar um brevê é diferente porque as
+
+[27:03] populações alvos são diferentes o
+
+[27:05] palográfico ele não é um teste de
+
+[27:07] Diagnóstico Ele não disse que você tem
+
+[27:09] ou não Algo Se você desviar da Norma em
+
+[27:12] geral tem que ser aplicado Outro teste
+
+[27:14] junto para complementar então o
+
+[27:17] progresso que ele chamado teste
+
+[27:18] descritivo ele não é uma avaliação
+
+[27:21] própria um teste descrição Ah tá mas o
+
+[27:23] que que a média o que é que ele está
+
+[27:25] avaliando então o que que esse teste
+
+[27:27] avaliando o final é o que é capacidade
+
+[27:29] cognitiva é coordenação motora
+
+[27:31] velocidade
+
+[27:33] é concentração é uma combinação disso
+
+[27:37] tudo o que é isso é a sua sensibilidade
+
+[27:40] foi boa que é uma combinação de isso
+
+[27:42] tudo tá então a ela ele avalia o o
+
+[27:46] controle motor mas o controle motor além
+
+[27:50] por exemplo você tem que Parkinson aí
+
+[27:52] não faz sentido né tipos eu sei que eu
+
+[27:54] tenho que saber que você tem parques não
+
+[27:55] tô fazer o palográfico né e não dá tá
+
+[27:58] então o assim supondo que você não tem
+
+[28:02] parkison e você tem controle bom
+
+[28:03] controle motor ótimo você tem controle
+
+[28:06] motor Mas isso também é relacionado com
+
+[28:09] um comportamento que é chamado alto
+
+[28:11] monitoramento o seu automonitoramento
+
+[28:14] quando você presta atenção no seu
+
+[28:16] comportamento e isso é uma indicação de
+
+[28:19] auto controle por exemplo tô tô dando um
+
+[28:21] sinal tá então assim é imagina por
+
+[28:26] exemplo você tá você tá fazendo os
+
+[28:27] tracinhos aí você tenta fazer o mais
+
+[28:29] bonitinho possível ou seja os tracinhos
+
+[28:31] ficam bonitinhos mas fica um poucos
+
+[28:34] porque eu tenho a limitado né ou seja o
+
+[28:37] seu automonitoramento é tão alto que ele
+
+[28:39] pode ser ligado a um traço mais
+
+[28:41] obsessivo entende palpite não tô eu não
+
+[28:44] tô chamando a pessoa de toque tá então
+
+[28:46] para de ser molhado que tiver ouvindo tá
+
+[28:48] é por isso se você procurar no YouTube
+
+[28:51] tem um monte de vídeo do YouTube falando
+
+[28:54] como passar no teste palográfico sabe
+
+[28:57] isso é uma bobagem bobagem
+
+[28:59] principalmente gente que quer prestar
+
+[29:01] concurso sabe e fica nessas coisas aí
+
+[29:04] tipo porque o cara estuda para concurso
+
+[29:06] lá para português matemática o que quer
+
+[29:07] que seja né mas não falou no teste
+
+[29:09] psicotécnico para responder eu não sabe
+
+[29:11] o que fazer né aí fica o teste de
+
+[29:14] receita de bolo sabe né não velho esse
+
+[29:16] essas receitas não funcionam gente não
+
+[29:20] funciona por quê Porque o comportamento
+
+[29:22] motor fala muito de você por exemplo eu
+
+[29:25] não fiz um teste normatizado para isso
+
+[29:28] mas você jogou beisebol bons anos da sua
+
+[29:30] vida né é óbvio que isso muda o seu
+
+[29:33] padrão motor existe uma marca no seu
+
+[29:36] corpo do jeito que você anda no jeito
+
+[29:38] que você segura as coisas existe uma
+
+[29:40] marca no seu corpo que tem essa
+
+[29:42] historicidade porque você postou muito
+
+[29:43] tempo treinando isso aí qual eu conjurou
+
+[29:46] eu fiz 30 anos e judô é claro que meu
+
+[29:49] comportamento mudou se eu não tivesse
+
+[29:50] feito judô na minha vida meu
+
+[29:52] comportamento motor seria diferente com
+
+[29:54] certeza o senhor também se não tivesse
+
+[29:56] feito beisebol né Isso é bom é ruim Não
+
+[29:59] sei não sei pode ser que esse histórico
+
+[30:02] de vida como jogador de beisebol não
+
+[30:04] torne você elegível para certas
+
+[30:06] atividades motoras e tudo bem O grande
+
+[30:09] problema de você tentar tapear né no
+
+[30:11] palográfico pmk e E é porque o primeiro
+
+[30:14] é muito difícil você conseguir primeira
+
+[30:16] coisa não difícil você tem esse
+
+[30:18] automonitoramento esse seu
+
+[30:20] automonitoramento for muito alto esse é
+
+[30:22] um sinal de outra coisa Então na verdade
+
+[30:24] você pode ser reprovado por que você
+
+[30:27] está tentando fraudar e isso afeta seu
+
+[30:29] desempenho e muitas vezes dependendo do
+
+[30:32] tipo de profissão né E aí tem a ver com
+
+[30:35] o mercado de trabalho dependendo do tipo
+
+[30:37] de profissão não tem o resultado de
+
+[30:39] palográfico bom tem o resultado de
+
+[30:42] palográfico esperado para aquela área e
+
+[30:44] não para a população geral aí volta um
+
+[30:46] exemplo que eu falei antes para você ser
+
+[30:48] um Aviador e um piloto de avião você não
+
+[30:51] pode ter o mesmo score da população
+
+[30:52] geral tem que ser um Escort lavar dos
+
+[30:54] aviadores Então você abre o vídeo no
+
+[30:56] YouTube lá de como responder Opala
+
+[30:58] palográfico você treina hora e aí vai
+
+[31:01] responder com uma pessoa comum ser
+
+[31:03] reprovado entendeu tem esses problemas
+
+[31:05] aí uma sugestão quantas para fazer um
+
+[31:07] teste psicotécnico qualquer faz de boa
+
+[31:10] mostra quem você é sabe por há 30 Tap ao
+
+[31:14] teste e acaba sendo aprovado para o
+
+[31:17] trabalho que exige competências muito
+
+[31:19] diferente das suas aí você vai sofrer
+
+[31:21] vai ficar doente ficar passando mal vai
+
+[31:24] ficar culpando o trabalho quando na
+
+[31:25] verdade não é você que tá demonstrando o
+
+[31:27] seu outra pessoa mais mais o teste
+
+[31:30] psicotécnico tem esse poder todo não ele
+
+[31:32] não tem sozinho você poder tudo mas ele
+
+[31:35] contribui para isso sabe E aí é uma uma
+
+[31:38] uma questão relacionada com toda
+
+[31:40] avaliação de RH na verdade é que boa
+
+[31:42] parte das empresas não tem RH de verdade
+
+[31:44] tem departamento pessoal né É só
+
+[31:46] contratar e mandar gente embora tá mas
+
+[31:48] emprego empresa multinacional que tem um
+
+[31:49] RH decente né a entrevista de RH te
+
+[31:53] ensina muitas coisas ensina você
+
+[31:56] observar coisas de você eu eu já fiz
+
+[31:58] várias entrevistas de RH não não não
+
+[32:01] como aplicador da revista mas quando o
+
+[32:03] candidato e é muito legal você fazer uma
+
+[32:06] boa entrevista de RH uma boa avaliação
+
+[32:07] por competências porque você se dá conta
+
+[32:10] Nossa esse trabalho não é para mim
+
+[32:11] quando você faz uma boa e o nosso porque
+
+[32:15] a pessoa explica né as competências do
+
+[32:16] trabalho como é que funciona pergunta da
+
+[32:18] sua experiência total aí fala eu lembro
+
+[32:21] de uma entrevista de emprego que eu fiz
+
+[32:23] uma vez eu eu cheguei nessa conclusão
+
+[32:25] com a recrutadora então é verdade nesse
+
+[32:28] trabalho não é para mim ela falou você
+
+[32:29] percebeu né só depois é só obrigado
+
+[32:31] obrigado agora você me fez perceber
+
+[32:34] coisa muito legal aí ela te fez uma
+
+[32:35] piada falei Bom entrevista a psicóloga
+
+[32:37] você percebe também né então vai legal
+
+[32:40] sabe então eu vou ganhar menos mas é
+
+[32:42] humano né bom ter essa restrição assim
+
+[32:45] Senão ia ficar doente lá dentro que eu
+
+[32:46] ia ganhar mais aí a gastar com remédio
+
+[32:48] foi legal foi legal né então assim oh
+
+[32:52] tem essa questão do palografico eu não
+
+[32:56] mencionei a questão histórica que
+
+[32:57] interessante cima né então o palográfico
+
+[33:00] pmk surgiu na Espanha né tem o Mirai
+
+[33:06] Lopes né e o palográfico ele também
+
+[33:09] surgiu ali na Espanha ele foi trazido
+
+[33:11] para o Brasil
+
+[33:13] e 40 do século passado por um professor
+
+[33:16] que o Agostinho minic eu vou deixar na
+
+[33:19] descrição na entrevista que o professor
+
+[33:21] Osvaldo Yamamoto da UFRN fez com o
+
+[33:25] professor Agostinho e aumenta muito
+
+[33:27] legal foi muito descontraída assim que
+
+[33:29] eu Agostinho contava como ele era Na
+
+[33:31] graduação que ele tinha interesse na
+
+[33:33] graduação por tirou melancia limão e
+
+[33:35] porque eu sei quando você é jovem Você
+
+[33:38] tem interesse por ocultismo você não
+
+[33:39] sabe nada direito né ele tem interesse
+
+[33:41] para essas coisas grafologia e foi
+
+[33:43] estudado na faculdade e aí Ele conta a
+
+[33:45] trajetória dele que ele achou um livro
+
+[33:46] de um professor eu tô Nossa isso é legal
+
+[33:49] de grafologia aí ele viu que grafologia
+
+[33:52] não é tão científica né a gente tem um a
+
+[33:54] um rodo se pessoas com letras feias são
+
+[33:56] inteligentes que eu explico por quê que
+
+[33:58] grafologia É pseudocientífico mas ele
+
+[34:01] ele percebeu que tinha coisas ali do
+
+[34:02] comportamento motor E aí ele mudou o
+
+[34:04] nome de de grafologia para grafoanalise
+
+[34:08] grafoanalise então eu não avaliei a sua
+
+[34:11] letra eu avaliei os traços e ele quebrou
+
+[34:14] uma coisa mais simples e aí ele
+
+[34:16] desenvolveu palográfico né trouxe um
+
+[34:19] modelo da Espanha e foi padronizando e
+
+[34:22] aqui no Brasil cresceu bastante O
+
+[34:25] interessante é procura artigo em inglês
+
+[34:27] sobre palográfico hiperemica Você não
+
+[34:29] acha não acha não tem muito pouco artigo
+
+[34:33] na verdade de leite ou com os resultados
+
+[34:35] de busca na
+
+[34:37] isso no Google né Pois é então aí Aí
+
+[34:41] você fica vendo ó Por que que não tem né
+
+[34:43] é será que a pessoa do ciência Total
+
+[34:44] tipo é o meu pai tinha completa aí
+
+[34:46] depois foi ver que não é muito legal
+
+[34:48] quando se deram conta começar a fechar
+
+[34:49] assim lembra de uma roda que a gente
+
+[34:51] leva lá atrás que é o sobre emdr é
+
+[34:55] aquela técnica de você de mexer uns
+
+[34:57] pauzinhos ficar olhando né que no final
+
+[34:59] do episódio eu falei de um de um Russo
+
+[35:01] que chama Alfred arbus que estudava
+
+[35:04] movimentos de olho essa coisa da
+
+[35:06] psicologia da percepção ligada ao
+
+[35:08] comportamento motor e ocular surgiu na
+
+[35:11] Rússia e tá lá é mas por isso tem que se
+
+[35:17] você não souber Rússia Então as buscas
+
+[35:20] não vão resolver isso e não vem não vem
+
+[35:24] para o ocidente direito um tanto tanto
+
+[35:27] que na Espanha tem uma Instituto virar
+
+[35:29] Lopes que é do criador do pmk que Eles
+
+[35:32] continuam fazendo pesquisas com isso e
+
+[35:34] tem o trabalho fantásticos fantásticos
+
+[35:36] da do envolvimento da própria concepção
+
+[35:39] que é propriocepção é a capacidade de
+
+[35:42] você saber onde o seu e corpo está então
+
+[35:45] se você fechar o olho e levantar o braço
+
+[35:46] você sabe que você tá com o braço
+
+[35:48] levantado por quê Porque você tem
+
+[35:50] receptores de movimento essa própria
+
+[35:52] concepção não precisa da visão né nem do
+
+[35:55] Tatu necessariamente tá então a posição
+
+[35:58] do seu corpo tem um caso vou deixar é um
+
+[36:00] vídeo muito curioso de um um cara que
+
+[36:02] teve uma infecção viral no cérebro e ele
+
+[36:05] perdeu a área do cérebro relacionada a
+
+[36:07] própria acepção ele não consegue andar
+
+[36:09] de olho fechado sempre fechar o olho ele
+
+[36:12] cai né não tem problema no ouvido não é
+
+[36:15] um problema vestibular de Equilíbrio ele
+
+[36:17] não tem para percepção aí mostra ele
+
+[36:19] andando ele tem que ficar olhando para o
+
+[36:21] pé ele só anda olhando para o pé o tempo
+
+[36:24] todo quando ele quer parar para ver
+
+[36:26] alguma coisa ele tem que se segurar e
+
+[36:27] ficar olhando ele volta a andar ele tem
+
+[36:29] que ficar olhando para o pé
+
+[36:30] impressionante né impressionar internet
+
+[36:32] esse Agora pensa a criança que a pequena
+
+[36:35] de novo ela não fica olhando para o
+
+[36:36] próprio pé para o corpo para aprender
+
+[36:38] andar de novo o comportamento motor tem
+
+[36:40] a ver com o também com a personalidade
+
+[36:42] Não não é tudo mas tem a ver também
+
+[36:44] então o tem artigos fantásticos a para
+
+[36:47] quem tiver interesse aí no TCC na área
+
+[36:49] em português Bacana Então assim não tem
+
+[36:51] não tem artigo em inglês direito tem tem
+
+[36:54] bastante ativo espanhol e Russo né em
+
+[36:56] português deveria ter mais artigos
+
+[36:58] científicos mas não tem só tem os
+
+[37:00] artigos de padronização da escala e aí
+
+[37:03] não eu não quero eu quero saber como é
+
+[37:05] que a gente usa por exemplo teste motor
+
+[37:07] para avaliar memória atenção dentro do
+
+[37:10] contexto da neuropsicologia E aí é outro
+
+[37:13] Bom dia também né então há um outro
+
+[37:16] problema da Psicologia é a
+
+[37:17] neuropsicologia neuropsicologia é o
+
+[37:20] estudo desses testes neuropsicológicos
+
+[37:22] para avaliar processos psicológicos
+
+[37:25] básicos Então hoje a gente tem testes de
+
+[37:28] memória teste de atenção testes de
+
+[37:31] impulsividade esse tipo de coisa tem uma
+
+[37:34] baterias de teste é isso deveria ser
+
+[37:37] ensinado Na graduação mas não é direito
+
+[37:39] porque que não é ensinado Na graduação
+
+[37:41] porque para saber o que é atenção
+
+[37:43] memória você não precisa de escola da
+
+[37:45] Psicologia você precisa dele Ecologia
+
+[37:48] precisa de método e dentro das
+
+[37:50] faculdades de Psicologia última coisa
+
+[37:51] que se ensina é método científico porque
+
+[37:53] por exemplo se eu quiser ensinar para
+
+[37:55] você atenção eu tenho que ensinar para
+
+[37:57] você a fisiologia da atenção causa
+
+[37:59] material e formal e Tenho que explicar
+
+[38:01] como ambiente influencia a atenção que a
+
+[38:05] causa eficiente Como a cultura
+
+[38:07] influencia a atenção também ou seja tem
+
+[38:10] que gastar muito tempo te ensinando
+
+[38:11] métodos de pesquisa e dá tempo de
+
+[38:14] ensinar teórico na igrejinha do teórico
+
+[38:16] não dá tempo de
+
+[38:18] catequizar na igreja do Skinner do Freud
+
+[38:21] Lacan do que quer que seja não dá tempo
+
+[38:23] aí o que que acontece com a psicologia
+
+[38:25] neuropsicologia aqui no Brasil ela
+
+[38:27] surgiu que é completamente do lado que
+
+[38:30] outros países não é assim a
+
+[38:31] neuropsicologia Sujinho dentro da
+
+[38:33] Medicina ou seja o neuropsicólogo ele é
+
+[38:35] formado não precisa comportamento mas
+
+[38:37] para estudar sintoma para você paga pau
+
+[38:40] de psiquiatra aí psiquiatra que não sabe
+
+[38:42] um quinto de comportamento de verdade
+
+[38:44] chama o neuropsicólogo só para fazer o
+
+[38:46] exame aplica o exame me dá o resultado
+
+[38:49] aí ele interpreta só o psicólogo ou
+
+[38:52] psiquiatra pode dar o diagnóstico é todo
+
+[38:54] errado velho tá tudo errado os dois
+
+[38:56] lados né ou psicólogo porque idiota que
+
+[38:58] não é mal formado né E aí não sabe não
+
+[39:01] sabe mostrar que aquela ferramenta Não é
+
+[39:03] só para doença não é só para detectar
+
+[39:05] sintomas para avaliar comportamento Cadê
+
+[39:07] score padronizado de teste
+
+[39:09] neuropsicológico para a população normal
+
+[39:11] comum não tem só tá as pessoas com
+
+[39:14] deficiência pessoas com problemas com
+
+[39:16] TDH pessoa com problema cognitivo e eu
+
+[39:18] não quero isso porque porque quem
+
+[39:20] precisa 10 scores normativos o
+
+[39:22] psiquiatra por quê Porque a psiquiatras
+
+[39:24] of doença não vê o normal o que acontece
+
+[39:27] no dia a dia né o o psiquiatra só
+
+[39:29] trabalha na ponta quando já tá dando
+
+[39:31] ruim e antes não é comerciante calma aí
+
+[39:34] como é que tá Vale apresenta numa escola
+
+[39:36] né como é que você avalia esse ar que aí
+
+[39:39] é uma crítica da Canario tem uma crítica
+
+[39:42] boa mas ela faz do jeito errado que é
+
+[39:45] essa excessiva medicalização por exemplo
+
+[39:47] dentro da escola é um problema mas apps
+
+[39:50] canários não resolvem por quê Porque ela
+
+[39:52] disse que é tudo que a causa orgânica
+
+[39:54] não existe por exemplo eu já vi um monte
+
+[39:56] de psicanalista falar essas asneiras que
+
+[39:58] te DH não tem causa orgânica quando na
+
+[40:01] verdade o problema é o diagnóstico tem
+
+[40:03] pessoas com diagnóstico de tdha que tem
+
+[40:05] um problema orgânico sim tem pessoas que
+
+[40:08] têm diagnóstico de tdha não tem o
+
+[40:11] problema orgânico também tem Oi como é
+
+[40:14] que você para para cada pessoa que toma
+
+[40:16] remédio sem precisar tem uma pessoa que
+
+[40:19] deveria estar tomando e não está o
+
+[40:21] problema está na no problema de
+
+[40:23] diagnóstico e para você separar essas
+
+[40:25] pessoas o que que precisa método de
+
+[40:28] Formação em comportamento psiquiatra não
+
+[40:30] vai aprender isso porque ele é focado na
+
+[40:32] doença onde qual é a única área que
+
+[40:34] estuda o comportamento psicologia e a
+
+[40:36] gente não estuda aí vem um analista do
+
+[40:38] comportamento lá mas os analistas do
+
+[40:40] comportamento que só a ciência da
+
+[40:41] Psicologia aí Traz a cadeirinha do
+
+[40:43] coitado Skinner lá já todo gasto não
+
+[40:45] velho não o cara que estuda análise do
+
+[40:48] comportamento não sabe nem o que é um
+
+[40:49] coeficiente angular de uma equação para
+
+[40:52] analisar a quantidade de comportamento
+
+[40:54] tem medo de estudar matemática e aí foge
+
+[40:56] do Povo da psicofísica né tô triste
+
+[40:59] velho Bom a partir da análise do
+
+[41:01] comportamento Surgiu da psicofísica Só
+
+[41:03] que os cara bota a cadeirinha de Skinner
+
+[41:05] em cima né e os caras que vieram antes
+
+[41:07] Lucy tem lá o torna aí que o mundo de ti
+
+[41:12] quis fazer a seco oi tá tudo errado né
+
+[41:14] quem você viu que eu fiquei pistola sem
+
+[41:16] por isso porque estou vendo É
+
+[41:19] triste então assim para pode começar a
+
+[41:22] fechar uma solução que a gente tem é por
+
+[41:25] exemplo pegasse a literatura de áreas né
+
+[41:28] sobre temas que não são abordados na
+
+[41:31] literatura em inglês Apesar de todas as
+
+[41:33] questões políticas lá tipo a ciência não
+
+[41:35] tem nada nem a ver não tem não tá nem aí
+
+[41:37] para isso tem centro de referência
+
+[41:39] excelentes da Rússia sobre o efeito da
+
+[41:43] própria acepção no comportamento né na
+
+[41:45] seja no que a gente chama de
+
+[41:47] personalidade mas não comportamento como
+
+[41:49] um todo e aí tem os artigos fantásticos
+
+[41:51] quem ó tem um arte tem um antigo vou
+
+[41:54] estar na descrição que mostra o seguinte
+
+[41:56] eu vou avaliar o seu comportamento
+
+[41:58] psicomotor da sua motricidade tipo tempo
+
+[42:02] de reação com rápido você escreve
+
+[42:05] características desse tipo sabe-se
+
+[42:07] autônomos o tônus muscular né E essas
+
+[42:10] métricas de propriocepção São
+
+[42:13] a série de parâmetros fisiológicos por
+
+[42:16] exemplo o com o seu grau de atividade
+
+[42:20] imune esse artigo achei Fantástico que
+
+[42:23] ele mostra a relação entre o seu padrão
+
+[42:24] muscular o padrão de atividade motora EA
+
+[42:28] sua reatividade a doenças então por
+
+[42:31] exemplo quando você está afetado por
+
+[42:33] alguma doença ou seja sua atividade
+
+[42:35] imune está mais mais alta né isso afeta
+
+[42:38] o seu comportamento motor então eles
+
+[42:40] estão tentando ainda não conseguiram
+
+[42:42] estão tentando desenvolver testes
+
+[42:43] motores não invasivos para verificar
+
+[42:47] infecção
+
+[42:48] ou um diagnóstico para doenças
+
+[42:50] autoimunes Olha que Fantástico só pelo
+
+[42:53] comportamento motor a gente tem uma
+
+[42:55] relação muito sólida também tem
+
+[42:56] comportamento motor e privação de sono
+
+[42:59] então quando você tá muito cansado muito
+
+[43:02] privado de sono você pode não perceber
+
+[43:04] que tá com sono mas é Só Feita a sua
+
+[43:06] própria acepção motora eu coloco você
+
+[43:08] numa prancha e veja o quanto você
+
+[43:10] consegue se equilibrar quando quando
+
+[43:12] esse equilíbrio é muito Eu liguei para
+
+[43:13] muito grande isso é sinal de privação de
+
+[43:16] sono então vai dormir algumas profissões
+
+[43:19] podiam terça e teste obrigatório antes
+
+[43:21] de pegar a estrada antes de voar antes
+
+[43:24] de dirigir um ônibus sei lá exatamente
+
+[43:27] teve aquela teste fácil é tranquilo de
+
+[43:30] aplicar só que aqui que falta ciência
+
+[43:32] por quê Porque fica enfurnado numa parte
+
+[43:34] do mundo o resto não tem acesso e falta
+
+[43:36] formar gente né Isso é vai esperar aqui
+
+[43:38] o psiquiatra faça isso porque eu não vou
+
+[43:40] fazer isso tá vai esperar que um biólogo
+
+[43:42] faça isso não vai fazer é o psicólogo só
+
+[43:44] que aqui o povo é mal informado sabe
+
+[43:46] fica brigando com a subjetividade
+
+[43:47] subjetivante da subjetivação e falta
+
+[43:50] compromisso com a formação científica
+
+[43:51] real metodológica mesmo ciência e método
+
+[43:55] e não Brasil não se estuda método em
+
+[43:57] psicologia e por isso que aplicar hoje
+
+[43:59] no Brasil nós científica né então
+
+[44:01] enquanto a gente não formar a as pessoas
+
+[44:04] de fato nos diferentes métodos de
+
+[44:06] avaliação né a gente não vai ter uma
+
+[44:08] psicologia baseada em evidência. Não vai
+
+[44:10] ter assim porque como é que você Valeu
+
+[44:12] minha vida e sobre o método para avaliar
+
+[44:14] para que ele a evidência É triste é
+
+[44:17] triste é difícil então assim o teste
+
+[44:20] palográfico no caso ele é uma melhoria
+
+[44:23] do pmk então assim o teste pmk mais
+
+[44:26] antigo ele é válido mas a precisão dele
+
+[44:29] não é boa porque depende muito do
+
+[44:31] avaliador ou pornográfica um pouquinho
+
+[44:33] melhor né então ele avalia também
+
+[44:35] características de personalidade
+
+[44:36] Lembrando que personalidade eu estou
+
+[44:39] dizendo não a personalidade como um todo
+
+[44:41] o componente motor da personalidade tá
+
+[44:45] então por isso que o palográfico folha
+
+[44:47] questões de questões mais simples né
+
+[44:49] Carteira de direção assim quando quando
+
+[44:52] é uma um emprego que o emprego mais
+
+[44:55] específico ou por exemplo aviação essas
+
+[44:59] coisas o palográfico nunca é feito
+
+[45:00] sozinho ele é feito numa bateria tem
+
+[45:03] outros testes também que ele complementa
+
+[45:05] a parte motora da personalidade então
+
+[45:08] por exemplo eu posso aplicar um teste
+
+[45:09] projetivo e também o palografico E aí eu
+
+[45:12] pego 2 o Max e aí você tem que ter um
+
+[45:15] psicólogo que é bem treinado na
+
+[45:17] avaliação das escalas né das métricas
+
+[45:19] mas também tem formado do ponto de vista
+
+[45:22] científico o que mais me preocupa por
+
+[45:24] exemplo porte de arma a gente tem
+
+[45:27] normatização de desses testes para porte
+
+[45:30] de arma não não tem então o falta isso
+
+[45:34] mesmo o que a gente tem essa enquanto o
+
+[45:36] óleo por exemplo o resultado do
+
+[45:37] palografico um outro teste para porte de
+
+[45:39] arma eu comparo a pessoa o resultado
+
+[45:43] dela com pessoas que têm transtorno
+
+[45:45] psiquiátrico que é uma população em
+
+[45:47] geral muito diferente das pessoas que
+
+[45:49] normalmente vão procurar porte de arma
+
+[45:51] mas não tem a normatização para aquela
+
+[45:53] população ainda então de novo o problema
+
+[45:55] não está na régua tá na interpretação
+
+[45:58] fazendo que estão certamente
+
+[46:00] hoje o estado brasileiro está
+
+[46:03] liberando o porte de arma para pessoas
+
+[46:06] que não necessariamente deveriam tem
+
+[46:09] como é que falso positivo Esse é o
+
+[46:11] resultado a questão tem tem muito falso
+
+[46:13] por e pode ser falso negativo também né
+
+[46:15] a régua não escrevendo direito Vai para
+
+[46:16] os dois lados Agora você falou aqui que
+
+[46:18] não tem como você não existe um certo
+
+[46:21] não Joaquim já que para cada aplicação
+
+[46:25] para cada uso do teste Tem que haver uma
+
+[46:30] Norma específica mas é possível treinar
+
+[46:34] Então depende do que você chama de
+
+[46:36] treino né porque assim se você treina
+
+[46:39] muito a vida inteira você fica uma
+
+[46:41] pessoa diferente você entende que não dá
+
+[46:43] para separar a intenção do comportamento
+
+[46:45] se você se comporta muito de um certo
+
+[46:47] jeito isso vai mudar sua intenção você
+
+[46:50] muda né É bem aquele aqueles está
+
+[46:53] aqueles relatos de caso de casos de
+
+[46:55] sucesso da pessoa lá que tava sei lá
+
+[46:58] sobrepeso alguma coisa assim de repente
+
+[47:00] ela começou a se comportar acontecer
+
+[47:03] alguma coisa na vida dela Como ela
+
+[47:04] perdeu 50 quilos sabe então assim não
+
+[47:07] foi o exercício ou a dieta que mudou o
+
+[47:10] comportamento dela foi o comportamento
+
+[47:11] dela né o comportamento dela que podia
+
+[47:14] ter mudado por qualquer outra causa não
+
+[47:16] é por causa da dieta do exercício a
+
+[47:18] causa a dieta eo exercício é um meio mas
+
+[47:21] não é o a causa na verdade a causa esse
+
+[47:25] drive que a pessoa cria quando ela
+
+[47:27] começa a se comportar de uma certa forma
+
+[47:28] né então assim dá para roubar o teste
+
+[47:32] palográfico
+
+[47:33] sempre dar né sempre dá para fazer
+
+[47:35] alguma coisa a questão é se você roubar
+
+[47:39] você vai pode estar mostrando uma pessoa
+
+[47:41] que na verdade você não é você vai
+
+[47:43] sofrer lá na frente vai gerar uma dessa
+
+[47:45] adaptação lá na frente né então de novo
+
+[47:48] você tem que pensar os prós e os contras
+
+[47:50] disso não é fácil roubar e de novo esses
+
+[47:52] videos do YouTube mostrando como passar
+
+[47:55] não funcionam você tá perdendo tempo da
+
+[47:57] sua vida tá em geral e aí para fechar né
+
+[48:01] Tem uma coisa interessante de um desses
+
+[48:02] artigos em russo que é muito legal assim
+
+[48:05] o a pegada na Alemanha também tem essa
+
+[48:08] perspectiva de percepção de
+
+[48:10] comportamento né que é um cara chamado
+
+[48:12] Liberty o motivo de 2004 que ele fala o
+
+[48:15] seguinte que existe uma certa percepção
+
+[48:18] do que é comportamento né então assim
+
+[48:20] comportamento é tudo aquilo que eu vejo
+
+[48:22] que você produz então quando eu quando
+
+[48:24] eu vejo você pegando um copo né ah o
+
+[48:27] quem está ativamente pegando o copo né
+
+[48:30] mas você pode ver si mesmo o
+
+[48:32] comportamento de pegar o copo de outra
+
+[48:33] forma que é por exemplo ao invés de eu
+
+[48:35] ver o que o que você está fazendo tipo
+
+[48:38] inclinando a mão pegando o copo
+
+[48:41] segurando uma certa firmeza e trazendo
+
+[48:43] para você eu posso repensar o seu
+
+[48:46] comportamento em função do que você está
+
+[48:48] inibindo porque por exemplo você porque
+
+[48:51] a Pôr a mão para cima não invés de por a
+
+[48:52] mão para frente para pegar o copo por
+
+[48:54] que você não põe a mão para cima logo
+
+[48:56] você está inibindo o comportamento de
+
+[48:58] pôr a mão para cima para pôr a mão para
+
+[49:00] frente em função de um estímulo do
+
+[49:02] ambiente então você pode avaliar
+
+[49:05] comportamento do ponto de vista do que a
+
+[49:07] pessoa acerta do que ela faz de adequado
+
+[49:10] Mas também você pode avaliar o
+
+[49:12] comportamento da pessoa em função do que
+
+[49:14] ela inibe do que ela deixa de fazer do
+
+[49:17] que ela poderia ter feito e não fez e aí
+
+[49:19] tem um relato peço desculpa minha
+
+[49:20] tradução direta aqui do rosto né mas é
+
+[49:23] uma coisa assim o controle de uma ação
+
+[49:25] motora é um processo tardio de inibição
+
+[49:29] da atividade automática entre cérebro e
+
+[49:32] comportamento isso é fantástico vou
+
+[49:35] repetir de novo a capacidade de você
+
+[49:38] controlar as suas ações não é o
+
+[49:40] comportamento é um processo tardio ele
+
+[49:43] vem depois né é um processo tardio de
+
+[49:46] inibição da atividade automática entre
+
+[49:49] cérebro e comportamento então seu
+
+[49:51] cérebro seu comportamento está sempre
+
+[49:53] tentando fazer coisas O que é você quem
+
+[49:56] Fujioka é esse dente que inibe toda essa
+
+[50:00] atividade automática Então você surge
+
+[50:03] por uma negação vai falar se isso é uma
+
+[50:05] coisa buscalite olha só né é a
+
+[50:08] junção da das áreas e os
+
+[50:10] desgraçados não estuda por isso que eu
+
+[50:11] fico tu quer dizer e pela parte da nossa
+
+[50:15] mente que simplesmente faz e a outra e a
+
+[50:18] outra que fica dizendo
+
+[50:21] calma aí calma aí isso não é que tem uma
+
+[50:25] parte da nossa mente nossa mente é isso
+
+[50:27] e mais a nossa mente é o mesmo tempo a
+
+[50:30] censura disso então mas pensa que você é
+
+[50:33] um cérebro e e ligado no seu
+
+[50:35] comportamento você é um certo o melhor
+
+[50:37] exemplo recém-nascido o recém-nascido
+
+[50:39] não fica se batendo o tempo inteiro
+
+[50:40] mexendo a mão no pé ele não tem uma
+
+[50:43] razão para mexer amanhã para ele tá
+
+[50:44] mexendo porque porque o cérebro não tem
+
+[50:46] maturidade o suficiente para negar
+
+[50:49] aquilo para negar aquilo e é por isso
+
+[50:51] que ele vai se desenvolvendo o seu
+
+[50:52] comportamento vai ficando mais fino seu
+
+[50:54] comportamento motor vai ficando mais
+
+[50:56] fino Essa é a definição real do que a
+
+[50:59] repressão de verdade a causa material da
+
+[51:02] repressão em isso é inibição do
+
+[51:04] comportamento motor né agora vai vir um
+
+[51:07] monte de buscar a lista Isso é uma
+
+[51:09] heresia
+
+[51:09] vai estudar primeira coisa não eu não
+
+[51:13] sei outro motor primeira coisa tu tem
+
+[51:15] que estudar votar no Piaget voltar o
+
+[51:17] comportamento normal das criancinhas
+
+[51:19] Obrigado Floyd tem estudado as afasias
+
+[51:21] lá depois de ter estudado a histeria
+
+[51:23] Obrigado mas eu já deu deixa o cara
+
+[51:25] descansar já deu bola para frente sabe
+
+[51:28] então eu vou repetir de novo que isso
+
+[51:30] aqui é uma coisa fantástica o controle
+
+[51:32] da ação na verdade é um processo tardio
+
+[51:34] da inibição da atividade automática
+
+[51:37] entre cérebro e comportamento essa é uma
+
+[51:39] definição fisiológica do que a repressão
+
+[51:41] a repressão começa no comportamento em
+
+[51:45] si né E aí por exemplo quando sofre um
+
+[51:47] trauma você sofre uma agressão física um
+
+[51:51] estupro alguma coisa do tipo você acha
+
+[51:53] que isso não vai exercer um padrão de
+
+[51:55] controle no na atividade automática
+
+[51:58] entre cérebro e comportamento numa gira
+
+[52:00] uma marca super dúvida agora você
+
+[52:02] precisa chamar tudo isso pessoal chama
+
+[52:04] tudo isso de Édipo o Édipo na verdade é
+
+[52:07] uma representação cultural dessa causa
+
+[52:10] material e formal que acontecem com
+
+[52:12] todas as culturas e por isso é
+
+[52:14] fantástico nem
+
+[52:16] aguento mas não é muito
+
+[52:20] trabalho o bagulho Russo vai bacana
+
+[52:22] bacana mesmo recomendo pra quem tiver
+
+[52:24] interesse estúdio um fisiólogo do século
+
+[52:26] 19 chamada de além do Alfred Argos
+
+[52:29] estudos eg9 mano aqui no presente
+
+[52:33] conhece pouco o associacionismo mas sei
+
+[52:36] se é novos textos dele Russo olha o cara
+
+[52:39] era bom velho quebra na ponta uma frase
+
+[52:41] você muito de uma frase do 79 que eu
+
+[52:45] gostei até coloquei no meu mural que é
+
+[52:47] assim que ele fala cuidado com que as
+
+[52:49] crianças brincam porque na verdade elas
+
+[52:52] estão brincando com o futuro delas isso
+
+[52:54] é muito forte muito forte exatamente com
+
+[52:58] base nessa definição do controle da ação
+
+[52:59] né cuidado com que as crianças brincam
+
+[53:02] porque na verdade elas estão brincando
+
+[53:03] com o futuro dela cada brincadeira na
+
+[53:06] verdade cada caso da comportamento vai
+
+[53:09] definir o padrão comportamental daquela
+
+[53:12] pessoa né ó e vai vai vai definir também
+
+[53:15] o grau de entre "repressão ou Auto
+
+[53:19] controle o controle da ação desse
+
+[53:21] comportamento que vai marcar por muitos
+
+[53:25] clareamento de interação entre o
+
+[53:26] indivíduo eo ambiente vai marcar o que a
+
+[53:28] gente chama de personalidade eu tava na
+
+[53:31] dada pela definição de personalidade que
+
+[53:33] eu dei antes tá então espero que os
+
+[53:35] ouvidos tenham gostado desse desse
+
+[53:36] programa Bem psicológico na verdade né
+
+[53:39] cama de novo mais um pedido de ajuda pra
+
+[53:41] gente melhorar a formação em psicologia
+
+[53:42] no Brasil com uma piada por favor e sem
+
+[53:46] método gente a gente lugar para frente
+
+[53:48] sem as pessoas saberem como fazer o que
+
+[53:51] elas querem fazer a gente não vai para
+
+[53:53] frente enquanto área do conhecimento
+
+[53:54] científica séria A Medicina sabe como
+
+[53:58] fazer as coisas mas não sabe por quê tá
+
+[54:00] fazendo a gente sabe o porquê mas não
+
+[54:02] sabe como e ainda juntar tava ideia a
+
+[54:04] gente conseguir juntar isso então pra
+
+[54:06] quem foi da Psicologia as referências
+
+[54:08] são imperdíveis e para quem quiser para
+
+[54:10] quem quiser arriscar em Russo não E
+
+[54:13] aí boa sorte Google Google Tradutor né
+
+[54:18] gente dá um jeito hoje em dia bem mais
+
+[54:19] fácil nessa então fica aí o convite para
+
+[54:23] você ler um artigo em Russo e Nara o do
+
+[54:29] ilustríssimo vídeos
+
+[54:31] e você já sabe aqui no Naru rodou quem
+
+[54:34] faz a pauta é você Você tem alguma
+
+[54:36] pergunta para a gente o que é comentar
+
+[54:38] algum episódio escreva para nós
+
+[54:41] podcast@narodów a.com.br repetindo
+
+[54:45] podcast@Mário Rodolfo. Com.br e
+
+[54:48] lembre-se mande nome completo idade
+
+[54:50] profissão e a cidade de onde você está
+
+[54:52] falando é isso aí ó
+
+[54:55] [Música]
+
+[55:00] e
+
+[55:02] ele foi
+
+[55:04] apresentado 9.com.br
+
+[55:11] [Música]

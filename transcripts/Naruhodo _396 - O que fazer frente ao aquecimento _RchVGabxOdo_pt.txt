@@ -1,0 +1,2577 @@
+Title: Naruhodo #396 - O que fazer frente ao aquecimento global?
+URL: https://www.youtube.com/watch?v=RchVGabxOdo
+Language: pt
+Extracted on: 2025-04-06 16:39:23
+================================================================================
+
+[00:00] o que fazer frente ao aquecimento global
+
+[00:05] [Música]
+
+[00:05] [Aplausos]
+
+[00:12] bem vindo podcast para quem tem fome de
+
+[00:15] aprender eu sou quem Fujioka
+
+[00:19] [Música]
+
+[00:23] você quer apoiar a ciência quer apoiar o
+
+[00:27] pensamento científico quer ajudar o Naru
+
+[00:29] rodou no ar o vírus episódios e espalhar
+
+[00:33] a palavra já é um grande Passo mas
+
+[00:36] existe um outro jeito quem possibilita
+
+[00:38] isso é a ourelo você escolhe um valor de
+
+[00:41] contribuição mensal e tem acesso a
+
+[00:43] conteúdos exclusivos conteúdos
+
+[00:45] antecipados e vantagens especiais Além
+
+[00:48] disso você pode ter acesso ao nosso
+
+[00:50] grupo fechado no telegram e conversar
+
+[00:52] comigo com Altair com outros apoiadores
+
+[00:54] Toda vez que você ouvir ou fizer
+
+[00:57] download de um episódio pelo orello vai
+
+[00:59] também estar pingando os trocadinhos
+
+[01:01] para o nosso projeto Combinado então
+
+[01:04] baixa agora mesmo App orello no endereço
+
+[01:07] orello.cc ou na sua loja de aplicativos
+
+[01:10] e ajude a fortalecer o conhecimento
+
+[01:12] científico
+
+[01:20] E chegamos ao momento a lura que ele não
+
+[01:24] 20 querido ouvinte você quer dar um
+
+[01:26] verdadeiro mergulho no mundo da
+
+[01:28] tecnologia migrar para uma nova carreira
+
+[01:31] aprofundar-se nessa carreira então
+
+[01:33] assine a lura agora mesmo você vai
+
+[01:36] estudar praticar discutir e se
+
+[01:39] aprofundar em uma plataforma que respira
+
+[01:41] tecnologia na alura você terá acesso
+
+[01:44] completo ao conhecimento onde e quando
+
+[01:46] você quiser com novos cursos todas as
+
+[01:49] semanas e ainda tem vantagem ou 20
+
+[01:52] narrou tem desconto especial mas para
+
+[01:54] isso é preciso acessar a seguinte URL
+
+[01:57] anota aí a
+
+[02:00] lura.com.br/promo
+
+[02:02] nesse endereço além do desconto especial
+
+[02:05] você vai conhecer histórias reais de
+
+[02:07] transformação de pessoas que estudaram
+
+[02:09] na lura então repetindo acesse
+
+[02:15] /promo
+
+[02:17] [Música]
+
+[02:25] Altair eu tô com a voz rouca eu não sei
+
+[02:29] se isso faz parte do aquecimento global
+
+[02:31] faz
+
+[02:33] já adiantando faz olha lá temos pergunta
+
+[02:37] de ouvintes Altair
+
+[02:40] muitos ouvintes hein pois é o primeiro
+
+[02:43] e-mail do Bruno Soares que é servidor
+
+[02:48] público em Cuiabá Mato Grosso
+
+[02:52] eu disse o seguinte primeiramente
+
+[02:54] Agradeço a vocês ao Reginaldo e todos
+
+[02:56] que estão por trás dessa maravilha que é
+
+[02:58] um dardo vocês me ajudaram a entender o
+
+[03:01] mundo de maneira científica minimizando
+
+[03:04] as incertezas e não me convencendo que
+
+[03:06] eu já sei tudo o que eu preciso vi
+
+[03:10] recentemente uma chamada muito chamativa
+
+[03:13] na página do Twitter do Olhar Digital
+
+[03:15] sobre o estado de saúde da terra
+
+[03:19] aí ele manda o link aqui né uma matéria
+
+[03:22] que diz planeta terra entra na UTI está
+
+[03:26] próximo da Fase Terminal de cientistas E
+
+[03:30] aí ele complementa na minha infância
+
+[03:32] final dos anos 90 início dos anos 2000
+
+[03:36] eu ouvia falar sobre a importância de
+
+[03:38] preservar a terra não desperdiçar água
+
+[03:40] entre outros ensinamentos hoje em dia
+
+[03:42] tem sensação de que esse tipo de
+
+[03:44] mensagem reduziu problema diminuiu ou as
+
+[03:48] políticas públicas nesse sentido
+
+[03:49] diminuiram temos também a pergunta do
+
+[03:53] Michel Oliveira que é advogado e
+
+[03:56] empresário em Portugal ele disse o
+
+[03:59] seguinte que podcast Fantástico gostoso
+
+[04:01] de ouvir e viciante cultura inútil
+
+[04:05] informativos relevantes com o olhar
+
+[04:07] sério da ciência e aí ele diz veio por
+
+[04:11] meio desta alimentar a fogueira da
+
+[04:13] informação com o tema aquecimento global
+
+[04:16] é fraude temos também a pergunta do de
+
+[04:20] São Paulo capital que diz o seguinte que
+
+[04:23] ele é muito saber o que a ciência tem a
+
+[04:25] dizer sobre o aquecimento global existe
+
+[04:27] consenso sabemos que a temperatura está
+
+[04:30] aumentando parte por nossa causa mas e
+
+[04:33] sobre as consequências o planeta vai
+
+[04:35] sobreviver e nós também temos a pergunta
+
+[04:39] do Pedro Henrique Neiva Nunes que é
+
+[04:42] estudante Ciência da Computação em
+
+[04:44] Brasília Distrito Federal sempre tive
+
+[04:48] dúvidas sobre como o aquecimento global
+
+[04:51] acontece Mais especificamente como que
+
+[04:54] funciona a química dos gases que fazem
+
+[04:56] buracos na camada de ozônio sempre
+
+[04:59] imaginei que seriam reações químicas do
+
+[05:01] O2 e outros gases com os gases da camada
+
+[05:04] de ozônio mas nunca tive certeza visto
+
+[05:06] que química é a matéria que mais tem
+
+[05:08] dificuldade preguiça de estudar outra
+
+[05:11] coisa que não entra na minha cabeça
+
+[05:12] porque o tema aquecimento global e
+
+[05:15] mudanças climáticas virou controvérsia
+
+[05:17] seria isso somente por causa dos
+
+[05:19] econômicos ou teria algum aspecto
+
+[05:21] religioso moral para esse negacionismo
+
+[05:24] porque a falta de cuidados com o nosso
+
+[05:26] planeta e a desacreditação de teorias
+
+[05:30] científicas virou algo tão frequente
+
+[05:32] como isso surgiu e porque o tema é tão
+
+[05:35] Tabu enfim queria agradecer sobre esse
+
+[05:37] podcast incrível que é o nardo rodou de
+
+[05:39] longe o meu favorito só não apoio porque
+
+[05:42] o dinheiro não é algo que tem no momento
+
+[05:44] mas compartilhe com todo mundo inclusive
+
+[05:47] fiz minha mãe começar a ouvir pode casts
+
+[05:50] por conta de vocês continue com um ótimo
+
+[05:52] trabalho dia de divulgação Científica
+
+[05:56] Ô Pedro não tem problema não conseguia
+
+[06:00] apoiar financeiramente o Naru rodou acho
+
+[06:03] que você já está cumprida a primeira
+
+[06:05] regra que é espalhar a palavra e fazer
+
+[06:09] com que mais gente
+
+[06:10] a dentre a todosfera não é exatamente
+
+[06:14] esse é o principal objetivo
+
+[06:16] [Música]
+
+[06:28] aquecimento global
+
+[06:31] final de contas o que é que a ciência já
+
+[06:34] tem a dizer sobre isso tudo tudo
+
+[06:38] a ciência formalmente já tem tudo a ser
+
+[06:42] dito sobre como acontece o que é como
+
+[06:45] evitar só que simplesmente ninguém faz
+
+[06:48] nada assim ou faz muito pouco só a
+
+[06:51] ciência pode dizer coisas sobre
+
+[06:52] aquecimento global e ela já disse tudo
+
+[06:53] principalmente com base nos últimos
+
+[06:55] relatórios quer dizer não existe
+
+[06:58] controvérsias
+
+[07:00] não existe contra a controvérsia em si
+
+[07:04] já é uma fake News não existe assim os
+
+[07:07] dados são mais do que robustos nos
+
+[07:09] últimos 10 anos o que mais aumentou foi
+
+[07:11] a qualidade da coleta de dados e da
+
+[07:13] análise então a gente só tem confirmado
+
+[07:15] cada vez mais os dados sobre aquecimento
+
+[07:18] global então assim qualquer pessoa que
+
+[07:20] vier falar para você que ah é uma fraude
+
+[07:22] é uma conspiração isso é até pior do que
+
+[07:24] coisa de Indústria Farmacêutica assim é
+
+[07:26] realmente o chapeuzinho de papel de
+
+[07:28] alumínio na cabeça assim total
+
+[07:31] aquecimento global hoje em dia gerado
+
+[07:33] por ação antrópica né a ação do homem é
+
+[07:36] tão Óbvio quanto a gravidade tá você
+
+[07:38] pode duvidar da gravidade Mas você não
+
+[07:40] vai ser jogada da janela vai então tá no
+
+[07:43] mesmo nível o argumento não adianta nem
+
+[07:45] entrar em questão se o aquecimento
+
+[07:47] global Está acontecendo ou não E se ele
+
+[07:50] é resultado da ação do homem ou não ele
+
+[07:52] é a questão é que a gente tem feito
+
+[07:55] muito pouco a respeito a despeito dos
+
+[07:58] avisos isso por exemplo quem vai lembrar
+
+[08:01] isso então bem quanto eu Reginaldo Você
+
+[08:03] lembra do Collor lembra né Claro né
+
+[08:07] claro é como é difícil né e uma das
+
+[08:10] coisas do Collor você lembra da Eco 92
+
+[08:12] Sim lembro sim lá foi no Rio de Janeiro
+
+[08:16] né e tal
+
+[08:17] estatísticas né com um evento mais de 30
+
+[08:21] anos atrás né então na época do da Eco
+
+[08:25] 92 a questão era a camada de ozônio que
+
+[08:28] foi uma questão resolvida relativamente
+
+[08:29] rápido o problema da de ozônio você vai
+
+[08:32] lembrar disso o quê Porque era bem a
+
+[08:34] época que a gente era mais jovem né
+
+[08:35] tinha a questão da do cloro do cloro
+
+[08:38] flúor carbono do CFC né presentes em
+
+[08:42] aerossóis presentes na geladeira o
+
+[08:44] método de refrigeração da geladeira
+
+[08:45] usava esse gás e tal né e ele foi um
+
+[08:49] gasto descoberto ali nos anos 60 70 com
+
+[08:52] um potencial de resfriamento e muitos
+
+[08:55] usos assim né era um gás muito útil para
+
+[08:57] a indústria química e aí rapidamente
+
+[08:59] gerou uma série de de tecnologias né No
+
+[09:03] entanto o a verificação da segurança que
+
+[09:06] é isso que acontece no mercado né você
+
+[09:08] encontra uma solução mas você é muito
+
+[09:11] mais leniente preguiçoso para avaliar
+
+[09:13] seguro a segurança da solução aí eles
+
+[09:16] foram ver a solução e via que o gás
+
+[09:18] liberado em escala acabava com a camada
+
+[09:21] de ozônio que é a camada presente na
+
+[09:24] atmosfera que protege a gente sobretudo
+
+[09:27] dos raios UV uvb né os raios
+
+[09:30] ultravioletas B E aí a camada de ozônio
+
+[09:33] assim conforme esse gás começou a ser
+
+[09:35] cada vez mais utilizado a camada de
+
+[09:37] ozônio começou a deteriorar porque esse
+
+[09:39] gás reage com o ozônio ozônio é O3 né
+
+[09:42] são três moléculas de oxigênio juntas e
+
+[09:45] ele rouba uma delas para ele né então
+
+[09:47] ele transforma o ozônio em oxigênio e aí
+
+[09:49] perde a propriedade do ozônio O ozônio
+
+[09:51] diminui isso forma escalar né e a
+
+[09:54] exponencial o efeito então rapidamente
+
+[09:56] né Foi verificado que os o CFC Zé não
+
+[10:00] terríveis para camada de ozônio e tinha
+
+[10:02] muitas consequências e aí você vai
+
+[10:04] lembrar disso quem o pessoal que nasceu
+
+[10:06] depois não tem essa memória esse
+
+[10:08] problema do CFC aparecia na TV o tempo
+
+[10:10] inteiro lembra teve lá a Eco 92 aparecia
+
+[10:14] na TV troca a geladeira tinha aquela
+
+[10:16] coisa toda né cuidado né Então teve uma
+
+[10:19] série de avisos Então teve uma campanha
+
+[10:20] de fato midiática para as pessoas
+
+[10:23] entenderam o efeito do CFC e tudo mais
+
+[10:25] né O que não acontece tanto com o
+
+[10:27] aquecimento global verdade seja dita Mas
+
+[10:29] por que que aconteceu isso no caso do é
+
+[10:32] porque assim isso não quebrava a cadeia
+
+[10:34] produtiva de produtos então assim era só
+
+[10:37] trocar o gás então assim assim que eles
+
+[10:39] descobriram esse gás que era tinha um
+
+[10:41] potencial refrigerante grande né e
+
+[10:44] começaram a produzir produtos e eles
+
+[10:46] viram que isso afetava a camada de
+
+[10:47] ozônio falando não agora a gente tem que
+
+[10:49] procurar um outro gás aí eles começaram
+
+[10:50] a procurar né os cientistas os
+
+[10:52] engenheiros químicos e tal quando eles
+
+[10:54] encontraram um outro gás que não geravam
+
+[10:56] o mesmo efeito né tinha um efeito
+
+[10:58] refrigerante não gerava o mesmo problema
+
+[11:00] lá Pronto tá resolvido então o que que a
+
+[11:03] gente tem que fazer vamos investir um
+
+[11:04] pouquinho de dinheiro em marketing para
+
+[11:06] mudar os produtos e tal e acabou o
+
+[11:08] problema é mais do que isso né Assim
+
+[11:10] você ainda é incentivo consumo
+
+[11:15] das pessoas trocarem seus
+
+[11:18] eletrodomésticos você compra duas vezes
+
+[11:20] ainda o negócio então você é burro duas
+
+[11:21] vezes então assim o problema virou uma
+
+[11:24] solução né perfeito no caso do
+
+[11:27] aquecimento global não é assim no caso
+
+[11:28] do aquecimento global Realmente você vai
+
+[11:30] ter que mudar a maneira de pensar cadeia
+
+[11:32] produtiva e mesmo a produção e é por
+
+[11:34] isso que aí não tem um Lobby tão grande
+
+[11:37] né não tem uma questão tão grande tá tem
+
+[11:40] uma solução mágica que não atrapalha a
+
+[11:43] produção em escala do capitalismo
+
+[11:44] exatamente né então assim o maior órgão
+
+[11:48] que a gente tem de cientistas de
+
+[11:50] pesquisadores colaborativo para
+
+[11:52] avaliação do impacto do clima é o ipcc
+
+[11:55] Né que é o painel intergovernamental
+
+[11:58] para o aquecimento global ele é
+
+[12:00] vinculado a as nações unidas e ele é
+
+[12:04] composto por centenas de pesquisadores
+
+[12:05] no mundo inteiro centenas
+
+[12:07] esse povo meio meio bocó assim que fica
+
+[12:10] fazendo conspirações fala lá que o ipcc
+
+[12:13] É financiado por celular quem e tal eu
+
+[12:15] mesmo faço parte dos foras do PCC eu
+
+[12:17] entro lá para dar palpite assim né nos
+
+[12:19] fone Na verdade o Core que recebe
+
+[12:22] salário é em torno de umas 30 pessoas
+
+[12:24] não é mais que isso no mundo inteiro
+
+[12:26] todos os pesquisadores que dão palpite
+
+[12:29] que que são selecionados para entrar
+
+[12:31] grupos dos fóruns para analisar os dados
+
+[12:33] e tal eles não recebem nada nada sabe é
+
+[12:37] tudo colaborativo mesmo sabe é tipo 99%
+
+[12:41] do esforço do ipcc é trabalho do
+
+[12:43] cientista mesmo dando o tempo dele sabe
+
+[12:45] imagina você Gente o que dando horas do
+
+[12:48] seu tempo para o negócio colaborativo
+
+[12:50] você ia pensar mil vezes né cientista é
+
+[12:52] o povo burro por um diabo né mas enfim
+
+[12:54] fica pensando bem maior e se ferra no
+
+[12:57] curto prazo Mas enfim né então o ipcc
+
+[13:00] ele é dividido em três grupos o grupo 1
+
+[13:02] é o que cuida o que pesquisa aspectos
+
+[13:05] físicos Então vai pesquisar climatologia
+
+[13:07] modelos físicos né dinâmica da do clima
+
+[13:11] e tal esse é o grupo o grupo dois ele se
+
+[13:14] preocupa com Fundações sociais com
+
+[13:17] vulnerabilidade social qual que é o
+
+[13:18] impacto do clima em certas regiões em
+
+[13:21] certas contextos então tem muita
+
+[13:23] antropólogo sociólogo nessa parte a
+
+[13:26] parte um são os físicos mesmo
+
+[13:27] climatologista geofísico e tal a parte 2
+
+[13:30] a parte mais aplica entra até o
+
+[13:32] psicólogo e tal e a partir três seria
+
+[13:34] uma parte mais interdisciplinar que
+
+[13:37] envolve mitigação do efeito dos gases
+
+[13:39] estufa que é assim tudo bem dado que a
+
+[13:41] gente tem os dados da parte 1 e a dois
+
+[13:43] que que a gente faz e aí o ipcc de
+
+[13:45] tempos em tempos a cada sete oito anos
+
+[13:47] eles emitem um relatório o último
+
+[13:49] relatório foi no ano passado o relatório
+
+[13:51] está na descrição boa sorte são 2.500
+
+[13:54] páginas eu li quase inteiro e você vai
+
+[13:57] ler você vai ficando triste né triste
+
+[13:58] porque a situação é terrível terrível
+
+[14:00] mesmo é Vai fazer um pequeno sumário é
+
+[14:03] que são muitos muitos dados né hoje em
+
+[14:06] comparação com o período pré-industrial
+
+[14:08] então comparando hoje com os anos 1800
+
+[14:11] tá o clima da da terra está em média
+
+[14:16] 1.º acima do que era registrado em média
+
+[14:20] no período pré-industrial a pessoa que
+
+[14:22] olha isso acha pouco em média esse eu
+
+[14:25] acho que é um erro de comunicação sabe e
+
+[14:27] é um erro de educação mesmo das pessoas
+
+[14:29] assim é que falta na volta nos
+
+[14:31] currículos das escolas sabe que o clima
+
+[14:34] ele é um evento que afeta a média né só
+
+[14:38] que muito antes de afetar a média ele
+
+[14:40] afeta o desvio padrão dos dados tá aí eu
+
+[14:43] vou ter que explicar de um jeito sem
+
+[14:45] conta o que quer desvio padrão as
+
+[14:47] pessoas têm um senso intuitivo do que a
+
+[14:48] média certo você tem lá um conjunto de
+
+[14:51] valores você soma eles divide pelo
+
+[14:53] número dele se tem a média isso tá então
+
+[14:55] se eu tenho um indivíduo que comprou 10
+
+[14:57] maçãs e o outro comprou cinco eu pego 10
+
+[15:00] + 5 somos 15 divido por 2 dá 7,5 em
+
+[15:03] média né Eles teriam sétima Santos e
+
+[15:05] meia sim analogia que eu quero fazer com
+
+[15:07] você quem para ajudar é a seguinte ó
+
+[15:09] imagina que eu tenho uma sala com 20
+
+[15:11] pessoas dentro da sala você não conhece
+
+[15:14] nenhuma delas essas 20 pessoas tá bom aí
+
+[15:17] eu fui lá eu medi a altura das 20
+
+[15:19] pessoas e não te falei as alturas e
+
+[15:22] calculei a média das alturas peguei a
+
+[15:24] altura de cada pessoa somente dividir
+
+[15:26] por 20 imagina que a média da altura é
+
+[15:28] 1,70 tá eu te dou essa informação sim
+
+[15:31] você não tá vendo as pessoas aí eu tiro
+
+[15:33] uma pessoa da sala e pergunta e não te
+
+[15:36] mostro essa pessoa eu só falo ó tirei a
+
+[15:38] pessoa tá aqui né quando você chutaria
+
+[15:40] que essa pessoa tende a altura é eu
+
+[15:44] chutaria que ela tem um valor aproximado
+
+[15:45] a Médio Mas quanto sei lá um pouquinho
+
+[15:48] para cima um pouquinho para baixo
+
+[15:50] Então mas você tem que chutar um valor
+
+[15:51] fechado esse aqui é um negócio
+
+[15:53] então o exemplo do que é ótimo a maneira
+
+[15:56] como ele se sentiu é ótima porque é é a
+
+[15:58] maneira como as pessoas entendem mesmo é
+
+[15:59] é essa educação que a gente tem pra tá
+
+[16:01] certo que a pior educação que a gente
+
+[16:03] tem então assim quando eu digo para você
+
+[16:05] que a média da altura nas pessoas da
+
+[16:07] sala é 1,70 e eu pego uma pessoa e peço
+
+[16:10] para você chutar o valor né da altura da
+
+[16:13] pessoa o que que você quer você quer
+
+[16:14] acertar Só que você tem que partir do
+
+[16:16] preço você não vai saber a altura da
+
+[16:18] pessoa sim você não tem como saber a
+
+[16:21] única coisa que você tem é um dado do
+
+[16:22] grupo que é 1,70 Então qual que deveria
+
+[16:25] ser o seu chute um e 70 não tem dúvida
+
+[16:28] não é mais ou menos você não tem outra
+
+[16:30] informação é a média você vai chutar um
+
+[16:33] em 70 Pode ser que você erre pode e tudo
+
+[16:35] bem mas você vai errar menos do que se
+
+[16:38] chutasse qualquer outro valor claro
+
+[16:40] então a média não é um parâmetro né dos
+
+[16:45] dados que diz a verdade sobre eles Na
+
+[16:48] verdade ele diz algo que diminu o seu
+
+[16:51] erro em inferir algo dos dados então por
+
+[16:55] exemplo que se você entendeu Essa parte
+
+[16:56] se eu pegar uma segunda pessoa não te
+
+[16:59] mostrei a Primeira eu pergunto qual a
+
+[17:01] altura dessa segunda pessoa que valor
+
+[17:02] você chutaria eu vou estar de novo 1,70
+
+[17:06] ou algo próximo disso é 1,70 não não tem
+
+[17:09] próximo é um e 70 porque o valor que
+
+[17:11] você tem você vai tomar a decisão Com
+
+[17:13] base no que você tem você vai assumir
+
+[17:15] que você vai estar errado só que você
+
+[17:16] vai estar menos errado do que chutar
+
+[17:19] qualquer outro valor por exemplo se você
+
+[17:21] chutar 1,75 você vai estar mais errado
+
+[17:24] do que Chutar em 70 porque você não tem
+
+[17:26] um parâmetro de variabilidade Você só
+
+[17:28] tem a média é verdade então a Rigor a
+
+[17:30] Rigor você chutaria que todas as pessoas
+
+[17:32] tenham em 70 sim para algumas você vai
+
+[17:34] errar mais para outra você vai errar
+
+[17:36] menos só que você não sabe o quanto você
+
+[17:38] vai errar Porque você só tem a média
+
+[17:39] então o grande erro é um erro assim é
+
+[17:43] comum que as pessoas têm elas usam a
+
+[17:46] média como uma forma de tentar falar a
+
+[17:48] verdade sobre os dados e não é isso é
+
+[17:51] você reduzir a quantidade de erros sobre
+
+[17:52] os dados porque você não tem todos eles
+
+[17:55] e só um parâmetro deles que a média aí a
+
+[17:57] gente entra agora na ideia de variância
+
+[17:59] e desvio padrão então Ó você vai
+
+[18:01] concordar comigo se eu tenho uma sala
+
+[18:03] com 20 pessoas quaisquer que sejam essas
+
+[18:05] pessoas elas não têm a mesma altura Você
+
+[18:08] concorda vai variar altura delas né esse
+
+[18:11] 1,70 que eu te dei de média é um valor
+
+[18:13] médio algumas pessoas estão acima disso
+
+[18:15] outras estão abaixo pode ser inclusive
+
+[18:17] que nenhuma daquelas pessoas têm
+
+[18:19] exatamente o em 70 muito bem pode ser
+
+[18:21] que é 1,70 orbita entre elas mas pode
+
+[18:23] não representar nenhuma delas tudo bem
+
+[18:25] né O que o que que seria o desvio padrão
+
+[18:28] O desvio padrão é você calcular a
+
+[18:31] distância de cada indivíduo da Média
+
+[18:33] então por exemplo você tem 1,75 e a
+
+[18:35] média é 1,70 Então você tem 5 cm de
+
+[18:37] diferença da Média tá a ideia do desvio
+
+[18:41] padrão seria pegar a distância de cada
+
+[18:43] indivíduo da média e tirar uma média
+
+[18:45] disso é a média dos quantos indivíduos
+
+[18:48] se afastam da média em média uhum Isso
+
+[18:51] quer dizer o padrão é uma média da
+
+[18:53] variabilidade Gostei dessa explicação
+
+[18:55] isso desvio padrão eu quantos dados se
+
+[18:58] distanciam da média em média é uma boa
+
+[19:00] explicação para se dar em áudio sabe
+
+[19:03] quando a gente não tem nenhum apoio em
+
+[19:04] vídeo isso exatamente pensa comigo ó Por
+
+[19:07] que que o desvio padrão é muito
+
+[19:08] importante volta nessa sala com 20
+
+[19:10] pessoas a média da altura das pessoas é
+
+[19:12] 1,70 se eu disser que o desvio padrão é
+
+[19:15] um centímetro um centímetro o que que
+
+[19:18] acontece a oscilação das pessoas em
+
+[19:21] torno da média só vai ter um centímetro
+
+[19:22] para mais e para menos ou seja ou seja
+
+[19:25] pouco então o que que isso quer dizer
+
+[19:26] que se você disser para mim Ah eu tirei
+
+[19:29] uma pessoa da sala e aí eu pergunto para
+
+[19:31] você quando você tem de altura quando
+
+[19:33] que essa pessoa tem de altura e você
+
+[19:35] chutar 1,70 a oscilação do erro é Baixa
+
+[19:38] porque é só um centímetro Você concorda
+
+[19:40] tá agora se eu disser que o desvio
+
+[19:43] padrão é 10 cm Você concorda que é
+
+[19:45] oscilação é maior então em outras
+
+[19:47] palavras falando em português para que
+
+[19:49] que serve o desvio padrão
+
+[19:50] O desvio padrão é uma medida de
+
+[19:52] confiabilidade do valor esperado da
+
+[19:54] Média
+
+[19:55] Hum isso que eu desvio padrão é um valor
+
+[19:58] de confiabilidade do palpite que você
+
+[20:00] vai dar da mente então assim se o desvio
+
+[20:02] padrão é grande quer dizer que o palpite
+
+[20:04] da média é ruim se o desvio padrão é
+
+[20:06] pequeno quer dizer que você tem boa
+
+[20:07] confiança no palpite da Média isso a
+
+[20:09] gente já chega numa conclusão importante
+
+[20:10] se você lê no jornal que a média da
+
+[20:13] renda do brasileiro é r$ 1.000 isso é a
+
+[20:16] média e você não tem uma indicação da
+
+[20:18] Incerteza da Média que seria por exemplo
+
+[20:20] desvio padrão esse valor de média não
+
+[20:22] quer dizer nada nada então as pessoas
+
+[20:24] tomarem decisões só com base na média é
+
+[20:26] uma ótima ignorância porque você tem que
+
+[20:28] ter uma medida de incerteza para saber
+
+[20:30] se o palpite da média é bom ou ruim
+
+[20:32] entendeu então estatística um zero um
+
+[20:35] sem áudio Tá beleza então fica
+
+[20:38] descritiva e o que que tem a ver isso
+
+[20:40] com com aquecimento global essa questão
+
+[20:42] é Central porque o que que acontece o
+
+[20:44] clima para você alterar a média né tipo
+
+[20:48] subir um grau a temperatura a
+
+[20:50] variabilidade tem que aumentar muito
+
+[20:52] então o impacto do aquecimento global
+
+[20:54] não é nece na média na variabilidade
+
+[20:56] então a gente está tendo uma oscilação
+
+[20:59] cada vez maior do clima né a gente está
+
+[21:03] tendo temperaturas baixas de forma
+
+[21:05] Extrema e temperaturas altas de forma
+
+[21:07] extrema né é com oscilação da
+
+[21:10] temperatura tem aumentado e ao longo do
+
+[21:12] tempo essa oscilação tem aumentado mas
+
+[21:15] não de forma horizontal tá aumentando
+
+[21:18] como inclinação também né que a gente
+
+[21:20] conseguiu ver que essa inclinação da
+
+[21:22] Média aumentou um grau em 200 e poucos
+
+[21:25] anos mas a oscilação tá aumentando muito
+
+[21:28] então por exemplo a gente tem uma
+
+[21:30] indicador que chama onda de calor
+
+[21:32] qualquer definição de onda de calor onda
+
+[21:35] de calor é quando você tem uma quebra de
+
+[21:37] recorde de calor por dois dias seguidos
+
+[21:40] ou mais tá não é um dia muito quente é
+
+[21:43] um dia que você tem 50 graus por dois
+
+[21:46] dias ou mais tá já tem os dados tá no
+
+[21:49] relatório né do PCC É nos últimos eu
+
+[21:51] comparo os 50 últimos anos né últimos
+
+[21:56] anos passados com 50 anos anteriores eu
+
+[21:59] vou comparar esses dois grupos e conto
+
+[22:01] Quantos eventos de ondas de calor eu
+
+[22:04] tive tá nos últimos 50 anos comparados
+
+[22:07] com 50 anos anteriores tá bom nos nossos
+
+[22:10] últimos 50 anos a proporção de dias de
+
+[22:14] épocas de ondas de calor em que você
+
+[22:16] teve temperaturas extremas Acima da
+
+[22:18] Média aumentou 800 por cento aumentou 80
+
+[22:23] vezes ou seja isso mostra o efeito na
+
+[22:25] variância no desvio padrão dos dados Tá
+
+[22:28] sim e as regiões onde aconteceu essas
+
+[22:31] essas ondas de calor estão concentradas
+
+[22:34] 40% da população do mundo e apenas os
+
+[22:38] eventos de ondas de calor geraram um
+
+[22:41] impacto de dois trilhões de dólares só
+
+[22:44] nos Estados Unidos que é onde tem dados
+
+[22:46] trilhões de dólares só os eventos de
+
+[22:49] ondas de calor tá então teve uma última
+
+[22:52] onda de calor agora duas semanas numa da
+
+[22:55] Índia que é a cidade de cocata que mora
+
+[22:58] em torno de 20 milhões de pessoas só
+
+[23:00] naquela cidade teve eventos de ondas de
+
+[23:03] calor com mais de 50 graus só naquela
+
+[23:05] cidade morreram 2.500 pessoas por dia
+
+[23:08] por dia de calor Caraca de calor e como
+
+[23:12] é que você morre de calor esse que o
+
+[23:13] negócio Como é que você morre você vai
+
+[23:14] ficar no sol eu estou ricando não Então
+
+[23:16] imagina que você está no lugar sem ar
+
+[23:18] condicionado né então mesmo em casa o
+
+[23:21] que que vai acontecer essa região de
+
+[23:22] cocada na Índia uma [ __ ] ali Porã por
+
+[23:24] ali na Senai e tal é uma região muito
+
+[23:27] úmida então é aquele calor úmido
+
+[23:28] horrível sabe então como o calor é muito
+
+[23:31] úmido né o que que vai acontecer o seu
+
+[23:33] corpo ele é sua para resfriar né você tá
+
+[23:36] com calor o seu corpo libera a água para
+
+[23:38] reduzir a sua temperatura corporal só
+
+[23:41] que como o ar tá muito úmido o seu corpo
+
+[23:43] não consegue suar mais não consegue
+
+[23:46] porque já tem uma concentração de água
+
+[23:48] no no no ambiente no ar muito grande
+
+[23:50] então o seu corpo não consegue resfriar
+
+[23:53] basicamente você tá uma panela Você
+
+[23:56] cozinha igual uma batata então é como se
+
+[23:59] em vez de você entrar numa panela é como
+
+[24:01] se a panela fosse o ar e o ar já tá tão
+
+[24:04] úmido que você não consegue jogar o seu
+
+[24:06] próprio o seu próprio líquido para fora
+
+[24:08] né então internamente do seu corpo você
+
+[24:11] cozinha igual uma batata eles morreram
+
+[24:13] cozinhados
+
+[24:14] pois isso aí é uma coisa maluca terrível
+
+[24:17] não não isso acontece em escala assim em
+
+[24:20] regiões muito úmidas e tal né quando
+
+[24:22] você tem regiões mais secas com ré com
+
+[24:25] como acontece na Europa uma parte dos
+
+[24:27] Estados Unidos regiões mais secas com
+
+[24:29] muito calor né também o que que acontece
+
+[24:31] a assim você sua você fica suado aí você
+
+[24:35] pode desidratar então afeta as pessoas
+
+[24:36] mais velhas e tal né tem um problema e
+
+[24:39] crianças crianças menores também né
+
+[24:42] então tem insolação tem todos esses
+
+[24:44] problemas mas a superfícies ficam mais
+
+[24:46] quentes em geral o chão fica mais quente
+
+[24:49] tem um artigo um artigo não é um
+
+[24:52] relatório
+
+[24:53] vigilância epidemiológica da Califórnia
+
+[24:55] de novo dado de duas semanas atrás teve
+
+[24:58] um aumento de
+
+[25:00] 110% em casos de queimadura durante essa
+
+[25:03] última onda de calor nos Estados Unidos
+
+[25:05] por quê Porque as pessoas se encostavam
+
+[25:07] em lugares que tava que tipo com 200
+
+[25:10] graus porque ficava perto do Sol e
+
+[25:12] pegava uma queimadura de terceiro grau e
+
+[25:14] aí várias populações vulneráveis são
+
+[25:16] afetadas E isso está na casa de dezenas
+
+[25:18] né De novo duas semanas atrás na casa de
+
+[25:21] dezenas de pessoas que morreram porque
+
+[25:23] eram usuários de drogas e essas drogas
+
+[25:25] pesadas né anfetamina que o cara fica
+
+[25:28] doidão né e a pessoa desmaia na rua e
+
+[25:31] ela simplesmente é frita frita
+
+[25:33] literalmente pelo asfalto o asfalto tá
+
+[25:36] tão quente que ela queima é tipo ela já
+
+[25:39] era queimaduras de terceiro grau em 70%
+
+[25:41] do corpo a pessoa morre frita queimadura
+
+[25:44] de terceiro grau no asfalto no asfalto a
+
+[25:48] temperatura média do asfalto em algumas
+
+[25:49] regiões chega a 102° 102 graus caraca tô
+
+[25:55] aqui né assim e acaba pegando sempre
+
+[25:58] populações mais fragilizadas né assim né
+
+[26:02] pessoas que não tenham de se
+
+[26:06] proteger do sol pessoas que sequer tem
+
+[26:09] calçados né para proteger o pé no
+
+[26:12] asfalto dessa temperatura exatamente
+
+[26:14] então assim as populações vulneráveis o
+
+[26:17] aquecimento global já está afetando
+
+[26:18] agora sabe é não é uma coisa para
+
+[26:21] postergar sabe e de novo a culpa não é
+
+[26:23] dos cientistas eles estão avisando a
+
+[26:24] décadas assim tem os relatórios e tal só
+
+[26:27] que não não é isso né não existe um
+
+[26:30] esforço global para lidar com isso e
+
+[26:33] agora a gente começa a sofrer mesmo com
+
+[26:35] a a os eventos né agora a gente começa a
+
+[26:38] ver de forma essa oscilação do desvio
+
+[26:40] padrão como que tá afetando a média né é
+
+[26:44] inclusive o relatório do ipcc diz que se
+
+[26:46] hoje a gente acabar com a emissão de
+
+[26:49] gases estufa hoje de gás carbônico a
+
+[26:51] gente acaba sério hoje né Mesmo assim A
+
+[26:55] temperatura vai aumentar até um grau e
+
+[26:57] meio certo tá então a gente tá numa fase
+
+[27:00] ascendente então mesmo que a gente
+
+[27:02] insere a emissão de gases estufa A
+
+[27:04] temperatura vai vai continuar aumentando
+
+[27:06] até um grau e meio pelos próximos 50
+
+[27:08] anos para depois começar a diminuir né
+
+[27:11] Tem um efeito rebote Ou seja a gente vai
+
+[27:14] ter essas ondas de calor recordes de
+
+[27:16] frio dependendo da região chuvas estão
+
+[27:18] raciais secas porque de novo a questão
+
+[27:21] não é não é a média é oscilação locais
+
+[27:24] onde chove vai chover muito local onde
+
+[27:27] está seco vai ser muito seco né então
+
+[27:29] vai aumentar a variabilidade E aí você
+
+[27:32] não consegue fazer previsão então por
+
+[27:34] exemplo onde que vai afetar muito
+
+[27:35] inclusive aqui no Brasil já já tem
+
+[27:37] modelos prevendo isso com boa qualidade
+
+[27:39] agricultura né eu tenho que ter uma
+
+[27:42] previsão do clima razoável para saber
+
+[27:43] como vai ser a colheita no ano que vem
+
+[27:44] então assim a não ser que você seja
+
+[27:47] completamente tapado uma galera que tá
+
+[27:49] muito preocupada com isso é o povo do
+
+[27:51] agronegócio porque não adianta se você
+
+[27:53] não tiver clima para nascer a não não
+
+[27:55] rola sabe não vai ter né A questão não é
+
+[27:58] aumentar o espaço produtivo eh
+
+[28:00] cultivável é cuidar do espaço que já tem
+
+[28:02] mesmo até eles estão preocupados tem
+
+[28:04] relatório agora mostrando né o ipcc
+
+[28:06] mostra isso também tá muito complicado
+
+[28:08] mesmo mesmo tem um artigo agora de 2023
+
+[28:11] que fala saiu uma semana atrás da
+
+[28:14] gravação desse Episódio que ele fala de
+
+[28:16] um de um tipo de dinâmica das águas do
+
+[28:18] mar o mar tem várias correntes de água
+
+[28:20] né é todo um fenômeno baseado em
+
+[28:22] Sistemas dinâmicos é bem complexo mas já
+
+[28:25] tem uma boa previsibilidade de algumas
+
+[28:26] dessas ondas de circulação de água tem
+
+[28:28] uma delas que chama a Moc a m OC né é
+
+[28:33] uma circulação Meridional do Atlântico é
+
+[28:36] uma é uma onda de água né do
+
+[28:38] movimentação da água e tal tem a ver com
+
+[28:40] as placas tectônicas toda a estrutura da
+
+[28:42] terra né que sai ali do Golfo do México
+
+[28:44] e sobe até a Groenlândia tá pelo
+
+[28:47] Pacífico pelo Atlântico desculpa pelo
+
+[28:49] Atlântico tá essa onda de água essa
+
+[28:53] corrente de água ela que acontece com
+
+[28:55] frequência e ela pega água quente ali do
+
+[28:58] México do Golfo do México e joga para
+
+[29:00] cima e aí esse movimento de água Dá para
+
+[29:03] pensar como uma panela tá pensa como uma
+
+[29:06] panela você coloca o fogo embaixo vai
+
+[29:09] acontecer um movimento da água quente
+
+[29:11] embaixo subir e água de cima descer tem
+
+[29:14] uma circulação da água mesmo dá para ver
+
+[29:17] isso facilmente pega água e coloca na no
+
+[29:19] fogo e deixa assim uns dois três minutos
+
+[29:21] né a água não vai estar fazendo bolha
+
+[29:24] ainda vai estar ali esquentando aí pega
+
+[29:26] uma colher e Mexe quando você mexer com
+
+[29:29] uma colher vai sair fumaça por quê
+
+[29:31] Porque você tá movimentando já você tá
+
+[29:33] criando esse movimento pegando a água
+
+[29:34] quente jogando para cima e aí sai a
+
+[29:37] fumaça né quando a temperatura aumenta
+
+[29:40] suficientemente esse movimento acontece
+
+[29:42] por conta própria da água e aí é por
+
+[29:45] isso que sai as bolhas e tudo mais tá
+
+[29:47] então esse movimento que faz com que a
+
+[29:50] água quente suba chega lá na Groenlândia
+
+[29:53] E aí a água esfriando e puxa água fria
+
+[29:57] para baixo ou seja vai ter uma troca de
+
+[29:59] calor da água ela é responsável pela
+
+[30:01] pela vida de vários organismos ali né a
+
+[30:06] troca de água mesmo a quantidade de
+
+[30:08] evaporação de chuva esse sistema né é
+
+[30:11] muito importante esse artigo de 2023 ele
+
+[30:14] mostra né os dados bem robustos eu até
+
+[30:16] peguei já analisei uma parte eles
+
+[30:18] mostram o seguinte que esse fluxo essa
+
+[30:20] circulação marítima vai acabar ela vai
+
+[30:23] parar por conta do aquecimento global
+
+[30:24] mesmo por conta da dinâmica de
+
+[30:27] temperatura pela pelo excesso de gases
+
+[30:28] estufa a a água do Norte já tá
+
+[30:31] esquentando demais então não tá fazendo
+
+[30:33] mais esse ciclo de troca de água e aí
+
+[30:36] ele colocou um intervalo de confiança
+
+[30:38] com 95% de confiança de quando isso vai
+
+[30:42] parar né de quando E aí o o limite
+
+[30:45] inferior do intervalo de confiança é
+
+[30:47] 2025 e o limite superior é 2090 é agora
+
+[30:52] e aí vai falar e o que que acontece
+
+[30:54] quando quando essa circulação de água
+
+[30:56] por exemplo essa porque é um exemplo
+
+[30:58] quando essa parar o que que vai
+
+[31:00] acontecer você vai ter uma disrupção do
+
+[31:02] clima do Norte dos Estados Unidos ali no
+
+[31:05] Canadá e na Europa e vai ter um impacto
+
+[31:07] no sul também no Brasil porque vai
+
+[31:10] alterar se altera um sistema tudo
+
+[31:12] interligado o que que vai acontecer ele
+
+[31:14] já sabem o que vai acontecer o que eles
+
+[31:16] ainda não conseguem prever é o tamanho
+
+[31:17] do problema mas vai ser grande vai ter
+
+[31:20] um aumento da glaciação do Hemisfério
+
+[31:22] Norte Então vai ter várias regiões que
+
+[31:24] vai aumentar o o gelo e a região sul da
+
+[31:28] América do Sul que é inclui o Paraguai
+
+[31:31] Paraná Santa Catarina e tal a região sul
+
+[31:34] vai começar a diminuir muito a chuva e
+
+[31:36] vai aumentar o movimento de
+
+[31:37] desertificação da de uma região da
+
+[31:40] Europa e isso vai acontecer num espaço
+
+[31:42] de 40 Anos 40 anos é nada então é muito
+
+[31:46] rápido bobear você vai ver sabe E o
+
+[31:48] problema não é
+
+[31:49] daqui a 40 anos quando se estabelecer é
+
+[31:51] o caminho até chegar lá a gente tá
+
+[31:53] ferrado muito ferrado e de novo isso
+
+[31:56] isso vem vem sendo descrito né as ondas
+
+[31:59] de aquecimento global vem sido descritas
+
+[32:01] desde vão rombot século 19 a gente fala
+
+[32:04] dele no no Rodo 269 isso é porque existe
+
+[32:07] a escuridão da noite né Por que existe a
+
+[32:10] escuridão da noite e tem o Naruto 118
+
+[32:12] que a gente fala sobre Como é calculado
+
+[32:15] a probabilidade de chuva né é assim eu
+
+[32:18] só tô dando uma teteinha eu só tô dando
+
+[32:21] alguns exemplos e a grande mensagem
+
+[32:23] dessa primeira parte do episódio é que
+
+[32:24] os fenômenos climáticos a gente é
+
+[32:27] insensível a eles uma das razões é
+
+[32:29] porque a gente é muito insensível a
+
+[32:30] variabilidade a gente é mais sensível a
+
+[32:32] perceber a diferenças da Média mas não
+
+[32:34] na variabilidade não não desvio padrão
+
+[32:36] tá e o que tem acontecido é que o clima
+
+[32:38] afeta o desvio padrão então você lembra
+
+[32:41] na sua cabeça de dias que aconteceu
+
+[32:43] muito frio ou muito calor mas você não
+
+[32:45] tem uma noção da frequência deles porque
+
+[32:47] isso que ainda detecta O desvio padrão e
+
+[32:49] a gente é insensível é isso então tem um
+
+[32:51] mecanismo psicológico também não só a
+
+[32:53] midiático publicitário enfim tá mas tem
+
+[32:56] um mecanismo psicológico mesmo que é
+
+[32:58] importante tá E aí assim eu não tenho
+
+[33:00] problema com o episódio Bad vibes mas as
+
+[33:02] pessoas podem ficar deprimidas então
+
+[33:04] assim tudo bem então o que que a galera
+
+[33:05] tem feito tem Tem coisa que dá para
+
+[33:07] fazer para tem primeira coisa é avisar
+
+[33:09] né tá sendo avisado mas não adianta nada
+
+[33:11] né mas enfim tá a segunda coisa é levar
+
+[33:15] a sério o aviso né isso começar por isso
+
+[33:17] e daí tem a parte três do relatório do
+
+[33:19] ipcc né que é como mitigar os efeitos tá
+
+[33:22] o relatório três eles fizeram meio que
+
+[33:24] um caminho assim do que pode ser feito
+
+[33:26] esse relatório três foi feito por 278
+
+[33:29] pesquisadores em 65 países eles
+
+[33:32] verificaram que assim na atmosfera uma
+
+[33:35] parte do do gás carbônico é absorvido
+
+[33:36] pelas plantas é absorvido em vários
+
+[33:39] sistemas biológicos só que a gente
+
+[33:40] coloca muito mais gás carbônico do que
+
+[33:42] absorvido Esse é o problema é o déficit
+
+[33:44] tá então assim a primeira coisa é
+
+[33:48] estimular reflorestamento coisas do tipo
+
+[33:50] né porque as árvores pelo mecanismo
+
+[33:52] fotossíntese elas puxam né o gás
+
+[33:54] carbônico do ar e devolve oxigênio e aí
+
+[33:57] um uma solução que tem modelos para isso
+
+[34:00] é chamado de aflorestação ou a
+
+[34:03] florestamento não é reflorestamento é a
+
+[34:06] florestamento tá o aflorestamento é você
+
+[34:09] colocar plantas onde não tinham plantas
+
+[34:12] anteriormente tá você aumentar o espaço
+
+[34:14] de plantas e aí tem soluções que é
+
+[34:18] ligado com algas algas marinhas porque a
+
+[34:21] alga também faz fotossíntese né E aí tem
+
+[34:24] um artigo modelo bem interessante que
+
+[34:26] eles falam assim alga cresce muito
+
+[34:27] rápido né Você joga lá cresce muito
+
+[34:29] rápido se você pegar
+
+[34:32] 9%, que é uma área grande 9% da área do
+
+[34:36] mar e fazer fazendas de algas 9% da água
+
+[34:40] do mar coloca algas essas algas vão ser
+
+[34:42] responsáveis por equilibrar a quantidade
+
+[34:44] de gás carbônico que a gente emite tá
+
+[34:46] hoje então assim não pode ter mais gás
+
+[34:49] carbônico do que já tem né não pode as
+
+[34:52] não conta assim é uma coisa escalável né
+
+[34:55] só que o custo é alto e o retorno é
+
+[34:58] baixo que que você vai fazer com uma
+
+[35:00] fazenda de algas vai fazer noria até o
+
+[35:02] inferno né então assim Falta
+
+[35:04] investimento tem que ter um investimento
+
+[35:06] assim a manutenção e tudo mais né das
+
+[35:09] soluções é a mais barata mas tem uma
+
+[35:11] contra indicação que assim você vai
+
+[35:13] aumentar muito a quantidade de algas
+
+[35:15] você aumenta a cidificação da água do
+
+[35:18] mar ela vai ficar mais ácida né E aí
+
+[35:21] pode afetar o modo de vida de várias
+
+[35:23] espécies e isso é uma coisa que já foi
+
+[35:25] feito tem modelos que mostram isso que
+
+[35:27] tem uma certa efetividade em tirar
+
+[35:30] burrico do ar é uma solução mas ainda
+
+[35:33] vai levar tempo para ser para ganhar
+
+[35:34] escala uma outra solução são as soluções
+
+[35:36] de gel engenharia a gel engenharia você
+
+[35:39] pode plantar mais árvores e tal mas tem
+
+[35:41] uma forma de criar árvores árvores
+
+[35:44] artificiais na verdade não é uma árvore
+
+[35:46] é uma máquina é uma máquina que puxa ar
+
+[35:48] né e separa o gás carbônico e armazena
+
+[35:51] do ar né E essas máquinas são chamadas
+
+[35:54] da daquis da C né Director E aí elas
+
+[35:59] capturam gás carbônico do ar e aí você
+
+[36:02] tem que fazer tipo plantas industriais
+
+[36:04] que fazem isso que captam né E aí você
+
+[36:07] pode fazer diferentes coisas com gás
+
+[36:08] carbônico que você absorve você pode
+
+[36:10] transformar em biogás né para produzir
+
+[36:12] alguma coisa você pode armazenar isso no
+
+[36:15] solo principalmente com Basalto né você
+
+[36:17] forma uma liga com Basalto E aí armazena
+
+[36:19] vira uma pedra E aí não vai mais para o
+
+[36:21] ar atmosfera ou você pode
+
+[36:23] o gás carbônico ele ele se torna quase
+
+[36:26] não chega a ser líquido mas é é a ideia
+
+[36:29] do do seco né do do gelo seco né em
+
+[36:32] regiões muito frias então existem
+
+[36:34] projetos de plantas né de indústrias de
+
+[36:37] captação de gás carbônico na Antártida E
+
+[36:41] aí você capta o gás carbônico e vai
+
+[36:42] armazenando né tem um tipo de substância
+
+[36:46] que a
+
+[36:47] monoetanolamina que você coloca no ar
+
+[36:49] essa substância se liga rapidamente ao
+
+[36:52] gás Car E aí você consegue pegar existe
+
+[36:54] já até um plano de negócio para isso que
+
+[36:56] mostra que com 450 indústrias 450
+
+[37:00] plantas de captação de gás carbônico
+
+[37:03] você consegue já dar uma conta boa de
+
+[37:06] equilibrar a quantidade de gás carbônico
+
+[37:08] que é emitida a mais pelo ser humano a
+
+[37:11] gente consegue dar conta a questão é o
+
+[37:13] custo para você captar uma tonelada
+
+[37:16] cúbica de gás carbônico do ar você vai
+
+[37:18] gastar uns 400 dólares tá uma tonelada
+
+[37:21] cúbica sabe quando a gente produz por
+
+[37:23] ano nós hoje o mundo produz a gente
+
+[37:27] produz em torno de 20 giga toneladas meu
+
+[37:30] Deus então são 1000 toneladas tá então
+
+[37:33] cada cada uma tonelada custa 400 Então
+
+[37:36] são Bilhões de Dólares precisa de um
+
+[37:38] esforço Global assim para para isso E aí
+
+[37:41] tem que ter um desenvolvimento técnico
+
+[37:43] também tecnológico e tal então É muito
+
+[37:46] dinheiro tem que ser uma coisa
+
+[37:47] colaborativa e a galera não colabora né
+
+[37:49] vídeo nosso esquema político atual né
+
+[37:52] e o interessante desse relatório dessa
+
+[37:55] parte três do relatório né do IPC do
+
+[37:57] ipcc é muito interessante eles falam
+
+[37:59] assim hoje a gente já tem a gente fez o
+
+[38:01] mapeamento aqui né de todas as
+
+[38:03] tecnologias que existem de energias
+
+[38:05] renováveis e tal Hoje a gente não
+
+[38:07] precisa Inventar nada de novo a gente já
+
+[38:10] tem toda a tecnologia para resolver
+
+[38:12] nosso problema climático toda tecnologia
+
+[38:14] existe tá já existe de forma
+
+[38:17] razoavelmente escalável precisa investir
+
+[38:19] uma grana né mas já existe a gente não
+
+[38:22] precisa contar com uma invenção nova se
+
+[38:24] a gente usar tudo que existe hoje a
+
+[38:26] gente resolve o problema aí a pergunta é
+
+[38:28] por que que a gente não faz né porque a
+
+[38:30] gente é um idiota exata aí volta na
+
+[38:32] parte que infelizmente a psicologia tem
+
+[38:34] mais pra contribuir não contribuir
+
+[38:35] porque é uma desgraça né mal estudada no
+
+[38:38] Brasil que é esses aspectos desses olhos
+
+[38:41] mesmo das pessoas sabe e aí a gente
+
+[38:43] entra na parte mais final aqui do
+
+[38:45] episódio né Que fique claro que vamos
+
+[38:47] ter outros episódios sobre aquecimento
+
+[38:48] global com aspectos né esse é mais uma
+
+[38:50] apresentação tá vamos ter
+
+[38:52] episódios que pegam aspectos mas focados
+
+[38:55] assim porque é um tema muito importante
+
+[38:57] e vai ficar cada vez mais frequente não
+
+[39:00] não tem mais como como escapar é entre
+
+[39:02] agora a questão psicológica barra
+
+[39:04] Econômica né como que a gente faz isso
+
+[39:06] porque tem que ser um esforço Global né
+
+[39:08] vide a pandemia né a pandemia foi uma
+
+[39:11] ótima escola para perceber o quão ruim a
+
+[39:13] gente é né com isso a gente tinha todas
+
+[39:16] as condições simplesmente teve muito
+
+[39:18] mais perdas do que deveria termos boa
+
+[39:20] razão para achar que com aquecimento
+
+[39:21] global vai acontecer algo parecido mas
+
+[39:23] não quer dizer que a gente não possa
+
+[39:25] tentar fazer alguma coisa tem uma
+
+[39:27] discussão nova é o livro é de 2017 que é
+
+[39:31] é de uma econista Kate hardwolf né de
+
+[39:34] 2017 tem até um tédio até deixei o Ted
+
+[39:37] dela na nas referências para quem quer
+
+[39:39] dar uma olhada mas o livro dela vale
+
+[39:40] muito a pena ser lido que é um ela
+
+[39:42] propõe um novo modelo econômico que é um
+
+[39:45] chamado o modelo do Donald sabe o Donald
+
+[39:48] né o Donald não é uma tipo uma rosquinha
+
+[39:50] ah
+
+[39:52] não é um rosquinha tá a rosquinha não
+
+[39:55] tem a parte de dentro de fora não tem
+
+[39:57] uma bolinha dentro né que é o buraquinho
+
+[39:58] e não tem uma bolinha fora que é o
+
+[40:00] perímetro tá então um Donald ele tem
+
+[40:04] a massa do Donald tem dois limites né o
+
+[40:07] limite de dentro e o limite de Fora o
+
+[40:09] perímetro dele e a bolinha de dentro né
+
+[40:11] o buraquinho de dentro A ideia é aquela
+
+[40:14] propõe falta ainda mais pesquisa para
+
+[40:16] implementação mas a ideia assim parece
+
+[40:18] óbvia a ideia né é que quando você pensa
+
+[40:21] no modelo capitalista atual o modelo só
+
+[40:24] está funcionando enquanto ele está
+
+[40:25] crescendo então é crescimento o modelo
+
+[40:28] capitalista atual ele é baseado em
+
+[40:30] crescimento e isso gera uma uma mensagem
+
+[40:33] ruim nas pessoas pensando na psicologia
+
+[40:35] mesmo né que você sempre tem que estar
+
+[40:37] consumindo só que o mundo tem uma
+
+[40:39] capacidade sustentável tem uma
+
+[40:41] capacidade máxima e a gente já passou
+
+[40:42] dessa capacidade então tem até um outro
+
+[40:44] tá no próprio relatório do PCC né que a
+
+[40:48] gente acaba com a capacidade produtiva
+
+[40:50] da terra de por um ano a gente acaba
+
+[40:53] hoje em dia com nove meses nove meses
+
+[40:55] nove meses pensa assim tudo que a terra
+
+[40:58] consegue produzir por um ano a gente
+
+[41:00] acaba isso com 9 meses tá
+
+[41:04] basicamente a gente é uma criança gulosa
+
+[41:06] sabe que come o bolo inteiro e não
+
+[41:09] guarda é isso né Aí vai ficar faltando
+
+[41:11] Claro e aí ela propõe essa ideia do
+
+[41:14] Donald né que tem o perímetro A parte de
+
+[41:16] fora que são os limites ambientais a
+
+[41:19] parte a parte de fora seria a
+
+[41:21] certificação do Oceano poluentes né a
+
+[41:25] proporção de nitrogênio e fósforo que
+
+[41:27] tem a ver também com com
+
+[41:29] agrotóxicos
+
+[41:31] manutenção de água terra biodiversidade
+
+[41:35] poluição camada de ozônio né o
+
+[41:37] aquecimento global Isso é o que tá por
+
+[41:39] fora da rosquinha é tudo que nos rodeia
+
+[41:41] né do ambiente e tem um lado de dentro
+
+[41:43] da rosquinha né que é o que é o tamanho
+
+[41:46] o que está mais próximo da gente né que
+
+[41:48] é habitação igualdade de gênero
+
+[41:50] igualdade social
+
+[41:52] é justiça renda educação saúde
+
+[41:55] alimentação é o que tá dentro da
+
+[41:56] rosquinha e nós humanos vivemos no meio
+
+[41:59] a gente tá na a gente é a massa da
+
+[42:01] rosquinha a gente não pode pular para
+
+[42:02] fora porque a gente vai estar
+
+[42:04] extrapolando os limites do da natureza e
+
+[42:06] não pode cair para dentro senão a gente
+
+[42:07] deixa de ser uma rosquinha porque fecha
+
+[42:09] o buraco sabe então A ideia é viver
+
+[42:11] nesses limites como que a gente trabalha
+
+[42:13] dentro desses limites né E aí essa ideia
+
+[42:15] da economia do Donald é que ela parte do
+
+[42:19] pressuposto de que o que dá condição
+
+[42:21] para o crescimento econômico não é a
+
+[42:24] mais-valia ou lucro mas sim a capacidade
+
+[42:27] de você ser criativo frente aos limites
+
+[42:30] isso é possível então por exemplo se eu
+
+[42:33] tenho um limite biológico para alguma
+
+[42:35] coisa se eu estimular a minha
+
+[42:37] criatividade não para produzir mais
+
+[42:39] coisas mas para trabalhar com recurso
+
+[42:42] limitado de uma forma mais eficaz isso
+
+[42:45] gera Mais valia também sabe então ao
+
+[42:47] invés de eu vender minha força de
+
+[42:48] trabalho mais cara né ou produzir mais
+
+[42:52] eu posso tentar ir pelo contrário eu
+
+[42:54] tenho um recurso limitado eu quero fazer
+
+[42:56] o melhor uso possível desse recurso é o
+
+[42:59] contrário em vez de crescer né Eu quero
+
+[43:01] Florescer dentro do limite né E essa é
+
+[43:05] uma sacada interessante assim os modelos
+
+[43:07] econômicos são possíveis mudando certos
+
+[43:10] parâmetros são possíveis de trabalhar
+
+[43:11] com isso né A questão é como é que você
+
+[43:14] cria uma escola econômica e depois gera
+
+[43:16] opinião força na opinião pública para
+
+[43:19] isso acontecer porque é difícil é aquele
+
+[43:21] meme né se todo mundo no mundo tiver um
+
+[43:23] iPhone o mundo acaba e não é não é meme
+
+[43:26] É verdade
+
+[43:27] não dá para dar um iPhone para todo
+
+[43:29] mundo e nem precisa esse aqui é o ponto
+
+[43:32] nem precisa tem um artigo Fantástico
+
+[43:34] inclusive de de modelo econômico mesmo
+
+[43:36] que é o seguinte imagina em um mundo com
+
+[43:39] 10 bilhões de habitantes 10 bilhões a
+
+[43:41] gente vai alcançar em mais ou menos
+
+[43:42] 2.080 que agora 10 bilhões tá se todo
+
+[43:47] mundo uns 10 milhões de pessoas tivessem
+
+[43:49] o mesmo padrão de consumo nos Estados
+
+[43:52] Unidos o mundo já teria acabado a gente
+
+[43:55] já teria sido extinto em 2080 pronto
+
+[43:57] então o que que tem que acontecer quem
+
+[44:00] tem muito tem que diminuir e quem tem
+
+[44:02] menos tem que aumentar mas não naquele
+
+[44:04] ponto que é demais né E aí tem uma
+
+[44:08] simulação bem bem interessante que
+
+[44:10] mostra assim qual o padrão de vida que
+
+[44:12] todo mundo deveria ter é sustentável Se
+
+[44:15] você pegar todo mundo da terra e colocar
+
+[44:18] num padrão de vida equivalente aos
+
+[44:20] Estados Unidos em 1960 dá
+
+[44:24] que convenhamos tá bom não tá 1960 tá
+
+[44:28] bom assim não é que a gente vai regredir
+
+[44:30] não é que a gente vai regredir não é que
+
+[44:32] você vai ter uns cara Mangueira os
+
+[44:35] Cadilac Não é isso não é isso nossa TV
+
+[44:37] de tubo né preto e branco não é isso é
+
+[44:41] um padrão de consumo a gente continua
+
+[44:43] com a mesma tecnologia mas o padrão de
+
+[44:46] consumo é equivalente a uma pessoa dos
+
+[44:49] anos 60 dos Estados Unidos [ __ ] tá
+
+[44:51] ótimo
+
+[44:52] eu acho que eu tenho esse padrão de
+
+[44:53] consumo hoje né talvez padrão de consumo
+
+[44:56] que você diz é o que é a média em
+
+[44:59] dólares que a pessoa gasta é a
+
+[45:02] quantidade de é a quantidade de sei lá
+
+[45:06] de calorias
+
+[45:07] compra não existe existe uma métrica que
+
+[45:10] você pega tudo que uma pessoa faz e
+
+[45:12] converte em gás carbônico sabe converte
+
+[45:15] em gás
+
+[45:16] seria essa produção de gás vai produção
+
+[45:18] de CO2 isso algo assim algo aproximado
+
+[45:21] tá o que é muito factível sabe é só você
+
+[45:25] parar de comprar 10 calças compra uma
+
+[45:27] sabe ou diminui a obsolescência
+
+[45:30] programada dos produtos eles durarem
+
+[45:31] mais não acaba nada você vai tá tudo bem
+
+[45:34] sabe tá tudo bem sabe em vez de ter um
+
+[45:36] Blockbuster por mês tem uma a cada seis
+
+[45:38] meses tá bom sabe tipo eu vi um
+
+[45:43] documentário
+
+[45:45] recentemente que um documentarista né
+
+[45:49] Walt embora
+
+[45:52] famoso ele captou imagens durante
+
+[45:56] a fase crítica da pandemia e nessa fase
+
+[46:00] crítica da pandemia as pessoas ficava em
+
+[46:02] casa
+
+[46:04] então a maioria das pessoas tava em casa
+
+[46:07] saía Muito pouco
+
+[46:09] usava-se muito pouco carro etc etc ele
+
+[46:14] mostrou cidades né que em um mês né
+
+[46:19] saíram de uma situação de
+
+[46:22] um ar completamente inadequado para
+
+[46:25] respirar
+
+[46:26] para um ar extremamente adequado para
+
+[46:30] respirar isso eu ia perguntar é um mundo
+
+[46:33] com mais Home Office
+
+[46:36] também contribuiria significativamente
+
+[46:39] ou seria uma coisa Marginal é marginal
+
+[46:42] porque a grande questão é o consumo A
+
+[46:44] grande questão é o consumo porque o
+
+[46:46] consumo tem a ver também com o motor de
+
+[46:48] produção né isso Exatamente é baseado na
+
+[46:51] premissa de que uma coisa para dar certo
+
+[46:54] ela tem que crescer né que é a premissa
+
+[46:57] do capitalismo
+
+[46:59] do modelo Industrial mesmo né porque ele
+
+[47:02] quebra não de fato ele quebra sabe mas é
+
+[47:05] possível pensar um outro modelo mais
+
+[47:07] sustentável é é possível tem muitas
+
+[47:09] adequações a serem feitas tem muito
+
+[47:11] teórico economista que tem que ter como
+
+[47:13] tomar Como disse que é que é a ciência
+
+[47:16] cresce por velórios né então os
+
+[47:19] Patriarca tem que dar Deus mesmo uma
+
+[47:21] coisa avançar aposentar né uma coisa
+
+[47:23] evoluir um pouco desenvolver né mas por
+
+[47:25] exemplo quem Ó imagina que você vai no
+
+[47:27] médico Você vai no médico e o médico
+
+[47:29] disse que tem uma coisa crescendo
+
+[47:31] descontroladamente dentro de você tem
+
+[47:33] uma uma parte da sua células que está
+
+[47:36] crescendo ordenadamente você vai achar
+
+[47:38] isso bom não não você vai ficar
+
+[47:40] preocupado não vai Claro é agora imagina
+
+[47:43] que você é a terra ou você é a sociedade
+
+[47:45] não precisa nem ser a Terra é a mesma
+
+[47:48] coisa é a mesma coisa crescendo
+
+[47:50] desordenadamente ela não pensa em parar
+
+[47:52] ela vai acabar com todo o recurso sabe
+
+[47:54] quer dizer a sociedade como um todo se a
+
+[47:58] gente personificar se ela a gente está
+
+[48:01] falando que a sociedade é uma pessoa que
+
+[48:03] sabe que tá com tumor crescendo todos os
+
+[48:07] dias e não faz nada a respeito ou faz
+
+[48:10] muito pouco a respeito ou finge que faz
+
+[48:12] ou faz coisas marginais e mais do que
+
+[48:15] isso Acha que esse é o propósito da vida
+
+[48:17] dela
+
+[48:18] isso que é o pior acho que ela foi
+
+[48:20] predestinada para ter esse crescimento
+
+[48:22] sabe
+
+[48:24] é pior não é você ser leniente é você
+
+[48:27] acreditar que esse é o jeito mesmo tem
+
+[48:28] que ser assim sabe e um outro jeito é
+
+[48:31] possível tem até o e-mail do nosso do
+
+[48:33] Luiz Felipe que fala o planeta vai sobre
+
+[48:36] viver e nós o planeta vai sobreviver tá
+
+[48:38] vai planeta se reconstitui provavelmente
+
+[48:42] sem o ser humano ele se constitui mais
+
+[48:45] rápido
+
+[48:46] ele vai assumir um novo estado de
+
+[48:48] equilíbrio isso vai gerar pressão
+
+[48:50] seletiva para uma gama de outras
+
+[48:51] espécies tranquilaço a gente é tipo uma
+
+[48:54] verruga sabe não tem nada tá o planeta
+
+[48:57] vai ficar de boa assa a gente que não né
+
+[48:59] É só isso tá então assim a gente tá
+
+[49:03] causando mal pra gente mesmo o planeta
+
+[49:05] né tanta espécie Já Foi extinta já
+
+[49:08] voltou vai surgir a seleção natural não
+
+[49:11] tá nem aí pra gente mas a gente devia
+
+[49:13] estar mais aí para nós mesmo né isso é
+
+[49:16] importante e baseado nessa ideia assim é
+
+[49:19] uma ideia psicologicamente faz todo
+
+[49:21] sentido mas economicamente é uma ideia
+
+[49:22] revolucionária de que os limites dão as
+
+[49:25] condições para que as coisas floresçam
+
+[49:27] as coisas só florescem quando tem limite
+
+[49:29] né porque esses limites dão desafios
+
+[49:31] suficiente para você conseguir Florescer
+
+[49:33] frente as limitações né um espaço de
+
+[49:37] contínuo crescimento ele gera
+
+[49:40] descontrole você só pode crescer né já
+
+[49:43] era descontrole já era falta de reflexão
+
+[49:44] Então essa ideia apesar ser um pouco
+
+[49:47] embrionária da economia do Donald é algo
+
+[49:50] muito interessante sobretudo para você
+
+[49:51] pensar educação né porque aí o trabalho
+
+[49:55] do psicólogo é muito importante pena que
+
+[49:57] ele é mal formado no trabalho da
+
+[49:58] economista é muito do do publicitário é
+
+[50:01] muito importante porque esse é um pit e
+
+[50:03] de novo quando você consegue você sabe
+
+[50:05] muito bem isso quando você consegue
+
+[50:06] implementar um pit o crescimento dele na
+
+[50:09] população exponencial se você faz as
+
+[50:12] pessoas compreenderem que você cresce e
+
+[50:15] se desenvolve muito mais quando você tem
+
+[50:16] limite do que quando você tem uma renda
+
+[50:18] pode pode fazer tudo que você quiser
+
+[50:20] Sabe quando você percebe que é mais
+
+[50:22] frutífero é mais saudável para você
+
+[50:24] crescer dentro de limites se você começa
+
+[50:27] a vender isso como um Pitty com os
+
+[50:28] exemplos aí vai ter influência você está
+
+[50:30] toda estrutura de mídia que a gente tem
+
+[50:32] para vender tudo que a gente usa para
+
+[50:34] vender refrigerante fosse usado para
+
+[50:37] para vender o pit em em favor da da do
+
+[50:42] meio ambiente do planeta mas antes do
+
+[50:45] meio ambiente e tal é uma nova uma forma
+
+[50:47] de ver a pessoa uma pessoa que cresce
+
+[50:49] por meio dos seus próprios Limites não
+
+[50:52] não é aquela que busca ser melhor eu vou
+
+[50:55] vencer que vencer você não tem nada para
+
+[50:57] vencer você não tá lutando com ninguém
+
+[50:58] na vida não é o jogo a gente já falou
+
+[51:00] isso aí quais são seus limites Como que
+
+[51:02] você faz para tirar o melhor disso sabe
+
+[51:04] se você for querer ser indefinidamente
+
+[51:06] você só tá se diferenciando você tá
+
+[51:09] virando uma massa morfa sabe se você
+
+[51:11] cresce para quem nunca viu isso é bem Eu
+
+[51:13] desculpo Ok Com certeza já deve ter
+
+[51:15] visto a Kira lembra aquilo desenho aqui
+
+[51:17] tem o tem o tutsu né que ele não vou
+
+[51:21] contar história mas ele ele começa a ser
+
+[51:23] invadido por alguma coisa ele começa a
+
+[51:24] inchar E vira um monstro gigante né E aí
+
+[51:28] ele fala eu não sei mais quem eu sou
+
+[51:29] começa a se perder sabe Exatamente isso
+
+[51:31] o ser do consumo e a ideia é mudar isso
+
+[51:35] de novo você pode continuar revendendo o
+
+[51:37] refrigerante só que se você vende um
+
+[51:39] refrigerante para um sujeito que percebe
+
+[51:42] que ele só vai Florescer dentro dos seus
+
+[51:44] limites ele vai precisar comprar 20
+
+[51:46] refrigerantes bom né E aí você adequa ou
+
+[51:49] uma indústria 1 né pode fazer várias
+
+[51:51] indústrias locais tem toda uma grama de
+
+[51:53] de possibilidades econômicas que a
+
+[51:55] economia vai continuar funcionando ela
+
+[51:57] vai ser bem diferente né mas ela vai ser
+
+[51:59] mais fraterna e de novo não tô propondo
+
+[52:01] que todo mundo tem que ser igual sim mas
+
+[52:04] todo mundo conhecer os seus limites vão
+
+[52:05] ter noção vai ter noção do que
+
+[52:07] representa ele mesmo e vai ter noção do
+
+[52:09] que representa o limite do outro então
+
+[52:11] antes de tudo o mundo não vai ser
+
+[52:13] igualitário mas vai ser mais fraterno
+
+[52:15] isso vai garantir a nossa permanência
+
+[52:17] nesta terra por mais tempo é isso daí
+
+[52:20] gente recomendo aqui também que você
+
+[52:23] assista um número do comediante George
+
+[52:27] carling né que fala sobre sobre o
+
+[52:29] planeta vai sobreviver o problema somos
+
+[52:33] nós exatamente e fica a reflexão você tá
+
+[52:37] disposto a mudar completamente o seu
+
+[52:41] estilo de vida para que a humanidade
+
+[52:43] sobreviva é isso daí
+
+[52:46] cenário rodou eles se envolvente
+
+[52:51] E você já sabe aqui no Naru rodou quem
+
+[52:54] faz a pauta é você Você tem alguma
+
+[52:56] pergunta pra gente ou Quer comentar
+
+[52:58] algum episódio escreva para nós
+
+[53:01] podcast.com.br
+
+[53:06] e lembre-se mande nome completo idade
+
+[53:10] profissão e a cidade de onde você está
+
+[53:12] falando é isso aí
+
+[53:16] [Música]
+
+[53:25] [Música]

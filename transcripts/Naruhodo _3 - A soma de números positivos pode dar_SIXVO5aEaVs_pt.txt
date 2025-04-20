@@ -1,0 +1,293 @@
+Title: Naruhodo #3 - A soma de números positivos pode dar um número negativo?
+URL: https://www.youtube.com/watch?v=SIXVO5aEaVs
+Language: pt
+Extracted on: 2025-04-06 16:51:31
+================================================================================
+
+[00:00] assumo de números positivos pode dar um
+
+[00:03] número negativo não mudam
+
+[00:09] [Música]
+
+[00:15] bem-vindo ao nosso rodou podcast para
+
+[00:17] que tem forma de aprender
+
+[00:19] eu sou quem fujioka eu só vou sair de
+
+[00:21] souza e hoje é dia de que o desafio do
+
+[00:25] rodrigo
+
+[00:27] hoje é dia da gente desafiar você
+
+[00:29] ouvinte resolver o problema ea primeira
+
+[00:32] pessoa resolver enviar pra gente no
+
+[00:34] podcast arroba na o rodolfo ponto com.br
+
+[00:38] ganho um prêmio especial da rede de
+
+[00:41] energia de matemática certo aí é isso aí
+
+[00:44] vamos começar os desafios com um
+
+[00:45] problema de matemática então manda a
+
+[00:47] especificação do problema então imagine
+
+[00:50] o seguinte querido ouvinte mas ele
+
+[00:53] também quem pode pegar um papel a idéia
+
+[00:55] seguinte imagine todos os números
+
+[00:57] naturais positivos são um dois três
+
+[01:01] quatro cinco até o maior número natural
+
+[01:04] positivo que você imaginar que na
+
+[01:06] verdade que existir bom você já imaginou
+
+[01:08] como são esses números
+
+[01:09] agora imagine que você vai somar los com
+
+[01:12] mais 234 mais cinco até o infinito ou
+
+[01:15] seja o óbvio seria a gente imaginar um
+
+[01:18] número muito grande
+
+[01:20] como resultado dessa soma infinitamente
+
+[01:22] grande é isso que é o óbvio natural você
+
+[01:25] imaginar que a soma de todos os números
+
+[01:27] naturais positivos vai dar um número
+
+[01:29] infinito de positivo exato porém
+
+[01:33] infinito não é o número
+
+[01:35] eu vou dar uma pequena demonstração
+
+[01:36] rápida porque é infinito não é um número
+
+[01:39] que imagine o seguinte imagine todos os
+
+[01:41] números num conjunto beleza qual o
+
+[01:44] tamanho desse conjunto infinito muito
+
+[01:46] bem
+
+[01:47] agora imagine que você vai pegar esse
+
+[01:48] conjunto de todos os números e divide em
+
+[01:51] dois conjuntos menores
+
+[01:53] o conjunto dos números pares e dos
+
+[01:55] números ímpares como esse é o tamanho
+
+[01:57] desses dois conjuntos menores um filme
+
+[02:00] sobre dores
+
+[02:03] vai ser infinito também não é
+
+[02:05] ou seja você pega uma coisa infinita e
+
+[02:07] dividir em duas coisas que também são
+
+[02:09] infinitas sendo que esse infinita menor
+
+[02:10] do que os outros não dá não tem como
+
+[02:13] logo infinito não é um número tá pra
+
+[02:15] quem gosta de matemática a razão porque
+
+[02:17] infinito não é um número é porque ele
+
+[02:18] não tem cardinale idade são domínio
+
+[02:21] técnico né
+
+[02:22] ele não tem cardinale da dior tom e
+
+[02:25] parentes aqui explicar aqui
+
+[02:27] cordialidade na matemática pura difícil
+
+[02:29] de explicar mas a idéia é que cada
+
+[02:31] número onde fica uma coisa certo para
+
+[02:34] ele quantificar uma coisa que dizer que
+
+[02:35] existe ele tem um lugar
+
+[02:37] então por exemplo o número dois o número
+
+[02:38] dois ele mede duas unidades de alguma
+
+[02:41] coisa logo está acima de 1 ele é acima
+
+[02:43] de um menor que 3
+
+[02:45] então todo o número que codifica o
+
+[02:46] cliente fica algo tem um lugar só que o
+
+[02:49] infinito não tem um lugar não tem porque
+
+[02:51] ele codifica coisas que são muito
+
+[02:53] grandes né é a princípio não tem nada
+
+[02:55] acima do infinito relato o mesmo abaixo
+
+[02:58] também né não
+
+[02:59] a idéia é infinito - 1 se não tem então
+
+[03:02] o infinito é um número que não tem
+
+[03:04] cardinale idade logo ele não é um número
+
+[03:05] ele tomou uma quantidade agora tem
+
+[03:07] entendido que a originalidade sentido de
+
+[03:09] localização localização isso
+
+[03:12] isso é uma coisa matemática pura mas é
+
+[03:14] importante mas voltando ao nosso nosso
+
+[03:16] desafio
+
+[03:17] imagine todos os números positivos não é
+
+[03:19] de 1 até o infinito todos somados custo
+
+[03:22] dessa conta
+
+[03:23] você já viu que como infinito não é um
+
+[03:25] número não vai dar infinito é feito não
+
+[03:28] no entanto não aceitamos a resposta
+
+[03:30] enfim de exato não aceitamos essa
+
+[03:31] resposta que seria natural pensar que
+
+[03:34] são é um número positivo e muito grande
+
+[03:36] em exatos o que seria razoável de pensar
+
+[03:38] porém o desafio é mostre que a soma de
+
+[03:41] todos os números naturais positivos mais
+
+[03:44] 23 até o infinito vai dar
+
+[03:47] vai ser igual a menos um doze avos
+
+[03:50] ou seja um número negativo e pequeno um
+
+[03:53] doze avos - um sub 12 exato e pra
+
+[03:58] demonstrar isso
+
+[03:59] qual é o nível de conhecimento de
+
+[04:01] matemática que as pessoas precisam ter
+
+[04:03] então para chegar nesse resultado
+
+[04:05] a única coisa que você vai precisar é de
+
+[04:07] álgebra si só já são altas se você tem
+
+[04:10] até o terceiro colegial
+
+[04:12] você consegue fazer você consegue chegar
+
+[04:14] no rio
+
+[04:15] para prova formal matemática está um
+
+[04:18] pouco mais difícil mas não é impossível
+
+[04:19] só com álgebra
+
+[04:21] você chega a um resultado 1 a 4 com um
+
+[04:24] papel e caneta e pesada para chegar
+
+[04:26] nisso eu fiz que você se lembra é
+
+[04:27] verdade se fez não entendeu até hoje ele
+
+[04:30] tava linda no clube desde então fazendo
+
+[04:33] o papel do leigo é f
+
+[04:35] esse é o desafio desta semana mostre que
+
+[04:38] a soma de todos os números naturais
+
+[04:40] positivos convergem ou é igual a menos
+
+[04:43] um doze avos
+
+[04:44] esse é o desafio prova pra gente que a
+
+[04:47] soma dos números inteiros positivos
+
+[04:50] resultam num número negativo e muito
+
+[04:53] pequeno
+
+[04:53] a primeira pessoa resolveu enviar para a
+
+[04:55] gente no podcast a urbana haroldo ponto
+
+[04:57] com.br ganha um prêmio especial da gente
+
+[05:02] rodou e lustres envolvente e lembre-se
+
+[05:04] aquino rodou quem faz a pauta é você
+
+[05:07] você discorda de algo que falamos
+
+[05:09] você tem alguma pergunta você quer
+
+[05:11] compartilhar alguma curiosidade você
+
+[05:13] quer lançar um desafio
+
+[05:14] escreva pra gente podcast a roupa num
+
+[05:17] rodopio ponto com.br
+
+[05:18] repetindo podcast à rua amaro rodou
+
+[05:21] ponto com.br até o próximo no rodo
+
+[05:24] tcheco do marido
+
+[05:28] o mérito do lixo só gente é apresentado
+
+[05:37] ouro p 9 ponto com.br
+
+[05:44] [Música]

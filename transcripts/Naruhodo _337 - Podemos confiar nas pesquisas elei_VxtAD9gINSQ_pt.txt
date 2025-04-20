@@ -1,0 +1,2659 @@
+Title: Naruhodo #337 - Podemos confiar nas pesquisas eleitorais? - Parte 2 de 2
+URL: https://www.youtube.com/watch?v=VxtAD9gINSQ
+Language: pt
+Extracted on: 2025-04-06 16:41:11
+================================================================================
+
+[00:00] não
+
+[00:01] podemos confiar nas pesquisas eleitorais
+
+[00:04] parte 2
+
+[00:08] Oi Nádia Rodolfo
+
+[00:12] olá
+
+[00:13] bem-vindo ao mar Rodolfo podcast para
+
+[00:15] quem tem fome de aprender eu sou fake
+
+[00:17] Joca eu só tem Souza e hoje é dia de quê
+
+[00:20] e quem fez isso comigo
+
+[00:23] Você quer apoiar a ciência quer apoiar o
+
+[00:26] pensamento científico quero ajudar o mal
+
+[00:29] rodou o senhor pelo ar ouvir os
+
+[00:32] episódios e espalhar a palavra já é um
+
+[00:34] grande Passo mas existe um outro jeito
+
+[00:37] apoiar o naro rodou a partir de 15 reais
+
+[00:40] por mês quem você militar isso é a orelo
+
+[00:43] plataforma de apoio a criadores de
+
+[00:46] conteúdo mais legal do Brasil e em junho
+
+[00:48] Aurélio preparou uma promoção especial
+
+[00:50] para novas apoiadoras e novos apoiadores
+
+[00:53] que iniciaram apoio entre um e trinta de
+
+[00:57] Junho vai receber de volta a primeira
+
+[00:59] parcela é isso mesmo Aurélio Vai bancar
+
+[01:03] a primeira mensalidade
+
+[01:05] estornando o valor contribuído a bacana
+
+[01:08] lá rodou E a bacana para você e você
+
+[01:11] sabe só que a lilou Elo tem acesso a
+
+[01:14] conteúdos exclusivos conteúdos
+
+[01:16] antecipados vantagens especiais e acesso
+
+[01:19] ao grupo fechado no telegram Então vem
+
+[01:22] clorelo você também
+
+[01:26] bit.li/nao rodou traz um novo traço
+
+[01:29] Corello
+
+[01:30] E chegamos ao momento a loira que ele
+
+[01:33] não 20 querido ouvinte você quer dar um
+
+[01:36] verdadeiro mergulho no mundo da
+
+[01:38] tecnologia
+
+[01:39] migrar para uma nova carreira
+
+[01:41] aprofunda-se nessa carreira então assine
+
+[01:45] a loira agora mesmo você vai estudar
+
+[01:47] praticar discutir e se aprofundar em uma
+
+[01:51] plataforma que respira tecnologia na
+
+[01:54] loira você terá acesso completo ao
+
+[01:56] conhecimento onde e quando você quiser
+
+[01:58] com novos cursos todas as semanas e
+
+[02:02] ainda tem vantagem ouvinte nao rodou tem
+
+[02:04] desconto especial mas para isso é
+
+[02:07] preciso acessar a seguinte URL anota aí
+
+[02:14] alura.com.br/promoção/na rodo nesse
+
+[02:16] endereço além do desconto especial você
+
+[02:18] vai conhecer histórias reais de
+
+[02:20] transformação de pessoas que estudaram
+
+[02:22] na loira então repetindo acesse
+
+[02:27] alura.com.br/promoção Barra na Rodolfo a
+
+[02:31] o Altair voltamos então para parte 2
+
+[02:36] sobre o episódio duplo a respeito de
+
+[02:39] pesquisas eleitorais Pois é Espero que
+
+[02:42] não tenha habilitado muito a cabeça né o
+
+[02:44] quem é sempre meu termômetro assim né
+
+[02:46] para ver se eu consigo acompanhar né se
+
+[02:48] você ainda não ouviu a parte um que é o
+
+[02:51] narodo 336 podemos confiar nas pesquisas
+
+[02:54] eleitorais parte um
+
+[02:56] você de Stop agora volte para o Episódio
+
+[03:00] 336 ou seja inteiro antes de seguir em
+
+[03:03] frente aqui pra tu aí exatamente Então
+
+[03:06] quem ou sobreviver o primeiro episódio
+
+[03:07] Deu Tudo Certo olha deu quase tudo certo
+
+[03:10] eu assim eu confesso para você que toda
+
+[03:12] vez que envolve matemática eu sinto
+
+[03:15] falta de uma interface visual pela Lusa
+
+[03:18] deve um papel usar mas acho que deu para
+
+[03:22] pegar tudo aquilo que a gente se propôs
+
+[03:25] a fazer na primeira parte né falar sobre
+
+[03:28] o fato de que sim é possível com em
+
+[03:31] algumas milhares de pessoas que
+
+[03:34] apresentam uma população de centenas de
+
+[03:36] milhões de pessoas Então se bem feita
+
+[03:39] uma pesquisa eleitoral com duas mil
+
+[03:42] pessoas ou três mil pessoas ela é sim
+
+[03:45] confiável levando em conta todas as
+
+[03:48] limitações estatísticas de uma amostra
+
+[03:51] dessas né Falamos também sobre o
+
+[03:54] intervalo de confiança falamos sobre é
+
+[03:57] desvio padrão erro padrão e margem de
+
+[04:00] erro né E já fazer um Rep aí do da
+
+[04:03] primeira parte ontem sim é bom
+
+[04:05] aproveitando a recapitulação do episódio
+
+[04:07] anterior a gente pode falar agora sobre
+
+[04:09] um tipo de pesquisa que não dá tempo né
+
+[04:13] de falar na primeira parte do episódio
+
+[04:14] mas é importante que é são as pesquisas
+
+[04:16] por telefone né ou também chamadas de
+
+[04:19] Kate se ati né as pesquisas por telefone
+
+[04:22] pesquisa de mercado que usam contato
+
+[04:26] telefônico são muito comuns né é o são
+
+[04:29] utilizados de uma gama muito grande de
+
+[04:31] se tu e inclusive hoje em dia no Brasil
+
+[04:34] nas eleições é é o método mais utilizado
+
+[04:37] né não tem algum tem várias vantagens né
+
+[04:40] então é o método mais rápido você
+
+[04:42] consegue ter uma certa a alocação
+
+[04:46] Regional melhor porque se você tiver uma
+
+[04:50] boa lista de telefones em geral você tem
+
+[04:53] a localização geográfica né então você
+
+[04:56] consegue ter um perfil geográfico melhor
+
+[04:59] das ligações mas ao mesmo tempo tem
+
+[05:01] desvantagens Quando você pensa em
+
+[05:03] telefonia fixa nem todo mundo tem
+
+[05:05] telefone fixo ainda mais hoje Poucas
+
+[05:07] pessoas tem tem a questão da ligação por
+
+[05:09] celular também né então a em geral agora
+
+[05:13] oscates são por acesso as pessoas via
+
+[05:17] celular né Não tanto sobretudo por conta
+
+[05:20] da dessa onda de telemarketing agressivo
+
+[05:23] e tal boa parte das pessoas não atende
+
+[05:26] mais então você tem um viés de
+
+[05:28] não-resposta muito grande né por outro
+
+[05:30] lado a Oi Kátia mais barato é mais fácil
+
+[05:33] e rápida você consegue ter um tamanho de
+
+[05:36] amostra representativa do Brasil uma
+
+[05:38] relativa rapidez em relação a outros
+
+[05:40] métodos como o ponto de fluxo e tal mas
+
+[05:43] tem vi essas também né tem problemas
+
+[05:45] como a o viés não resposta como eu
+
+[05:48] comentei
+
+[05:49] entrevistas por telefone Tem muitas
+
+[05:51] vezes um viés de que pessoas mais velhas
+
+[05:53] são mais representados do que pessoas
+
+[05:56] mais jovens porque as pessoas mais
+
+[05:58] velhas têm uma maior tendência a atender
+
+[06:00] mais o telefone esse fenômeno das
+
+[06:02] pessoas ai por favor não me manda áudio
+
+[06:05] só quero o texto vale para ligações de
+
+[06:07] pessoas que hoje em dia tem o celular e
+
+[06:10] que engraçado né que o celular foi
+
+[06:11] criado para receber ligações a última
+
+[06:13] coisa que ela recebe uma ligação né de
+
+[06:15] voz então esse é um viés é importante
+
+[06:17] que vai se tornar maior com o tempo tá
+
+[06:19] no entanto as pesquisas eleitorais a
+
+[06:22] maior parte das pesquisas hoje em dia é
+
+[06:23] feita por Kate né que quando você
+
+[06:26] consegue um tamanho de amostrar mínimo
+
+[06:28] ela tem alguma representatividade mas
+
+[06:30] também não de a vieses como a pesquisa
+
+[06:33] por cota não é baseado em ponto de fluxo
+
+[06:37] então cada uma tem a sua vantagem e
+
+[06:38] desvantagem É mas não podemos dizer que
+
+[06:41] as pesquisas não são são totalmente
+
+[06:43] fraudados e não são válidas com base
+
+[06:46] nisso Como dito anteriormente no
+
+[06:48] episódio anterior se você consegue
+
+[06:50] estimar o viés você consegue fazer
+
+[06:52] estimativas razoavelmente apurados Com
+
+[06:55] base no controle deste viés a gente
+
+[06:57] falou também dos processos de amostragem
+
+[06:58] para ter ficado claro que você pegar de
+
+[07:02] uma população sortear as pessoas mesmo
+
+[07:04] que você faça um bom sorteio pode vir
+
+[07:06] viesado você pode sortear mais homens
+
+[07:08] mas mulher mais jovem mais de 12 Enfim
+
+[07:09] então é importante criar estratos a
+
+[07:11] partir de variáveis que você sabe que
+
+[07:13] vai gerar viés no resultado para poder
+
+[07:15] controlar isso no processo de amostragem
+
+[07:17] daí surgiu a ideia de amostragem
+
+[07:19] estratificada por estratos onde
+
+[07:21] amostragem estratificada só é aleatória
+
+[07:23] dentro de cada estrato tem uma variação
+
+[07:25] disso que a amostragem por clusters ela
+
+[07:27] é mais geográfica mas não é usado na
+
+[07:29] pesquisa eleitoral porque é muito caro e
+
+[07:31] a
+
+[07:32] amostragem por cotas que é usada em
+
+[07:34] muitas pesquisas eleitorais ao invés de
+
+[07:36] de todas as pessoas dentro de um extrato
+
+[07:39] tem a mesma assistência de serem
+
+[07:40] selecionadas vocês vai no ponto de fluxo
+
+[07:43] espera elas passarem e tem duas um pouco
+
+[07:45] de mas não é tão grande assim e você
+
+[07:47] pode aumentar um pouco tamanho de
+
+[07:48] amostra para lidar com isso entendeu tem
+
+[07:51] muitos artigos técnicos que entrar
+
+[07:52] quiser entrar na parte técnica tem
+
+[07:54] bastante discussão A respeito mas O
+
+[07:56] interessante é que a discussão e honesta
+
+[07:57] assim acho que eu sou uma conta você vê
+
+[07:59] a conta vem cima estima bem e é isso aí
+
+[08:01] é um bom parâmetro vi essa baixo e aí
+
+[08:03] beleza aí tem essa questão da margem de
+
+[08:06] erro do intervalo de confiança os dois
+
+[08:08] derivam de uma lei estatística que o
+
+[08:11] teorema central do limite e a partir da
+
+[08:13] amostragem a partir de várias amostras
+
+[08:16] Independentes criados a partir de uma
+
+[08:18] população se você pegar uma estimativa
+
+[08:20] da média de cada uma dessas amostras
+
+[08:22] fizer a distribuição da estimativa das
+
+[08:25] médias e pegar a média das médias essa
+
+[08:27] média das médias Especialmente na
+
+[08:28] população e só teremos seletivas em e
+
+[08:31] quando a gente faz uma pesquisa você não
+
+[08:33] repete sua pesquisa 2030 vezes você só
+
+[08:35] faz uma vez para você essa média que
+
+[08:38] você encontrou nossa pesquisa não é a
+
+[08:39] média da população é uma das médias
+
+[08:41] possíveis e cuja média das médias vai
+
+[08:44] gerar média da população Então você tem
+
+[08:46] que criar um intervalo de confiança em
+
+[08:47] torno dessa média aí como que dialoga o
+
+[08:51] intervalo de confiança e o erro amostral
+
+[08:52] quando você tem uma amostra fixa quando
+
+[08:55] seu fator limitante é o tamanho de
+
+[08:57] amostra né ah eu só consigo coletar 500
+
+[09:00] pessoas é o que eu tenho Qual que é o
+
+[09:02] grau de incerteza que eu tenho para
+
+[09:05] prever um valor populacional dado n que
+
+[09:08] eu tenho Então imagina tem uma limitação
+
+[09:09] de dinheiro eu só que você coletar 500
+
+[09:12] pessoas então eu quero saber como errado
+
+[09:14] eu vou estou estar Qual é o tamanho do
+
+[09:16] intervalo de confiança que eu tenho
+
+[09:18] notado que meu é fixo é o meu ele é o
+
+[09:20] que eu consigo tá isso é um jeito então
+
+[09:23] tem o intervalo de confiança ele pode
+
+[09:24] ser dois três quatro pontos pode ser
+
+[09:26] menos depende do tamanho de amostra
+
+[09:28] quanto maior o tamanho de amostra menor
+
+[09:30] o intervalo é porque mais próximo Você
+
+[09:33] está do verdadeiro valor da Média porque
+
+[09:36] o ele está aumentando você tá
+
+[09:37] aproximando da população Tudo bem então
+
+[09:40] isso é muito usado em pesquisa
+
+[09:41] experimental então na todas as áreas de
+
+[09:43] pesquisa que o colabora ao todo mundo
+
+[09:45] intervalo de confiança porque porque o
+
+[09:47] nosso ele é limitado a gente não tem
+
+[09:49] tanto dinheiro
+
+[09:50] em pesquisa eleitoral em pesquisa de
+
+[09:52] mercado às vezes eu não eu tenho
+
+[09:55] dinheiro então eu quero fazer o seguinte
+
+[09:57] eu meu n não é limitado eu quero saber
+
+[10:00] quantas pessoas eu preciso para coletar
+
+[10:03] um intervalo com dois pontos para mais
+
+[10:05] ou para menos da do verdadeiro valor ou
+
+[10:07] seja eu só quero errar dois por cento eu
+
+[10:09] não tô focando no quanto eu consigo ter
+
+[10:12] de incerteza eu tô focando no quando eu
+
+[10:14] quero errar quantas pessoas eu preciso
+
+[10:16] para isso não importa o dinheiro aí a
+
+[10:18] margem de erro é mais importante mas
+
+[10:20] margem de erro intervalo de confiança
+
+[10:21] conversam no gera outro mas depende do
+
+[10:24] seu interesse seu foco é no ENEM fixar o
+
+[10:27] n e o seu foco é saber o tamanho de
+
+[10:29] amostra para detectar uma série o erro
+
+[10:32] em torno de um valor que você quer
+
+[10:34] determinar da população tudo bem perto
+
+[10:37] eu acho que esse Recall ajudou né para
+
+[10:39] colocar um pouco de ordem baseada a
+
+[10:42] margem de erro é uma margem de erro que
+
+[10:44] você estabelece aí você quer saber o
+
+[10:45] tamanho de amostra para isso então aí é
+
+[10:47] um cálculo né se você quer uma margem de
+
+[10:50] erro de dois pontos para mais ou para
+
+[10:52] menos você só quer a quatro porcento em
+
+[10:54] torno da média vai dar umas duas mil vai
+
+[10:57] dar 2.400 em uma pessoas tá em média só
+
+[11:00] que só que você tem que garantir que
+
+[11:02] essas 2400 pessoas sejam coletadas
+
+[11:05] igualmente dentro da população então não
+
+[11:08] adianta nada você calcular o tamanho de
+
+[11:09] amostra mas coletar só homem por exemplo
+
+[11:12] gera um viés tá então o a estatística da
+
+[11:16] amostragem
+
+[11:17] amostragem um método de amostragem os
+
+[11:20] dois tem que dar certo tá não adianta
+
+[11:21] nada você tem um mini grande mas a
+
+[11:23] mostra toda a
+
+[11:24] contemplar esses dois lados e é por isso
+
+[11:27] que as pesquisas eleitorais já são caras
+
+[11:29] dependem de muita muitas variáveis então
+
+[11:31] não deu para mostrar no primeiro
+
+[11:34] Episódio a as questões ligadas à onde
+
+[11:37] que as pesquisas eleitorais tem ruídos
+
+[11:39] né a pessoa do ponto de vista
+
+[11:41] quantitativo a pesquisa eleitoral tem
+
+[11:43] incluído na amostragem amostragem tem um
+
+[11:45] moído e ela pode ter um ruído também no
+
+[11:48] tamanho da margem de erro se eu não
+
+[11:50] tiver muito dinheiro minha margem de
+
+[11:51] erro fica grande é isso tá então é tudo
+
+[11:54] uma relação entre custo tempo e o
+
+[11:57] controle errado tá isso não se aplica só
+
+[11:59] a pesquisa eleitoral se aplica a
+
+[12:01] qualquer área do conhecimento tá o teste
+
+[12:03] de remédio eficácia de métodos e
+
+[12:06] qualquer coisa que você imaginar
+
+[12:07] pesquisa com o rato com célula é tudo
+
+[12:10] igual mas agora a gente entra em outras
+
+[12:12] questões mais humanas né mas sensíveis
+
+[12:15] mais do coração da pesquisa eleitoral
+
+[12:17] que tem a ver com a pergunta do nosso
+
+[12:20] ouvinte Daniel Melo é que ele fala
+
+[12:22] quanto que as pesquisas influenciam as
+
+[12:24] intenções de voto né influencia mesmo
+
+[12:27] então por exemplo eu sabia que um
+
+[12:29] candidato hoje tem quarenta por cento
+
+[12:31] bom e eu gosto dele bem influenciar por
+
+[12:35] exemplo a ver a semelhança de deu uma
+
+[12:37] próxima pesquisa dizer que volto nele ou
+
+[12:40] não né eu levo em conta a informação do
+
+[12:43] ambiente para balizar o meu próprio
+
+[12:45] comportamento e isso tem a ver com uma
+
+[12:47] coisa muito psicológica que a diferença
+
+[12:49] entre probabilidade e comportamento são
+
+[12:51] completamente diferentes tá aí dá para
+
+[12:53] fazer o exercícios simples Ok eu sei que
+
+[12:56] você é uma pessoa visada nesse sentido
+
+[12:58] Tá mas assim que você não utilizador de
+
+[13:00] guarda-chuvas com muita frequência mas
+
+[13:03] Onze porque você se preocupa em se
+
+[13:05] molhar preocupa com a chuva tá aí amanhã
+
+[13:08] você tem que ir para uma reunião você
+
+[13:10] não pode ficar molhado não pode estragar
+
+[13:12] roupa aí hoje à noite você vai ver a
+
+[13:14] previsão do tempo e aí na previsão do
+
+[13:16] tempo diz o seguinte e existe 80
+
+[13:18] porcento de chance de chover amanhã no
+
+[13:21] dia anterior o dia ainda não chegou
+
+[13:22] ainda dia seguinte você tem essa
+
+[13:24] informação 80 porcento de chance de
+
+[13:26] chover no dia seguinte você vai nós vai
+
+[13:28] sair de casa e aí eu te pergunto oitenta
+
+[13:31] por cento quem você pegaria ou não o
+
+[13:32] guarda-chuva para sair de casa tá tudo
+
+[13:34] que você não pode estragar sua roupa
+
+[13:36] pegaria pegaria um guarda-chuva
+
+[13:38] guarda-chuva é todo mundo que te ouvindo
+
+[13:40] Pense nisso tenho 80 porcento de chance
+
+[13:42] de chover hoje você vai pegar ou não e
+
+[13:44] aí vem um detalhe importante 80 porcento
+
+[13:47] de chance de chover quer dizer que vai
+
+[13:49] chover Quer dizer não quer dizer
+
+[13:50] necessariamente que vai chover pode ser
+
+[13:53] que não chova é a imagina que você saiu
+
+[13:55] com guarda-chuva e não choveu você não
+
+[13:57] fica pistola você vai ficar pistola e
+
+[13:59] por carregando isso aqui aí eu fico com
+
+[14:01] medo de perder o guarda-chuva essa
+
+[14:02] desgraça saco esse conflito que que não
+
+[14:06] é só para pesquisa eleitoral para
+
+[14:07] qualquer coisa cotidiana esse conflito
+
+[14:09] que a gente tem é o que gera essa essa
+
+[14:11] Por exemplo essa influência das
+
+[14:14] pesquisas eleitorais na intenção de voto
+
+[14:15] é uma coisa psicológica da percepção de
+
+[14:18] probabilidade porque ó
+
+[14:19] probabilidade é uma régua de uma
+
+[14:22] definição muito boa assim que
+
+[14:23] probabilidade é um guia graduado do
+
+[14:26] comportamento probabilidade não é
+
+[14:28] comportamento probabilidade é um guia
+
+[14:30] para o
+
+[14:31] bom então 80 porcento de chance de
+
+[14:33] chover aumenta a probabilidade de chover
+
+[14:36] e aumenta a probabilidade você pegar o
+
+[14:39] guarda-chuva mas não quer dizer que você
+
+[14:40] vai pegar tá e não quer dizer que vai
+
+[14:42] chover então probabilidade é uma coisa
+
+[14:45] meio relativa pode acontecer ou não é um
+
+[14:47] guia para o comportamento o seu
+
+[14:50] comportamento ele não é probabilístico
+
+[14:52] você não vai pegar 80 porções do
+
+[14:54] guarda-chuva você pega você não pega né
+
+[14:56] então o pegar o guarda-chuva o
+
+[14:58] comportamento ele é 01 ele é binário ou
+
+[15:01] você não faz você faz isso gera um
+
+[15:04] conflito que acontece na nossa vida o
+
+[15:06] tempo todo então quando a probabilidade
+
+[15:08] de um evento é alta subjetivamente a
+
+[15:11] gente entende a dizer que esse evento
+
+[15:13] vai acontecer com 100 porcento E aí a
+
+[15:15] gente age nesse sentido então assim
+
+[15:17] quando você se comporta Você concorda
+
+[15:19] que está gastando uma energia tá
+
+[15:20] gastando energia ATP atenção fosfato né
+
+[15:23] tu tá gastando sua energia e essa
+
+[15:25] energia não volta ela não volta e é por
+
+[15:28] isso e fica puto Quanto tem 80 porcento
+
+[15:30] de chance de chover na sua e vai chover
+
+[15:33] Então vou levar o guarda-chuva por quê
+
+[15:34] Porque o seu comportamento e 01 E aí
+
+[15:36] você gastou esse energia no ambiente
+
+[15:38] levando o guarda-chuva O que que você
+
+[15:40] espera que chuva para você ter essa
+
+[15:42] Retribuição nervosa que você quase torce
+
+[15:46] que chova Afinal você precisa da chuva é
+
+[15:49] isso porque porque porque você quer
+
+[15:51] quando quando você se comporta no
+
+[15:54] ambiente É como se você gastar se
+
+[15:56] energia e ficasse com o débito e esse
+
+[15:58] débito você quer de volta por meio do
+
+[16:00] que da chuva para justificar o uso do
+
+[16:02] guarda-chuva né quando não chove você
+
+[16:05] continua indébito você vai ficar com
+
+[16:06] aquele débito e aí como que você
+
+[16:08] expressa esse débito ficando puto né é
+
+[16:10] basicamente isso tá então uma coisa
+
+[16:12] prosaica como um guarda-chuva é o mesmo
+
+[16:15] mecanismo das intenções de voto então
+
+[16:17] assim um candidato ter quarenta por
+
+[16:19] cento das intenções pensa que ele vai
+
+[16:21] ganhar eleição não não não quer dizer né
+
+[16:24] mas você lá na urna apertar o botão Esse
+
+[16:28] é o comportamento 01 aí eu vou apertar
+
+[16:30] quarenta por cento Só pô e não da para
+
+[16:32] apertar só apertar mais ou menos porque
+
+[16:34] eu não tem como você já no fundo assim
+
+[16:37] danes ideologia política identitárismo a
+
+[16:41] questão de Psicologia mesmo a gente não
+
+[16:43] gosta de gastar energia a toa tô toda
+
+[16:45] vez que você se comporta Você quer um
+
+[16:47] feedback do ambiente de que aquela
+
+[16:49] energia gasta valeu a pena nem que seja
+
+[16:52] só apertar a de um botão nem que
+
+[16:54] seja isso tá e é por isso é por isso que
+
+[16:57] seu vô lançando o resultado de pesquisas
+
+[17:00] eleitorais semana semana suja essa ideia
+
+[17:03] do voto útil é psicologicamente o que
+
+[17:05] que é o voto útil né o voto útil Ué eu
+
+[17:08] quero sentir que aí um fosfato que eu
+
+[17:12] gastei apertando aquele botão valeu a
+
+[17:14] pena não quero sentir isso eu quero
+
+[17:16] saber antes de produzir o comportamento
+
+[17:18] sem possível Na verdade essa ideia do
+
+[17:20] voto útil do ponto de vista
+
+[17:21] comportamental e uma ilusão é mas não
+
+[17:24] usam cognitiva que a gente se dá eu
+
+[17:25] quero ter certeza que meu comportamento
+
+[17:27] Vai Valer a Pena antes de me comportar
+
+[17:30] no não pode não pode e quando você
+
+[17:32] adolescente né E você gosta de uma
+
+[17:34] menina aí só que aí eu eu quero falar
+
+[17:37] com ela né mas eu tenho vergonha não eu
+
+[17:39] não sei se vou tomar um toco Ou seja
+
+[17:41] você tem que investir a sua energia você
+
+[17:43] tem que investir sua energia indo lá
+
+[17:45] falar com ela para sua vergonha
+
+[17:46] esperando que ela responda de uma forma
+
+[17:48] a compensar a sua energia é ou seja se
+
+[17:51] fica com medo de ir porque você não quer
+
+[17:53] gastar energia se ela vida Então essa é
+
+[17:56] uma base por exemplo tímido o time dele
+
+[17:58] não que ele só quer gastar energia
+
+[17:59] quando ele sabe que vai ter o retorno né
+
+[18:01] então quanto quando ele percebe que o
+
+[18:04] retorno do ambiente ele não tem como
+
+[18:06] estimar que o retorno do ambiente vai
+
+[18:08] compensar o esforço dele ele não se
+
+[18:10] esforça não vai não tenta né ou esforço
+
+[18:13] vai ser negativo né eu vou fazer uma
+
+[18:15] coisa para ter um retorno negativo então
+
+[18:17] eu não vou eu só inibido veja o que que
+
+[18:20] esse comportamento de você contar com as
+
+[18:23] probabilidades que são Dados relativos
+
+[18:25] né para prever o comportamento que é
+
+[18:27] algo absoluto gera um conflito que está
+
+[18:30] por trás da a útil assim porque isso é
+
+[18:34] usado pelos candidatos candidato usa
+
+[18:36] isso ele alimenta isso tipo volta em mim
+
+[18:39] que eu tenho mais chance de ganhar do
+
+[18:41] que o outro candidato eu tenho mais
+
+[18:42] chance do segundo turno não tenho mais
+
+[18:44] chance de representar os seus interesses
+
+[18:46] né mas na verdade tudo probabilidade é
+
+[18:49] tudo probabilidade então a ideia do voto
+
+[18:52] útil ela é uma ilusão perceptual para a
+
+[18:55] gente acreditar que nosso voto não vale
+
+[18:57] a pena e exatamente por isso mudar de
+
+[18:59] volta né porque no fundo no frigir dos
+
+[19:01] ovos é certo quem é muito cirandeiro o
+
+[19:04] bom soninho tá que é uma fração pequena
+
+[19:06] das pessoas a grande massa das pessoas
+
+[19:08] está na meiota né na meiota sem forma
+
+[19:10] pouco tipo justifica a eleição A grande
+
+[19:13] maioria das pessoas para grande maioria
+
+[19:15] das pessoas as pessoas visualizam que o
+
+[19:18] voto delas vale muito pouco a mas são
+
+[19:21] milhões de pessoas milhões de pessoas só
+
+[19:22] o meu não é só o meu potinho ali não é
+
+[19:25] verdade né então assim é o senso de
+
+[19:27] autoeficácia que a pessoa tem como voto
+
+[19:30] dela é muito baixo e não visualiza o
+
+[19:32] impacto disso a gente volta no primeiro
+
+[19:34] episódio um duas mil pessoas eu já
+
+[19:37] consigo ter uma boa Estimativa de um
+
+[19:39] parâmetro populacional o seu voto Vale
+
+[19:42] alguma coisa vai ele tem um peso né você
+
+[19:44] com duas mil pessoas já consigo ter uma
+
+[19:46] estimativa se eu se eu fizer duas mil
+
+[19:49] pessoas acreditarem que o voto delas
+
+[19:51] deve ser útil ou seja só vale a pena las
+
+[19:54] gastarem o fosfato delas quando elas
+
+[19:56] visualizarem retorno disso ou seja
+
+[19:58] candidato que elas voltarem ganhou
+
+[20:00] porque elas podem dizer para elas eu
+
+[20:02] estou certo quem eu voltei ganhou Ufa eu
+
+[20:05] não estou do lado dos perdedores não
+
+[20:07] gritasse imbecil
+
+[20:09] tipo de criança pequena né que é aquele
+
+[20:11] aquele povo consciente competitivo que
+
+[20:13] quer ganhar até no par ou ímpar mas
+
+[20:15] quando a gente fala que eu que o adotou
+
+[20:17] uma criança grande e faz todo sentido
+
+[20:19] não foi já viu né quem já viu Então o
+
+[20:23] grande problema por trás do voto útil é
+
+[20:25] que as pessoas querem estar certas elas
+
+[20:27] querem ter o senso de autoeficácia de
+
+[20:30] que ela saiu na rua com Card o ou seja
+
+[20:33] ela saiu na rua votou no candidato e ele
+
+[20:34] ganhou Independente de quem seja isso é
+
+[20:38] importante independente de quem seja
+
+[20:40] você pode até mudar um pouco de espectro
+
+[20:42] político e um pouquinho mais para
+
+[20:43] direita para esquerda que essas
+
+[20:44] distinções também são idiotas tem um
+
+[20:46] pouquinho mais para direita para
+
+[20:47] esquerda só porque você acha que se eu
+
+[20:49] volto vai ter alta eficácia Ou seja você
+
+[20:51] está certo porque você votou em quem
+
+[20:53] ganhou Olha como a gente em perfil né
+
+[20:55] quem se a gente voltasse a nossa lógica
+
+[20:57] para o seguinte eu quero votar no
+
+[21:00] candidato menos errado para mim então
+
+[21:02] nós certo menos errado você vai ter que
+
+[21:04] estudar as propostas de cada um né Eu
+
+[21:06] quero gastar o meu fosfato no candidato
+
+[21:09] que eu acho que vai ganhar eu quero
+
+[21:11] gastar o meu no meu candidato o meu voto
+
+[21:13] meu fosfato quero gastar o meu app no
+
+[21:16] candidato que é ra menos em relação ao
+
+[21:18] que eu acredito Ou seja que tem um
+
+[21:20] desvio um erro padrão menor em relação a
+
+[21:23] minha média aí você tem que estudar os
+
+[21:25] candidatos O problema é que as pessoas
+
+[21:27] têm preguiça é muito fácil dizer para
+
+[21:29] você que você tá certo mas você em qual
+
+[21:32] errado você tá é Muitas pessoas não
+
+[21:35] querem isso ela só quer entrar certas
+
+[21:36] porque quando você tá certo sendo pessoa
+
+[21:38] pensar Olha tá dando certo a ver o cara
+
+[21:40] que ganhou então eu tô certo tá vendo
+
+[21:42] que aconteceu então eu tô certo as
+
+[21:44] pessoas não pensam no com errado elas
+
+[21:46] estão né isso atrapalha muito o processo
+
+[21:48] civilizatório como a eleição que no
+
+[21:51] fundo é um gasto energético pequeno
+
+[21:53] percebido pelo indivíduo mas com impacto
+
+[21:56] grande na população que o indivíduo
+
+[21:58] ignora porque porque o indivíduo
+
+[22:00] experiência O desvio padrão só o desvio
+
+[22:03] padrão das pessoas parecidas com ele mas
+
+[22:05] ele ignora o erro padrão o qual perto de
+
+[22:07] instante ele tá da verdadeiro valor
+
+[22:08] porque para isso eu preciso de um dado
+
+[22:10] amostral né então isso é fantástico
+
+[22:13] assim gente essa essa esse conflito
+
+[22:15] entre probabilidade de comportamento é o
+
+[22:17] que causa muitas dessas dessas ilusões
+
+[22:20] de que em volta útil é útil não é uma
+
+[22:23] ilusão conceptual né É porque de novo as
+
+[22:26] pessoas jogam votam em candidatos como
+
+[22:28] se jogasse par ou ímpar eu quero ganhar
+
+[22:30] dez ganhei e quem aí caiu pai chupa
+
+[22:33] ganhei e não é isso na verdade eu volto
+
+[22:35] ele tem que ser o voto menos menos
+
+[22:38] errado então o invés de volta o último
+
+[22:40] voto menos inútil e você reduzir a
+
+[22:42] inutilidade do seu voto estuda dos
+
+[22:44] candidatos e ver qual deles se aproxima
+
+[22:46] mais com você você vai ter uma
+
+[22:48] estimativa muito mais acurada da sua
+
+[22:50] média interna em relação à média da
+
+[22:52] população dos votantes né mas não povo é
+
+[22:54] besta uma maldita sociedade que as
+
+[22:56] pessoas querem ser bem-sucedidas última
+
+[22:58] coisa que eu quero saber concedido né
+
+[23:00] porque você bem sucedido no fundo é
+
+[23:02] verdade quem pensa sobre isso eu tenho
+
+[23:04] certeza que já passou por esse conflito
+
+[23:05] várias vezes na sua vida profissional
+
+[23:07] Você já parou para pensar que ser bem
+
+[23:09] sucedido necessariamente é atender a
+
+[23:12] expectativa de alguém externo você não
+
+[23:14] quer bem sucedido com você mesmo porque
+
+[23:16] vocês podem se o seu comportamento vocês
+
+[23:18] bem ser bem sucedido é atender a
+
+[23:20] expectativa de um outro né que muitas
+
+[23:22] vezes não te conhece e essa ideia do
+
+[23:24] voto útil eu estou fazendo meu voto útil
+
+[23:26] na verdade eu estou atendendo a
+
+[23:28] expectativa de um outro que eu nem sei
+
+[23:30] quem é ele o seu fiz um voto útil eu fui
+
+[23:33] bem sucedido ser bem sucedido é a pior
+
+[23:36] desgraça da sociedade moderna você não
+
+[23:39] precisa ser bem sucedido você tem que
+
+[23:40] ser uma pessoa que era pouco né errado
+
+[23:42] pouco é observar melhor o seu próprio
+
+[23:44] comportamento e Igor comportamento dos
+
+[23:46] outros para saber o quanto você está
+
+[23:48] errado em relação aos outros e
+
+[23:49] vice-versa Então prima por uma um
+
+[23:52] processo eleitoral em que as pessoas têm
+
+[23:54] um voto menos inútil e não mais útil tá
+
+[23:56] essa apreciação científica dessa parte
+
+[23:59] comportamental assim do voto né Além
+
+[24:02] disso temos curiosidades interessantes
+
+[24:04] que também o eu não sei se você lembra é
+
+[24:06] que faz bastante tempo mas você votou em
+
+[24:09] papel você lembra da sua experiência aí
+
+[24:11] individual de botar na como era que você
+
+[24:14] tem que ver as desculpas aqui mas tem
+
+[24:15] gerações de pessoas que nunca votaram em
+
+[24:17] papel de escreva se preciso ter essa
+
+[24:20] história antropológica como era
+
+[24:22] vocalização
+
+[24:25] Olha aí
+
+[24:28] e de maneira prática não tinha muita
+
+[24:30] diferença né só que talvez você tinha
+
+[24:33] uma atitude não menti eu ficar mente
+
+[24:36] assim você tinha uma uma coisa mais
+
+[24:39] Ativa ao ter que votar em papel assim E
+
+[24:43] também você tinha a chance de fazer um
+
+[24:49] negócio pode soar também sentiu né mas
+
+[24:52] fazer um voto de protesto Mas eu tive um
+
+[24:55] pedaço de papel para se estressar né E
+
+[24:58] isso na urna eletrônica coisa mais
+
+[25:02] pragmática até a chance de anular o seu
+
+[25:06] voto tal mas você não tem exatamente a
+
+[25:10] chance de escrever o que você quiser
+
+[25:13] aquele pedaço de papel né
+
+[25:15] isso tinha volta no lado Pato Donald
+
+[25:18] netinha feliz assim né que não do macaco
+
+[25:22] Simão
+
+[25:22] isso é Surgiu uma figura daquela época
+
+[25:25] né Vamos deixar uma descrição uma sobre
+
+[25:27] isso e toxicológica ligado usar esses
+
+[25:30] votos de protesto é muito interessante
+
+[25:32] mesmo né porque o Walter papel assim ele
+
+[25:35] ele tem vezes também tá assinou no
+
+[25:38] Brasil a urna eletrônica foi lançada em
+
+[25:41] 1996 faz bastante tempo já que a gente
+
+[25:43] tem urna eletrônica mas em muitos países
+
+[25:45] é usado volta em papel e entre muitas
+
+[25:47] pesquisas interessantes eu não sei se
+
+[25:49] você lembra quem de uma votação em papel
+
+[25:50] que você já fez que era assim não
+
+[25:52] papelzinho em geral retangular e tem o
+
+[25:54] nome do candidato de um quadradinho por
+
+[25:56] isso marcar né aí tem que ter até hoje
+
+[25:59] tem trabalhos muito interessantes em
+
+[26:00] vários na descrição sobre isso é que é o
+
+[26:03] efeito da Ordem da ordem dos nomes tão
+
+[26:06] esquisita aprendi a lição das pessoas a
+
+[26:08] ordem dos nomes Então parece que sim né
+
+[26:11] aqui no Brasil não estaria que sim tanto
+
+[26:14] que em pesquisas hoje gerados
+
+[26:17] eletronicamente né você o dizia a ordem
+
+[26:21] das opções né justamente para tentar
+
+[26:23] eliminar essa esse viés né isso então os
+
+[26:27] Arts e que assim nos Estados Unidos é é
+
+[26:30] fácil de ver isso porque ele tem que
+
+[26:32] eles tem várias eleições eleições
+
+[26:33] regionais né eu não volta diretamente no
+
+[26:36] Presidente é bem complicado o método
+
+[26:38] dele mas tem uma coisa que já é bem
+
+[26:40] robusto em volta sem papel que é o
+
+[26:43] seguinte quando o cargo é importante
+
+[26:45] você Vai eleger seu Governador alguma
+
+[26:46] coisa não tenho viesse estão em geral
+
+[26:48] quando carga é importante a pessoa sabe
+
+[26:50] minimamente quem ela vai voltar ela vai
+
+[26:51] e volta quando um cargo menos importante
+
+[26:54] tipo um deputado alguma coisa mais né
+
+[26:57] acontece esse viés do da ordem e aí é
+
+[27:01] muito interessante que tem um artigo que
+
+[27:02] mostra que a variação a variação no
+
+[27:05] número de votos que um candidato recebe
+
+[27:08] quando ele está em primeiro na lista né
+
+[27:10] no papel varia de 0,7 por cento até
+
+[27:14] cinco porcento Pô você ganha mais sim é
+
+[27:17] muito cinco porcento a mais Devotos às
+
+[27:20] vezes vira a eleição só porque primeiro
+
+[27:22] né O que é lamentável né porque a gente
+
+[27:26] tem essa mania de valores e as eleições
+
+[27:29] majoritárias né mas é exatamente a
+
+[27:32] política começa nesses cargos
+
+[27:35] legislativos né isso isso começa na dos
+
+[27:39] grupos menores mesmo né assim excitado
+
+[27:42] Estados Unidos tem dados nos Estados
+
+[27:44] Unidos da Europa Polônia tem um feito de
+
+[27:46] pesquisa muito interessante no
+
+[27:47] comportamento eleitoral e tem essa
+
+[27:49] variação da Ordem da pesquisa em papel
+
+[27:51] então uma vantagem da urna eletrônica é
+
+[27:53] essa ela anula essa coisa da ordem Por
+
+[27:56] que que você tem que chegar lá e por o
+
+[27:57] número então pelo menos um número você
+
+[27:59] tem que saber né para digitar o número
+
+[28:01] do candidato então não tem a ordem não
+
+[28:02] aparece né Qual que você prefere a parte
+
+[28:04] aqui não aparece então aqui no Brasil a
+
+[28:06] gente está imune aí você vier né Isso
+
+[28:10] aqui é muito bom né Outra coisa assim a
+
+[28:13] a urna eletrônica tem vantagens eu não
+
+[28:15] sei se você lembra que é que faz faz um
+
+[28:16] tempo razoável né eleição para
+
+[28:19] presidente Principalmente quando ele
+
+[28:20] papel lembra aquelas aquele centros
+
+[28:23] eleitorais que eram mesa gigantescas com
+
+[28:25] centenas de pessoas monte de saco
+
+[28:27] contando o papel a
+
+[28:29] carros-fortes transportando né o sacos
+
+[28:33] referentes as vossas determinadas zonas
+
+[28:36] eleitorais eram folclore não era negócio
+
+[28:39] né É um movimento então e lente fiscal
+
+[28:43] em volta porque a contagiar humana né
+
+[28:45] enfim muita possibilidade de erro e aí
+
+[28:49] vou pedir recontagem ponta toda de novo
+
+[28:51] né não é um tempo Então imagina que o
+
+[28:55] hoje hoje é o resultado da eleição sai
+
+[28:57] no mesmo dia mas se lembra que levava
+
+[28:59] dois dias às vezes para sair né que é
+
+[29:02] sem contar né milhões de votos mas tá
+
+[29:04] tudo bem É muita gente né então é só
+
+[29:06] isso só não nossa tem uma coisa que que
+
+[29:09] a gente tá frente do mundo é a sistema
+
+[29:12] eleitoral É verdade é essa coisa de
+
+[29:15] então aí volta depois de novo na questão
+
+[29:18] da probabilidade o comportamento né
+
+[29:19] quando a gente vê a pessoa contando né a
+
+[29:22] gente ver o comportamento dela e a gente
+
+[29:24] vê que ela está gastando energia naquele
+
+[29:26] comportamento então dá é bem assim ela
+
+[29:29] tá fazendo uma coisa que eu consigo
+
+[29:30] fazer também então eu consigo digitar
+
+[29:33] diretamente tanto é que eu fiscal que
+
+[29:34] fica olhando então pra gente parece mais
+
+[29:37] contar os votos e tal parece uma Mas a
+
+[29:41] questão eletrônica é muito segura assim
+
+[29:43] Como assim como volta em papel por volta
+
+[29:45] eletrônico também é sujeito ao todo são
+
+[29:48] mas Inclusive eu vou deixar um link do
+
+[29:50] Tribunal Eleitoral né brasileiro em que
+
+[29:54] o em geral as urnas estão abertas para
+
+[29:57] pesquisa para você fazer testes têm
+
+[29:59] períodos durante o ano em que inclusive
+
+[30:02] tem trabalho de professores de ciências
+
+[30:04] de computação de várias universidades do
+
+[30:06] Brasil que são que fazem críticas ao
+
+[30:08] método propõe soluções sempre uma
+
+[30:11] auditoria desses processos e uma coisa
+
+[30:13] que as pessoas não sabem por quê Porque
+
+[30:14] eu já é 1996 muita gente não tinha
+
+[30:18] nascido existe na época da pesquisa em
+
+[30:20] papel existia críticas tinha muito
+
+[30:23] muitos metodólogos que criticavam o
+
+[30:25] método do Papel foram não a contagem não
+
+[30:27] pode ser o cabelo exemplo tem até no
+
+[30:29] livro de amostragem por exemplo imagine
+
+[30:31] uma pessoa eu tenho um sacão de votos
+
+[30:33] ela tira um montão de volta e coloca em
+
+[30:35] cima da mesa e Vai contando tudo bem tô
+
+[30:38] imaginando ela pega do saco coloca na
+
+[30:40] mesa Vai contando depois pegar mais tá
+
+[30:42] esse é um método outro método é a pessoa
+
+[30:45] pegar os votos direto do Saco Grande tá
+
+[30:47] sem colocar na mesa da diferença de erro
+
+[30:50] de medida da diferença de erro em torno
+
+[30:53] de um por cento um por cento e meio para
+
+[30:55] uma pessoa a imaginação de todas Ou seja
+
+[30:57] você tem que padronizar o método de
+
+[30:59] pegar os papéis então tem várias fontes
+
+[31:03] de erro sistêmico que somando tudo
+
+[31:05] propaganda aí certeza tá bastante erro
+
+[31:07] no papel só que as pessoas ignoram
+
+[31:09] porque ela tá vendo ali só tá contando o
+
+[31:12] método eletrônico reduz muitos erros
+
+[31:14] operacionais bastante mesmo tá e o
+
+[31:18] grande perigo do método eletrônico é
+
+[31:21] você invadiu o sistema mesmo por isso
+
+[31:22] que ele tem que ser offline eu não pode
+
+[31:24] ser ligado em nada na internet e nada
+
+[31:26] tendo esses cuidados você o que a
+
+[31:29] probabilidade de ter um erro é pequena e
+
+[31:32] aí volto a necessidade de ver o nosso
+
+[31:35] Episódio anterior sobre a lei de benford
+
+[31:37] 154 em que depois da eleição são feitas
+
+[31:41] pesquisas de verificação das urnas para
+
+[31:43] saber se a quantidade de votos a
+
+[31:45] proporção em vários segue a lei que tem
+
+[31:48] fonte por exemplo que é um método de
+
+[31:49] texto aleatoriedade e os outros
+
+[31:51] algoritmos de aleatoriedade que a gente
+
+[31:54] discutir no episódio sobre o efeito
+
+[31:56] cumbuca também tá então existem métodos
+
+[31:59] padronizados quantitativos auditáveis
+
+[32:02] você pode não concordar com o método né
+
+[32:04] Você pode lá eu não concordo com esse
+
+[32:05] método uma pelo menos ele tá ali uma
+
+[32:07] fraude Clara que o cara vai rouba nada o
+
+[32:10] Sonic Tales a corrente na verdade ele
+
+[32:13] tem muito mais segurança do que o método
+
+[32:14] anterior e é um método que tá sofrendo
+
+[32:17] ao certificações e ajustes a cada
+
+[32:20] eleição isso nunca vai ser perfeito como
+
+[32:22] qualquer coisa mas ele menos errado de
+
+[32:25] novo essa ideia está menos errado ele
+
+[32:27] não é mais e até mesmo errado ia mais
+
+[32:30] com a Mas enfim mas de novo conversa com
+
+[32:32] a nossa questão psicológica como a gente
+
+[32:34] é besta né no fundo a gente muito besta
+
+[32:36] aqui nossa senhora a gente quer ver a
+
+[32:38] gente quer ver o resultado das nossas
+
+[32:40] coisas que a gente acredita dando certo
+
+[32:42] é muito raciocínio de criança de 5 anos
+
+[32:44] a gente né mas é difícil você é criança
+
+[32:46] você queria essa grande é uma merda
+
+[32:48] porque os resultados da nossa criancice
+
+[32:50] afeta muita gente é melhor você criança
+
+[32:53] mesmo né que é só limpar sei lá Fala
+
+[32:56] alguma coisa acabou agora ouvinte lá o
+
+[32:59] ouvinte ele coloca a questão né se não
+
+[33:01] tivesse pesquisa a o processo seria mais
+
+[33:04] democrático mas eu tenho uma sensação de
+
+[33:07] que a gente está colocando na conta da
+
+[33:10] pesquisa um comportamento infantilóide
+
+[33:13] do ser humano né é um comportamento
+
+[33:15] infantil mas não quer dizer que é menos
+
+[33:19] evoluído o que eu quero deixar claro que
+
+[33:21] todas as pessoas são assim você tem que
+
+[33:23] se você não pensar você vai ser assim E
+
+[33:27] aí a dificuldade o porquê que a gente
+
+[33:29] tem que então proibir as pesquisas
+
+[33:32] eleitorais não para que as pessoas sejam
+
+[33:36] menos influenciados pelos resultados
+
+[33:38] precisa eleitorais para fazer uma
+
+[33:40] escolha mais infantil então de novo o
+
+[33:43] grande o grande mote desse Episódio que
+
+[33:45] não vale só para pesquisa eleitoral mas
+
+[33:46] para qualquer coisa toda vez que você se
+
+[33:48] comporta no ambiente você gasta energia
+
+[33:50] e de alguma forma você quer ser energia
+
+[33:53] de volta seja foram reforço do ambiente
+
+[33:55] seja por algum processo eleitoral do
+
+[33:58] ponto de vista psicológico no fundo dele
+
+[33:59] assim então a gente ver os resultados
+
+[34:02] anteriores das pesquisas é como ver a
+
+[34:04] previsão do tempo né E aí a gente vai lá
+
+[34:07] no dia da eleição e a gente quer se for
+
+[34:09] chover a gente quer que chova se deu
+
+[34:11] chover a gente quer que não chova né por
+
+[34:13] isso que pesquisa eleitoral ela não
+
+[34:15] prever Quem vai ganhar ela faz uma
+
+[34:17] estimativa isso de novo né Toy eu vou eu
+
+[34:21] vou aqui insistir nessa discussão
+
+[34:24] eu sou uma pessoa que voto por convites
+
+[34:28] o e de valores e de programas de
+
+[34:32] políticas políticas públicas que um
+
+[34:35] candidato defende independente da
+
+[34:38] colocação dele na pesquisa especialmente
+
+[34:41] no primeiro turno
+
+[34:42] portanto eu sou completamente contra
+
+[34:45] proíbe pesquisas eleitorais só porque as
+
+[34:49] pessoas em geral não votam por essa por
+
+[34:53] esse princípio Isso isso assim o direito
+
+[34:56] de não votar ele deve ser permitido
+
+[34:58] irrestritamente tá tudo bem E isso é
+
+[35:01] importante mas sei que tem um artigo por
+
+[35:02] exemplo que está na descrição que ele
+
+[35:04] fala do efeito de informação para
+
+[35:08] reduzir abstenção então a guerra nas
+
+[35:10] últimas pesquisas gente vê que a taxa de
+
+[35:12] abstenção é muito alta muitas vezes mais
+
+[35:14] alguma em algumas eleições foi maior do
+
+[35:17] que o número de votos do primeiro
+
+[35:18] candidato a taxa de abstenção em alguns
+
+[35:21] casos é bem alta e aí tem uma pesquisa
+
+[35:23] assim antes que as pessoas saibam pela
+
+[35:25] lei eleitoral se tivesse lahm é muita
+
+[35:28] por cento dos votos forem brancos ou
+
+[35:30] nulos acaba eleição se não é verdade
+
+[35:33] está na lei eleitoral aí tem que você
+
+[35:36] pode mudar para mudar a lei eleitoral
+
+[35:37] mas não acaba eleitoral hoje de seus
+
+[35:41] peitos na verdade aos votos válidos né e
+
+[35:45] equivale a contagem dos outros vários
+
+[35:47] mexer se forem só 10 votos válidos é
+
+[35:50] isso que vai decidir isso exatamente
+
+[35:51] então a gente pode lutar para mudar a
+
+[35:53] lei eleitoral mas por enquanto é assim
+
+[35:55] aí o falta o número ele tem uma ideia de
+
+[35:57] protesto se você não concorda aí tudo
+
+[36:00] bem aí tem um espaço representativo
+
+[36:01] disse que você pode lutar por direitos
+
+[36:03] que representam as pessoas que não votam
+
+[36:05] em última análise mudar a lei eleitoral
+
+[36:07] se tiver pressão suficiente tudo bem mas
+
+[36:09] não quer dizer que luta tá você dizer
+
+[36:11] para pessoar vote nulo porque vai anular
+
+[36:13] eleição não vai tá então hoje não vai
+
+[36:15] então beleza tem um trabalho que fala de
+
+[36:19] ser feito de informação eu quero reduzir
+
+[36:20] a vista eu quero que mais pessoas votem
+
+[36:22] você informar elas mínimo que seja sobre
+
+[36:26] os candidatos aumenta a chance e para
+
+[36:28] voltar porque de novo eu não quero eu
+
+[36:31] não quero gastar minha energia à toa eu
+
+[36:34] não tô nem aí para política para eleição
+
+[36:35] para nada quando chega o dia da eleição
+
+[36:37] no Brasil e eu tenho que ir votar Ou
+
+[36:40] seja eu tenho que gastar energia com uma
+
+[36:41] coisa que eu nem sei o que é acontece é
+
+[36:43] muito mais provável você simplesmente
+
+[36:45] não rir ou justificar então um grande
+
+[36:48] problema é esse meio existe uma um
+
+[36:49] grande contingente de pessoas no meio
+
+[36:51] que simplesmente não vai voltar né e
+
+[36:54] simplesmente porque elas elas enxergam
+
+[36:56] que o voto dela sair energia que ela vai
+
+[36:58] gastar não vai ter retorno porque elas
+
+[37:00] não legitimam as instituições do Estado
+
+[37:02] mas esse é um problema crônico do Brasil
+
+[37:05] de várias várias sociedades assim
+
+[37:07] industrializadas as pessoas tendem a não
+
+[37:09] se sentir representadas pelas
+
+[37:10] instituições isso acontece porque no
+
+[37:13] fundo As instituições foram criadas por
+
+[37:15] meio de gerar a diferença de poder né
+
+[37:17] diferenças de grupos né conta uma
+
+[37:21] instituição é criada pautada por isso é
+
+[37:23] claro que vai ter um grupo de pessoas
+
+[37:24] que se sente representado e outro não
+
+[37:26] faz parte tá aí Oi e a esse trabalho
+
+[37:29] mostra isso muito bem em países em que
+
+[37:31] você reduza a desigualdade desigualdade
+
+[37:33] Econômica social e Menor tem menos
+
+[37:36] abstenção é porque faz mais sentido a eu
+
+[37:39] me sinto minimamente representado posso
+
+[37:40] não gostar de uma coisa ou outra mas
+
+[37:42] vale a pena meu fosfato de lá apertar um
+
+[37:44] botão e voltar e voltar vale a pena de
+
+[37:46] novo aqui é igual o marketing é igual a
+
+[37:48] hora que você trabalhou sua vida inteira
+
+[37:50] eu quero fazer você sair de casa para ir
+
+[37:52] no mercado e comprar meu produto Você
+
+[37:54] não concorda que você vai gastar a
+
+[37:55] energia eu tenho eu tenho que te dar um
+
+[37:57] retorno para isso não é então eu falo
+
+[37:58] com meu produto é bom para para ver para
+
+[38:00] ser que ele vai te ajudar em três coisas
+
+[38:02] vai ganhar tanto de uma promoção né eu
+
+[38:05] faço uma promoção está vale a pena sair
+
+[38:06] de casa para ter dez reais de desconto
+
+[38:09] aí você vai lá e compra é exatamente
+
+[38:11] igual você sair da casa gastar energia
+
+[38:14] para apertar um botão então o retorno é
+
+[38:16] engraçado fazer essa relação mas a
+
+[38:18] comportamento eleitoral por conta da
+
+[38:21] nossa sociedade ser mediada pelo consumo
+
+[38:23] o comportamento eleitoral não deixa de
+
+[38:25] ser um comportamento de consumo em que
+
+[38:27] você está Consul E na verdade a
+
+[38:29] representatividade de hipertensão certo
+
+[38:32] grupo não é um biscoito mas é é a
+
+[38:34] possibilidade de fazer parte de um grupo
+
+[38:36] de pessoas que ganhou eleição então a eu
+
+[38:38] ganhei eu perdi não é muito diferente o
+
+[38:40] jogo de futebol então time ganhou beleza
+
+[38:43] Vocês zuado não vou sabe esse tipo de
+
+[38:45] coisa a gente é muito besta aqui o que
+
+[38:47] rege o nosso comportamento individual
+
+[38:49] simples são coisas bestas Hugo não
+
+[38:51] coletivo tem questões maiores mas do
+
+[38:52] ponto de vista individual a gente muito
+
+[38:54] coió muito jacko assim muito esse
+
+[38:56] trabalho de informação você informar as
+
+[38:58] pessoas sobre os candidatos sobre o
+
+[39:00] processo eleitoral e tal que o voto dela
+
+[39:02] é importante reduza absurdo isso é um
+
+[39:05] dos objetivos desse Episódio esse
+
+[39:07] trabalho mais três você mostrar para
+
+[39:09] pessoa como eles são funciona tipo elas
+
+[39:11] são é assim tal você tá vendo que e que
+
+[39:14] assim não aquele forma perfeita tem esse
+
+[39:16] essa falha que pode acontecer aqui
+
+[39:17] acontecer ali ou seja você entende as
+
+[39:20] vantagens e os limites só isso só
+
+[39:22] informar já aumenta a probabilidade da
+
+[39:25] pessoa e voltar aumenta auto-eficácia
+
+[39:26] dela para sair eu voltar quando não tem
+
+[39:29] isso quando não tem informação você
+
+[39:32] deixa decisão para os polos para o lado
+
+[39:35] polarizado que é o bolso mini
+
+[39:36] alfineteiro né aí vira uma briga de
+
+[39:38] futebol mesmo né quem vai no estádio
+
+[39:40] Toda vez que você que era
+
+[39:42] pintor de jogos de futebol com
+
+[39:45] frequência quem é que vai contra o
+
+[39:47] bilhete lá anual do time de futebol não
+
+[39:50] é o cara que é viciado no futebol né não
+
+[39:52] Solange eu fui no Ártico exato eles que
+
+[39:55] enche os estádios são só Náuticos quem
+
+[39:58] que enche os estádios do das urnas
+
+[40:00] eleitorais hoje em dia é o fanáticos é
+
+[40:02] igual time de futebol a ideia como é que
+
+[40:05] a gente cria um jogo de futebol em que
+
+[40:07] uma pessoa comum que não tem nada assim
+
+[40:09] que achar legal futebol nada demais acho
+
+[40:12] que hoje do mesmo jeito que eu vou no
+
+[40:13] parque hoje eu vou no jogo de futebol
+
+[40:15] leva o filho leva a criança colocou você
+
+[40:17] faz um efeito mais coletivo a diferença
+
+[40:20] é eu acho que eu acho que assim a gente
+
+[40:21] a gente uma diferença né entre o jogo de
+
+[40:24] futebol e uma eleição 26 peito aí e vai
+
+[40:29] ter tá com certeza nos anos seguintes e
+
+[40:32] eu concordo com você que essa precisa
+
+[40:36] ser uma uma luta coletiva assim porque
+
+[40:41] acho que se tem uma coisa que eu
+
+[40:44] pensamento liberal econômico acaba é
+
+[40:48] privilegiando é o pensamento individual
+
+[40:51] EA busca por Recompensas individuais e
+
+[40:54] próximas isso vai estar isso vai estar
+
+[40:56] presente de consumo assim como vai estar
+
+[40:59] presente nas eleições se você passa
+
+[41:02] enxergar as eleições como um movimento
+
+[41:04] coletivo né Eu acho que a informação ela
+
+[41:08] ajuda a dá esse tipo de colocação para a
+
+[41:11] importância das eleições é o a cotação
+
+[41:13] coletiva Aí sim acho que você tem o
+
+[41:16] Resultado positivo e ser feito adesão a
+
+[41:19] seleção que a gente não tá falando
+
+[41:21] simplesmente falar porque você vai ter
+
+[41:23] uma recompensa individual a compensa não
+
+[41:26] é devido a lógica A
+
+[41:28] lógica é coletivo e França tem que
+
+[41:31] pensar não no reforço mas em evitar a
+
+[41:33] punição é o mais importante do que ter
+
+[41:36] meu candidato ganhando É de fato reduzir
+
+[41:39] a probabilidade do mundo ser muito
+
+[41:41] diferente das coisas que eu acredito
+
+[41:43] porque a grande dicotomia não entre
+
+[41:45] direita e esquerda é entre as pessoas
+
+[41:47] que acreditam que a sociedade evolui por
+
+[41:50] meio da diminuição da desigualdade ou a
+
+[41:53] sociedade evolui por meio da melhoria da
+
+[41:56] eficiência dos processos econômicos uma
+
+[41:59] coisa não é não contradiz a outra né A
+
+[42:01] questão é a ordem né Não então escreveu
+
+[42:03] a gente tem que diminuir a desigualdade
+
+[42:04] economia melhor não primeiro tem que
+
+[42:06] olhar na economia desigualdade melhor a
+
+[42:08] questão é Essa ordem que que tem
+
+[42:10] primeiro qualquer O que que têm
+
+[42:11] prioridade é isso que tá na cabeça das
+
+[42:13] pessoas e do ponto de vista individual
+
+[42:15] tem uma questão de tempo também você
+
+[42:17] diminuir a desigualdade é uma coisa que
+
+[42:19] leva muito tempo é uma decisão distante
+
+[42:21] as questões econômicas sobretudo do
+
+[42:22] ponto de vista individual são variáveis
+
+[42:24] mais próximas que controlam a gente
+
+[42:26] então do ponto de vista psicológico e é
+
+[42:28] tudo uma questão de auto controle o
+
+[42:30] quanto você consegue se projetar no
+
+[42:32] futuro e esperar para ter um ganho maior
+
+[42:34] frente a pegar um ganho agora então no
+
+[42:38] fundo essa dicotomia a loja então qual é
+
+[42:41] a lógica eleitoral acaba indo para o
+
+[42:43] para a lógica Econômica existe o
+
+[42:45] clássico melhor do marketing eleitoral
+
+[42:48] que é o y economia streep não é isso é
+
+[42:52] sobre economia
+
+[42:54] violência provavelmente nas eleições
+
+[42:57] fazendo desse ano a gente teria uma
+
+[42:59] posição muito mais Spazio do Governo da
+
+[43:03] situação e a economia não tivesse
+
+[43:08] despencado nos últimos anos exato E aí
+
+[43:11] eu eu arrumo a fala do do marqueteiro
+
+[43:14] não é só economia psicologia também
+
+[43:16] porque do ponto de vista individual as
+
+[43:18] pessoas têm uma tendência ao imediatismo
+
+[43:20] lá você se projetar no futuro depende de
+
+[43:22] duas variáveis para você aguentar
+
+[43:24] esperar para ter um ganho do ambiente no
+
+[43:26] futuro depende de duas variáveis a
+
+[43:28] escolaridade como a gente vive numa
+
+[43:30] sociedade muito desigual a gente tem uma
+
+[43:32] fração grande das pessoas que a
+
+[43:34] imediatista Por que tem que ser não tem
+
+[43:36] jeito porque não tenho outra opção isso
+
+[43:38] e a economia vista como a grande A
+
+[43:41] grande questão quando na verdade a
+
+[43:42] psicologia também afeta né Então como
+
+[43:45] que a gente aumenta o autocontrole das
+
+[43:46] pessoas para elas aprenderem esperar e
+
+[43:49] perceber que uma coisinha que eu faço
+
+[43:50] hoje vai ter um impacto lá na frente né
+
+[43:52] educação educação científica sobre tudo
+
+[43:54] e redução da desigualdade é isso que eu
+
+[43:57] defendo por exemplo que as pessoas
+
+[43:58] consigam se projetar mas no futuro por
+
+[44:00] mais tempo então você ser
+
+[44:01] científicamente educado e você ter uma
+
+[44:03] renda mínima que você consiga não tem
+
+[44:06] que pensar o que que eu vou fazer da
+
+[44:07] minha vida mês que vem de você chegar no
+
+[44:09] dia vinte de cada mês e perceber Paguei
+
+[44:11] as minhas contas mas não tenho dinheiro
+
+[44:13] para comer
+
+[44:15] isso a gente acabou se chegando numa
+
+[44:17] situação em que as pessoas voltaram a
+
+[44:20] pensar o que que ela vai fazer amanhã né
+
+[44:22] nem ela nem mês que vem e só tá com auto
+
+[44:25] ataque Auto controle Então nós vamos
+
+[44:27] ficar imediatista e nem as questões
+
+[44:29] ideológicas e culturais ficam mais
+
+[44:31] fracas mesmo então isso acontece ano
+
+[44:34] Fazer o que né temos que lutar para uma
+
+[44:37] proposta desse Episódio né já encerrando
+
+[44:39] é mostrar isso que você informar as
+
+[44:42] pessoas sobre como funciona o processo
+
+[44:43] eleitoral empoderar elas um pouco mais é
+
+[44:46] perceber então eu tô fazendo uma coisa
+
+[44:48] que não é completamente inútil que vai
+
+[44:50] ser manipulada não vai em média a gente
+
+[44:53] tem muita gente que muitos bons
+
+[44:54] pesquisadores referências mundiais ainda
+
+[44:56] em amostragem no Brasil tem muita gente
+
+[44:59] vendo os processos eleitorais estão
+
+[45:01] Seguros não quer dizer que eles são
+
+[45:02] perfeitos Mas eles são seguros e que se
+
+[45:05] der alguma falha tem como auditar tá a
+
+[45:07] questão é o que será feito depois do
+
+[45:10] resultado aí eu outra coisa se eu quero
+
+[45:12] impugnar o resultado é outra história
+
+[45:14] mas o ponto de vista eleitoral é
+
+[45:16] tranquilo entender o que que é intervalo
+
+[45:18] de confiança e desvio padrão erro padrão
+
+[45:19] é uma coisa que todo mundo que tem uma
+
+[45:21] graduação de entender um pouquinho que
+
+[45:23] ajuda muito a entender as suas questões
+
+[45:25] de interação com o mundo e tal duas só
+
+[45:28] falta fazer uma pesquisa assim pouquinho
+
+[45:30] mais tá mas depende da amostragem e no
+
+[45:33] final a gente é um bicho muito besta
+
+[45:35] aqui né a gente sempre para cada
+
+[45:37] comportamento que a gente faz a gente
+
+[45:39] quer um retorno do ambiente de volta
+
+[45:41] quanto mais escolarizado a gente é mais
+
+[45:43] a gente aguenta esperar para ter esse
+
+[45:45] retorno de volta e aí tem o máximo diz
+
+[45:47] que ser cientista e o que é o é o que
+
+[45:50] menos e o que dá menos retorno até
+
+[45:52] morrer mesmo até depois de morrer né
+
+[45:54] assim estuda tanto deixa um negócio bom
+
+[45:57] aí para depois tem um reconhecimento que
+
+[45:59] sabe vai ter ele nem ele vai saber né
+
+[46:01] então estuda estude Né manda demais bom
+
+[46:04] demais que cansativo tá então ele é para
+
+[46:07] tu avisar colegas meus também tá então
+
+[46:10] quem não tá bom assim o que seja já
+
+[46:11] conhece tá bom né valoriza seus ganhos
+
+[46:14] próximos também valoriza o seu
+
+[46:15] comportamento e valoriza o seu pro seu
+
+[46:18] comportamento eleitoral ele tem que ser
+
+[46:20] algo que te representa também nesse
+
+[46:21] sentido né independente de quem ganha o
+
+[46:24] perca eu sempre fiz isso com no judô né
+
+[46:26] no judô só tem o campeão o que todos os
+
+[46:28] outros participam né Se tivesse o judoca
+
+[46:32] quero mais forte de todos na falar ele
+
+[46:34] vai ganhar aí não teria o campeonato
+
+[46:36] Será que ele era o melhor mesmo né então
+
+[46:38] num processo que você organiza o
+
+[46:40] campeonato que todo mundo dá o seu
+
+[46:41] melhor é e o campeão aparece o campeão
+
+[46:44] tem que ser grato aos outros porque os
+
+[46:45] outros que fizeram ali perceber que ele
+
+[46:47] é campeão de verdade né então sem sem
+
+[46:49] esse processo em que todo mundo
+
+[46:51] participa você não vai ter aquele que é
+
+[46:53] um representante é o que venceu ou
+
+[46:56] perdeu e para encerrar a pense no seu
+
+[46:58] voto não como útil mas como menos inútil
+
+[47:01] vou deixar até um vídeo do Teddy de um
+
+[47:03] cara como reflexão muito legal ele
+
+[47:05] propõe o que aconteceria com a sociedade
+
+[47:07] se as eleições fossem por sorteio ou sem
+
+[47:10] você não vai votar em candidato então a
+
+[47:12] gente quer escolher sei lá os senadores
+
+[47:14] do Brasil você vai fazer um processo
+
+[47:16] amostral vou colocar todas as 200
+
+[47:18] milhões de pessoas no saco e sortear lá
+
+[47:21] 100 pessoas pode ser Dona Maricota da
+
+[47:23] vendinha pode ser você pode ser qualquer
+
+[47:25] pessoa né tem que eu mais de 18 anos e
+
+[47:28] tem pessoas que eles vão ser os
+
+[47:29] senadores e ele ele propõe isso o que
+
+[47:32] que aconteceria né e ele faz vai ter uma
+
+[47:35] linha de pesquisa nisso e tal né numa
+
+[47:37] eleição aleatória E aí ele fala uma
+
+[47:39] coisa aqui a esse é o melhor tipo de
+
+[47:42] eleição que quando você coloca todo
+
+[47:43] mundo dentro de um saco e sorteia né ah
+
+[47:46] mas pode sair um doido pode pode ser
+
+[47:48] alguém muito inteligente pode pelo
+
+[47:50] teorema central do limite todo mundo vai
+
+[47:52] ser mais ou menos representado né não
+
+[47:54] pode criar uns Extratus e tal né vai ser
+
+[47:56] mais barato no mínimo ela tá aí essa ele
+
+[47:58] vem mais barato aí ele falou ele falou o
+
+[48:01] seguinte aqui essa eleição funcionaria
+
+[48:03] na primeira vez na primeira vez que ela
+
+[48:05] fosse feita é perfeito ia ser um ótimo
+
+[48:06] exemplo a gente ia ter ótimos
+
+[48:08] governantes só que o problema seria a
+
+[48:10] segunda porque na segunda as pessoas
+
+[48:12] conheceriam como que foi o resultado da
+
+[48:14] primeira a elas têm carinho manipular E
+
+[48:16] aí não seria mais aleatório né então
+
+[48:18] esse vídeo do Teddy é muito legal para
+
+[48:20] mostrar que a aleatoriedade muitas vezes
+
+[48:22] nos livra de várias coisas só que
+
+[48:23] conhecer o fenômeno faz a gente ter uma
+
+[48:26] expectativa sobre E aí a a energia de
+
+[48:29] volta e aí que a gente se torna a
+
+[48:31] criança grande é uma desgraça cama de
+
+[48:34] criança
+
+[48:35] sou a favor são a favor da democracia
+
+[48:38] representativa sou a favor das eleições
+
+[48:41] do jeito que elas são sou a favor da
+
+[48:43] melhoria dos métodos mas eu gostaria que
+
+[48:46] a gente fosse menos criança grande né E
+
+[48:48] aí tem deu um pouco sobre metodologia
+
+[48:49] científica ajudaria nisso conta que você
+
+[48:51] também quem nesse processo desse caminho
+
+[48:53] conte comigo conte comigo e por favor
+
+[48:57] informe-se sobre as suas opções
+
+[49:00] acho que é o mínimo que a gente pode
+
+[49:03] fazer para
+
+[49:04] fazer a nossa parte na
+
+[49:07] manutenção de sistema democrático que
+
+[49:10] custou vidas de pessoas tá pra gente
+
+[49:14] chegar até aqui ó só para encerrar eu
+
+[49:16] queria aproveitar né dedicar esses dois
+
+[49:18] episódios a ao grande Professor Gilson
+
+[49:22] and aqui nos deixou recentemente é
+
+[49:24] professor do Instituto de matemática e
+
+[49:26] estatística da USP onde eu expliquei pra
+
+[49:29] vocês eu aprendi com ele provavelmente
+
+[49:30] pelo que eu lembro dele ele era uma
+
+[49:33] pessoa muito chata assim né então eu vou
+
+[49:34] falar para tudo errado na verdade assim
+
+[49:36] assim assim assim mas ele era um exemplo
+
+[49:38] de cientista porque ele era muito rígido
+
+[49:41] Independente de quem você fosse sabe o
+
+[49:43] grande objetivo dele ele não guardava
+
+[49:45] aluno ele não ele era chato igual com
+
+[49:47] todo mundo isso era muito bom ele era
+
+[49:49] rico você sabe você perceber ele nunca
+
+[49:51] chama valor de burro ele disse que ele
+
+[49:53] era crítico do conceito sabe do que era
+
+[49:55] dito não de quem disse Não importa se é
+
+[49:57] um docente livre titular titular ou um
+
+[50:00] aluno de graduação ele tava todo mundo
+
+[50:02] igual porque o interesse dele era pelo
+
+[50:03] conhecimento ele foi um ótimo exemplo de
+
+[50:05] cientista assim ele ele era o cara que
+
+[50:08] você percebia que ele falava duro com
+
+[50:10] você mas não era com você era com a sua
+
+[50:11] ideia sabe e por causa disso Ele formou
+
+[50:14] gerações de pesquisadores eu fui um
+
+[50:16] deles desculpa Professor Julio se eu
+
+[50:18] errei alguma coisa se eu expliquei
+
+[50:20] alguma coisa do jeito que eu não gostava
+
+[50:22] mas uma coisa muito importante a gente
+
+[50:23] valorizar os nossos professores eu faço
+
+[50:25] questão disso e eu fico muito feliz de
+
+[50:28] Nós perdemos ele eu tive a oportunidade
+
+[50:30] de ir na sala dele e agradecer a ele
+
+[50:32] pelas aulas que ele me deu fica aqui uma
+
+[50:34] uma singela homenagem ao professor Júlio
+
+[50:37] Singer da USP tudo aí Espero que esse
+
+[50:40] episódio duplo tem a
+
+[50:42] esclarecido parte pelo menos das
+
+[50:45] questões que a gente tem sobre as
+
+[50:48] pesquisas eleitorais que são
+
+[50:50] estatísticas seus psicológicas e faça
+
+[50:54] com que você seja o leitor um cidadão
+
+[50:58] mais crítico em relação à divulgação das
+
+[51:02] pesquisas
+
+[51:03] e não se deixe levar pela Nossa vocação
+
+[51:07] de ser criança grande e e votar
+
+[51:11] esperando Recompensas imediatas
+
+[51:13] individuais se volte pelas suas
+
+[51:16] convicções e valores atrás da de
+
+[51:20] interesses coletivos tá bom isso é isso
+
+[51:23] daí Na ROM rodou ilustríssimo 21
+
+[51:28] bom e você já sabe aqui no Naru rodou
+
+[51:30] quem faz a pauta é você Você tem alguma
+
+[51:33] pergunta para a gente o que é comentar
+
+[51:35] algum episódio escreva para nós
+
+[51:38] podcast@narodowa. Com.br repetindo
+
+[51:41] podcast@andar o Rodolfo. Com.br e
+
+[51:44] lembre-se mande nome completo idade
+
+[51:47] profissão e a cidade de onde você está
+
+[51:49] falando é isso aí não é
+
+[51:52] [Música]
+
+[51:56] o
+
+[52:01] apresentador
+
+[52:02] [Música]
+
+[52:04] inove.com.br e
+
+[52:07] [Música]

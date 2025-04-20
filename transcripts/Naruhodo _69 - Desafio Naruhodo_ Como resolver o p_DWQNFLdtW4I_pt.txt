@@ -1,0 +1,1659 @@
+Title: Naruhodo #69 - Desafio Naruhodo: Como resolver o problema do Sr. Deoclides?
+URL: https://www.youtube.com/watch?v=DWQNFLdtW4I
+Language: pt
+Extracted on: 2025-04-06 16:49:33
+================================================================================
+
+[00:00] o desafio não rodou como resolver o
+
+[00:03] problema do senhor de euclydes marinho
+
+[00:08] contou
+
+[00:18] bem vindo ao rodou podcast para quem tem
+
+[00:20] fome de aprender eu sou ken fujioka eu
+
+[00:23] só saí de souza e hoje é dia de que o
+
+[00:26] desafio levando ao sair hoje é dia de
+
+[00:31] mais um desafio isso muita gente estava
+
+[00:34] esperando o resultado anterior né
+
+[00:36] e como sempre a gente vai começar na
+
+[00:38] verdade que os comentários nos ouvintes
+
+[00:39] depois a gente vai contar a resposta do
+
+[00:43] desafio anterior e então entrar no novo
+
+[00:45] desafio claro como sempre vamos sim
+
+[00:47] então claro aliás o os e mails e
+
+[00:50] mensagens estão ficando cada vez mais
+
+[00:52] volumosos né a festa estava sendo mais
+
+[00:55] trabalho ainda para organizá-lo a gente
+
+[00:57] aproveita inclusive pedir desculpas
+
+[00:59] privado a gente não conseguir cobrir
+
+[01:00] todas as faltas que são sugeridas sim a
+
+[01:03] gente vai à medida em que o tempo passa
+
+[01:05] ea gente vai agravando os episódios
+
+[01:07] a gente tenta cumprir as faltas que são
+
+[01:10] sugeridos pelos ouvintes mas realmente
+
+[01:11] são dezenas são é quase é quase uma
+
+[01:15] centena na verdade na verdade quase
+
+[01:17] centenas de pautas sugeridas está e que
+
+[01:20] a gente precisa e cobrindo aos poucos
+
+[01:23] mas continuou mantendo por faculdade
+
+[01:25] o programa depende disso é isso mesmo
+
+[01:27] vamos começar com os comentários então
+
+[01:29] tá aí sim ao primeiro eu queria começar
+
+[01:31] na verdade
+
+[01:32] agradecendo dois ouvintes em especial eu
+
+[01:35] com certeza o márcio vasques e o sandro
+
+[01:38] massaro e é porque a gente agradece
+
+[01:41] esses dois em especial porque eles dois
+
+[01:44] voluntariamente e espontaneamente se
+
+[01:47] ofereceram pra 30 escrever episódios do
+
+[01:51] novo voto nunca apesar de ser um podcast
+
+[01:53] curta dá bastante trabalho
+
+[01:54] é verdade que já são algumas dezenas de
+
+[01:57] episódios já gravados nem ter uma idéia
+
+[01:59] é bem vindo do começo até hoje até
+
+[02:02] alcançar os programas atuais e
+
+[02:04] transcrevendo esses episódios
+
+[02:07] ele vai cumprir dois objectivos vão sair
+
+[02:09] o primeiro é uma questão de
+
+[02:11] acessibilidade
+
+[02:12] claro né aqueles que não vão poder ouvir
+
+[02:15] o programa mas que conseguem ler de
+
+[02:18] alguma forma né
+
+[02:20] eles vão poder recorrer a transcrição
+
+[02:22] isso tem acesso a conteúdo exatamente né
+
+[02:25] a segunda coisa tem a ver com o projeto
+
+[02:27] futuro nosso de transformar todo esse
+
+[02:29] conteúdo em livro
+
+[02:30] sim e todo esse trabalho de transcrição
+
+[02:32] feita pelos ouvintes vai ajudar bastante
+
+[02:34] nesse processo com certeza houve
+
+[02:36] obviamente que depois têm um grande
+
+[02:38] trabalho posterior mas já é um começo
+
+[02:40] importante com certeza a gente queria
+
+[02:42] agradecer aqui nominalmente o márcio
+
+[02:45] vasques e o sandro massaro que estão
+
+[02:47] liderando esse trabalho muito muito
+
+[02:49] muito obrigado e aqueles que quiserem
+
+[02:51] também voluntariamente ajudar essas
+
+[02:54] transcrições favor entre em contato com
+
+[02:56] a gente que a gente faz a ponte de vocês
+
+[02:58] com o márcio e o sandro a mesma firmeza
+
+[03:01] esse trabalho de maneira colaborativa um
+
+[03:03] tá bom eu queria aproveitar também está
+
+[03:06] aí né pra a dar um recado rapidinho
+
+[03:09] sobre o nosso call do fundo inglês né é
+
+[03:12] vocês ouvintes devem ter reparado os
+
+[03:15] ouvintes mais regulares deve ter
+
+[03:16] reparado é que nos últimos episódios a
+
+[03:18] gente já vem divulgando uma url que o
+
+[03:21] apóia ponto é se é banal rodou podcast
+
+[03:24] né que nada mais é do que a página onde
+
+[03:28] os ouvintes podem contribuir no nosso
+
+[03:30] blog fanning é que ajuda a cobrir parte
+
+[03:33] dos custos né custos com edição com os
+
+[03:36] equipamento com hospedagem servidores
+
+[03:39] esse tipo de coisa
+
+[03:40] obviamente é uma coisa voluntária e como
+
+[03:43] sempre quem quiser e quem puder
+
+[03:44] contribuir que não puder continuar nosso
+
+[03:47] ouvinte e aquele exato não é só para dar
+
+[03:52] uma gracinha né a gente tem algumas
+
+[03:54] recompensas especiais para aqueles que
+
+[03:57] resolverem contribuir como por exemplo
+
+[04:00] um breve futuro grupo no facebook
+
+[04:03] secreto é só para os ouvintes que fazem
+
+[04:08] determinadas contribuição que vão ter
+
+[04:10] acesso a um conteúdo exclusivo isso é
+
+[04:12] legal
+
+[04:12] obrigado àqueles que já estão apoiando
+
+[04:14] muito muito obrigado primeiro e mail tá
+
+[04:17] aí veio do jayme netto jayme netto é de
+
+[04:21] joão pessoa paraíba tem 36 anos é
+
+[04:24] analista de sistemas a andou e meio
+
+[04:26] longo aqui eu vou tentar ler um resumo
+
+[04:28] dele onde no dia seguinte
+
+[04:30] coloquem o altay eu teria todos os
+
+[04:32] motivos do mundo para não acreditar na
+
+[04:34] homeopatia pois costumo pensar de forma
+
+[04:36] científica com relação a qualquer
+
+[04:37] assunto
+
+[04:38] porém a minha mãe faz uso de homeopatia
+
+[04:40] muitos anos e mais uma
+
+[04:42] vez aconteceu algo muito curioso que não
+
+[04:43] acreditaria se não tivesse sido com
+
+[04:45] minha própria mãe ela estava fazendo um
+
+[04:47] tratamento de canal bem agressivo e
+
+[04:48] preciso fazer implante dentário
+
+[04:50] após feita a operação dentista passou
+
+[04:52] alguns medicamentos para evitar
+
+[04:53] problemas pós operatórios e disse que
+
+[04:55] era muito importante que ela tomasse
+
+[04:57] eles direito com minha mãe sempre faz
+
+[04:59] antes de tomar remédios ela consultou
+
+[05:01] meu papel dela e ele substitui a maioria
+
+[05:04] dos réus por remédios homeopáticos e ela
+
+[05:06] acatou as alterações dele quando voltou
+
+[05:08] da artista ela deixou examinar tudo
+
+[05:10] disse que estava tudo certo elogiou de
+
+[05:13] que está tudo ótimo perguntou se ela
+
+[05:14] tinha tomado remédios direito mas aí
+
+[05:16] quando ela falou que não tinha tão
+
+[05:17] honrada e sim as alternativas
+
+[05:19] homeopáticas
+
+[05:20] o dentista pirou disse que tinha sido
+
+[05:22] loucura que eu não devia ter feito isso
+
+[05:24] que poderia ter acontecido algo muito
+
+[05:25] grave e etc
+
+[05:26] aliás ele não sabia dizer como não ter
+
+[05:29] complicações já que ela não tomou os
+
+[05:30] remédios mas estava tudo bem eu tendo a
+
+[05:34] não acreditar mas quando lembro da minha
+
+[05:36] mãe fica na dúvida prefiro ficar na
+
+[05:38] minha e o efeito placebo pode funcionar
+
+[05:41] num livro de medicamento sério mesmo que
+
+[05:43] você tenha dizendo aí então vamos tentar
+
+[05:46] transformar esse e mail no experimento
+
+[05:48] não vamos questionar a validade desse
+
+[05:51] experimento então meu caro primeiro está
+
+[05:53] acreditando na sua memória né então na
+
+[05:55] verdade não é o que sua mãe se disse é o
+
+[05:57] que você lembra do que ela te disse
+
+[05:59] mas pelo que tem um email a segundo
+
+[06:02] experimentos mostram que a gente acaba
+
+[06:04] relatando de bem diferente do que
+
+[06:06] acontecia até é a gente constrói a
+
+[06:08] realidade a posteriori né então suponho
+
+[06:11] que as informações do e mail são válidas
+
+[06:13] sua mãe quando ela fez o tratamento de
+
+[06:15] canal de implante ela o dentista de
+
+[06:18] alguns remédios e ela substituiu alguns
+
+[06:20] deles por alternativas homeopáticas que
+
+[06:22] não são alternativas aliás substituiu
+
+[06:25] será que o homeopata substituiu apenas
+
+[06:27] os remédios para a dor se ele substituiu
+
+[06:30] apenas os remédios para a dor a gente
+
+[06:32] sabe já se você olhar ouvir de novo
+
+[06:34] aquele podcast sobre doenças
+
+[06:37] psicossomáticas
+
+[06:38] a gente fala um pouco sobre isso a dor é
+
+[06:40] uma construção então você pode modular a
+
+[06:42] percepção da sua dor
+
+[06:43] tanto é que o nosso cérebro produz
+
+[06:45] opióides que são muito similares aos
+
+[06:47] remédios tomados para a dor
+
+[06:49] então se você substitui dependendo do
+
+[06:52] grau de crença da sua mãe no fim
+
+[06:54] o menu homeopático às vezes o próprio
+
+[06:56] fato de você acreditar no remédio pode
+
+[06:58] induzir o seu cérebro lá por um viés de
+
+[07:01] confirmação a produzir esses opióides ea
+
+[07:03] sensação de dor é menor mas será que o
+
+[07:05] homeopata substituiu por exemplo
+
+[07:07] remédios antibióticos
+
+[07:08] talvez não então um a alternativas
+
+[07:12] homeopáticas não substituem certos tipos
+
+[07:14] de remédio por exemplo remédios
+
+[07:16] antibióticos ou remédios para a
+
+[07:17] inflamação por exemplo então 11 viés do
+
+[07:22] seu experimento seria verificar se ela
+
+[07:23] substituiu de fato todos os remédios são
+
+[07:25] alguns deles
+
+[07:26] outra coisa importante verificar com sua
+
+[07:28] mãe se ela de fato substituir os
+
+[07:30] remédios por remédios homeopáticos então
+
+[07:32] ouça de novo o podcast sobre homeopatia
+
+[07:35] e você vai ver esse remédio esses
+
+[07:37] remédios ditos homeopáticos eles são
+
+[07:39] baseados naqueles princípio de diluição
+
+[07:41] ou são por exemplo remédios
+
+[07:43] fitoterápicos que são remédios baseados
+
+[07:45] em compostos ativos diferentes dos
+
+[07:48] farmacológicos mas que têm algum efeito
+
+[07:50] que tem um princípio ativo a mesa e isso
+
+[07:52] esse é um engano muito comum das pessoas
+
+[07:54] as pessoas misturam homeopatia com
+
+[07:56] fitoterapia com em farmácia de
+
+[07:57] manipulação e só ter um equipamento
+
+[08:00] feito em uma farmácia população
+
+[08:01] manipulação mas com o princípio ativo
+
+[08:03] vale onde luiz lino então então em geral
+
+[08:07] têm um conhecimento elas colocam tudo na
+
+[08:09] mesma caixa então acho que se você
+
+[08:11] conseguir ficar com sua mãe esses vieses
+
+[08:14] do seu pequeno experimento e reconduzi
+
+[08:16] lo
+
+[08:16] mande um e mail pra gente de novo com os
+
+[08:18] novos achados ea gente confirma se as
+
+[08:21] suas suspeitas são válidas ou não tá
+
+[08:23] certo já obrigado pelo e mail muito
+
+[08:25] obrigado
+
+[08:25] o próximo e mail tá aí é do rafael takai
+
+[08:28] que na verdade vamos ser justos com ele
+
+[08:31] ele está fazendo muitas muitos elogios
+
+[08:33] para a gente entra antes mais nada
+
+[08:35] parabéns pelo podcast quem altay
+
+[08:37] temática divertida e informativa
+
+[08:39] conseguindo fazer um formato curto e
+
+[08:41] objetivo é e etc e tal
+
+[08:44] não vamos aqui ficar jogando confete pra
+
+[08:47] cima e é essa mas ele fez uma crítica é
+
+[08:49] interessante que ele falou assim ó já
+
+[08:51] falar em podcast anteriores sobre a
+
+[08:53] pronúncia do nome do programa ea
+
+[08:55] justificativa foi de que às vezes sai de
+
+[08:57] um jeito as vezes de outro mas por
+
+[08:59] conhecer a forma correta me incomoda
+
+[09:01] muito vir não rodou ao invés de não
+
+[09:03] rodou
+
+[09:04] a chamada do programa com a vozinha
+
+[09:06] japonesa fala corretamente
+
+[09:08] ainda bem né e por ser um podcast de
+
+[09:11] conhecimento eu acho que vocês deveriam
+
+[09:13] divulgar a forma correta de falar também
+
+[09:15] não é é um puxão de orelha aquino rafael
+
+[09:19] rafael a verdade é que mesmo os
+
+[09:21] japoneses a às vezes falam na roda
+
+[09:24] depende do contexto da frase né
+
+[09:27] mas teve razão se a gente for analisar a
+
+[09:30] palavra isoladamente na rodou é a
+
+[09:33] pronúncia mais correta é uma fita na
+
+[09:36] inclusive é que a gente está usando na
+
+[09:37] chamada do qual defende esse né que foi
+
+[09:41] gravado por uma voz feminina então sim
+
+[09:42] no final das contas as mulheres estão
+
+[09:44] falando certo e os homens que somos nós
+
+[09:46] não falando errado esse é avaliar toda
+
+[09:48] vez que vocês ouviram na roda ou sanar
+
+[09:51] rodou a bola obrigado rafael
+
+[09:54] agora o time pulando para o episódio do
+
+[09:56] sobre o placebo nessa efeito placebo
+
+[09:59] sim é o renan eo fino que o rio de
+
+[10:02] janeiro manda pelo twitter aqui
+
+[10:04] adorei o que a instituição não entende a
+
+[10:06] parte do duplo cego como é que é gerado
+
+[10:09] resultados se ninguém sabe quem tomou
+
+[10:11] choque então esclarecer essa dúvida que
+
+[10:14] testes do sul segue funcionam assim por
+
+[10:16] exemplo se eu vou te dar um medicamento
+
+[10:17] né então se o médico dá um medicamento
+
+[10:19] uma pessoa e ele sabe que uma pessoa
+
+[10:22] está tomando remédio é outro placebo de
+
+[10:24] uma forma não verbal ele pode induzir a
+
+[10:27] pessoa a uma melhora e de novo isso não
+
+[10:30] é intencional é sangue se a pessoa
+
+[10:32] perceber mesmo ela você pode induzir uma
+
+[10:34] pessoa a emitir um comportamento de
+
+[10:36] melhora de resposta ao remédio pelo fato
+
+[10:38] do médico saber que a pessoa está
+
+[10:40] tomando isso já foi comprovado há mais
+
+[10:42] de 50 anos
+
+[10:43] daí que se tenha um controle
+
+[10:44] experimental que fazer o teste duplo
+
+[10:46] cego ou seja eu te dá um remédio eu não
+
+[10:49] sei se eu estou te dando remédio placebo
+
+[10:51] a pessoa que recebe também não sabe
+
+[10:53] porém por exemplo eu sou médico então eu
+
+[10:55] não sei se estou te dando placebo ou
+
+[10:57] remédio então te dá o remédio vou te
+
+[10:59] acompanhando e eu faço anotações nas
+
+[11:02] fichas nos bancos de dados
+
+[11:04] existe uma terceira pessoa que é
+
+[11:06] responsável pelo banco de dados é essa
+
+[11:08] pessoa sabe quem é quem
+
+[11:10] e essa pessoa em geral ela fica assim
+
+[11:12] nos centros de pesquisa mais sérios ela
+
+[11:14] fica em outro prédio
+
+[11:15] ela não tem contato com um paciente com
+
+[11:17] o médico mas é ela que sabe quem está
+
+[11:19] tomando remédio não e essa pessoa que
+
+[11:22] passa depois ou ela mesma faz a análise
+
+[11:24] dos dados é é a pessoa que faz análise
+
+[11:27] os dados não sabia né
+
+[11:28] às vezes pode criar uma quarto elemento
+
+[11:30] não é que fica só de posse dessa
+
+[11:32] informação isso que é chamado triplo
+
+[11:34] século então nem quem dá o remédio nem
+
+[11:36] quem recebe ninguém analisa sabe só tem
+
+[11:38] uma pessoa que é desconhecida de todos
+
+[11:40] que sabe essa informação que tem essa
+
+[11:42] informação mas ela não é nem o médico
+
+[11:44] nem o paciente nem a pessoa que vai
+
+[11:46] analisar isso é basicamente um cofre é
+
+[11:48] então essa informação só é divulgada
+
+[11:50] depois que os dados são a redação dos
+
+[11:53] dados é feita aproveitando que a gente
+
+[11:55] está falando do episódio sobre o efeito
+
+[11:57] placebo tem mais um e mail que a gente
+
+[11:59] recebeu do ampera zucco rands o seguinte
+
+[12:02] a sair caros sobre os exemplos de
+
+[12:05] placebo citados no episódio gostaria de
+
+[12:07] saber se o contrário também é verdadeiro
+
+[12:10] por exemplo se alguém souber que existem
+
+[12:12] pessoas orando contrariamente o efeito
+
+[12:15] placebo pode piorar a situação em
+
+[12:18] relação à oração por exemplo alguém está
+
+[12:20] jogando a praga em você está orando
+
+[12:22] alguma coisa não se tem evidência de que
+
+[12:24] isso funciona tanto para o lado positivo
+
+[12:26] quanto negativo é a menos que a pessoa
+
+[12:27] saiba então por exemplo se eu sei que
+
+[12:30] alguém está jogando uma praga em mim e
+
+[12:32] isso pode ter um efeito
+
+[12:33] agora se pessoas passivamente estão
+
+[12:35] jogando uma praga eu não sei não
+
+[12:37] enriqueci placebo negativo e um nome tem
+
+[12:41] então o placebo negativa no chamado de
+
+[12:42] no sebo efeito nocebo que é quando você
+
+[12:45] acha que está sofrendo o efeito só que
+
+[12:48] se eu fui esse é feita por um lado
+
+[12:49] negativo ele faz mal
+
+[12:50] isso é aplicado para remédio então você
+
+[12:52] tem um remédio placebo eo remédio no
+
+[12:54] sebo que lhe é dado pra você é um
+
+[12:57] remédio de farinha mas ele é dado pra
+
+[12:58] ver se você passa mal e você passa olha
+
+[13:03] só como fortes e sempre presente é meio
+
+[13:06] esquisito né
+
+[13:07] próximo ao sair do thiago oliveira 32
+
+[13:10] anos formado em banco de dados casado
+
+[13:13] com três filhos ele diz o seguinte olha
+
+[13:15] aí gostaria de saber por que a maioria
+
+[13:16] dos programas de podcast normalmente não
+
+[13:18] publicam os links que venceu nos
+
+[13:20] programas juntos comcast
+
+[13:22] esse detalhe poderia ajudar a trazer
+
+[13:23] novos ouvintes e facilitar a interação
+
+[13:25] também
+
+[13:26] fica aí minha contribuição muito
+
+[13:28] obrigado pelo programa vocês são demais
+
+[13:30] muito obrigado pelo comentário também e
+
+[13:32] obrigado pelo elogio tiago monteiro é o
+
+[13:35] seguinte a gente todas as vezes em que a
+
+[13:36] gente lembra de colocar os links a gente
+
+[13:40] coloca no post da web
+
+[13:43] andré um comentário um artigo
+
+[13:45] indispensável sim exato então você vai
+
+[13:47] encontrar sempre munaro rodou ponto b 9
+
+[13:51] ponto com.br
+
+[13:52] lá onde estão todos os posts deste todos
+
+[13:55] os episódios do na rondon e aí nos posts
+
+[13:59] agente menciona no post correspondente a
+
+[14:02] gente pensou nos links nas referências
+
+[14:04] que a gente faz nos episódios já
+
+[14:07] aconteceu eventualmente é de pessoas
+
+[14:10] assim às vezes eu faço um comentário ou
+
+[14:11] quem faz um comentário muito específico
+
+[14:13] e curto
+
+[14:14] alguém no twitter mandou uma mensagem o
+
+[14:15] daquele artigo que se fala naquele
+
+[14:17] pedacinho você tenha referência às vezes
+
+[14:19] eu envio
+
+[14:20] geralmente nem todas as vezes que me
+
+[14:21] perguntaram no twitter e envie o link
+
+[14:24] tanto pelo site do b 9 quanto pelo
+
+[14:26] twitter
+
+[14:27] se for uma coisa muito mobilizador é
+
+[14:28] você pode mandar uma mensagem em outra e
+
+[14:30] meio aqui é alta e tem na verdade a ver
+
+[14:32] com a sua participação num episódio do
+
+[14:34] mamilo isso não pode que as famílias
+
+[14:36] episódio 99 e beba com moderação e poste
+
+[14:39] com consciência
+
+[14:42] o time fez uma participação especial
+
+[14:43] nesse episódio do podcast mamilos que é
+
+[14:47] nossa irmã que na família de nove grande
+
+[14:50] ímã e o henrique ferreira de recife
+
+[14:52] pernambuco ele diz o seguinte
+
+[14:54] gostei muito do programa mas foi atrás
+
+[14:56] de mais informações sobre o brinde com o
+
+[14:59] pai não sabe é brinde drang e acaba
+
+[15:02] encontrando dados um pouco diferente
+
+[15:04] sobre a medida do blind e que me aliviar
+
+[15:06] um pouco a fim de ser o consumo de
+
+[15:09] quatro doses para mulheres e cinco para
+
+[15:12] homens um período de duas horas
+
+[15:14] ou seja para ter um desencontro entre
+
+[15:16] isso ea informação que você passou não é
+
+[15:18] então isso é esse o problema do podcast
+
+[15:20] longo nem pensei que fala muito e achava
+
+[15:22] aumentando estocástica mente a
+
+[15:24] probabilidade de falar uma bobagem se eu
+
+[15:26] já vou deixar claro assim que é quem não
+
+[15:28] ouviu o podcast mamilos número 99 ou sem
+
+[15:31] os outros porque é um podcast muito
+
+[15:33] legal
+
+[15:33] vale muito a pena as mocinhas fazer um
+
+[15:36] trabalho sensacional isso
+
+[15:37] nani krieger pra vocês nossa sensacional
+
+[15:40] foi uma experiência muito legal na minha
+
+[15:42] participação já peço desculpas de
+
+[15:43] antemão eu cometi um erro e uma
+
+[15:45] incorreção
+
+[15:46] o erro foi o seguinte eu fiquei falando
+
+[15:48] numa parte do podcast para justificar
+
+[15:50] sobre o consumo de álcool total
+
+[15:52] eu falei de uma uma ideia sobre as
+
+[15:54] quatro questões são que é um método para
+
+[15:56] você estudar qualquer tipo de
+
+[15:57] comportamento
+
+[15:58] você pode decompor em quatro questões a
+
+[16:01] explicação sobre as questões está
+
+[16:02] razoavelmente correta
+
+[16:04] só que eu fiquei só eu acho que foi um
+
+[16:05] ato falho meu eu fiquei falando que as
+
+[16:07] quatro questões o platão mas não são do
+
+[16:08] plantão do aristóteles em viena você
+
+[16:10] procurar no google as quatro questões da
+
+[16:12] planta não vai achar esse foi o do
+
+[16:14] aristóteles índia trocou o filósofo
+
+[16:16] filósofo é essa
+
+[16:18] isso é um erro grave e juntar mas agora
+
+[16:20] espero que seja corrigido
+
+[16:22] vamos pedir para a mocinha do pessoal do
+
+[16:23] menino também corrigi-la ea outra coisa
+
+[16:25] de fato isso não foi um erro foi uma
+
+[16:27] incorreção acho que saiu rápido só pra
+
+[16:29] quem não ouviu esse podcast binge é
+
+[16:31] quando você toma uma grande quantidade
+
+[16:33] de álcool muito rápido então existe um
+
+[16:36] certo padrão de consumo de álcool que a
+
+[16:37] pessoa não toma todo dia ela não bebe
+
+[16:39] todo dia
+
+[16:40] mais uma vez por mês ela enche a cara e
+
+[16:42] toma todas muito rápido e bastante
+
+[16:44] concentrado se isso
+
+[16:45] isso também pode levar à dependência que
+
+[16:48] se você fizer isso muito tempo né a
+
+[16:50] morte em caso de algumas pessoas é
+
+[16:52] quando o bicho é muito grande né você
+
+[16:54] morre né a quantidade de álcool enorme é
+
+[16:57] um detalhe a morte é e aí é num mero
+
+[16:59] detalhe
+
+[17:00] mas aí vem o ponto do qual critério pra
+
+[17:02] mim né então o pela associação americana
+
+[17:05] eles falam assim que é
+
+[17:07] são quatro doses para mulheres e cinco
+
+[17:09] doses para homens num período de duas
+
+[17:11] horas
+
+[17:12] o problema é o que é uma dose né então
+
+[17:14] falta colocar essa informação
+
+[17:16] o peso dessas mulheres e homens também
+
+[17:18] então é presidente em média né
+
+[17:21] então eles chamam de essas doses ele
+
+[17:23] chama de dose padrão você tem estudos
+
+[17:25] sobre dependência de álcool uma medida
+
+[17:27] de dose padrão
+
+[17:28] essa medida de dose padrão são 120 ml de
+
+[17:32] vinho ou uma cerveja uma lata de cerveja
+
+[17:35] ou uma dose de destilado um shot
+
+[17:38] então imagina você tomar se você é um
+
+[17:40] homem tomar cinco shots em duas horas
+
+[17:42] isso já configura o bicho tá então fica
+
+[17:46] corrigido as informações dadas naquele
+
+[17:48] podcast de mamilos
+
+[17:50] william obrigado pela correção viu o
+
+[17:51] time momento é do fernando malta num dia
+
+[17:54] seguinte olá caro nas rodadas na roders
+
+[17:58] rodgers show de dora
+
+[18:04] [Música]
+
+[18:07] nada como uma piada infame para abrir o
+
+[18:10] e-mail é meu nome a fernando malta
+
+[18:13] vulgarmente conhecido como francas 30
+
+[18:16] anos engenheiro ambiental e escreva de
+
+[18:18] são paulo
+
+[18:19] ah e também são host do site cast é
+
+[18:22] excelente parede pode quer sair cast
+
+[18:25] tudo bonfim casa também não é isso aí
+
+[18:27] o email do fegams é longo então tá aí eu
+
+[18:29] vou dar uma visão resumida aqui escrevi
+
+[18:32] esse meio primeiramente para
+
+[18:34] orgulhosamente anunciar que eu sou o
+
+[18:36] patrono número 4 na rodada é e também
+
+[18:40] não seja apple não significa que ele
+
+[18:43] entrou lá no apoia aponta-se e banal
+
+[18:45] rodou podcast fez a contribuição dele
+
+[18:48] obrigado fica muito obrigado conhece o
+
+[18:50] programa pouco mais o trabalho que vocês
+
+[18:51] fazem excelente qualidade e merece muito
+
+[18:54] ser apoiado para que continue firme
+
+[18:55] forte obrigado sinceramente pela entrega
+
+[18:58] do programa tão rico mas que agradecemos
+
+[19:00] e aí referente ao episódio sobre
+
+[19:04] salários e felicidade 11 ele tem aqui um
+
+[19:07] comentário aí isso imaginei que seria
+
+[19:10] comentado ao longo do episódio mas
+
+[19:11] acabou passando ao largo a hierarquia de
+
+[19:13] necessidades ou pirâmide de maslow ainda
+
+[19:16] que seja disputada e careça de empirismo
+
+[19:19] para ser referendada a lógica de
+
+[19:22] estabelecer uma hierarquia entre as
+
+[19:23] necessidades humanas desde a nossa
+
+[19:25] própria subsistência mais básica
+
+[19:27] passando por segurança relacionamento
+
+[19:29] estima até a realização pessoal é
+
+[19:32] extremamente didático e vai ao encontro
+
+[19:33] do que foi comentado ao longo do
+
+[19:35] episódio a interpretação a partir da
+
+[19:36] lógica de maslow a pergunta realizada
+
+[19:39] seria que a partir do momento que o ser
+
+[19:41] humano já tivesse recursos o suficiente
+
+[19:44] para satisfazer as necessidades mais
+
+[19:45] básicas lares
+
+[19:47] o ganho de mais dinheiro seria
+
+[19:48] absolutamente marginal e corroboraria o
+
+[19:50] chavão popular dinheiro não traz
+
+[19:52] felicidade
+
+[19:53] esta sim viria com esta viria assim de
+
+[19:57] uma infinidade de outros fatores e
+
+[19:58] materiais e em certa extensão
+
+[20:00] incomparáveis como relacionamento com as
+
+[20:02] pessoas ea própria conquista da
+
+[20:04] autoestima o que mais uma vez também
+
+[20:06] corrobora com um ponto comentado de
+
+[20:09] felicidade relacional e relativa ao sair
+
+[20:12] e que se tenha comentado aqui sobre o
+
+[20:14] comentário do francas
+
+[20:16] introduzindo pirâmide de maslow aqui um
+
+[20:19] raciocínio sobre a relação entre salário
+
+[20:22] felicidade dinheiro e riqueza e
+
+[20:24] felicidade e assim vai
+
+[20:25] então quem quiser eu sei que você não se
+
+[20:27] eu mandar outras observações né eu
+
+[20:29] escrevi um e mail pra te responder todos
+
+[20:31] os detalhes bonitinho mas essa parte do
+
+[20:33] marcelo vale um comentário adicional é
+
+[20:35] particular
+
+[20:36] quem você fez faculdade de comunicação e
+
+[20:38] se foi falha de comunicação não tem foco
+
+[20:41] na educação tenham falecido da pirâmide
+
+[20:42] e se você teve uma aula de psicologia de
+
+[20:44] alguma coisa que falei 'vamos
+
+[20:46] profissionais de comunicação que depois
+
+[20:47] passou a ignorar essa pirâmide né então
+
+[20:49] é pois é pessoal da administração da
+
+[20:51] economia quase todas as áreas que têm
+
+[20:54] uma matéria psicologia aplicada fala do
+
+[20:56] marasmo galera de humanas isso é o
+
+[20:59] problema é que a teoria do marcelo é
+
+[21:01] muito ruim muito ruim
+
+[21:03] olha aí polêmica entre o original de
+
+[21:05] música de por lei e faltou a hitachi
+
+[21:08] jogando nega o time de massimo vale um
+
+[21:12] comentário aqui disso a teoria de maslow
+
+[21:14] é ruim não por causa do marcelo mas por
+
+[21:16] causa dos outros de quem popularizou mas
+
+[21:19] nem por exemplo uma pequena curiosidade
+
+[21:21] a primeira vez que o marlon falou da
+
+[21:23] teoria de maslow né foi em 1943 no
+
+[21:26] primeiro artigo dele que é sensacional
+
+[21:27] recomendo quem tiver interesse é um
+
+[21:29] tempo muito bom essa idéia da pirâmide
+
+[21:32] sabia que o marido nunca falou em
+
+[21:33] pirâmide no mesmo nunca depois o a
+
+[21:36] teoria deles com um pouco mais popular
+
+[21:39] e aí veio um cara da administração que
+
+[21:41] também é editor de um livro falar eu
+
+[21:43] queria transformar sua teoria no livro
+
+[21:45] na mão e aí estava o editor estava
+
+[21:47] discutindo com ele o conteúdo do livro e
+
+[21:49] este editor que era um cara da
+
+[21:51] administração sugeriu pegar porque a
+
+[21:53] gente não faz uma pirâmide
+
+[21:54] acho que fica mais didático aí okawa tá
+
+[21:56] bom e aí ficou popular mas não é você
+
+[22:00] pensar a teoria de motivação de macumba
+
+[22:02] na pirâmide é totalmente errado é porque
+
+[22:04] o pirâmide ela pressupõe uma hierarquia
+
+[22:06] uma hierarquia fixa no mundo esse é o
+
+[22:08] ponto
+
+[22:09] mas nunca falou número que a fixa
+
+[22:11] intransitável e nunca comentou disso a
+
+[22:14] grande contribuição do maluf foi
+
+[22:15] encontrado ir com o trabalho de outros
+
+[22:17] dois pesquisadores da psicologia que é o
+
+[22:19] raul eo golpe da teoria do apego o
+
+[22:22] começo da trilha do marcelo é muito bom
+
+[22:24] mas depois ele começou em cair numa
+
+[22:26] corrente mais humanista e e começou a
+
+[22:28] viajar
+
+[22:29] lembra muito o podcast da e mikari sabe
+
+[22:32] da mulher maravilha se lembra muito isso
+
+[22:35] o que aconteceu com ele
+
+[22:37] eu concordo que isso poderia ter sido
+
+[22:39] falado não mas por podcast não ficar
+
+[22:41] muito longo e eu intencionalmente
+
+[22:42] resolveu omitiu mazan e tem um outro
+
+[22:45] problema existe já um certo problema é
+
+[22:48] sistêmico que as pessoas cometem quando
+
+[22:50] elas usam um exemplo particular para
+
+[22:53] tentar justificar uma coisa que é geral
+
+[22:55] então por exemplo eu estou falando da
+
+[22:57] relação entre salário e infelicidade e
+
+[23:00] isso é um dado do indivíduo cada
+
+[23:01] indivíduo acha que o salário dele tem
+
+[23:04] uma relação com uma percepção de
+
+[23:05] felicidade pra ele tá então pra mim por
+
+[23:09] exemplo um salário de 10 mil reais pra
+
+[23:10] mim é uma coisa um salário de 10 mil
+
+[23:12] reais por uma pessoa com outra história
+
+[23:14] de vida diferente é uma coisa individual
+
+[23:15] os argumentos para tentar justificar
+
+[23:18] essa relação também tem que ser do ponto
+
+[23:19] de vista individual por isso que optei
+
+[23:21] pela idéia de valor subjetivo porque
+
+[23:24] todo mundo tem um valor subjetivo
+
+[23:25] interno também quando você usa por
+
+[23:27] exemplo a teoria de hierarquia de
+
+[23:29] necessidades de maslow é algo que tenta
+
+[23:31] explicar geral e não particular isso
+
+[23:34] você cair num erro lógico então eu
+
+[23:35] resolvi excluir certos explicações
+
+[23:37] gerais para tentar justificar variações
+
+[23:40] individuais
+
+[23:41] então essa foi a justificativa por ter
+
+[23:43] omitido o marlon além da teoria em si já
+
+[23:46] está bem ultrapassada
+
+[23:47] tanto é que se você for em faculdades de
+
+[23:48] psicologia sérias eles não colocam o
+
+[23:51] maslow com uma teoria de motivação mais
+
+[23:53] se você fizer uma aula de motivação
+
+[23:55] processos psicológicos básicos tiveram
+
+[23:57] aula de motivação vai estudar floyd vai
+
+[23:59] estudar a marie macclelland erro
+
+[24:02] llorens mas o marcelo não vai entrar
+
+[24:04] mais pra frente do outro podcast a gente
+
+[24:06] até eu vou explicar um pouco melhor a
+
+[24:08] teoria de maslow e saber mostrar por que
+
+[24:10] certos aspectos dela não são favoráveis
+
+[24:13] logo não são tão científico quanto
+
+[24:14] deveriam ter feito mas muito obrigado
+
+[24:16] pelo comentário e obrigado a todos os
+
+[24:18] ouvintes também pelos comentários que
+
+[24:20] vieram pra gente é isso aí vamos para a
+
+[24:23] resposta do desafio na ronda anterior
+
+[24:25] desafio dos preços quebrados
+
+[24:27] tivemos muitas respostas né a gente teve
+
+[24:29] sim só relembrando o enunciado né
+
+[24:32] a gente falou o seguinte que é comum mas
+
+[24:34] nós aplicar em preços abaixo do redondo
+
+[24:36] como por exemplo 99 centavos ao invés de
+
+[24:39] a r$1 99 95 ao invés de r$100 né
+
+[24:45] e hoje é considerado uma estratégia de
+
+[24:46] preço psicológico que leva em conta o
+
+[24:48] fato de termos no ocidente pelo menos né
+
+[24:51] a leitura da esquerda para a direita
+
+[24:52] inconscientemente acharmos 9 99 muito
+
+[24:56] melhor do que dez reais mas a índices
+
+[25:00] históricos de que essa prática não teve
+
+[25:01] essa razão como dirige nesta pergunta o
+
+[25:04] que ele fez é qual foi o qual teria sido
+
+[25:07] o motivo original desse método de
+
+[25:10] precificação no comércio americano é
+
+[25:12] começar lá a gente recebeu várias
+
+[25:14] respostas tá algumas respostas bastante
+
+[25:17] plausíveis inclusive não é assim que são
+
+[25:19] naturalmente compreensíveis se por
+
+[25:22] exemplo o josé gentil que mandou já foi
+
+[25:26] vencedor de desafios aqui anteriores
+
+[25:29] levando assim que o valor quebrado pode
+
+[25:30] ser uma estratégia de antigos
+
+[25:32] comerciantes para ter uma desculpa para
+
+[25:34] ficar com o valor do troco no caso de
+
+[25:35] eles não terem outro né ou alegar não
+
+[25:38] ter o troco ficarem com um centavo de
+
+[25:40] troco pra devolver é não se sabe destas
+
+[25:43] essa estratégia é certo mas hoje em dia
+
+[25:44] eles ela é utilizada uma outra teoria
+
+[25:48] que apareceu aí né apareceu através do
+
+[25:51] carro branco e outros ouvintes também
+
+[25:52] que diz o seguinte que o melvin alstom
+
+[25:55] do jornal chicago dele teria dado o
+
+[25:58] preço de um centavo ao seu jornal na
+
+[26:00] época e como as moedas de um centavo não
+
+[26:03] tinha uma circulação ele teria
+
+[26:04] convencido lojistas locais a adotar essa
+
+[26:07] política de preços para aumentar a venda
+
+[26:08] de seu jornal
+
+[26:09] ai que bom estar em uma venda casada é
+
+[26:12] um jornal que custaria um centavo
+
+[26:14] associações juntas exatos mas farani o
+
+[26:17] preço quebrado e casariam à venda com o
+
+[26:21] jornal né
+
+[26:22] é bem interessante também bem
+
+[26:24] interessante né
+
+[26:25] eu não vou dizer que nenhum deles está
+
+[26:27] errado tal sair eu vou aqui na verdade
+
+[26:29] considerar uma resposta certa segundo o
+
+[26:32] desafio que a gente especificou clara o
+
+[26:35] primeiro que respondeu corretamente e
+
+[26:37] portanto é o vencedor desse desafio aqui
+
+[26:40] hoje eu tô aí é o dione lima também em
+
+[26:43] cena
+
+[26:43] vista de marketing de londrina paraná as
+
+[26:46] passadeiras seguinte ó os preços com
+
+[26:48] valores quebrados vem junto com a caixa
+
+[26:50] registradora ou como era chamada caixa
+
+[26:53] incorruptível
+
+[26:54] para evitar que os funcionários ficassem
+
+[26:56] com dinheiro da venda
+
+[26:57] eles tinham que abrir a caixa
+
+[26:59] registradora para dar o troco para os
+
+[27:01] clientes e assim computar a venda
+
+[27:04] se não tiver uma venda registrada a
+
+[27:06] máquina foi inventado em 1879 onde um
+
+[27:09] centavo varia bastante
+
+[27:11] e aí é que ele aproveita para
+
+[27:12] parabenizar o programa e dizer que não
+
+[27:14] perde um é isso aí mas parabéns parabéns
+
+[27:17] dione lima essa justificativa mais
+
+[27:19] antiga é para o uso dos preços que
+
+[27:21] levaram a que a gente escolheu pra
+
+[27:22] considerar correta nesse desafio é isso
+
+[27:25] aí
+
+[27:25] obrigado pela página histórico e agora
+
+[27:28] vamos para a definição do novo desafio
+
+[27:30] ao rodar o país em um novo desafio é o
+
+[27:35] problema do senhor de euclides que
+
+[27:37] aconteceu com seu clipe vão lá um
+
+[27:40] eletricista visitou uma casa que foi
+
+[27:43] recém comprada por um senhor idoso cheio
+
+[27:45] de manias chamado de euclides
+
+[27:48] chamei você pra consertar um problema
+
+[27:49] elétrico em minha casa
+
+[27:51] estamos em um sobrado e no andar de cima
+
+[27:53] tem um quarto com uma lâmpada no teto de
+
+[27:56] seu daqueles e daquelas incandescentes
+
+[27:59] porém eu não sei qual é o interruptor
+
+[28:01] que ascende essa lâmpada aqui no
+
+[28:03] presente momento está apagada
+
+[28:04] aqui no andar de baixo temos três
+
+[28:06] interruptores e o antigo dono da casa
+
+[28:09] disse que uma e só uma delas é um
+
+[28:11] interruptor que ascende àquela lâmpada
+
+[28:13] mas não disse qual era a única coisa que
+
+[28:15] eu fiz foi colocar todos na posição
+
+[28:17] desligado
+
+[28:19] acha que eu sou dono da light para ficar
+
+[28:20] gastando a lusa tem esbravejou sim de
+
+[28:23] pizza você ouvinte tem de descobrir qual
+
+[28:27] dos interruptores é o certo
+
+[28:29] no entanto tem algumas restrições desse
+
+[28:32] de euclides com o quarto lá em cima está
+
+[28:35] em reforma estão a poeira danada
+
+[28:38] eu não quero você entrando lá várias
+
+[28:40] vezes você só pode ter uma única vez na
+
+[28:42] sala 2
+
+[28:44] você só pode abrir a porta e entrar na
+
+[28:46] sala assim que tiver mexido nos
+
+[28:48] interruptores embaixo de uma forma
+
+[28:50] descobrir qual deles é o correto
+
+[28:52] 3 aqui no andar de baixo não tem como
+
+[28:55] você enxergar se a lâmpada está acesa ou
+
+[28:57] apagada no andar de cima e 4
+
+[28:59] a lâmpada está no teto e você não pode
+
+[29:02] retirá la do local de forma alguma vai
+
+[29:05] fazer muita sujeira e eu não quero
+
+[29:06] poeira no resto da casa
+
+[29:08] o eletricista pensou um pouco e muito
+
+[29:11] sabido disse
+
+[29:12] deixa comigo sendo clientes então ele
+
+[29:15] manipulou os interruptores foi a andar
+
+[29:16] de cima abriu a porta e imediatamente
+
+[29:19] descobriu qual deles era o interruptor
+
+[29:21] san-são surpresa e satisfação do senhor
+
+[29:24] de euclides e agora a pergunta pra você
+
+[29:27] ouvinte se você fosse o eletricista
+
+[29:29] sabido como você faria para descobrir
+
+[29:32] qual o interruptor certo tá feito
+
+[29:34] anunciado em uma história bonitinha e
+
+[29:37] agora é com você a tentar acertar e
+
+[29:40] resolver este desafio não rodou e mandar
+
+[29:43] pra gente isso podcast a roupa na rua do
+
+[29:45] ponto com ponto br
+
+[29:46] então na rodovia lustres envolvente
+
+[29:51] você sabia que pode ajudar a manter o
+
+[29:54] naro rodou no ar
+
+[29:55] ao contribuir você pode ter acesso ao
+
+[29:58] grupo fechado no facebook e receber
+
+[30:00] conteúdos exclusivos
+
+[30:02] acesse apóia ponto é se embananar rodou
+
+[30:05] podcast
+
+[30:07] e lembre-se aquino ro do que quem faz a
+
+[30:10] pauta é você você discorda do que ouviu
+
+[30:13] tem alguma pergunta quer compartilhar
+
+[30:14] alguma curiosidade ou lançar um desafio
+
+[30:16] escreva pra gente podcast a roupa na rua
+
+[30:19] do ponto com ponto br repetido até aí
+
+[30:21] podcast a roupa na rua do ponto com
+
+[30:24] ponto br
+
+[30:25] então até o próximo ao rodoanel tautou
+
+[30:27] maringá tom
+
+[30:30] [Música]
+
+[30:32] néviton
+
+[30:37] isso pode é gênio é apresentado ouro te
+
+[30:41] 9 ponto com.br
+
+[30:46] [Música]

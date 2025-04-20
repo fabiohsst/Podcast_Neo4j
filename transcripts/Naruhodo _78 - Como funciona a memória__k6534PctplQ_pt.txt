@@ -1,0 +1,2259 @@
+Title: Naruhodo #78 - Como funciona a memória?
+URL: https://www.youtube.com/watch?v=k6534PctplQ
+Language: pt
+Extracted on: 2025-04-06 16:49:15
+================================================================================
+
+[00:00] como funciona a memória
+
+[00:03] [Música]
+
+[00:05] maria contou
+
+[00:08] [Música]
+
+[00:11] bem vindo ao rodou podcast para quem tem
+
+[00:14] fome de aprender eu sou ken fujioka eu
+
+[00:17] só saí de souza e hoje é dia de que
+
+[00:20] fúteis e intensa
+
+[00:23] ao sair hoje a pergunta veio de vários
+
+[00:28] ouvintes será que eu lembro de dizer a
+
+[00:31] primeira pergunta aí a pergunta mais
+
+[00:32] geral vamos dizer assim chegou pelo
+
+[00:35] samir sardinha tem 28 anos e é
+
+[00:38] programador de ettal cara rio de janeiro
+
+[00:42] 11 coloquem altay gostaria de saber mais
+
+[00:45] sobre como funciona a memória e de como
+
+[00:48] o cérebro prioriza as informações nem
+
+[00:51] considero um grande acumulador de que o
+
+[00:54] conhecimento é inútil
+
+[00:55] sempre tem um que vem corrigir que
+
+[00:57] conhecimento acontecer ao que eu replico
+
+[01:00] que se saber se isso sim é útil
+
+[01:04] samir é tem alguns exemplos de
+
+[01:08] conhecimentos inúteis que não sei por
+
+[01:10] que decorei como por exemplo michael
+
+[01:11] jordan no seu auge ganhava 8 dólares por
+
+[01:14] batman cardíaco que gatas que caem entre
+
+[01:17] segunda e sexta andar se machucam mais
+
+[01:19] do que os que caindo 7 o que apesar do
+
+[01:23] everest não ser o pico mais alto não é o
+
+[01:25] ponto mais afastado do centro da terra e
+
+[01:28] sim um monte um monte chimborazo que o
+
+[01:31] tarde grado resistir até mesmo no espaço
+
+[01:33] fora inúmeras tabelas de jogos de rpg e
+
+[01:36] diversas outras informações que não
+
+[01:38] utilize números dia a dia
+
+[01:41] então essa é a pergunta central time mas
+
+[01:45] a verdade é que várias perguntas
+
+[01:46] complementares chegaram ta por exemplo
+
+[01:48] por que as pessoas contam as mesmas
+
+[01:51] histórias inúmeras vezes também tem a
+
+[01:53] ver com a memória veio do thiago
+
+[01:54] guimarães tavares de 29 anos professor
+
+[01:56] de tecnologia de palmas tocantins dia
+
+[02:00] seguinte porque algumas pessoas contra
+
+[02:03] as mesmas histórias sempre tem alguns
+
+[02:05] amigos e familiares que contam a mesma
+
+[02:07] história que vem contando há décadas em
+
+[02:09] todo e qualquer reunião familiar o
+
+[02:11] encontro como uma vez em que eu me
+
+[02:15] afoguei quando tinha cerca de dois anos
+
+[02:17] em que meu pai não se cansa de relatar
+
+[02:20] é que mais ou como memórias e armazenam
+
+[02:25] nos neurônios em uma pergunta que vem do
+
+[02:27] mateus victor que 19 anos estudante ou
+
+[02:31] como funciona o processo de formação de
+
+[02:34] memória que vem do caleb peres que é
+
+[02:36] estudante de direito porque lembramos de
+
+[02:38] certas coisas esquecemos de outras como
+
+[02:41] é que o cérebro decide isso
+
+[02:43] esse animais fora os humanos têm
+
+[02:45] processos parecidos ou ainda onde nossas
+
+[02:48] memórias ficam armazenadas em nível
+
+[02:50] molecular pergunta que vem do pedro
+
+[02:52] caldas 29 anos publicitário rio de
+
+[02:54] janeiro e ele não tem uma segunda
+
+[02:56] pergunta e em cima dessa nasce a
+
+[02:58] renovação celular como é que as nossas
+
+[02:59] memórias são passadas para as novas
+
+[03:01] células e finalmente como se explica a
+
+[03:04] memória que temos na nossa infância na
+
+[03:06] pergunta do josé gentil cunha neto 51
+
+[03:09] anos analista de sistemas de são paulo
+
+[03:11] capital
+
+[03:12] enfim até aí muita coisa não é muita
+
+[03:14] coisa então essa pergunta central como é
+
+[03:16] que funciona a memória e todas essas
+
+[03:19] variantes que a gente vai tocando aqui
+
+[03:21] durante o episódio então porque como tem
+
+[03:23] muitas perguntas no já temos já podemos
+
+[03:26] inferir que que essa temática matemática
+
+[03:29] que muitos dos nossos ouvintes têm
+
+[03:30] curiosidade e não só vocês como muitos
+
+[03:33] pesquisadores têm curiosidade em estudar
+
+[03:36] e entender como funciona e como o que é
+
+[03:38] memória já vou afirmar aqui que já você
+
+[03:41] parcial porque a quantidade de trabalho
+
+[03:43] é tão grande e tem tanto tantas teorias
+
+[03:46] sobre como funciona então eu vou fazer
+
+[03:48] uma linha de raciocínio
+
+[03:50] eu vou pegar o que é mais consensual e
+
+[03:53] mais no final eu vou colocar o que está
+
+[03:55] em aberto
+
+[03:56] tá com certeza alguns pesquisadores eu
+
+[03:58] tenho muitos amigos que são eminentes
+
+[04:00] pesquisadores sobre memória porque não
+
+[04:02] falo de tal coisa de tal coisa que não
+
+[04:03] vai dar tempo de ficar meses aqui em a
+
+[04:06] idéia não é assim mas não essa é a idéia
+
+[04:08] é fazer um meio que o raciocínio é com o
+
+[04:12] geral que existem de tudo diz tudo da
+
+[04:14] memória se você tiver algum aspecto
+
+[04:17] específico ou você manda um email pra
+
+[04:19] gente
+
+[04:20] ou você mandou tweet alguma coisa
+
+[04:22] pergunte sobre esse detalhe um artigo
+
+[04:25] específico um trabalho específico a
+
+[04:26] gente é desenrola a partir daí tá porque
+
+[04:29] esse é um tema muito genérico ou
+
+[04:30] comentam os comentários também isso
+
+[04:32] é a própria definição de memória ruim na
+
+[04:36] própria definição de memória tem várias
+
+[04:37] definições
+
+[04:38] eu vou pegar mais consensual e você vai
+
+[04:41] ver que mesmo ela não é tão boa mas ela
+
+[04:43] é mais consensual
+
+[04:44] então memória é uma faculdade da mente
+
+[04:48] pela qual informação é codificada
+
+[04:51] armazenada e recuperada esta é uma uma
+
+[04:54] definição de uma faculdade da mente pela
+
+[04:56] qual informação codificada armazenado
+
+[04:58] recuperada em certas áreas da psicologia
+
+[05:00] que já não concordam com ela porque eu
+
+[05:02] posso estudar seu comportamento
+
+[05:04] prescindindo do fato que você tenha uma
+
+[05:05] mente ou seja essa definição já não vale
+
+[05:08] a então no momento que eu assumi essa
+
+[05:10] definição eu já tô indo por um por um
+
+[05:13] certo grupo de teorias e abrindo mão de
+
+[05:15] outros
+
+[05:16] tá teorias que pressupõe que você não
+
+[05:18] precisa de uma mente já não estão
+
+[05:21] contempladas nessa parte mas eu vou
+
+[05:22] falar assim é um pouco por cima também
+
+[05:25] está outra coisa pela qual informação é
+
+[05:28] codificada armazenada e recuperada
+
+[05:31] codificar informação tudo bem isso é
+
+[05:34] mais inteligível é informação ser
+
+[05:37] recuperada é a idéia da memória quando
+
+[05:39] você se lembra de coisas é porque você
+
+[05:40] recupere informação sei tudo bem o
+
+[05:43] problema armazenado né quando você tem
+
+[05:46] acho que muito do nosso ouvinte já
+
+[05:47] ouviram já viram aquele filme é um filme
+
+[05:48] muito bom que é o divertidamente no
+
+[05:51] desenho né
+
+[05:52] o divertidamente é um desenho muito bom
+
+[05:55] para explicar emoções como funciona a
+
+[05:57] idéia de apego gestão das emoções a
+
+[06:00] teoria do eco então vai ser muito ruim
+
+[06:02] para falar de memória muito ruim
+
+[06:04] a analogia que ele faz por exemplo das
+
+[06:07] bolinhas coloridas que ficam em armários
+
+[06:09] é totalmente errada
+
+[06:10] é quando você fala que a memória é
+
+[06:12] armazenada parece que a memória é uma
+
+[06:14] coisa que fica guardada num lugar
+
+[06:16] estranho não ter um depósito de
+
+[06:18] coisinhas isso não é memória memória não
+
+[06:20] é isso
+
+[06:21] tá memória não ficar armazenada porque a
+
+[06:23] gente tem uma imagem de que o cérebro é
+
+[06:25] como se fosse um gravador
+
+[06:27] então quando grava um áudio por exemplo
+
+[06:29] esse podcast
+
+[06:30] quando eu reproduzo áudio exatamente o
+
+[06:32] que foi gravado vai ser recuperado na
+
+[06:34] nossa memória não é assim você não não é
+
+[06:37] uma coisa que você gravou você viu uma
+
+[06:38] cena e ficou gravado e depois quando
+
+[06:40] você recupera como se fosse um tape
+
+[06:42] sabendo não
+
+[06:43] não é isso tá a sua memória é sempre
+
+[06:46] reconstruída então o grande problema com
+
+[06:49] essa definição além da idéia de mente é
+
+[06:51] a idéia de armazenamento tá então a
+
+[06:54] memória não é uma coisa a memória é um
+
+[06:56] estado esse é o grande ponto central dos
+
+[06:58] estudos atuais de memória a memória não
+
+[07:00] é uma entidade não é um ele não é uma
+
+[07:01] bolinha não é uma bola colorida não é
+
+[07:03] uma nuvenzinha não há memória um estado
+
+[07:06] é porque do jeito que o divertidamente
+
+[07:08] representa é muito mais parecido como
+
+[07:10] funciona a memória de um computador e
+
+[07:12] isso né
+
+[07:13] isla é ter memória mais recente mas
+
+[07:16] assim que morán tenham a gazeta uma
+
+[07:19] lente que a memória rom 1
+
+[07:22] e aí você tem umas coisas armazenadas a
+
+[07:25] nova doença liberadas depois do jeito
+
+[07:27] que foi armazenado então a idéia de
+
+[07:29] memória de curto prazo longo prazo
+
+[07:31] existe ainda é bem válido né
+
+[07:33] mas a ideia para o importante para quem
+
+[07:35] não é da área é deixar bem claro que a
+
+[07:37] memória não é uma coisa é um estado a
+
+[07:40] memória imanente ela sempre se
+
+[07:42] modificando
+
+[07:43] então por exemplo quando eu peço para
+
+[07:45] alguns de vocês lembra lembra uma
+
+[07:47] memória da sua infância quando essa
+
+[07:49] memória da sua infância vem né ela vai
+
+[07:52] vir no novo contexto que é o contexto da
+
+[07:54] minha pergunta vocês então imagine você
+
+[07:56] está ouvindo o podcast e eu chego pra
+
+[07:58] você e pergunto lembra uma memória da
+
+[07:59] sua infância quando tinha seis anos
+
+[08:02] vai ver uma imagem só que essa imagem
+
+[08:04] vai vir um outro contexto que é de você
+
+[08:06] ouvir no podcast que é diferente do
+
+[08:08] contexto real que aconteceu aquela coisa
+
+[08:10] né
+
+[08:11] logo toda vez que você recupera uma
+
+[08:13] memória é modificada pelo ambiente atual
+
+[08:15] e quando você guarda de novo vai guardar
+
+[08:18] diferente
+
+[08:19] então no fundo no limite que é uma coisa
+
+[08:22] que amei desesperador no limite você não
+
+[08:24] lembra nada você reconstrói sempre as
+
+[08:27] coisas então no limite você não lembra
+
+[08:29] nada
+
+[08:29] é muito importante lembrar disso que
+
+[08:31] mais pro final a gente vai falar da
+
+[08:32] idéia de falsa memória então esse é o
+
+[08:34] primeiro ponto é ter em mente que a
+
+[08:35] memória não é uma coisa um estado então
+
+[08:38] é um processo ea memória sempre um
+
+[08:40] processo aí falando de causas materiais
+
+[08:42] não é do cérebro
+
+[08:43] quais são as áreas principais
+
+[08:45] relacionadas com a memória para quem
+
+[08:47] tiver interesse pode procurar depois é
+
+[08:49] principalmente duas áreas o hipocampo
+
+[08:51] que é uma das principais áreas da
+
+[08:52] memória e amido
+
+[08:54] você tem também outra
+
+[08:56] as áreas associadas que são os corpos
+
+[08:58] mamilares depois você procurar um mapa
+
+[09:00] do cérebro você ver onde é que tá em
+
+[09:02] outra área tinha estreado essas áreas
+
+[09:04] principais relacionadas com memórias a
+
+[09:06] capacidade de memorização
+
+[09:08] você tem outras áreas no córtex pré
+
+[09:09] frontal e talvez essas são as principais
+
+[09:12] o hipocampo ele é relacionado com vários
+
+[09:14] aspectos da memória mas principalmente a
+
+[09:16] memória explícita do que a memória
+
+[09:18] explícita é a memória que você lembra
+
+[09:21] que lembra
+
+[09:21] então por exemplo que começou hoje e se
+
+[09:24] uma memória explícita onde estava ontem
+
+[09:27] semana uma explícita
+
+[09:29] quem ganhou o jogo de futebol é uma
+
+[09:30] memória explícita você lembra que lembra
+
+[09:33] está a outro nome de memória explícita é
+
+[09:36] a memória declarativa
+
+[09:38] quando eu peço para você conta uma
+
+[09:39] história que aconteceu ontem de mandar
+
+[09:42] um depoimento dá um depoimento do que
+
+[09:43] aconteceu essas coisas que a pessoa
+
+[09:45] contra a memória declarativa ou
+
+[09:47] explícita 'certa você tem um outro tipo
+
+[09:49] de memória que a memória implícita que é
+
+[09:52] aquela que você lembra mas não sabe que
+
+[09:54] lembrou então a memória implícita ela
+
+[09:56] atua sempre
+
+[09:57] então por exemplo quando você toma uma
+
+[09:59] decisão uma avaliação de alguém com base
+
+[10:02] em preconceitos mas você não percebeu
+
+[10:04] que foi com base em preconceitos né
+
+[10:06] então isso é uma ação por exemplo de
+
+[10:08] memória implícita
+
+[10:09] um outro exemplo você lembra da decisão
+
+[10:11] que você tomou você justifica o porquê
+
+[10:14] mas você lembra você não professores
+
+[10:17] implícitos estão ligados àquela decisão
+
+[10:19] isso então por exemplo você olha uma
+
+[10:21] pessoa a essa pessoa para ser um bom
+
+[10:23] funcionário uma coisa assim
+
+[10:25] êêê você justifica por causa de a b e c
+
+[10:28] enfim mas você não repara por exemplo
+
+[10:31] não passa nem pela sua cabeça que a
+
+[10:33] pessoa negra deu e tem uma avaliação
+
+[10:35] implica sempre é de preconceito porque
+
+[10:38] isso é construído socialmente então a
+
+[10:40] aprendizagem escolar
+
+[10:42] ela oferece pessoas aprendizagens
+
+[10:44] declarativas quanto é dois mais dois mas
+
+[10:47] ela também oferece aprendizagem de
+
+[10:48] memórias implícitas que é o bullying que
+
+[10:52] é tipo como você lida com seus colegas
+
+[10:53] como que a relação com seus professores
+
+[10:56] tudo isso fica no lastro que você tem é
+
+[10:58] que é um estofo nessa idéia de memória
+
+[11:01] implícita nas duas primeiras
+
+[11:03] são na sensação de que são fatos mais
+
+[11:07] concretos assim essas memórias explícita
+
+[11:11] e declarativas assim ela pode ser mais
+
+[11:14] concreta porque são se eu te perguntar
+
+[11:16] coisas concretas
+
+[11:17] então o que aconteceu ontem e tal mas
+
+[11:20] você estava o que você comeu hoje isso
+
+[11:23] pergunta por exemplo tem a ver com como
+
+[11:25] é que você se sentiu ainda declarativo
+
+[11:28] ainda declara declarativo tá o a memória
+
+[11:31] implícita você não pega
+
+[11:33] dificilmente você vai pegar coisas
+
+[11:34] verbais você pega por outros testes
+
+[11:37] indiretos potencial evocado e dieta o
+
+[11:40] teste de percepção implícita nem eu ia
+
+[11:42] ter aí tem técnicas mas fisiológicas
+
+[11:46] para hoje tempo de reação para pegar
+
+[11:47] isso
+
+[11:48] um outro exemplo de memória implícita é
+
+[11:50] o prime-time uma coisa assim é um é uma
+
+[11:53] coisa que está no ambiente
+
+[11:54] você não repara que ele está lá mas ele
+
+[11:57] condiciona a sua escolha de alguma forma
+
+[11:59] se tem um artigo muito legal que mostro
+
+[12:01] pra mim assim muito besta
+
+[12:03] você entra num site e nesse site aparece
+
+[12:05] a foto de um sofá né
+
+[12:07] e você tenha uma foto do sofá é como se
+
+[12:10] fosse uma loja de móveis tem um sofá e
+
+[12:12] uma descrição do sofá
+
+[12:13] aí você aperta o botão vai para uma
+
+[12:15] próxima tela e você tem que avaliar qual
+
+[12:17] o preço do sofá quanto você pagaria por
+
+[12:19] ele
+
+[12:20] o como confortável ele é acho que essas
+
+[12:22] duas perguntas o confortável eo preço né
+
+[12:25] então dois grupos de pessoas fizeram
+
+[12:27] isso avaliar viram um sofá e avaliavam
+
+[12:29] ele porém onde estava o crime
+
+[12:31] o grupo 11 ele viu os dois viram mesmo
+
+[12:34] texto o mesmo sofá
+
+[12:36] só que o fundo da tela de um dos grupos
+
+[12:37] aparecia moedinhas
+
+[12:39] era um fundo de tela assim como a marca
+
+[12:41] d'água de moedas
+
+[12:42] o outro grupo parecia nuvens e isso
+
+[12:46] modificava os escores de conforto e do
+
+[12:48] preço santo isso a idéia de pra mim é
+
+[12:51] uma coisa que estava ali não tem nada a
+
+[12:52] ver com o problema mas de certa forma
+
+[12:54] mudou o seu padrão decisório tinha festa
+
+[12:57] inconscientemente disso publicitários é
+
+[13:01] a lei do da decisão implícita é baseado
+
+[13:04] em prime é publicidade adora pra mim
+
+[13:06] então digo é cor diferente letra posição
+
+[13:11] é essa idéia do produto placement lá
+
+[13:14] porque sempre
+
+[13:15] pagam para ter um produto do lado do
+
+[13:16] caixa né
+
+[13:18] você lembra qual o produto se você a
+
+[13:20] última vez que foi no mercado de
+
+[13:21] produtos que tinham ali do lado
+
+[13:23] você nem lembra mais se compra às vezes
+
+[13:25] um chocolate lacta e pega e leva né é
+
+[13:28] essa idéia da memória implícita tá
+
+[13:30] essas duas memórias declarativa
+
+[13:32] implícita elas podem acontecer num ponto
+
+[13:35] de vista de curto prazo e de longo prazo
+
+[13:37] então é mais uma subdivisão na memória
+
+[13:39] de curto prazo ou também chamados
+
+[13:41] memórias de trabalho né elas têm áreas
+
+[13:45] do córtex pré frontal que lidam com elas
+
+[13:47] e também a amígdala não tem vias ali na
+
+[13:49] amígdala para a memória de curto prazo
+
+[13:50] curto prazo assim eu te falo meu
+
+[13:52] telefone
+
+[13:53] você lembra isso por dois minutos para
+
+[13:55] anotar né ou por exemplo eu tenho que
+
+[13:58] sair daqui e até o lugar tem que pegar o
+
+[14:01] ônibus eu tenho que fazer uma série de
+
+[14:02] tarefas e né
+
+[14:03] isso envolve a memória de curto prazo ou
+
+[14:06] quando alguém por exemplo te pergunto
+
+[14:07] uma coisa né
+
+[14:09] você tem que entregar o relatório e tal
+
+[14:10] coisa isso vai ficar na sua memória de
+
+[14:12] trabalho até você terminar a tarefa
+
+[14:14] depois passa né
+
+[14:16] informações que são relevantes que você
+
+[14:18] precisa lembrar por mais tempo elas vão
+
+[14:20] para a memória de longo prazo mas de
+
+[14:23] novo não que elas vão
+
+[14:24] quando eu falo vão não é uma bolinha que
+
+[14:26] sai de um lugar para o outro não é isso
+
+[14:28] é um padrão neuronal então a analogia
+
+[14:32] que ficou ontem fiquei muito tempo
+
+[14:33] pensando nisso a analogia que eu fico
+
+[14:35] tentando pensar é um carimbo
+
+[14:37] sabe quando você pega uma folha de papel
+
+[14:39] da 111 só tenho um certo carimbo
+
+[14:41] aí você bate o carimbo mas rebate leve
+
+[14:43] um carimbo essa memória de curto prazo é
+
+[14:46] uma idéia de curto prazo
+
+[14:47] quando você aperta mais forte a memória
+
+[14:49] vai ficar mais difícil de sair né então
+
+[14:51] a idéia de mais longo prazo
+
+[14:53] só que as suas experiências vão ser um
+
+[14:55] carimbo só são vários carimbos estão por
+
+[14:58] exemplo tem que lembrar de uma coisa e
+
+[14:59] dar uma carimbada e outra em quando você
+
+[15:02] põe outra fica um carrinho em cima do
+
+[15:03] primeiro então não é nem a primeira
+
+[15:05] memória nem a segunda mas a junção das
+
+[15:07] duas sim né
+
+[15:08] depois uma terceira coisa uma quarta
+
+[15:09] coisa você vai ter um mosaico de
+
+[15:11] carimbos
+
+[15:12] sem isso é a sua memória na sua memória
+
+[15:14] é isso confunde talvez o o o suporte
+
+[15:18] sobre o qual você tá acabando ele também
+
+[15:21] fica se mexendo
+
+[15:23] exato porque porque o suporte é o
+
+[15:25] próprio papel
+
+[15:26] a nec só que aqui são as vias neurais né
+
+[15:29] que são as vias dos neurônios então que
+
+[15:31] estão se modificando também não
+
+[15:32] modificando o seu papel também tivesse
+
+[15:34] modificando isso então o processo muito
+
+[15:36] dinâmico e por isso que a memória é uma
+
+[15:38] construção então quando você tem um
+
+[15:40] evento ambiental
+
+[15:41] eu vejo quem né conheço quem já um tempo
+
+[15:43] eu vejo ele isso ele se algumas memórias
+
+[15:46] ou seja eu vejo que é isso estimula
+
+[15:48] certas vias que me lembram quem logo
+
+[15:51] essas visam estimular outras
+
+[15:53] ou seja é como se o seu carimbo
+
+[15:55] estimulasse outros carimbos daquele
+
+[15:57] padrão e aí quando eu vejo você tem uma
+
+[15:59] série de coisas vêm mosaico em mosaico
+
+[16:02] de coisas da minha experiência com você
+
+[16:04] durante a vida por aí
+
+[16:06] é isso é muito comum é só isso é muito
+
+[16:09] interessante para quem faz terapia tanto
+
+[16:13] para quem faz terapia quanto a quem é
+
+[16:14] terapeuta o primeiro para os terapeutas
+
+[16:16] eu também já atende tem uma coisa muito
+
+[16:18] interessante com quando você é terapeuta
+
+[16:21] na lista o que quer que seja
+
+[16:22] imagine que você tem uma prática clínica
+
+[16:24] constante então você atende vários
+
+[16:25] pacientes
+
+[16:26] você não é psicólogo que você não deve
+
+[16:28] saber disso não sei mas o paciente é
+
+[16:30] isso é acontecer comigo muitas vezes que
+
+[16:33] eu atendi uma pessoa ela embora eu saía
+
+[16:36] da sala também o pufe cia
+
+[16:38] claro que lembro da pessoa mas que se o
+
+[16:40] conteúdo porque era muita coisa então se
+
+[16:42] esquece o conteúdo
+
+[16:43] aí a pessoa voltava na hora que ela
+
+[16:45] entrava na sala voltava tudo de novo
+
+[16:48] então é como se você tem uma idéia de
+
+[16:51] memória contextual
+
+[16:52] a memória é saliente num contexto isso
+
+[16:55] aconteceu já com todo mundo que está no
+
+[16:56] seu quarto
+
+[16:57] aí você levantar eu preciso pegar uma
+
+[16:59] coisa na cozinha a gente vai indo até a
+
+[17:00] cozinha chega lá que era mesmo de volta
+
+[17:03] pro quarto além breia e volta pra fazer
+
+[17:05] de novo é dado o contexto agora com 16
+
+[17:08] anos e terapeuta ele precisa esquecer
+
+[17:12] aquele preço não é intencional eu sei
+
+[17:15] que não mas eu tô dizendo que assim para
+
+[17:17] atender o próximo paciente ele desperta
+
+[17:19] forma precisa apagar aquilo
+
+[17:21] temporariamente
+
+[17:22] sim eu tenho direito próximo né e voltar
+
+[17:26] a lembrar daquele primeiro paciente na
+
+[17:28] próxima conferência só que ele não
+
+[17:29] queria paga
+
+[17:31] - saliente-se ainda não estava lá o
+
+[17:33] carimbo tá lá só que aí entra outro né
+
+[17:35] então é um mosaico que você tem e
+
+[17:38] dependendo do estilo ambiental certas
+
+[17:40] áreas são mais iluminadas que outros
+
+[17:41] então por isso memória é um estado e não
+
+[17:43] um armazenamento evitá e que é afetado
+
+[17:46] pelo contexto sempre sempre memória é a
+
+[17:49] aprendizagem não existe aprendizagem e
+
+[17:52] memória memória e aprendizagem então
+
+[17:54] você é o que você é o que você aprendeu
+
+[17:56] a fazer isso e você depende da sua
+
+[17:58] memória não tem jeito uma grande coisa
+
+[18:00] que eu quero tentar desconstruir as
+
+[18:02] pessoas aqui as memórias não são
+
+[18:03] armazenadas
+
+[18:04] elas são processadas no processamento
+
+[18:06] sempre tá é é um estado é uma construção
+
+[18:10] e isso tem maior caxias onde você
+
+[18:13] deposita as coisas não não é uma
+
+[18:15] caixinha que foi seu sonho se dá não é
+
+[18:17] nada disso
+
+[18:18] e exatamente por isso a memória um
+
+[18:19] processo dinâmico e por isso que no
+
+[18:21] limite é um pouco desesperador você
+
+[18:23] nunca lembra nada você sempre reconstrói
+
+[18:25] as coisas né com mais ou menos é
+
+[18:28] precisão
+
+[18:29] dependendo do contexto dependendo das
+
+[18:32] suas variações individuais no caso de
+
+[18:34] doença ou não e dependendo da
+
+[18:36] necessidade
+
+[18:37] então isso mostra duas coisas o cérebro
+
+[18:40] não é um computador e o cérebro não é um
+
+[18:42] gravador
+
+[18:43] eu quero muito grave o episódio
+
+[18:44] mostrando porque o cérebro não é um
+
+[18:46] computador a computador não tem nada a
+
+[18:48] ver com o cérebro se o processo é uma
+
+[18:50] metáfora ruim a gente vê isso depois
+
+[18:52] então você tem memória declarativa
+
+[18:54] implícita e essas duas memórias podem
+
+[18:57] acontecer em curto prazo e longo prazos
+
+[18:59] entrar
+
+[18:59] esse é o corte nos estudos de memória a
+
+[19:02] partir daí você tem outros tipos de
+
+[19:04] memória mas que estão dentro desses
+
+[19:06] agrupamentos são outros tipos
+
+[19:09] eu vou falar só mais um pouquinho das
+
+[19:10] causas materiais nem que são partes
+
+[19:12] forma a materiais do cérebro por exemplo
+
+[19:14] tem alguns trabalhos que mostram a
+
+[19:16] amígdala especificamente se o estímulo à
+
+[19:19] item experimentos com ratos então se eu
+
+[19:21] estimulo à amígdala de um rato ou de uma
+
+[19:23] pessoa só estimula a medula é inter com
+
+[19:26] um impulso elétrico tá não tem nenhum
+
+[19:29] evento é um impulso elétrico é eu boto
+
+[19:31] ratinho num lugar estímulo amígdala dele
+
+[19:33] o rato vai se lembrar mais das memórias
+
+[19:36] recentes
+
+[19:37] então ele está numa caixinha fazendo
+
+[19:39] alguma coisa enquanto estimula amígdala
+
+[19:40] dele é como se o cérebro tivesse uma
+
+[19:42] predileção por
+
+[19:43] lembrar mais aqui do que está
+
+[19:45] acontecendo agora com ele está por isso
+
+[19:48] o papel da mídia para a memória
+
+[19:49] emocional
+
+[19:50] por exemplo quando as torres gêmeas
+
+[19:52] caíram que estava fazendo o que você
+
+[19:54] lembra me lembro o que lembro
+
+[19:56] precisamente lembra precisamente aquela
+
+[19:58] onde eu estava com quem é quando ayrton
+
+[20:02] senna morreu também lembra então é esses
+
+[20:05] eventos mas elis regina morreu quando
+
+[20:07] elis regina também então quando e se
+
+[20:09] essas situações emocionalmente ativas né
+
+[20:12] é estimular milan então é como se
+
+[20:15] tivesse um impulso elétrico na sua vida
+
+[20:16] você vai lembrar do que estava associado
+
+[20:19] com aquele momento
+
+[20:20] só por curiosidade você consegue
+
+[20:22] identificar isso por ele é isso pode ser
+
+[20:26] por e gerar tipo de estimulação direta
+
+[20:28] estimula e você percebe que acende uma
+
+[20:31] região que tem a ver com memória de
+
+[20:33] curto prazo não compartilho longo só
+
+[20:36] pelo comportamento pelo comportamento
+
+[20:37] você vê que o rato lembra muito mais do
+
+[20:39] que aconteceu naquele momento que
+
+[20:40] estimulei tom é exatamente quando se vê
+
+[20:42] na tv falando no rio
+
+[20:44] você vai lembrar daquele contexto é
+
+[20:46] exatamente a mesma idéia
+
+[20:47] se você lesiona amígdala você vai ter
+
+[20:50] essa dificuldade a pessoa não vai
+
+[20:51] lembrar vai ter dificuldade de ter essas
+
+[20:53] memórias emocionais
+
+[20:55] essas mãos emocionais elas são ligadas a
+
+[20:58] longo prazo a memória de longo prazo
+
+[21:00] assim em geral se incluem por exemplo
+
+[21:02] trauma a idéia do trauma é você tem uma
+
+[21:05] memória afetiva muito forte isso vai
+
+[21:08] gerar uma memória de longo prazo muito
+
+[21:09] rápido então é como se fosse uma
+
+[21:10] carimbada forte ea mídia responsável por
+
+[21:14] isso então se tiver uma lesão na medula
+
+[21:15] muita dificuldade de reter essas
+
+[21:17] memórias que são importantes né é você
+
+[21:21] consegue estimular um jeito de você
+
+[21:22] elimina um trauma então seria a gente
+
+[21:25] mata a medida vai levar outras cenas
+
+[21:28] neva
+
+[21:29] não vai ser muito bom né você mesmo pode
+
+[21:32] ser que a pessoa queira optar por isso
+
+[21:34] né
+
+[21:35] não achei não se desculpa e se ainda não
+
+[21:37] viu porque é bem importante
+
+[21:38] falando disso da amígdala você não
+
+[21:40] precisa estimular eletricamente direto
+
+[21:42] né pra você ter essa atividade de
+
+[21:45] memória recente por exemplo cortisol que
+
+[21:47] é um hormônio relacionado com estresse e
+
+[21:49] a epinefrina se você tal tem um aumento
+
+[21:52] de cortisol empine frio nessa área no
+
+[21:54] seu corpo aumenta a memória recente
+
+[21:56] cortisol relacionado com stress
+
+[21:59] então se você está estressado fica tem
+
+[22:01] um pico de cortisol fica estressado
+
+[22:02] aumenta sua memória recente né
+
+[22:05] só que tem um problema se você fica
+
+[22:07] constantemente estressado ou seja o pico
+
+[22:09] de cortisol tiver muito alto sempre você
+
+[22:12] vai lembrar dos das memórias recentes
+
+[22:13] não só que chega uma hora que o cérebro
+
+[22:16] vai saturar e você não vai ter mais esse
+
+[22:18] recall de memórias recentes em algumas
+
+[22:22] áreas do conhecimento é chamado de
+
+[22:23] síndrome do burnout que quando a pessoa
+
+[22:25] não consegue reter nada mais tenho a
+
+[22:27] buga sabe isso é muito comum por exemplo
+
+[22:30] publicitário tem muito isso trabalha
+
+[22:32] muitas horas seguidas não dorme tal tem
+
+[22:34] picos de cortisol
+
+[22:35] com o tempo vai jogar ele não a pessoa
+
+[22:38] vai ter uma gente fala que o sentimento
+
+[22:41] da lógica embotado ela não consegue nem
+
+[22:43] expressar e reconhecer emoções
+
+[22:44] adequadamente a epinefrina relacionado
+
+[22:46] com isso também
+
+[22:48] então situações de stress são
+
+[22:50] importantes pra memória de curto prazo
+
+[22:52] só que o excesso delas leva o trauma por
+
+[22:54] exemplo diz que tem pessoas que sofrem
+
+[22:55] um trauma muito grande esquece porque
+
+[22:58] tem um certo bloqueio mesmo ao cérebro
+
+[23:00] não registra por conta da situação de
+
+[23:02] alto estresse
+
+[23:03] então tá aí vamos checar só a subir
+
+[23:05] perguntas que chegaram uma delas
+
+[23:07] perguntou como as memórias armazenam nos
+
+[23:10] neurônios então a resposta que a simples
+
+[23:12] né
+
+[23:12] elas não se ela senão maseno nos
+
+[23:15] neurônios hisano uma idéia de
+
+[23:17] armazenamento mas considerou ser uma
+
+[23:20] base para a memória mas não ela não fica
+
+[23:22] dentro deles é o padrão entre eles em um
+
+[23:24] ainda nessa linha também alguém pergunta
+
+[23:27] se elas ficam armazenadas em nível
+
+[23:29] molecular
+
+[23:31] então é é aí valeu valeu um um
+
+[23:34] comentário você tem por exemplo
+
+[23:36] neurotransmissores né o substâncias do
+
+[23:39] cérebro é um delas uma delas é chamado
+
+[23:41] se fosse
+
+[23:42] então quando eu mostro pra você um
+
+[23:44] estímulo certas áreas relacionadas com
+
+[23:47] aquele estilo expressam mais se fosse né
+
+[23:50] isso é relacionado com um sinal de que
+
+[23:53] está criando vias como se fosse um
+
+[23:55] carimbo
+
+[23:56] então essas vias estão ficando mais
+
+[23:57] ativadas por que você foi exposto um
+
+[24:00] site estimo um condicionamento de medo
+
+[24:02] alguma coisa assim você faz aumenta aí
+
+[24:05] como é como se criar seu carimbo e essa
+
+[24:07] via fica mais ativava eu enquanto é
+
+[24:09] exposto a esse estímulo de r$9 mais
+
+[24:11] rápida
+
+[24:12] assim entendeu então é não é que ele
+
+[24:14] fica armazenado a nível molecular mas
+
+[24:16] você tem substâncias que permitem esse
+
+[24:18] carimbo é você fazer dela uma delas por
+
+[24:21] exemplo a idéia é que ela pergunta mais
+
+[24:23] frugal aqui de porque as pessoas acabam
+
+[24:26] contando as mesmas histórias inúmeras
+
+[24:28] vezes
+
+[24:29] então é aí a gente sai um pouco da dieta
+
+[24:32] é bom a gente sair um pouco das causas
+
+[24:33] materiais
+
+[24:34] a gente vai para as causas formais da
+
+[24:36] memória né eu falei até um pouco de
+
+[24:38] calda formal a gente pode falar de casa
+
+[24:40] formal o eficiente da memória porque
+
+[24:42] reunião de família tem o tio lá útil
+
+[24:44] para vené sempre em conta as mesmas
+
+[24:46] histórias
+
+[24:47] provavelmente você parar para pensar e
+
+[24:48] se esse ouvinte ele só deve ver o tio
+
+[24:51] nestes nestes momentos
+
+[24:52] ele não viu o tio tinha uma vez por ano
+
+[24:54] é o natal este natal a reunião de
+
+[24:58] família o velório da família e esse tio
+
+[25:01] é esse tio ele você só lembra que é o
+
+[25:04] seu tio porque ele está lá né
+
+[25:07] ou seja é isso não é não é só uma coisa
+
+[25:09] específica do seu tipo paver por exemplo
+
+[25:12] imagine que você tem contato com seus
+
+[25:13] amigos de infância que você não tem
+
+[25:15] contato com eles no dia a dia você só
+
+[25:16] tem contato
+
+[25:17] nessas reuniões de amigos de infância do
+
+[25:19] que vocês vão falar das coisas que vocês
+
+[25:21] faziam quando eram crianças ou seja se
+
+[25:23] repetem sempre as mesmas histórias
+
+[25:25] porque é isso que mantém a união do
+
+[25:27] grupo como você não atualizou as
+
+[25:29] memórias com coisas mais novas o que
+
+[25:32] mantém a unidade do grupo são as
+
+[25:33] memórias antigas né é a mesma coisa
+
+[25:36] antropologicamente falando dos ritos
+
+[25:38] então o pajé que conta a história ele
+
+[25:40] conta histórias internet é um território
+
+[25:42] ao mesmo é o ritual é um ritual de uma
+
+[25:45] tribo né
+
+[25:46] é uma forma de você receber unificar o
+
+[25:48] grupo toda vez que conta a história de
+
+[25:50] novo então é como se você percebesse a
+
+[25:52] eu faço parte dessa família
+
+[25:54] o grupo ainda existe ainda és lindo e
+
+[25:56] ainda faço parte dele então pensa por
+
+[25:59] exemplo famílias que têm muitos primos
+
+[26:01] em geral as suas primas convivem muito
+
+[26:03] quando crianças e tal depois cada um
+
+[26:04] conhece vai pro seu lado quando você
+
+[26:05] volta nas reuniões de natal têm contando
+
+[26:07] que a história de 40 crianças
+
+[26:09] então é esses rituais de rememoração são
+
+[26:13] coisas muito importantes pra você
+
+[26:14] lembrar pra você que a coalizão de grupo
+
+[26:16] aí vale só um pequeno comentário num
+
+[26:18] podcast que a gente falou sobre por que
+
+[26:20] pessoas ricas não percebem a pobreza né
+
+[26:23] eu fiz um comentário por exemplo de que
+
+[26:25] a questão não é possível de ser pobre ou
+
+[26:27] rico é o acesso
+
+[26:28] então quando você tem de ver
+
+[26:30] desigualdade social
+
+[26:31] você tira de pessoas o acesso a coisas o
+
+[26:34] que é esse acesso é a possibilidade de
+
+[26:36] partilhar de histórias semelhantes que o
+
+[26:38] exemplo que teve até um exemplo que eu
+
+[26:40] comentei que eu vou trazer de novo
+
+[26:41] temos muitos ouvintes muitas pessoas por
+
+[26:43] exemplo nunca viaja já viajaram para o
+
+[26:45] exterior
+
+[26:46] isso não é bom nem ruim mas sinal de
+
+[26:48] nada mas por exemplo se você pega um
+
+[26:50] grupo de pessoas que viajam para o
+
+[26:52] exterior com constantemente um grupo que
+
+[26:54] não viaja
+
+[26:55] eles têm algo em comum para dividir
+
+[26:56] então quem viaja ao exterior viaja e
+
+[26:59] quantas histórias a eu já fui pro tal
+
+[27:00] lugar eu já fui conhecer tal cultura
+
+[27:02] isso e isso é um ponto que forma uma
+
+[27:05] união de grupos é a mesma coisa do seu
+
+[27:06] tio fazer né
+
+[27:08] pessoas que não tiveram oportunidade
+
+[27:09] enfim ou não viajaram para os mesmos
+
+[27:11] lugares não consegue ter essa partilha
+
+[27:13] então invariavelmente você vai criar uma
+
+[27:16] cisão do grupo tá então essa importância
+
+[27:18] ea pergunta sobre a memória da infância
+
+[27:21] à então memória de infância também é uma
+
+[27:24] outra causa eficiente da memória amnésia
+
+[27:27] infantil ela é o seguinte
+
+[27:29] pra quem não sabe o que é mas dá pra
+
+[27:31] fazer uma prova muito fácil disso tente
+
+[27:34] lembrar
+
+[27:35] veja por exemplo a primeira memória que
+
+[27:37] você tem quando você tinha mais ou menos
+
+[27:40] dois anos
+
+[27:41] em geral não vai vir uma memória memória
+
+[27:44] vem uma imagem vem o cheiro tem gente
+
+[27:46] que não lembra nada só começa a lembrar
+
+[27:48] desse mesmo depois de 67 anos ela tem
+
+[27:51] gente que não lembra menos de seis anos
+
+[27:53] não lembra nada né lembra uma imagem
+
+[27:56] muito e às vezes quando ela lembra uma
+
+[27:59] imagem na verdade foi porque a mãe disse
+
+[28:01] para ela então ela tomou como sendo dela
+
+[28:03] mas nunca foi uma memória dela e da mãe
+
+[28:05] é muito difícil disse
+
+[28:07] terminar essas coisas né dessas coisas
+
+[28:09] de amnésia infantil o primeiro
+
+[28:10] pesquisador que escreveu isso de forma
+
+[28:12] mais séria foi o freud três ensaios
+
+[28:15] sobre sexualidade ele falava um pouco
+
+[28:17] disso a descrição foi bem apurada
+
+[28:19] só que a explicação do porquê dessa da
+
+[28:21] existência de amnésia infantil é muito
+
+[28:23] ruim
+
+[28:23] hoje em dia já ultrapassada na
+
+[28:25] explicação psicanalítica não dá conta do
+
+[28:27] porquê da amnésia infantil na hoje em
+
+[28:30] dia você tem trabalhos muito legais que
+
+[28:32] mostram por exemplo que você tem genes
+
+[28:35] regulando isso nessa idéia da amnésia
+
+[28:37] então por exemplo porque as crianças
+
+[28:39] pequenas têm amnésia infantil né depois
+
+[28:41] não sei ela só lembram delas mesmo
+
+[28:43] depois de 67 anos por duas razões
+
+[28:45] primeiro uma questão de desenvolvimento
+
+[28:47] né então você nasce ele ouça ouça o cast
+
+[28:52] sobre é como funciona nosso cérebro
+
+[28:55] quando você fala com você mesmo é que eu
+
+[28:57] explique os níveis de consciência mas
+
+[28:59] uma criança nasce sem saber que ela é
+
+[29:02] ela a noção de e vai se construindo com
+
+[29:04] o tempo
+
+[29:05] então pra você se lembrar de que você é
+
+[29:08] você
+
+[29:08] você tem que existe antes e você só vai
+
+[29:11] existir depois de uma certa idade
+
+[29:13] então é muito difícil uma criança você
+
+[29:15] tem uma memória de você com um ano
+
+[29:17] porque você não sabe não sabe a
+
+[29:18] diferença entre você eo mundo ainda
+
+[29:19] então esse é a primeira coisa é uma
+
+[29:21] questão de desenvolvimento outra coisa é
+
+[29:23] uma questão especificamente de maturação
+
+[29:25] do cérebro isso é regulado por gênios
+
+[29:28] então por exemplo do zero os dois anos o
+
+[29:31] cérebro ele eles se desenvolvem muito
+
+[29:32] rápido então isso entre aspas compromete
+
+[29:36] o desenvolvimento da memória porque a
+
+[29:37] memória não carimbo sim então é como se
+
+[29:40] o papel estivesse mudando o tempo
+
+[29:42] inteiro então carimbo não vai ser mais o
+
+[29:44] mesmo depois de um tempo então imagina
+
+[29:45] que o papel está aumentando a área dele
+
+[29:48] eo meu caramba tem o mesmo tamanho
+
+[29:50] então o papel vai aumentando diária logo
+
+[29:52] meu carinho vai ficando pequeno em
+
+[29:53] relação à área total
+
+[29:54] logo ele vai começar a assumir né então
+
+[29:57] a irrelevância ele perde relevância
+
+[29:59] terço miné até outras coisas ficarem em
+
+[30:01] cima ea pagar e você tem uma grande
+
+[30:05] quantidade de amnésia de uma grande
+
+[30:07] quantidade de neurônios no hipocampo que
+
+[30:09] como eu falei é uma área importante para
+
+[30:11] a memória é muito legal essa essa
+
+[30:14] descoberta
+
+[30:14] eles descobriram que têm genes que são
+
+[30:17] ativados aos dois anos da criança em
+
+[30:20] torno de dois anos
+
+[30:21] e provoca uma reestruturação de todo o
+
+[30:23] campo todas as conexões do hipocampo
+
+[30:25] meio que somem são feitas de novo aos
+
+[30:27] dois e depois aos seis anos de novo tem
+
+[30:30] uma outra reconstrução tá isso é muito
+
+[30:32] relacionado com as fases do
+
+[30:34] desenvolvimento da inteligência própria
+
+[30:35] age que a nascimento da função semiótica
+
+[30:39] os dois anos ea formação do real aos 67
+
+[30:42] então eu viajei conseguiu detectar
+
+[30:44] comportamentalmente uma coisa que
+
+[30:46] molecularmente é regulado por genes
+
+[30:48] também né isso é muito legal
+
+[30:51] e essa é a causa da minha infantil ele
+
+[30:53] fez isso observar seu nome
+
+[30:55] observando as filhas dele só os filhos
+
+[30:57] dele não vi outras crianças ele ficou
+
+[30:59] vendo a obsessivamente as filhas deles
+
+[31:01] então isso é sensacional é hetero antes
+
+[31:04] desta descoberta assim a há a idéia de
+
+[31:07] neurônios do hipocampo têm 20 anos nem
+
+[31:09] isso tem menos que isso
+
+[31:10] saiu um trabalho do povo franklin nec um
+
+[31:13] amigo meu lá de toronto
+
+[31:14] falando dessa hipótese dessa explicação
+
+[31:16] por exemplo pra mim mais infantil é
+
+[31:19] ligado a essa neurogênese hipocampo e
+
+[31:22] mostrando que a explicação do fraude é
+
+[31:23] insuficiente não tem a ver com uma
+
+[31:24] repressão é porque ela não é capaz de
+
+[31:27] lembrar mesmo o desenvolvimento
+
+[31:28] cognitivo mesmo né então teria escrito
+
+[31:31] que gera esse gap assim é que não tem
+
+[31:33] como ler a nossa infância que a gente
+
+[31:34] simplesmente não lembra como se não
+
+[31:36] tivesse existido se você não tem como
+
+[31:38] lembrar por que você não é você
+
+[31:39] nilceu cérebro muda as conexões então
+
+[31:42] não tem como ficar num tá então essa é a
+
+[31:44] causa por exemplo para a amnésia
+
+[31:46] infantil até uma pergunta pessoal agora
+
+[31:49] uma presença minha vamos assim pra pra
+
+[31:52] incluir aqui nesse bolo 11 dos meus
+
+[31:55] filmes prediletos de todos os tempos num
+
+[31:58] é um filme de michel gondry chama-se
+
+[32:01] brilho eterno de uma mente sem
+
+[32:02] lembranças e o argumento tem a ver com a
+
+[32:07] existência de uma tecnologia que permite
+
+[32:09] que permitiria a gente a pagar parte das
+
+[32:14] nossas memórias num então a gente tem
+
+[32:18] uma memória muito triste né que nos
+
+[32:20] entristece muito tanto que eu gostaria
+
+[32:23] que eu preferia perder essa memória é
+
+[32:26] uma pessoa que me causou muita tristeza
+
+[32:29] muita perda
+
+[32:31] nem eu prefiro até esquecer que ela
+
+[32:34] existiu né pra não ter de novo essa
+
+[32:37] sensação de perda a vida toda uma vez
+
+[32:40] que me lembro dessa pessoa daquela
+
+[32:42] situação não existe essa hipótese de uma
+
+[32:45] tecnologia que você vai lá e apaga
+
+[32:47] aquela pessoa por exemplo sua vida né ou
+
+[32:51] aquela aqueles momentos da sua vida né
+
+[32:55] o quanto isso é plausível é essa o ponto
+
+[33:00] de vista da dinâmica da memória assim
+
+[33:02] então após haver plausibilidade de você
+
+[33:05] a pagar especificamente coisas não não
+
+[33:09] dá assim porque de novo à memória é um
+
+[33:10] processo e um processo que envolve
+
+[33:12] várias coisas
+
+[33:13] tanto que no filme começa a dar uns paus
+
+[33:15] né porque os povos é dar um ruim lá na
+
+[33:18] máquina mim e começa a pagar coisas que
+
+[33:19] não deveriam isso né mas ele tem uma
+
+[33:21] coisa uma coisa central não é que o
+
+[33:23] episódio do black mirror também trazem é
+
+[33:26] que a possibilidade de você
+
+[33:28] converter a sua memória né a ser coisas
+
+[33:34] que estão na sua memória em imagens ou
+
+[33:37] seja resgatar como se eu pudesse
+
+[33:40] resgatar a imagem daqueles carimbos né e
+
+[33:43] projetar isso numa tv é o divertidamente
+
+[33:46] faz isso em uma época em uma área que é
+
+[33:50] que não é memória memória mas tem
+
+[33:51] marketing code
+
+[33:53] o encontro é sensacional assim você vê
+
+[33:55] os trabalhos a gente vai colocar na
+
+[33:57] descrição do vídeo um vídeo do youtube
+
+[33:59] que o peter galante que é um cara que
+
+[34:01] pesquisa isso ele faz ele foi uma coisa
+
+[34:03] sensacional com de coaching que é assim
+
+[34:05] ele coloca você em uma ressonância
+
+[34:07] magnética ali mostra imagens casa
+
+[34:09] árvores coisas né
+
+[34:11] essas imagens são codificadas pela
+
+[34:13] ressonância magnética então eu pego tira
+
+[34:15] uma foto do padrão de atividade do seu
+
+[34:17] cérebro vem daquela imagem então
+
+[34:19] demonstra uma árvore seu cérebro estava
+
+[34:20] com essa foto então ele faz como se
+
+[34:22] fosse uma matriz né então em cada área
+
+[34:25] do cérebro tem uma matriz limpa em
+
+[34:26] coluna diagonal é igual ea correlação
+
+[34:29] entre as áreas
+
+[34:30] ele tira isso ele mostra outra foto tira
+
+[34:32] outra imagem tira outra foto do cérebro
+
+[34:34] vai por aí
+
+[34:35] ele pega esse banco de imagens da sua
+
+[34:38] actividade neuronal vendas imagens das
+
+[34:40] fotos ele coloca num algoritmo não é se
+
+[34:43] ver
+
+[34:44] camila um classificador e aí o
+
+[34:46] computador aprendi a ler o que se está
+
+[34:48] vendo
+
+[34:48] então por exemplo eu coloco uma imagem
+
+[34:50] pra você na ressonância que eu não estou
+
+[34:52] vendo mas o computador reconstrói o que
+
+[34:55] você está vendo então eu consigo saber
+
+[34:57] que não estava em um carro uma casa uma
+
+[34:59] pessoa ele já consegue fazer isso com um
+
+[35:01] filme
+
+[35:02] então o filme está passando e o
+
+[35:04] computador está reconstruindo a imagem
+
+[35:05] do seu cérebro vem do filme
+
+[35:07] então eu não estou vendo que você está
+
+[35:09] vendo mas eu tô vendo que seu cérebro
+
+[35:10] está registrando sendo transformado a
+
+[35:13] imagem né e tem trabalhos mais modernos
+
+[35:16] mostrando isso com sonho mas isso na
+
+[35:17] memória não é memória memória é o que o
+
+[35:20] seu só visam tá registrando é o que o
+
+[35:24] seu cérebro na verdade está registrando
+
+[35:26] a partir da visão isso mas agora está
+
+[35:28] tentando ir para coisas de memória mesmo
+
+[35:29] com isso né então se eu consigo fazer
+
+[35:32] isso com a imagem que está sendo
+
+[35:34] mostrado agora será que eu consigo
+
+[35:35] reconstruir imagens que ele viu antes
+
+[35:38] então tem um trabalho sensacional os
+
+[35:40] japas ele um japonês lá que eles
+
+[35:43] conseguiram votar pessoa dormindo na
+
+[35:45] ressonância e ver o que ela tá sonhando
+
+[35:46] sabe é eu sei que é difícil acreditar
+
+[35:49] porque vai pôr um vídeo pra você ver e
+
+[35:51] tem algumas informações não é perfeito
+
+[35:53] claro mas dá pra saber dá pra ver umas
+
+[35:55] coisinhas que a pessoa está pensando e é
+
+[35:57] e dormindo enfim já é black mil
+
+[35:59] suficiente é sensacional é essa em
+
+[36:02] coaching é fantástica força
+
+[36:04] computacional vale muito a pena muito
+
+[36:06] muito muito legal né então pra fechar
+
+[36:08] vamos falar de problemas de memória da
+
+[36:10] de doenças ou problemas que há memória
+
+[36:14] acontece falamos da amnésia infantil que
+
+[36:17] não é um problema mas uma característica
+
+[36:18] do desenvolvimento
+
+[36:20] a perda de memória é mais comum em
+
+[36:21] idosos nem tão alzheimer ambiental é a
+
+[36:24] primeira coisa e o tipo de memória que o
+
+[36:26] idoso com alzheimer têm
+
+[36:28] ele lembra das coisas mas ele não lembra
+
+[36:31] a ordem então a primeira o primeiro tipo
+
+[36:33] de perda de memória que os as pessoas
+
+[36:35] com alzheimer têm a ordem a e aconteceu
+
+[36:37] tais coisas mas em que ordem esse é o
+
+[36:40] primeiro tipo de memória o que de perda
+
+[36:42] de memória e perde a memória recente
+
+[36:44] também pede antes de perder a memória de
+
+[36:48] um piso mas o que ele perde a memória
+
+[36:49] recente não é o que aconteceu mas em que
+
+[36:51] ordem aconteceu aí dá a sensação de
+
+[36:54] confusão não é porque eu tô aqui
+
+[36:56] não sendo que mas o porquê eu vim aqui o
+
+[36:59] download eu vim pra chegar aqui ele
+
+[37:00] lembra as partes mesmo lembra ligação
+
+[37:02] está entre elas
+
+[37:03] então isso é interessante e outra coisa
+
+[37:05] que é uma parte final é o que você pode
+
+[37:07] fazer para melhorar sua memória é muita
+
+[37:09] gente fala programas testes do
+
+[37:11] treinamento é possível melhorar sua
+
+[37:14] memória é treinamento com treino você
+
+[37:16] consegue melhorar um pouco sua memória
+
+[37:18] de trabalho nela que os aplicativos que
+
+[37:20] tem para o celular então de treinar a
+
+[37:22] memória elas têm algum de ficar se não
+
+[37:25] todas mas hamas assim tem uma técnica de
+
+[37:28] memorização por exemplo um chama técnica
+
+[37:30] da do castelo mágico é você se imaginar
+
+[37:33] entrando num castelo e cada sala tem
+
+[37:35] alguma coisa e isso vai te ajudar
+
+[37:37] lembrassem conhecidos de número de nomes
+
+[37:39] coisas assim
+
+[37:41] é um treino difícil sem treinar
+
+[37:43] sistematicamente mas pode melhorar que é
+
+[37:45] o que dizem que usam assunto técnicas
+
+[37:48] assim que por exemplo grandes jogadores
+
+[37:50] de cartas xadrez nisso eles utilizam
+
+[37:55] célula pessoas matemáticos usando então
+
+[37:58] é uma coisa não é uma coisa genial é
+
+[38:01] mais que você pode treinar e desenvolver
+
+[38:02] a associação é muito isso é muitas vezes
+
+[38:06] de associação treinos em tal mesmo
+
+[38:08] lembra de novos treinos de soroban por
+
+[38:11] exemplo um outro tipo para melhorar sua
+
+[38:12] memorização se você tiver interesse em
+
+[38:15] mount outras duas coisas que melhoram a
+
+[38:17] sua memória sem você treinar tanto é
+
+[38:20] fazer atividade física principalmente
+
+[38:21] atividade aeróbica porque já se sabe por
+
+[38:24] vários trabalhos que a atividade
+
+[38:25] aeróbica melhora o tipo de neurogênese
+
+[38:29] no hipocampo que você tem então por
+
+[38:31] exemplo você lembra de viver coisas hoje
+
+[38:34] se você faz atividade aeróbica ou no
+
+[38:37] começo do dia no final é o padrão você
+
+[38:40] você vai esquecer coisas mas com melhor
+
+[38:42] qualidade
+
+[38:43] você vai esquecer elementos relevantes e
+
+[38:46] lembrar apenas os elementos mais
+
+[38:47] relevantes daquilo que viveu então é
+
+[38:50] como se você fizesse um defrag no seu
+
+[38:53] cérebro sabe me deixar só a informação
+
+[38:55] que importa organizado jogar fora o
+
+[38:56] resto não faz exercício aeróbico não é
+
+[38:59] puxar ferro é correr é jogar bola fazer
+
+[39:02] coisas mães aeróbicas mesmo ea última
+
+[39:04] coisa sono grande
+
+[39:07] o local onde as memórias vão ser
+
+[39:08] ajustadas e e colocadas em ordem no sono
+
+[39:11] por isso que o sonho é uma forma de
+
+[39:13] ressignificar memórias e principalmente
+
+[39:15] o sono de ondas lentas que uma parte do
+
+[39:17] som muito importante para ressignificar
+
+[39:18] ação agrupamento da memória e também ler
+
+[39:21] os genes do educando
+
+[39:22] então se você não fizer a atividade
+
+[39:24] física e dormi mal mesmo treinando a sua
+
+[39:27] cabeça não vai ter bons resultados
+
+[39:29] então um bom padrão de vida é o que
+
+[39:31] determina uma boa memória
+
+[39:32] tá certo ao time esse foi um episódio
+
+[39:35] bom é eu os padrões no rodo é é um
+
+[39:40] episódio mais longo e vocês vejam que a
+
+[39:43] gente passou bastante superficialmente
+
+[39:46] por vários assuntos ligados à memória e
+
+[39:49] ainda assim vários outros ficaram de
+
+[39:51] fora pois é e agrupando as muitas
+
+[39:53] perguntas até então certamente a gente
+
+[39:55] vai voltar a falar de alguns deles a que
+
+[39:59] vocês fiquem à vontade de continuar
+
+[40:00] mandando suas dúvidas e comentários a
+
+[40:03] respeito desse assunto é isso aí legal
+
+[40:05] na o rodo em tão ilustre simon 20
+
+[40:08] [Música]
+
+[40:11] você sabia que pode ajudar a manter o
+
+[40:13] naro rodou no ar
+
+[40:15] ao contribuir você pode ter acesso a um
+
+[40:17] grupo fechado no facebook e receber
+
+[40:19] conteúdos exclusivos
+
+[40:21] acesse apóia ponto é se embananaram
+
+[40:24] rodou podcast
+
+[40:27] e você já sabe aquino rodou quem faz a
+
+[40:30] pauta é você
+
+[40:32] você tem alguma pergunta pra gente o que
+
+[40:34] comentar algum episódio escreva pra nós
+
+[40:36] podcast a roubar o odor ponto com.br
+
+[40:39] repetindo podcast a roubar narrador
+
+[40:42] ponto com.br
+
+[40:43] e lembre-se mande nome completo idade
+
+[40:46] profissão e à cidade de onde você está
+
+[40:48] falando
+
+[40:49] é isso aí andam
+
+[40:56] [Música]
+
+[40:58] isso pode é chato é apresentado ouro p 9
+
+[41:02] ponto com.br
+
+[41:06] [Música]
+
+[41:06] ah

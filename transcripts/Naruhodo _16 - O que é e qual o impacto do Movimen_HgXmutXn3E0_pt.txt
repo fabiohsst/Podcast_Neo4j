@@ -1,0 +1,601 @@
+Title: Naruhodo #16 - O que é e qual o impacto do Movimento Maker?
+URL: https://www.youtube.com/watch?v=HgXmutXn3E0
+Language: pt
+Extracted on: 2025-04-06 16:51:06
+================================================================================
+
+[00:00] com o impacto do movimento make na
+
+[00:03] sociedade não encontrou
+
+[00:08] [Música]
+
+[00:12] bem vindo ao lar ou do podcast para quem
+
+[00:15] tem fome de aprender
+
+[00:16] eu sou quem choque o sol sair de souza e
+
+[00:19] hoje é dia de que você sabe que é o
+
+[00:25] movimento maker não é pra mim é uma
+
+[00:27] coisa nova
+
+[00:28] até mesmo né então movimento maker é uma
+
+[00:31] espécie de extensão nas tecnológicas da
+
+[00:34] cultura americana do do it yourself faça
+
+[00:37] você mesmo exatamente uma coisa que já
+
+[00:41] um conselho já existentes às vezes há
+
+[00:42] bastante tempo
+
+[00:43] o movimento meio de uma espécie de
+
+[00:45] extensão tecnológica disso daí ele tem
+
+[00:48] como premissa a idéia de que pessoas
+
+[00:50] comuns podem construir consertar a
+
+[00:54] modificar a fabricar diversos tipos de
+
+[00:58] objetos e projetos com as suas próprias
+
+[01:01] mãos
+
+[01:02] isso é interessante me lembra muito a
+
+[01:04] mãe costume que por exemplo pessoas nos
+
+[01:06] estados unidos e no canadá tem de
+
+[01:08] carpintaria ou coisas assim exatamente
+
+[01:10] só que aqui com um viés de tecnologia de
+
+[01:15] software
+
+[01:16] esse movimento ele foi fundado por volta
+
+[01:19] de 2005 com o lançamento do que é
+
+[01:22] considerado a bíblia do movimento maker
+
+[01:24] que a revista make magazin
+
+[01:27] e hoje em dia com a popularização das
+
+[01:29] tecnologias de construção como
+
+[01:32] impressora 3d por exemplo os
+
+[01:34] microcontroladores como arduino arduino
+
+[01:37] microcomputador talvez mais conhecida
+
+[01:40] atualmente né
+
+[01:41] esse movimento make promete ser o início
+
+[01:44] de uma nova revolução industrial 1 feita
+
+[01:48] por pessoas comuns então pelo que
+
+[01:49] entendi parece que instrumentalizar as
+
+[01:51] pessoas aprenderem programação aprender
+
+[01:55] a linguagem de programação aprender um
+
+[01:56] pouco de eletrônica é como se fosse uma
+
+[01:58] versão high tech da carpintaria correto
+
+[02:01] é por aí né essa seria a analogia e por
+
+[02:05] conta disso porque uma nova revolução
+
+[02:07] industrial porque isso poderia ter o
+
+[02:09] potencial de alterar a relação que as
+
+[02:12] pessoas têm com a manufatura com
+
+[02:14] produtos feitos pela indústria no mês
+
+[02:17] passado
+
+[02:17] a fabricar algumas coisas elas mesmas em
+
+[02:20] casa por diversão por necessidade e
+
+[02:23] algumas até profissionalmente não é
+
+[02:25] interessante o cavalinho ele está
+
+[02:27] envolvido nesse momento nenhum
+
+[02:29] representante brasileiro do movimento
+
+[02:31] make e vai ajudar a gente refletir um
+
+[02:33] pouco sobre a expressão essa expressão
+
+[02:35] que é relativamente nova para a gente
+
+[02:36] então o carro responde a essa pergunta
+
+[02:38] qual o impacto do movimento maker na
+
+[02:41] sociedade
+
+[02:43] o mundo sempre passou por grandes
+
+[02:44] revoluções tecnológicas né da aceitar
+
+[02:46] duas famosas revolução agrícola
+
+[02:48] revolução industrial a última que a
+
+[02:51] gente e viveu e ainda tá vivendo a
+
+[02:53] revolução da internet
+
+[02:55] entenda que o movimento maker ou
+
+[02:57] qualquer que seja o nome que a gente
+
+[02:58] esteja no pressa nova onda é uma uma
+
+[03:01] nova revolução tecnológica
+
+[03:03] ela tem uma ligação muito forte com a
+
+[03:05] internet por dois motivos também é uma
+
+[03:07] revolução digital e assim como a
+
+[03:09] internet é a principal característica é
+
+[03:11] democratizar a tecnologia ea inovação
+
+[03:14] imagine todo esse poder agora indo pra
+
+[03:16] mundo físico ou seja criar produtos e
+
+[03:19] serviços físicos se agora a qualquer
+
+[03:22] pessoa pode criar produzir distribuir
+
+[03:23] conteúdo imagina um cenário onde ela
+
+[03:25] possa agora criar produzir distribuir
+
+[03:27] qualquer produto mesmo né
+
+[03:29] um celular um ar condicionado um carro
+
+[03:32] ou seja lá o que for
+
+[03:34] tudo isso suportado pela própria
+
+[03:36] internet através do compartilhamento de
+
+[03:38] conhecimento financiamento coletivo e
+
+[03:40] tudo mais mas também uma série de novas
+
+[03:42] tecnologias como impressão 3d plataforma
+
+[03:45] de prototipagem eletrônica de baixo
+
+[03:46] custo e baixa curva de aprendizado e
+
+[03:49] internet das coisas e muito mais
+
+[03:51] então assim como a internet é muito mais
+
+[03:53] do que um meio de comunicação esse
+
+[03:55] movimento terá um impacto muito além dos
+
+[03:56] meios de produção das grandes revoluções
+
+[03:58] têm impacto em todas as indústrias
+
+[04:00] segmentos há 20 anos atrás era difícil
+
+[04:02] conceber como a internet poderia ter
+
+[04:04] impacto pra taxista por exemplo mas é um
+
+[04:07] caminho sem volta
+
+[04:08] isso gera risco e gera oportunidade no
+
+[04:11] último fórum mundial de davos
+
+[04:12] o assunto principal a esse como lidar
+
+[04:15] com o impacto que isso pode ter na
+
+[04:16] economia nos empregos como se preparar
+
+[04:19] para essa nova realidade
+
+[04:21] já os países de primeiro mundo óleo isso
+
+[04:23] com oportunidades estão investindo
+
+[04:24] bastante dinheiro para sair na frente
+
+[04:27] se for olhar por exemplo pra na educação
+
+[04:29] para as escolas né ela hoje o trabalho
+
+[04:32] que é feito ele ele é muito adequado
+
+[04:35] pela revolução industrial passada né é a
+
+[04:38] educação como é feita hoje ela foi feita
+
+[04:41] pra criar peão de fábrica ou as mais
+
+[04:43] modernas executivos da empresa
+
+[04:45] agora se a gente olhar é 20 anos pra
+
+[04:48] trás e ver como o mundo mudou e imaginar
+
+[04:50] com a tecnologia evoluindo cada vez mais
+
+[04:52] rápidos o que vai ser daqui 15 anos
+
+[04:55] daqui 20 anos quando essa nova geração
+
+[04:57] estiver entrando nesse mercado de
+
+[04:59] trabalho
+
+[04:59] é como preparar pressionar o que é muito
+
+[05:01] difícil até de prevê né
+
+[05:04] se for olhar para o mercado de
+
+[05:05] comunicação por exemplo a internet mudou
+
+[05:07] o comportamento das pessoas teve impacto
+
+[05:09] gigante como elas lidam com as grandes
+
+[05:10] corporações seus produtos é é assim eu
+
+[05:13] gosto de olhar essa oportunidade é como
+
+[05:15] a gente pode utilizar o movimento make é
+
+[05:18] o da nova revolução industrial para
+
+[05:19] poder ajudar essas empresas a lidar com
+
+[05:22] essa grande mudança né
+
+[05:24] olhando inclusive as grandes empresas
+
+[05:26] ela de certa forma já estão lidando com
+
+[05:29] algo parecido com isso
+
+[05:31] com ciclo de inovação ficando cada vez
+
+[05:32] mais curto elas estão gastando muito
+
+[05:34] mais e pesquisa desenvolvimento que elas
+
+[05:36] possam lançar os produtos cada vez mais
+
+[05:38] não menos tempo e ao mesmo tempo como
+
+[05:40] esse produto fica menos tempo no mercado
+
+[05:42] elas estão fazendo menos dinheiro esse
+
+[05:44] produto ou seja estão gastando mais e
+
+[05:46] estão fazendo - o caminho para isso é
+
+[05:49] novo a mais e faz nova mais é preciso
+
+[05:51] fazer inovação aberta ou seja fazer com
+
+[05:54] que a inovação seja mais exclusividade
+
+[05:56] da equipe de pesquisa movimento da
+
+[05:58] própria empresa é que ela possa vir dos
+
+[06:00] seus outros funcionários e que
+
+[06:02] principalmente passagem também de fora
+
+[06:03] da empresa aproximação dessas grandes
+
+[06:06] empresas com startup é um indício dessa
+
+[06:08] mudança que tem enfim um caminho grande
+
+[06:11] e de discussão não só de riscos e
+
+[06:13] oportunidades mas que eu acho delicioso
+
+[06:15] e acho que deve fazer o mais cedo
+
+[06:17] possível e aí eu tô aí que você achou do
+
+[06:20] que o cavalo me falou pra gente na eu
+
+[06:22] achei muito interessante na verdade
+
+[06:23] porque me faz lembrar de coisas muito
+
+[06:25] clássicas assim é como parece que o
+
+[06:27] movimento gay que era meio que uma
+
+[06:28] alternativa é a lógica que vem vindo
+
+[06:31] desde a época da revolução industrial
+
+[06:33] não quero só um pouco pedante mas lembra
+
+[06:35] um pouco a transmitir não sei se você
+
+[06:36] alguém já leu pelo menos um dia
+
+[06:38] no metrô sabe aquele mito tem aquela a
+
+[06:40] livraria base que isso aquela máquina de
+
+[06:42] bombons e vende livros de r$1 sabino
+
+[06:44] você compra um livro la de um real que
+
+[06:46] uma riqueza das nações não é que mostra
+
+[06:48] por que eles lá se é porque a gente tá
+
+[06:49] na merda hoje é que custa hoje em dia
+
+[06:51] estão no real com 50 quando eles não
+
+[06:53] fazem promoção
+
+[06:54] a premissa da riqueza das nações é bem
+
+[06:56] interessante assim é o primeiro capítulo
+
+[06:58] do riqueza das nações não a transmite
+
+[07:00] ele começa definindo o que é uma nação
+
+[07:02] rica que um estado rico e ele descreve
+
+[07:05] que um estado rico não é um estado que
+
+[07:07] tem ouro que tem recursos naturais isso
+
+[07:10] não é não definir riqueza um estado rico
+
+[07:12] em um ka paul um estado capaz de gerar
+
+[07:14] trabalho
+
+[07:15] quanto mais trabalho um estado gerar
+
+[07:17] mais recolher tá se você assumir como
+
+[07:20] verdade nos assumir como um pressuposto
+
+[07:22] tem uma consequência
+
+[07:24] logo se um estado rico é um estado capaz
+
+[07:26] de gerar trabalho necessariamente vai
+
+[07:29] ser igual a você estabelece a
+
+[07:31] desigualdade porque você tem os
+
+[07:32] empregadores e empregados sendo
+
+[07:34] necessariamente e aí se você assumir
+
+[07:36] essas duas coisas como verdade
+
+[07:38] qual é o papel do estado do governo
+
+[07:40] então o papel do governo é garantir a
+
+[07:42] igualdade porque ela é inerentemente
+
+[07:44] desigual mas sim proteger os ricos dos
+
+[07:47] pobres nem impedir que aconteça o que
+
+[07:49] aconteceu na revolução francesa que o
+
+[07:51] atleta e matou e nem impedir que isso
+
+[07:53] aconteça de novo
+
+[07:54] e como é que se faz isso aí tem várias
+
+[07:57] estratégias para fazer isso mas uma
+
+[07:59] delas é você naturalizar o trabalho
+
+[08:01] eu lembro-me não vou falando sabe meu
+
+[08:04] filho você tem que estudar para
+
+[08:05] conseguir emprego e ser alguém na vida
+
+[08:07] disse sob a lógica do admite que sabe
+
+[08:10] que o movimento gay que dar uma quebrada
+
+[08:13] então a partir do momento que você
+
+[08:14] instrumentalizada cada indivíduo a poder
+
+[08:16] ter autonomia na construção das suas
+
+[08:19] coisas você quebra um pouco essa lógica
+
+[08:21] não é do empregador e do empregado
+
+[08:23] na verdade a pessoa vira entre aspas um
+
+[08:25] empregado de si mesmo e ela vira um
+
+[08:28] produtor das próprias coisas
+
+[08:29] então você atenua um pouco esse senso de
+
+[08:32] desigualdade
+
+[08:33] talvez a economia de subsistência também
+
+[08:35] tem esse mesmo papel não todas as coisas
+
+[08:37] colaborativas tentam quebrar um pouco
+
+[08:39] essa lógica que imposta já quase 300
+
+[08:42] anos
+
+[08:43] então aqui pensando inclusive
+
+[08:45] tá aí quando a gente vem aqui e tomar a
+
+[08:47] iniciativa de criar conteúdo por exemplo
+
+[08:49] todas na roda é o projeto despretensioso
+
+[08:52] não tem ambições profissionais mas de
+
+[08:55] alguma forma a gente está criando
+
+[08:57] conteúdo que vai conseguir consumido por
+
+[08:59] gente
+
+[09:00] você já está ocupando tempo das pessoas
+
+[09:03] e atenção das pessoas com o conteúdo
+
+[09:06] tempo esse que poderia estar sendo
+
+[09:08] utilizado para consumir uma outra coisa
+
+[09:10] é consumido por um produto de o conteúdo
+
+[09:16] por exemplo de um produtor profissional
+
+[09:19] né comercial em um conteúdo né então de
+
+[09:23] alguma forma esse tipo de iniciativa
+
+[09:26] individual ou iniciativas de pequenos
+
+[09:29] grupos tal é de alguma forma pode acabar
+
+[09:32] impactante dando a ele uma gota no
+
+[09:35] oceano mas acaba impactando na soma de
+
+[09:38] todos os fatores
+
+[09:40] é um sistema em andamento claro que não
+
+[09:42] eu concordo totalmente eu acredito eu
+
+[09:44] espero que tenha algum dos nossos
+
+[09:46] ouvintes ouvindo esse áudio agora num
+
+[09:48] boteco tomando cerveja entendeu e que
+
+[09:51] isso sirva como pauta para discussão
+
+[09:53] seja no trabalho no próprio bairro em
+
+[09:55] outra coisa é até engraçado o vôo a
+
+[09:57] gente não ensaia previamente cliente vai
+
+[09:59] falar mas por exemplo essa criação de
+
+[10:01] conteúdo na verdade dá prejuízo para
+
+[10:03] quem por que as pessoas poderiam estar
+
+[10:04] vendo uma propaganda em visitar ou ainda
+
+[10:07] podcast e nós somos pessoas que
+
+[10:09] dedicamos tempo a isso não de uma forma
+
+[10:12] despretensiosa porque a gente acha que
+
+[10:14] isso pode ter um impacto mesmo que
+
+[10:15] pequeno na mudança das pessoas em algum
+
+[10:18] nível e eu descobri isso agora que em
+
+[10:21] certa medida a gente faz parte desse
+
+[10:23] movimento bem que também é isso aí é bem
+
+[10:25] interessante movimento maker na roda e
+
+[10:28] lustres envolvente e nosso arigatô
+
+[10:30] sincero para a participação do cavalinho
+
+[10:33] e aprendi bastante
+
+[10:35] e lembre-se aquino ro do que faz a pauta
+
+[10:38] é você você discorda do que ouviu tem
+
+[10:40] alguma pergunta quer compartilhar alguma
+
+[10:42] curiosidade ou quer lançar um desafio
+
+[10:44] escreva pra gente
+
+[10:46] podcast a roubar o rodo ponto com.br
+
+[10:49] repetindo ipod cast a roubar o voto com
+
+[10:52] h ponto com.br até o próximo no
+
+[10:55] rodoshopping ao do maringá tom nada
+
+[11:02] encontrou
+
+[11:06] isso pode é apresentado o ouro e nove
+
+[11:10] ponto com.br
+
+[11:14] ah
+
+[11:16] [Música]

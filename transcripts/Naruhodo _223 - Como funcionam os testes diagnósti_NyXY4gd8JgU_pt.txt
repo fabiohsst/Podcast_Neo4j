@@ -1,0 +1,2491 @@
+Title: Naruhodo #223 - Como funcionam os testes diagnósticos?
+URL: https://www.youtube.com/watch?v=NyXY4gd8JgU
+Language: pt
+Extracted on: 2025-04-06 16:44:48
+================================================================================
+
+[00:00] e como funcionam os testes diagnósticos
+
+[00:05] [Música]
+
+[00:07] e aí
+
+[00:09] [Música]
+
+[00:11] olá bem-vindo ao lar rodolfo podcast
+
+[00:13] para quem tem fome de aprender eu só ken
+
+[00:15] fujioka eu troquei de são josé de hoje é
+
+[00:17] dia de quê
+
+[00:19] ah sim sei senso comum ii
+
+[00:22] em alta aí vamos para os recados da
+
+[00:24] paróquia quais são número um vai noite
+
+[00:27] história de cinco estrelas e faça o seu
+
+[00:29] comentário isso aí número dois indique o
+
+[00:31] episódio do naruto rodolfo para alguém
+
+[00:33] que nunca ouviu na rodou mesmo nunca
+
+[00:35] tenha ouvido podcast vamos aumentar o
+
+[00:38] tamanho de nossa quando as féria hein
+
+[00:39] número 3 altair a o número 3 é sobre
+
+[00:43] ajudar a manter o naro rodou no ar
+
+[00:46] altair isso aí e para contribuir basta
+
+[00:48] usar aplicativo picpay e assinar o apoio
+
+[00:51] mensal de 15 reais são duas coca zero
+
+[00:54] querido ouvinte que ele não 20 uma
+
+[00:56] pronto aí e uma para mim e como
+
+[00:58] assinante além da nossa gratidão você
+
+[01:00] terá três coisas ou você ter acesso ao
+
+[01:03] grupo secreto no telegram ou seja
+
+[01:05] assinante pode conversar com a gente com
+
+[01:07] a comunidade de ouvir os assinantes dois
+
+[01:09] você terá vantagens especiais por
+
+[01:12] exemplo assinante recebe os episódios no
+
+[01:14] grupo secreto telegram antes de todo
+
+[01:16] mundo e três você receberá conteúdos
+
+[01:19] exclusivos por exemplo assinante recebe
+
+[01:21] episódios
+
+[01:22] e distribuídas no grupo secreto telegram
+
+[01:25] então é isso baixe o aplicativo picpay e
+
+[01:28] assine o apoio mensal com que tem você
+
+[01:31] ainda vai poder pagar boleto transferir
+
+[01:33] dinheiro entre amigos recarregar celular
+
+[01:35] sacar o saldo em qualquer banco 24 horas
+
+[01:38] sem taxa e olha só no primeiro mês de
+
+[01:41] apoio na rodolfo você ainda tem um cash
+
+[01:43] back de 10reais isso mesmo você assina e
+
+[01:47] recebe r$10 de volta tá temos desde já e
+
+[01:51] participe por favor é isso aí antes da
+
+[01:55] pauta mais um recado na rodô está
+
+[01:57] abrindo espaço para os podcast das minas
+
+[01:59] por que representa atividade é
+
+[02:01] importante também na fotosfera o
+
+[02:03] destaque de hoje vai para o podcast ou
+
+[02:05] tá minas comandado pela vick mazzei e
+
+[02:08] pela tatiana uma forte ou se o recado
+
+[02:11] que elas deixaram para você ouvinte do
+
+[02:13] narrador e conheça o podcast octa minas
+
+[02:17] só a tati e eu sou a like e nós temos
+
+[02:20] aqui especialmente para te convidar
+
+[02:22] in the cast da outra minas um podcast
+
+[02:25] quinzenal organizado pelo portal anime
+
+[02:27] crazy de notícias reviews e curiosidades
+
+[02:29] do mundo otaku formado por uma equipe
+
+[02:31] totalmente feminina debatemos em cada
+
+[02:33] episódio a representatividade feminina
+
+[02:35] dentro da cultura pop asiática
+
+[02:37] atualmente estamos na nossa segunda
+
+[02:39] temporada com várias convidadas
+
+[02:40] especiais debatendo os assuntos mais
+
+[02:42] relevantes e atuais do nosso cenário de
+
+[02:45] forma bem-humorada responsável e
+
+[02:47] recheada de informação você pode
+
+[02:49] conferir todo nosso conteúdo no site
+
+[02:52] www.omni.com.br que além de podcast
+
+[02:55] também tem os nossos artigos ou se
+
+[02:57] preferir pode escutar no nosso podcast
+
+[02:58] pelo itunes google podcast ou spotify a
+
+[03:02] gente espera você por lá
+
+[03:05] e aí chegamos ao momento alur out aí vem
+
+[03:11] se você não sabe precisa saber a lura é
+
+[03:14] a maior plataforma de cursos online da
+
+[03:17] américa latina são mais de 1000 cursos
+
+[03:20] disponíveis incluindo temas como
+
+[03:22] tecnologia inovação gestão entre outros
+
+[03:26] para fazer a diferença na sua carreira
+
+[03:29] seja para entrar no mercado de trabalho
+
+[03:31] seja para subir aquele degrau na sua
+
+[03:33] trajetória profissional e sabe o que é
+
+[03:35] melhor você tem acesso a tudo com apenas
+
+[03:38] uma mensalidade é isso mesmo uma sua
+
+[03:42] mensalidade você pode fazer o curso que
+
+[03:44] quiser na hora que quiser quantas vezes
+
+[03:47] quiser e ouvinte usar o rodo claro tem
+
+[03:50] desconto especial de 100 reais no preço
+
+[03:54] original é isso mesmo sem reais de
+
+[03:56] desconto então visite agora mesmo
+
+[04:02] alura.com.br barra promoção ba
+
+[04:05] o naro rodou então tá aí sabe quem tão
+
+[04:09] bem tem recado para os ouvintes e
+
+[04:11] ouvintes donar rodando esse episódio a
+
+[04:14] universidade do vale dos sinos a
+
+[04:17] unisinos altair olha só a primeira vez
+
+[04:19] aí tem várias coisas sobre a unisinos
+
+[04:22] que eu não sabia tá aí ó por exemplo eu
+
+[04:24] não sabia que a unisinos tem campos em
+
+[04:26] porto alegre campos eles são leopoldo e
+
+[04:29] 34 polos de ensino a distância
+
+[04:32] espalhadas pelo brasil incluindo são
+
+[04:34] paulo e rio de janeiro faz é muito
+
+[04:35] tradicional universidade no sul agora
+
+[04:37] está crescendo e eu não sabia que
+
+[04:39] unisinos em parceria internacional com
+
+[04:42] 132 em universidades de 31 países
+
+[04:45] diferença pois é e eu não sabia que a
+
+[04:48] unisinos tem um programa unisinos.lab
+
+[04:51] empreendedor que ajuda a transformar as
+
+[04:53] ideias dos alunos em negócios reais sim
+
+[04:56] então conheça mais sobre a unisinos e
+
+[04:59] veja como ingressar ou fazer a sua
+
+[05:02] transferência unisinos ponto
+
+[05:05] e é isso aí e o tema de hoje ou tá aí
+
+[05:09] foi desenvolvido em parceria com a
+
+[05:11] unisinos pois é afinal quase todo mundo
+
+[05:14] já teve que tirar sangue para algum tipo
+
+[05:18] de exame laboratorial não tem nada tem
+
+[05:20] infância né então e tem vários outros
+
+[05:22] tipos de teste diagnóstico certo até
+
+[05:24] alguns mais invasivos outros menos
+
+[05:26] invasivos mas afinal tá aí que que a
+
+[05:29] ciência pode dizer sobre esse tema sobre
+
+[05:32] testes diagnósticos como é que elas
+
+[05:34] funcionam do que aquela se alimentam
+
+[05:36] várias coisas não vale uma coisa assim
+
+[05:38] esse episódio é um episódio de parceria
+
+[05:40] com a unisinos mas vamos aproveitar como
+
+[05:42] sempre como todo o rodo para dar muitas
+
+[05:44] informações sobre teste diagnóstico a
+
+[05:45] informação né conhecimento científico
+
+[05:48] como sempre exato assim não não tivemos
+
+[05:51] nenhuma pergunta de ouvinte sobre esse
+
+[05:52] tema não tema sugerido em parceria né
+
+[05:54] mas se tivesse uma pergunta que eu vim
+
+[05:56] te colocaríamos aí também né então
+
+[05:58] quando você vai fazer um diagnóstico a
+
+[06:01] palavra diagnóstico é na verdade tem a
+
+[06:03] ver com colocar
+
+[06:05] o centro de um grupo definido é isso é
+
+[06:08] diagnosticar de diagnosticar quer dizer
+
+[06:11] não sabia é a origem a origem colocar
+
+[06:14] você num grupo então por exemplo quando
+
+[06:17] eu olho o quem eu não sei nada de você
+
+[06:18] não sei o quem a partir do momento que
+
+[06:20] eu conheço você melhor eu faço o
+
+[06:22] diagnóstico sobre você eu coloco você em
+
+[06:24] categorias na minha alegorias me ajuda a
+
+[06:27] reduzir a incerteza sobre você agora
+
+[06:30] essa palavra começa a fazer assim é pois
+
+[06:32] é é que assim a diagnóstico sempre foi
+
+[06:34] uma palavra ligado a coisas médicas vai
+
+[06:36] ser muito recente não trata geralmente
+
+[06:38] não é diagnóstico é um pouco parecido
+
+[06:41] com o termo categorização vocês
+
+[06:42] categorizar coisas é diagnosticar coisas
+
+[06:45] só que é o nome do tempo a palavra
+
+[06:47] diagnóstico foi usada no contexto médico
+
+[06:50] acabou saindo mais apropriada e pela
+
+[06:53] indústria da medicina só de mude as
+
+[06:56] biológicas em geral né então assim do
+
+[06:59] mesmo jeito que você diagnóstica alguém
+
+[07:00] você está categorizando alguém a gente
+
+[07:02] usa não falava também no mundo
+
+[07:04] corporativo não é o
+
+[07:05] é um doria ea clássico também dizer que
+
+[07:08] a primeira fase de todo o projeto é um
+
+[07:11] diagnóstico o diagnóstico é você
+
+[07:12] resolver situações-problemas isso você
+
+[07:14] reduzem certeza quando você consegue
+
+[07:16] determinar a parte de um fenômeno em
+
+[07:18] categorias certo mas assim o termo
+
+[07:20] diagnóstico já me memorial e ele foi
+
+[07:22] sempre ligado a questões biológicas né
+
+[07:24] então assim quando você fala de
+
+[07:26] diagnóstico uma coisa eu dizer eu acho
+
+[07:29] que você sei lá eu acho que você tem
+
+[07:31] hepatite b hepatite mas eu acharam uma
+
+[07:34] coisa não fazer nada então opinião não é
+
+[07:36] argumento nem evidências que eu consigo
+
+[07:38] transformar isso em evidência quando eu
+
+[07:40] pego o meu a minha opinião tipo ah eu
+
+[07:41] acho que você tá doente quando eu pego
+
+[07:44] um dado uma informação real de você
+
+[07:46] principalmente uma informação material
+
+[07:47] né consigo codificar essa informação
+
+[07:50] material e associar você com outras
+
+[07:52] pessoas que eu sei que estão doentes e
+
+[07:55] aí eu consigo ver uma similaridade entre
+
+[07:57] você que eu não sei se está doente com
+
+[07:59] alguém que de fato está doente então se
+
+[08:02] eu pego o seu sangue e eu vejo que o
+
+[08:05] e sanguíneo em geral é um pouco parecida
+
+[08:08] com padrão de pessoas que eu sei que tem
+
+[08:10] doenças e tem sintomas logo você está
+
+[08:12] mais próximo deles do que pessoas não
+
+[08:14] doentes e aí eles são categorizando você
+
+[08:16] logo estou fazendo um diagnóstico o
+
+[08:18] príncipe e esse então os diagnósticos
+
+[08:20] cores vem desde os egípcios assim você
+
+[08:23] sempre tem que saber quando uma pessoa
+
+[08:24] está doente ou não para além dos
+
+[08:26] sintomas porque assim às vezes quando a
+
+[08:28] pessoa tá com sintoma tá com tosse tá
+
+[08:29] com febre isso já diagnóstica a própria
+
+[08:33] presença dos sintomas é um diagnóstico
+
+[08:34] mas eu quero por exemplo prevenir coisas
+
+[08:37] ou dado que você tem por exemplo febre
+
+[08:39] febre associada com várias doenças eu
+
+[08:42] quero saber que tipo de febre associada
+
+[08:44] com que e daí você faz teste tá então a
+
+[08:48] história né começou você pode pegar por
+
+[08:50] exemplo hipócrates quando ele pensou na
+
+[08:52] ideia do sangue foi na época grega que
+
+[08:56] se descobriu que o sangue caminhava
+
+[08:58] dentro do corpo do que não é trivial
+
+[09:00] você não vez em quando vocês não não é
+
+[09:02] visível você não viu você me jogando
+
+[09:04] assim só que a nossa
+
+[09:05] e ela então então a os gregos que
+
+[09:08] notaram que o sangue se movimentava
+
+[09:10] dentro do corpo muito tempo depois se
+
+[09:12] descobriu que o coração é uma bomba meu
+
+[09:14] coração era que bombeava o sangue se
+
+[09:17] movimenta por causa do coração e aí o
+
+[09:18] hipócrates ele me falava que dependendo
+
+[09:21] do padrão de movimentação do sangue no
+
+[09:24] seu corpo isso gera diagnósticos de como
+
+[09:27] o seu estado geral está e ainda tem o
+
+[09:29] nome disso de humor nível humor humor é
+
+[09:32] o padrão de movimento do seu sangue
+
+[09:34] dentro do corpo e ele queria quatro
+
+[09:35] tipos ele fez uma descrição de quatro
+
+[09:37] tipos né sanguíneo colérico fleumático
+
+[09:40] melancólico então ele ele fez essa
+
+[09:42] descrição geral mas ele não dava uma
+
+[09:44] explicação ainda faltam esses quatro
+
+[09:46] tipos de pessoa mesmo porque porque que
+
+[09:48] só tem esses quatro haviam mais ele não
+
+[09:50] dava uma descrição muito pormenorizada
+
+[09:52] porque ele não tinha muitas informações
+
+[09:53] tá e é interessante isso porque hoje a
+
+[09:57] maior parte de informação bioquímica que
+
+[09:59] eu tenho de você do seu sangue né na
+
+[10:02] época queria não era o sangue não era
+
+[10:05] as doenças ele era associado ao seu
+
+[10:07] estado normal essa então a seu sangue
+
+[10:10] está sanguíneo sei lá mesmo fleumático
+
+[10:13] então você está de um certo jeito eu não
+
+[10:15] usava o sangue para diagnosticar doenças
+
+[10:17] eu usava o sangue para dizer como você
+
+[10:19] está que o tal do amor não é aquela
+
+[10:22] coisa bem geral assim então sangue era
+
+[10:24] quase assustador como idade
+
+[10:25] personalidade sabe os gregos
+
+[10:28] principalmente eles usavam muito como
+
+[10:29] medida diagnóstica a urina porque urina
+
+[10:33] assim quando você olha o sangue da
+
+[10:34] pessoa dificilmente vai ver coisas
+
+[10:36] visualmente sim mas a urina você vê
+
+[10:38] consistência forma cor na eles viam
+
+[10:41] esses padrões em vários fluidos
+
+[10:43] corporais diferentes em que o principal
+
+[10:45] nos gregos até que isso assim era urina
+
+[10:48] falei na principal medida e aí assim
+
+[10:50] como você tinha os tipos de sangue eles
+
+[10:53] promoviam foi que elas são os gregos que
+
+[10:55] começou a ideia das sangrias na sua
+
+[10:57] pressão tá muito alta tá muito colérico
+
+[10:59] então promovia sangrias como forma de
+
+[11:01] tratar né mas eu já extrair sangue do
+
+[11:04] curtir
+
+[11:05] um pouco a crença de que se extrai o
+
+[11:07] sangue do corpo e o melhor humor daquela
+
+[11:10] pessoa tem muito a ver com arquimedes né
+
+[11:12] um princípio de hidráulica hidráulica
+
+[11:14] era muito associada com a percepção de
+
+[11:16] como as coisas funcionavam né
+
+[11:18] transposição de água se você tem água
+
+[11:20] dentro de você sair da depressão de
+
+[11:22] hidrodinâmica mesmo então nosso corpo
+
+[11:24] assim é o jeito que eu uso para entender
+
+[11:26] a natureza então gente é assim então eu
+
+[11:28] diminuo só pressão tirando seu sangue
+
+[11:29] então você melhora em alguns casos davam
+
+[11:31] certo as pessoas só lembrava do que dava
+
+[11:33] certo não lembrava milhares de casa é
+
+[11:34] sua bobina porque se morreu foi deus que
+
+[11:36] quis eu certo foi porque não deu certo
+
+[11:38] então eu já vi o que né ela bem pouco
+
+[11:41] científico é coisa evoluiu muito assim
+
+[11:43] por exemplo só em 1590 não essa ideia de
+
+[11:47] que sangue servia para o seu estado
+
+[11:49] geral e o melhor jeito de diagnosticar
+
+[11:51] doenças era urina começou nos gregos e
+
+[11:54] foi até 1591 dois mil anos dois mil anos
+
+[11:57] dessa coisa né então imagina com a
+
+[12:00] medicina era bizarra né então 1590
+
+[12:03] william raven mostrou que o coração
+
+[12:05] e a bomba e ele foi o primeiro que
+
+[12:07] descrever o sistema circulatório são
+
+[12:09] 1590 no brasil de existir um plano o
+
+[12:12] brasil no brasil não não não não não o
+
+[12:15] território existe nenhum então o
+
+[12:18] diagnóstico de doenças pela urina já era
+
+[12:20] feito 400 anos antes de cristo mas aí
+
+[12:22] associação do sangue com diagnóstico de
+
+[12:26] doenças foi possibilitada principalmente
+
+[12:29] com a invenção do microscópio o século
+
+[12:30] 17 e aguarda sua ou seja muito recente
+
+[12:35] ainda surge um microscópio e teve um
+
+[12:37] monte de coisas que você consegue ver os
+
+[12:38] componentes do sangue tal né aí foi um
+
+[12:41] salto aí fica na vida pessoal então
+
+[12:43] século 17 microscópio você perceber que
+
+[12:46] é o sangue tem células as células
+
+[12:48] vermelhas células brancas do sangue
+
+[12:49] foram percebidas a partir de 1615 neve
+
+[12:53] também então você perceber que o sangue
+
+[12:55] coagule lavar só foi a partir de 1.750
+
+[12:58] né que formava o fibrinogênio em fibrina
+
+[13:00] final 1776 oh dalson não pesquisar
+
+[13:05] e descobriu que o sangue tinha açúcar e
+
+[13:08] o açúcar era associado com doenças foi a
+
+[13:11] primeira vez que a diabetes vai apareceu
+
+[13:12] olha só 1776 né surgiu os estados unidos
+
+[13:16] aí na mesma lembro né então em 1841 já
+
+[13:20] tem mais recente um pesquisador chamado
+
+[13:22] overlord conseguiu mensurar a velocidade
+
+[13:25] que o sangue corre nas veias né então a
+
+[13:29] e matou cinética e fez uma descrição
+
+[13:31] melhor das células células brancas
+
+[13:33] células vermelhas do sangue e tal só em
+
+[13:35] 1841 né 1809 1890 desculpa 1890 foi um
+
+[13:42] outro pesquisador que o landsteiner ele
+
+[13:44] conseguiu fazer a categorização dos
+
+[13:46] tipos de sangue o a tipologia abu por
+
+[13:49] século 20 não tinha me atentado que ela
+
+[13:53] tão recente foi muito porque a partir do
+
+[13:55] microscópio é isso entendeu a revolução
+
+[13:56] tal e aí só em 1945 no final da segunda
+
+[14:01] guerra mundial pesquisador que o
+
+[14:03] barkston junto com
+
+[14:05] o 2935 quero que fique sabendo que o
+
+[14:08] sangue coagular vá eles conseguiram
+
+[14:10] calcular o tempo de coagulação entre o
+
+[14:13] seu sangue ser exposto ele coagular
+
+[14:15] levam tempo e eles conseguiram verificar
+
+[14:17] que dependendo do estado clínico do
+
+[14:19] paciente o sangue coagula vá mais rápido
+
+[14:21] ou mais devagar então o tempo de
+
+[14:23] coagulação é relacionada com diagnóstico
+
+[14:26] tá 1945 aí foi aí que surgiu essa noção
+
+[14:30] tempo de coagulação janela ver com o
+
+[14:33] defato.com estado de saúde liso
+
+[14:35] problemas vasculares né problema de
+
+[14:37] coagulação do sangue algumas centenas de
+
+[14:39] anos antes a gente achava que é qualquer
+
+[14:42] fluido é verdade e retirar ou colocar
+
+[14:47] mais fluidos daqueles fluidos poderia
+
+[14:50] alterar o humor da pessoa então por
+
+[14:52] exemplo a gente conseguiu descobrir só
+
+[14:53] não no pós-guerra que o sangue o tempo
+
+[14:56] de coagulação mas por exemplo transfusão
+
+[14:58] de sangue já era feito em anos antes eu
+
+[15:00] quero mentir um negócio não tem de você
+
+[15:02] ruim não sei lá não tinha tipologia
+
+[15:05] e no final do século 19 ainda estava
+
+[15:07] dentro daquela daquela daqueles
+
+[15:08] princípios eu vou retirar e colocar
+
+[15:10] líquido né para ele o corpo então tem
+
+[15:12] muita venha para nossa senhora o do mais
+
+[15:14] antigo que aquela sobre homeopatia sem
+
+[15:16] tem que ir no século 19 eu tinha fez
+
+[15:18] sucesso tem uma coisa muito menos
+
+[15:20] invasiva não tava fazendo você vomitar
+
+[15:22] não ficava fazendo você será assim que
+
+[15:24] isso que tirar sangue de vocês não
+
+[15:25] ficava falando sangria sabe dando por
+
+[15:28] gente era uma águinha que estimulava eu
+
+[15:30] procedo que dava tudo certo né então faz
+
+[15:33] sentido ao meu parte até começar a
+
+[15:34] crescer no técnica plus herval mas aqui
+
+[15:37] era menos invasiva do que coisas como
+
+[15:40] essas né então é interessante essa
+
+[15:43] discussão nossa senhora vou sobre o meu
+
+[15:45] parte a gente discutir isso porque que
+
+[15:47] floresceu tão rápido porque é muito
+
+[15:49] selvagem o resto então erro por erro né
+
+[15:52] eu não é melhor tomar uma água do que tô
+
+[15:53] mostrando esse organismo de ainda né mas
+
+[15:55] enfim e aí entrando mais a questão da
+
+[15:58] coagulação né então hoje em dia você tem
+
+[16:00] testes para várias coisas você que usam
+
+[16:03] sangue né você pode vir
+
+[16:05] o bem geral em dois tipos que são os
+
+[16:08] testes p u c e p u da o pior em inglês
+
+[16:12] point-of-care ponto de cuidado que é por
+
+[16:15] exemplo você tá hospitalizado eu quero
+
+[16:17] fazer um teste em você sei lá você tá
+
+[16:19] hospitalizado eu preciso verificar sua
+
+[16:21] delícia minha todo dia então esse é um
+
+[16:23] teste para você um teste por cuidado né
+
+[16:26] e você tem um teste para uso então por
+
+[16:29] exemplo você é diabético e aí você tem
+
+[16:31] que fazer testes em casa esse é um teste
+
+[16:32] de ver você não teste de cuidado que
+
+[16:34] você fazer uma monitoração do seu estado
+
+[16:36] o texto depeo é quando o teste tem um
+
+[16:39] uso específico tipo nessa de gravidez
+
+[16:41] você não tá doente né mas é um teste de
+
+[16:44] que tem um uso não cuidado ou por
+
+[16:47] exemplo o teste diagnóstico para hiv
+
+[16:49] você faz o teste tem o diagnóstico aí
+
+[16:51] você vê o que você faz é diferente de um
+
+[16:53] teste para glicemia detectando só tava
+
+[16:56] digitando todos você tem que faz parte
+
+[16:58] de um tratamento isso não é uma monitora
+
+[17:00] não é o monitoramento de um tratamento
+
+[17:01] então é importante comparar por exemplo
+
+[17:03] teste para gravidez de um teste
+
+[17:05] é daqui não é mais constante outro é
+
+[17:08] local e uma coisa que as pessoas não sei
+
+[17:10] se você já parou para pensar por exemplo
+
+[17:11] na teste para gravidez em geral você
+
+[17:14] compra o teste e coloca o xixi lá a
+
+[17:16] mulher né dá uma de que surge aquela a
+
+[17:19] outra sininho para pensar assim como
+
+[17:21] como é que ficou me aqui né foi um
+
+[17:23] negócio uma água e surgiu uma paradinha
+
+[17:25] faz um pouco sentido quando você pensa
+
+[17:27] por exemplo para diabetes então os
+
+[17:29] testes antigos de diabetes você usar a
+
+[17:31] urina e você colocava no papelzinho que
+
+[17:33] reagiu o açúcar são quando quando alguém
+
+[17:36] atirou até urgente isso então se você
+
+[17:39] contato com o fluido que vocês traiu
+
+[17:40] exato e mais uma reação particular então
+
+[17:43] por exemplo todos bem antigos toda vez
+
+[17:46] que tem uma concentração de açúcar no
+
+[17:48] seu sangue mais alta do concerto o valor
+
+[17:51] o papel absorve esse líquido e ele fica
+
+[17:54] verde por exemplo aí vai ficar um verde
+
+[17:56] quanto mais escuro o maior concentração
+
+[17:58] né então o antigo era eu pegar um papel
+
+[18:01] papel reagir uma coisa e aí muda a
+
+[18:04] coloração
+
+[18:05] o corante muda coloração me dá o
+
+[18:07] diagnóstico aí rapidamente você consegue
+
+[18:10] ver aqui por exemplo quanto mais escuro
+
+[18:12] o papel mas é açúcar né eu posso
+
+[18:16] associar isso então quando a quantidade
+
+[18:19] de verde por exemplo quando forte o
+
+[18:21] verde é associar com uma graduação e
+
+[18:24] colocar isso no sensor e aí o senhor me
+
+[18:27] dá o número entendeu então você consegue
+
+[18:29] conversar ficar mais sofisticado nunca
+
+[18:31] mais seja enganado é só 01 isso verde ou
+
+[18:34] não eu posso associar o padrão a força
+
+[18:37] do verde com uma numeração uma escala e
+
+[18:39] isso você coloca no sensor que ativa é
+
+[18:41] isso ele decodifica o a força do verde
+
+[18:44] né você pode transformar essa força do
+
+[18:47] verde quando você coloca um sensor não
+
+[18:49] comprimento de onda e esse comprimento
+
+[18:51] de onda pode ser exposto numa talinho
+
+[18:53] comum número e daí você transforma por
+
+[18:55] um papel não sei senhorzinho é por causa
+
+[18:58] do teste de gravidez o que que é aquele
+
+[18:59] friozinho então então é a reação ao beta
+
+[19:02] hcg é uma substância detectada
+
+[19:05] a menina que quando você já tem o óvulo
+
+[19:08] é fecundado dentro da placenta você já
+
+[19:11] está tem lá um fio do reagente isso que
+
+[19:15] caso ele se interessam de beta hcg seja
+
+[19:19] acima de um valor de tanto ele muda de
+
+[19:21] conta de cor então em geral teste de
+
+[19:24] gravidez tem dois tracinhos o primeiro a
+
+[19:26] ser assim é só para mostrar se funcionou
+
+[19:28] relógio ele realiza hoje a outra para
+
+[19:31] ver a intensidade intensidade alta
+
+[19:33] intensidade passou de tanto na grávida é
+
+[19:36] positivo é porque por exemplo se você
+
+[19:37] colocar água não reagir né agora se você
+
+[19:41] for ir nenhum dos dois porque tem dois
+
+[19:43] tracinhos se você colocar a água nenhum
+
+[19:45] dos dois reagir a um primeiro ele já
+
+[19:48] indica que a urina querem realmente ele
+
+[19:50] reagiu com urina isso e aí o segundo sim
+
+[19:53] se deu positivo para ele tá sendo
+
+[19:55] perguntado então é porque o papel papel
+
+[19:57] é barato e mais fácil de manusear tal
+
+[20:01] mesmo tanto para sangue contra urina
+
+[20:03] outro fruto mas
+
+[20:05] o som do papel tem a ver com lá no fundo
+
+[20:07] que a gente fez antes que era se é
+
+[20:08] possível esmagar bactérias com a mão que
+
+[20:10] a gente fala que a gravidade é uma força
+
+[20:13] muito fraca ela é tão fraca que ela o
+
+[20:15] próprio papel é mais forte em trazer a
+
+[20:18] água para dentro dele do que a terra e
+
+[20:20] puxa a água para baixo então por exemplo
+
+[20:22] você tá cair um copo de água no chão e
+
+[20:25] você deixou a água encostar no seu
+
+[20:27] lençol aí quando você vê o lençol tá em
+
+[20:29] cima da cama ele não na cama porque a
+
+[20:31] água sobe como é que a água vence a
+
+[20:33] gravidade porque a força eletromagnética
+
+[20:35] das partículas da do pano ou do papel é
+
+[20:38] mais forte do que a gravidade e aí água
+
+[20:40] suja eles pele água puxa água vai
+
+[20:44] entrando né na fibra né do papel ou do
+
+[20:46] pano né o papel tem essa propriedade né
+
+[20:49] de se apolar então ele puxa a água água
+
+[20:54] tem uma polaridade quando sua irmã então
+
+[20:56] imagina que o papel tem em moléculas a
+
+[20:58] água também são moléculas uma gorda com
+
+[21:00] a outra segura com uma gruda com a outra
+
+[21:01] vai empurrando e aí é como se fosse uma
+
+[21:03] cadeirinha mesmo trenzinho
+
+[21:05] o gauchando e vai sendo puxado aí o
+
+[21:08] papel molho né e aí conforme o papel vai
+
+[21:11] absorvendo esse líquido o líquido vai
+
+[21:13] percorrendo a comprimento no papel e
+
+[21:15] chega não sensor né então é um teste
+
+[21:18] muito fácil você é fácil de armazenar e
+
+[21:21] fácil de cuidar de transportar então o
+
+[21:24] uso por exemplo de papel para testes é
+
+[21:28] fundamental não é muito fácil e aí a
+
+[21:30] gente tem uma coisa que a definição de
+
+[21:33] um teste ser invasivo ou não isso fazer
+
+[21:36] xixi em cima de um teste de gravidez é
+
+[21:39] pouco invasivo assim aí você tem um
+
+[21:42] jeito que caracteriza uma coisa invasiva
+
+[21:45] então você tem características assim da
+
+[21:47] quadra você tem dois tipos de coisas que
+
+[21:50] você olha quando você faz um teste
+
+[21:51] diagnóstico o primeiro é como invasivo
+
+[21:55] ele é e o segundo é a qualidade dele
+
+[21:57] então por exemplo se eu tenho o teste de
+
+[21:59] invasivo mas ele acerta muito isso tem
+
+[22:03] indicações para alguns casos quando eu
+
+[22:05] quero
+
+[22:05] se você tem a doença se ele é pouco
+
+[22:07] invasivo e erra muito ele pode servir
+
+[22:10] para um inscrito em geral da população
+
+[22:11] mas não por um paciente grave né então
+
+[22:15] depende do grau então teste de gravidez
+
+[22:18] da positivo no teste da farmácia motivo
+
+[22:22] você fazer um teste para validar né a
+
+[22:26] valer trabalho com mais sensibilidade
+
+[22:28] isso como um teste com sangue por
+
+[22:30] exemplo não só carolina né se você tem
+
+[22:33] uma doença por exemplo sei lá hiv o hiv
+
+[22:36] da positivo no teste aí vale a pena você
+
+[22:38] buscar um teste maior agora se for um
+
+[22:41] teste sei lá um uma doença rara é ruim
+
+[22:45] fazer um teste rápido para uma doença
+
+[22:47] muito muito rara porque aumenta muito a
+
+[22:49] chance de dar um falso positivo e ele
+
+[22:51] vai ficar assustado por exemplo imagina
+
+[22:52] ainda não existe ainda bem excipiente um
+
+[22:56] teste rápido para câncer você tá se você
+
+[22:59] faz um tá ajudando vira existe parte
+
+[23:01] aqui assim mas tem um problema se você
+
+[23:02] vai na farmácia e compra um teste rápido
+
+[23:04] para câncer de pulmão
+
+[23:05] e como é fácil comprar um teste de
+
+[23:07] gravidez você faz o teste e fica tá
+
+[23:09] positivo ficar desesperado então manda
+
+[23:12] olha isso mas não é a pensar às vezes
+
+[23:15] não compensa claro que se você se der
+
+[23:16] positivo teste de gravidez também vai
+
+[23:18] ficar noiado massamá não é diferente
+
+[23:19] gerente né não dá para comprar né então
+
+[23:22] por exemplo tem várias doenças que não
+
+[23:24] vão surgir testes muito rápido a não ser
+
+[23:26] que seja dentro do hospital a isso tá
+
+[23:28] falando de uma diferença aí né que aqui
+
+[23:30] é o teste rápido ser aplicado por uma
+
+[23:33] equipe médica isso se você tá no
+
+[23:34] hospital já tem um risco aí faz o teste
+
+[23:37] aí tudo bem quando a maneira de ver se
+
+[23:40] vale a pena fazer um teste mais profundo
+
+[23:43] mais profundo mais caro não é para
+
+[23:45] melhorar o fluxo de trabalho dentro do
+
+[23:47] hospital que errado agora não pode
+
+[23:48] vender na farmácia tá mas invasivo tem a
+
+[23:51] ver com invadiu o corpo da tem assim ele
+
+[23:53] pode parecer biópsia tirar pedaço então
+
+[23:56] se eu puder fazer um teste aqui só pega
+
+[23:57] o fluido em vez de tirar um pedaço é
+
+[23:58] melhor o seu xixi menos invasiva do que
+
+[24:01] furar o dedo que a menos invasiva do que
+
+[24:04] duráveis
+
+[24:05] o caminho para jardim várias vezes aqui
+
+[24:07] uma biópsia isso ou uma cirurgia
+
+[24:09] exploratória sabe que alguém bem mas é
+
+[24:11] esse é você puder evitar é bom nem tem
+
+[24:14] um critério que chama critério de fácil
+
+[24:17] redes esse é o termo é um acrônimo né
+
+[24:19] que um teste bom assim ele tem que ser
+
+[24:23] acessível ponto de vista de preço não
+
+[24:25] tem que ser barato tem que ser sensível
+
+[24:27] né tem que ser específico aí vou
+
+[24:30] explicar se diferença de sensibilidade
+
+[24:31] especificidade tem que ser fácil de
+
+[24:33] fazer né tem que ser rápido tem que ser
+
+[24:36] robusto robustez diz respeito ao aparato
+
+[24:39] você coloca o seu sangue não vidro o
+
+[24:42] vidro quebra fácil então ele não é
+
+[24:43] robusto eu não consigo transportar por
+
+[24:45] isso que papel é melhor né ele usa um
+
+[24:48] mínimo de equipamento e ele entrega o
+
+[24:50] resultado rápido então não adianta nada
+
+[24:52] você coloca o sangue bem rápido no
+
+[24:54] negócio não leva um mês para sair o
+
+[24:55] número então se um teste tem todos esses
+
+[24:57] requisitos ele é um teste perfeito
+
+[24:59] nenhum teste é perfeito não é o foco a
+
+[25:02] meta chega nele mas ele tem que pontuar
+
+[25:04] bem
+
+[25:05] é razoavelmente em algodão doce pilares
+
+[25:07] e isso e eles dão pontuações você ganha
+
+[25:09] pontos em cada não é nem dá um score
+
+[25:13] deve ter um grau então tá então antes né
+
+[25:16] e falando mais de um teste por exemplo
+
+[25:19] teste para a coagulação testes de
+
+[25:22] coagulação sanguínea são testes que
+
+[25:24] avaliam o tempo de formação da
+
+[25:27] pró-trombina trombo se formar um coágulo
+
+[25:30] tá então o seu sangue tá líquido aí
+
+[25:34] bater uma série de reações né de
+
+[25:36] coagulação que você transformar o
+
+[25:38] fibrinogênio em fibrina tem uma série de
+
+[25:40] cadeia de reação e aí no final você
+
+[25:42] forma a pró-trombina então eu coloco o
+
+[25:45] sangue puro no lugar e marca um
+
+[25:47] cronômetro e veja quanto tempo ele leva
+
+[25:49] até coagular coagulum que que é visível
+
+[25:54] essa coisa olho zinho assim os angular
+
+[25:56] você vem no seu machucado não tipo por
+
+[25:58] exemplo se machucar mão aí começa a
+
+[26:00] sangrar aí de repente esse sangue para
+
+[26:02] ele vai ficando mais escuro
+
+[26:05] a casquinha coágulo isso é bem antes
+
+[26:08] disso né falou isso da casquinha ou
+
+[26:10] coagular flocular quando ele já está
+
+[26:12] sequinho e ele para de sair para de sair
+
+[26:14] sangue né então tem uma série de reações
+
+[26:16] fisiológicas do corpo para impedir que
+
+[26:18] patógenos entrem e para parar o fluxo
+
+[26:20] sanguíneo ali daquela região não tem
+
+[26:22] mais sério aí o que eu já li aqui
+
+[26:24] pessoas por exemplo portadoras de
+
+[26:27] diabetes têm dificuldade coágulo alguém
+
+[26:30] mora mais tempo demora mais que não
+
+[26:32] coagula demora mais mora mais e aí pode
+
+[26:34] ir no corpo e menos eficientes para isso
+
+[26:36] e aí pode gerar hemorragia pode ter
+
+[26:38] vários problemas tenho contrário tem
+
+[26:40] gente que coagula muito rápido então não
+
+[26:42] é bom coloco lá nem rápido nem devagar
+
+[26:44] rápido também não é bom porque não é bom
+
+[26:45] rápido porque forma trombo você faz um
+
+[26:48] trombo dentro da sua vez eu tenho um avc
+
+[26:49] no tronco vai meu coração para o cérebro
+
+[26:52] aí bloqueei uma artéria então imagina
+
+[26:54] que você forma assim ele com agulha de
+
+[26:56] bobeira assim dentro da lei aí sim da
+
+[26:59] terra imagina que eu sei que tá passando
+
+[27:00] um carinho e aí uma parte dele coagula
+
+[27:03] forma uma bolinha mais
+
+[27:05] e espontaneamente espontaneamente ele
+
+[27:07] forma um tipo uma pelotinha igual o
+
+[27:09] leite em pó uma pelota porque você já
+
+[27:12] colhi toddy e fica alguém isso alguns
+
+[27:15] essa no sábado de manhã aí essa bolinha
+
+[27:17] ela percorre as veias grossas menos
+
+[27:20] passa mas quando chegamos no por exemplo
+
+[27:22] no seu cérebro uma meia mais fina ele
+
+[27:23] impede a passagem de sangue só e aí numa
+
+[27:25] área do seu cérebro não entra mais
+
+[27:27] oxigênio e arya morre aqui vem aquela e
+
+[27:30] noção de que um coágulo no sangue
+
+[27:32] provoca um avc isso exatamente isso ou
+
+[27:35] coágulo na perna e provoca trombose da
+
+[27:38] procuração dá uma vez e no coração do
+
+[27:40] metrô cardíaco então é é perigoso então
+
+[27:43] você tem um tempo ideal então tem muito
+
+[27:46] rápido nem muito devagar é o tempo
+
+[27:48] normal entre você tem um ferimento e
+
+[27:50] coagular começar o processo de população
+
+[27:52] é de 10 a 14 segundos vou fazer muito
+
+[27:56] mais rápido que isso nem muito mais
+
+[27:57] devagar e aí o processo de coagulação
+
+[27:59] tem quatro fases que a iniciação então
+
+[28:02] sempre está saindo né aí tem a
+
+[28:04] propagação
+
+[28:05] e começa a ter uma série de reações a
+
+[28:07] amplificação dessas reações por esperar
+
+[28:09] uma casquinha depois e a finalização que
+
+[28:13] quando fecha tá a você reparou que
+
+[28:15] quando você tinha machucado forma a
+
+[28:17] casquinha a casquinha em geral
+
+[28:19] amarronzada então isso acontece porque a
+
+[28:22] fibrina né que se forma ali reage com o
+
+[28:25] oxigênio e a oxidar oxidação mesmo a
+
+[28:27] oxidação é largura essa cor do sangue
+
+[28:31] pisado e quando você tem que pisar e
+
+[28:32] ainda vai quando você tira casquinha
+
+[28:34] parte de baixo a branca porque não teve
+
+[28:35] tanta oxidação certo tá mas é uma
+
+[28:38] casquinha uma casquinha então pessoas
+
+[28:40] que têm um tempo de coagulação muito
+
+[28:42] alto são pessoas que tomam
+
+[28:44] anticoagulantes já tomou remédio para
+
+[28:45] evitar a coagulação é tem uma doença
+
+[28:48] genética que é a doença de von
+
+[28:49] willebrand vão vilebranch é uma doença
+
+[28:52] genética que aí tem que ela pode morrer
+
+[28:54] muito cedo e tem que tomar muito
+
+[28:56] cuidados pode ser problema de flora
+
+[28:58] intestinal às vezes alguma infecção
+
+[29:00] problemas de alimentação é problemas no
+
+[29:03] fígado e deficiência de
+
+[29:05] e a vitamina k é a mais importante para
+
+[29:08] a coagulação pessoas que têm essa
+
+[29:09] deficiência começa a ter problema de
+
+[29:11] população e tem o contrário que há
+
+[29:13] quanto tempo da pró-trombina muito baixo
+
+[29:15] coagula muito rápido são pessoas com
+
+[29:17] excesso de vitamina k é tem a ver com
+
+[29:20] alguns alimentos sobretudo comer fígado
+
+[29:23] e brócolis em demais na diminui o tempo
+
+[29:26] de coagulação então por exemplo se você
+
+[29:28] tem um problema de coagulação grande uma
+
+[29:31] coisa que me fique de brócolis ajuda
+
+[29:34] porque estimulam vitamina a cara e me
+
+[29:36] falaram isso e o uso de pílula
+
+[29:38] anticoncepcional pílula anticoncepcional
+
+[29:41] aumenta a chance de tombo de mau aumenta
+
+[29:43] aumenta porque diminui o tempo de
+
+[29:45] coagulação o agulha mais rápido né por
+
+[29:48] isso que tem aquela para alguns tipos de
+
+[29:49] anticoncepcional tem associação negativa
+
+[29:51] com cigarro porque cigarro também
+
+[29:53] aumenta a formação de trombos ou não
+
+[29:55] cigarro e toma pílula você tá fazendo um
+
+[29:59] coquetel que aumenta aumenta a
+
+[30:01] probabilidade de drogada de trombo e não
+
+[30:03] pela doença devam vive letra
+
+[30:05] e ela é mais grave então mas tem casos
+
+[30:07] leves dessa doença então por exemplo
+
+[30:09] você é uma mulher que tem problema de
+
+[30:11] coagulação na família mas não sabe muito
+
+[30:13] leve aí você associa com cigarro e
+
+[30:15] associa com anticoncepcional pode
+
+[30:18] aparecer um trombo assim de repente tá
+
+[30:21] então é importante saber né aonde tem um
+
+[30:24] teste rápido para evitar ver se embolia
+
+[30:26] em cirurgia mas você faz uma cirurgia
+
+[30:28] depois você tem que tomar anticoagulante
+
+[30:30] por um tempo mas é como é que eu sei que
+
+[30:32] tá bom não tem que fazer o teste também
+
+[30:34] nós ver o tempo da pró-trombina e aí é
+
+[30:37] muito geralmente os testes que são
+
+[30:39] feitos hoje para testar a coagulação são
+
+[30:42] testes mais invasivos precisa tirar
+
+[30:43] amostra de sangue leva tubinho que não
+
+[30:46] não é um é uma gordinha não é gordinha
+
+[30:49] tira um tubinho em geral tem que esperar
+
+[30:53] leva umas quatro horas né para fazer o
+
+[30:55] exame tal você vai no lugar faz o exame
+
+[30:57] então imagina por exemplo que você tá
+
+[30:59] com tempo de coagulação muito baixo só
+
+[31:02] que o risco de trombo aí o médico vai
+
+[31:04] fazer o exame né
+
+[31:05] e aí faz lá no lugar faz o exame e vai
+
+[31:09] sair vai ligar para horas fica pronto no
+
+[31:11] dia seguinte não vai às vezes você pode
+
+[31:14] ter o avc né se você tem risco se o
+
+[31:16] médico tá muito desconfiado já tá com
+
+[31:18] dor alguma coisa ele deixou ele interna
+
+[31:20] você já começa a da varfarina né que me
+
+[31:22] ajudar melhor mas se você não tá né você
+
+[31:26] tá normal mas tem de repente nenhum
+
+[31:29] sintoma sério aí era importante ter um
+
+[31:31] teste rápido né e aí tem já a partir dos
+
+[31:34] anos 2000 2000 pouco tem uma iniciativa
+
+[31:37] de muitos testes rápidos para
+
+[31:38] principalmente para coagulação né vamos
+
+[31:42] deixar na descrição dois artigos não é
+
+[31:44] que escreve em mais ou menos a
+
+[31:46] tecnologia de como funciona mas é bem
+
+[31:47] baseado no papel e o papel é pessoal tem
+
+[31:49] o sensor e tal e aí teve uma melhoria
+
+[31:52] muito grande dos bioengenheiros em criar
+
+[31:56] sensores que calcula o tempo de
+
+[31:58] coagulação então é um sensor que entre
+
+[32:00] em contato com sangue ele cálculo esse
+
+[32:01] tempo e ele te dá um valor né
+
+[32:04] relacionado com esse
+
+[32:05] é muito prático é muito útil e
+
+[32:08] interessante é que um pioneirismo peças
+
+[32:11] técnicas né de testes rápidos para a
+
+[32:14] coagulação vem do brasil olha só é e aí
+
+[32:16] motivou a nossa parceria porque é uma
+
+[32:18] forma de divulgar esse tipo de técnica
+
+[32:20] inovadora né que fique claro eu fui
+
+[32:23] atrás os artigos originais foi atrás do
+
+[32:26] trabalho da nossa convidado também da
+
+[32:29] ouvir trabalho muito legal assim
+
+[32:31] realmente inovador e por isso merece ser
+
+[32:33] publicizado é como uma técnica que além
+
+[32:36] de fazer uma calcular o tempo de
+
+[32:39] pró-trombina é o tempo de coagulação de
+
+[32:41] uma forma bem precisa o teste normal
+
+[32:44] leva umas quatro horas o teste dela faz
+
+[32:47] em 8 minutos muito rápido muito 18
+
+[32:50] minutos sensacional né então melhor é
+
+[32:53] muito fluxo de trabalho dentro de
+
+[32:55] hospitais para pessoas e tal né e aí eu
+
+[32:58] queria apresentar para vocês né a júlia
+
+[33:01] não tem que fez esse trabalho dentro da
+
+[33:04] unisinos né
+
+[33:05] é perto inicialmente de iniciação
+
+[33:07] científica de fazer mestrado enfim e
+
+[33:09] queria apresentar um pouco os resultados
+
+[33:11] do trabalho dela é um orgulho na verdade
+
+[33:13] a gente tem uma brasileira mulher na
+
+[33:17] representando aqui inovação nessa nessa
+
+[33:20] área de diagnóstico é muito legal e é
+
+[33:22] para ilustrar esse episódio que a gente
+
+[33:24] tem então essa convidada ilustre como o
+
+[33:26] pai já adiantou a júlia konzen que
+
+[33:29] atualmente é mestranda em enfermagem
+
+[33:30] pela unisinos e fez biomedicina também
+
+[33:33] pela unisinos com habilitação em
+
+[33:35] biologia molecular e patologia clínica
+
+[33:37] ela possui experiência em pesquisa no
+
+[33:39] desenvolvimento de dispositivos
+
+[33:41] microfluídicos para o diagnóstico e o
+
+[33:43] seu projeto resultou no desenvolvimento
+
+[33:44] de um dispositivo para coagulação à
+
+[33:47] beira de leito que se encontra sobre
+
+[33:49] processo de depósito de patente a júlia
+
+[33:51] é um exemplo da participação da
+
+[33:53] universidade na construção e evolução da
+
+[33:55] pesquisa junto com um corpo docente
+
+[33:57] constituído de tecnologia com
+
+[33:59] laboratórios e lógico estrutura e a
+
+[34:02] também um exemplo de como os alunos
+
+[34:04] podem ser desafio
+
+[34:05] a pensar os meses onde estão envolvidos
+
+[34:07] para melhorar a vida em sociedade e
+
+[34:11] finalmente é um exemplo de como a
+
+[34:12] graduação pode sim abrir portas para
+
+[34:14] outros interesses vamos ver então
+
+[34:17] pouquinho ajoelha altair olá meu nome é
+
+[34:20] júlia é quase moreira sou graduada em
+
+[34:22] biomedicina pela universidade do vale do
+
+[34:24] rio dos sinos atualmente faz parte do
+
+[34:27] projeto programa de pós-graduação de
+
+[34:29] cuidado em saúde da enfermagem são hoje
+
+[34:31] o biomédico tem mais de 30 campos de
+
+[34:34] atuação no mercado de trabalho
+
+[34:36] especificamente na área onde eu sou
+
+[34:38] habilitada é de responsabilidade do
+
+[34:40] biomédico preparar analisar e
+
+[34:43] interpretar o resultado de mercadores
+
+[34:45] laboratoriais isso tudo a partir da
+
+[34:47] análise de amostras biológicas como por
+
+[34:50] exemplo sangue urina fezes escarro cê
+
+[34:53] todos os fluidos corporais passíveis de
+
+[34:54] análise o trabalho do biomédico é muito
+
+[34:57] investigativo e por isso que atualmente
+
+[34:59] o trabalho um grupo de pesquisa que
+
+[35:01] chamado lab-on-a-chip que fica dentro do
+
+[35:03] inter chip não ensinos
+
+[35:05] o que desenvolve dispositivos para a
+
+[35:07] utilização à beira de leito ou por auto
+
+[35:10] monitoramento do paciente então as
+
+[35:13] pessoas não sabem isso é interessante da
+
+[35:15] formação delas pessoas não sabem apesar
+
+[35:16] que tem muita gente que estuda não sabe
+
+[35:18] o que o biomédico faz que nem biólogo no
+
+[35:20] médico então ele não trata mas ele
+
+[35:23] também não estuda bicho né então o o
+
+[35:25] biomédico predominantemente trabalha
+
+[35:27] acontece diagnósticos na área de ação
+
+[35:29] desse campo né obviamente e muita gente
+
+[35:33] faz piada e tal mas é uma das áreas mais
+
+[35:35] sérias assim pelo menos no brasil temos
+
+[35:37] faculdades com reconhecimento mundial né
+
+[35:41] então a unisinos por exemplo é
+
+[35:43] particular mas se temos referem a
+
+[35:44] unifesp tem um curso muito ford de
+
+[35:47] biomedicina bem tradicional tem mais de
+
+[35:48] 50 anos e forma profissionais para tu lá
+
+[35:51] nesses dessa área de teste diagnóstico
+
+[35:53] mas é uma boa oportunidade de mostrar
+
+[35:55] dado dessa explicação sobre o sangue
+
+[35:58] coisas curiosas como eu gosto de exatas
+
+[36:00] né então estatística legal também tá
+
+[36:03] esse diagnóstico o navio eu vou explicar
+
+[36:05] os quatro conceitos que são conceitos
+
+[36:07] que você pode levar para sua vida não tá
+
+[36:09] gerais imagina por exemplo uma tabela 2
+
+[36:12] x 2 com duas colunas e duas linhas fica
+
+[36:15] bem básico assim dia primeiro de um sabe
+
+[36:17] mas ao mesmo tempo para divulgação
+
+[36:19] científica porque ele não é só pra teste
+
+[36:21] diagnóstico vale para qualquer coisa
+
+[36:22] então você tem quatro conceitos dois
+
+[36:26] conceitos são relacionados com a doença
+
+[36:28] que você tá estudando dois conceitos são
+
+[36:30] relacionados com o teste que você tá
+
+[36:32] aplicando porque por exemplo você pode
+
+[36:34] estar doente você tá doente mas você não
+
+[36:38] sabe que tá então uma coisa você estar
+
+[36:40] doente de fato outra coisa é o teste
+
+[36:42] consegui detectar que você está doente e
+
+[36:46] aí tem o contrário uma coisa é o teste
+
+[36:48] dizer que você tem a doença outra coisa
+
+[36:50] você estar doente de verdade tá então
+
+[36:52] como o teste não é um oráculo perfeito
+
+[36:55] ele pode errar por isso que você sempre
+
+[36:58] tem que confirmar um teste diagnóstico
+
+[36:59] às vezes com outros não tá então imagina
+
+[37:02] que eu tenho uma tabelinha de duas
+
+[37:04] colunas e duas linhas
+
+[37:05] e as linhas desta tabela eu tenho os
+
+[37:08] resultados do teste nas colunas eu tenho
+
+[37:11] o resultado da doença se você tá doente
+
+[37:13] de verdade ou não tá então você pode ter
+
+[37:16] por exemplo a primeira linha é uma
+
+[37:17] pessoa que o teste deu positivo então
+
+[37:20] você tem pessoas onde o teste deu
+
+[37:22] positivo elas podem estar de fato
+
+[37:24] doentes ou não ou não doentes que são as
+
+[37:26] duas colunas e você tem nem a linha de
+
+[37:28] baixo pessoas que o teste deu negativo
+
+[37:30] elas podem estar doentes de fato ou não
+
+[37:32] doente essa relação no teste diagnóstico
+
+[37:35] ele joga nesse quadrado então os
+
+[37:38] conceitos são os seguintes os primeiros
+
+[37:39] dois conceitos dizem respeito a doença
+
+[37:41] da que são os conceitos de sensibilidade
+
+[37:44] e especificidade o que que é
+
+[37:46] sensibilidade sensibilidade a capacidade
+
+[37:49] de um teste dizer que você está doente
+
+[37:51] de verdade tá dele dado positivo e você
+
+[37:54] estar de fato doente e é um teste é um
+
+[37:56] teste por exemplo eu faço esse teste de
+
+[37:58] coagulação eu quero saber se você tem um
+
+[37:59] problema ou não então na linhas nas
+
+[38:02] minhas eu tenho o teste e deu positivo o
+
+[38:04] teste deu negativo
+
+[38:05] i nas colunas você tem um problema de
+
+[38:07] coagulação ou não tem a sensibilidade do
+
+[38:10] teste é a capacidade de se teste de dar
+
+[38:12] positivo e dizer que você tá doente tem
+
+[38:15] que confirmar os positivos tá então a
+
+[38:18] sensibilidade ele nada mais é do que a
+
+[38:20] soma das pessoas verdadeiramente doentes
+
+[38:23] / todo mundo que o teste que é doente a
+
+[38:27] sensibilidade isso o que que é
+
+[38:28] especificidade às vezes eu tenho um
+
+[38:30] teste que é muito bom para dizer que
+
+[38:32] você tá doente mas ele não é bom para
+
+[38:35] dizer que você não tá doente então ele
+
+[38:36] tá muito falso positivo por exemplo se o
+
+[38:39] teste para 100 pessoas todo mundo ali
+
+[38:41] der positivo ele vai pegar todos os
+
+[38:44] doentes mas vai ter muito falso positivo
+
+[38:46] é ruim né eu vou assustar uma galera mas
+
+[38:49] eu vou pegar todos os dois não pense que
+
+[38:51] chuta para cima muito né então é
+
+[38:53] importante que o teste também acerte os
+
+[38:55] negativos que ele perceba que você não
+
+[38:57] tá doente que ele consiga discriminar e
+
+[38:59] aí só chamado especificidade um teste
+
+[39:02] específico é um teste de bom para dizer
+
+[39:04] que você não
+
+[39:05] e não tá o ideal é o teste acertar tanto
+
+[39:09] positivos quanto negativos mas isso é
+
+[39:11] praticamente impossível você tem que ver
+
+[39:12] um pouquinho da em geral quanto mais
+
+[39:15] invasivo o teste melhor mas não eu menor
+
+[39:20] o erro claro que tá mais perto mas
+
+[39:21] sensível mais específico então o que que
+
+[39:24] eu faço eu abro mão da invasão torna ele
+
+[39:27] menos invasivo e abra um pouquinho do
+
+[39:29] erro então ele é um pouquinho mais né
+
+[39:32] então por exemplo se eu tenho um teste
+
+[39:34] com 90 porcento de sensibilidade 90
+
+[39:36] porcento das vezes ele vai dizer que
+
+[39:38] você tá doente tá tá bom né depende da
+
+[39:41] doença se foi uma doença que te mata
+
+[39:42] rápido talvez seja pouco porque eu não
+
+[39:45] quero matar dez porcento das pessoas eu
+
+[39:46] quero um teste mais e aí não vale a pena
+
+[39:49] o teste rápido eu quero o teste
+
+[39:50] agressivo a curado eu quero te agressivo
+
+[39:52] né não se a doença não é muito grave né
+
+[39:55] não 90 pessoa então já está bom né de
+
+[39:57] acerto do teste então sensibilidade e
+
+[40:00] especificidade são características do
+
+[40:02] teste em relação a doença aí tem a
+
+[40:04] qualidade do teste
+
+[40:05] o valor preditivo um modo que o teste
+
+[40:07] consegue pegar tá você tem o valor
+
+[40:10] preditivo positivo e o valor preditivo
+
+[40:12] negativo valeu preditivo é a capacidade
+
+[40:15] não do teste dizer que você está doente
+
+[40:17] mas sim de quantas pessoas doentes o
+
+[40:20] teste é capaz de pegar é o contrário
+
+[40:22] então eu posso ter um teste muito bom
+
+[40:25] para dizer que você é doente mas eu não
+
+[40:27] consigo fazer todo mundo eu detectar ter
+
+[40:29] certeza que você tá doente eu tenho que
+
+[40:30] tirar uma biópsia de você e não é todo
+
+[40:32] mundo faz biópsia então ele tem valor
+
+[40:34] preditivo positivo baixo porque eu não
+
+[40:36] consigo aplicar em todo mundo por
+
+[40:38] exemplo todo mundo que tem que fazer o
+
+[40:40] teste tem que ir pro hospital tentar
+
+[40:41] internado eu não consegui internar todo
+
+[40:43] mundo logo ele tem um valor preditivo
+
+[40:44] positivo baixo aí o mesmo valor
+
+[40:46] preditivo negativo que a capacidade do
+
+[40:49] teste encontrar as pessoas negativas tá
+
+[40:52] então o jogo dos testes diagnósticos é
+
+[40:54] isso ele tem que ser fácil o suficiente
+
+[40:56] e bom suficiente para detectar isso é
+
+[40:59] uma coisa que as pessoas aprendem na
+
+[41:01] graduação das áreas de biológicas
+
+[41:02] medicina biomedicina então mas
+
+[41:05] um pouco né e aí tem uma característica
+
+[41:08] importante que por exemplo a júlia
+
+[41:10] aconteceu que ela só teve contato com um
+
+[41:12] cálculo com essa questão realmente
+
+[41:14] diagnóstico porque ela foi fazer
+
+[41:15] iniciação científica né por exemplo eu
+
+[41:17] só vi eu sou cientista eu só virei
+
+[41:19] cientista porque eu fiz pesquisa desde a
+
+[41:21] graduação eu comecei no final do
+
+[41:23] primeiro ano de graduação tá então por
+
+[41:26] exemplo tem gente que faz a graduação
+
+[41:27] inteira depois vai entrar no mestrado dá
+
+[41:29] para fazer a cientista mas demora muito
+
+[41:31] mais em conta os ó aí começa a ter
+
+[41:33] contato contato com essas coisas e com a
+
+[41:35] estatística leva um tempo para você
+
+[41:37] maturar sabe então eu até fiz uma
+
+[41:40] pergunta para julia porque para mim
+
+[41:41] funcionou mas eu sou um caso particular
+
+[41:44] então que competências ela desenvolveu
+
+[41:46] ela acha que desenvolveu de forma
+
+[41:48] diferente dos colegas fazendo iniciação
+
+[41:51] científica desde a graduação hotel esse
+
+[41:54] grupo leva energia ele teve início dois
+
+[41:56] anos ainda minha conclusão na graduação
+
+[41:58] que foi quando ouvi a junção entre a
+
+[42:01] área da engenharia e da biometria esse
+
+[42:05] em abril positivamente na minha formação
+
+[42:07] devido as competências que eu fui a da
+
+[42:11] ter pelos meus orientadores como por
+
+[42:13] exemplo as buscas de referência nas
+
+[42:15] bases de dados análise crítica dos
+
+[42:18] artigos que estavam me embasando a
+
+[42:20] competência da escrita do meu trabalho
+
+[42:22] de conclusão análise estatística do meu
+
+[42:25] trabalho como fazer a validação de um
+
+[42:28] novo método de diagnóstico todos esses
+
+[42:31] pontos eles não são muito explorados
+
+[42:33] durante as disciplinas na graduação mas
+
+[42:36] eles fazem total diferença na vida
+
+[42:38] acadêmica do estudante e também na vida
+
+[42:41] profissional e na pós-graduação como foi
+
+[42:44] no meu caso então você vê que a
+
+[42:46] possibilidade assim de você criar novas
+
+[42:49] técnicas o brasil tem capacidade de
+
+[42:53] pesquisa para empreender e ser pioneiro
+
+[42:56] sobretudo na área de biológicas em
+
+[42:57] várias áreas né o que falta é incentivo
+
+[43:01] para os alunos desde a graduação eu
+
+[43:03] pessoalmente acho mais importante
+
+[43:05] de bolsas de iniciação científica de
+
+[43:07] colocar os moleque mesmo que ele não
+
+[43:09] faça mestrado trato mas entender como a
+
+[43:11] ciência funciona eu acho mais importante
+
+[43:12] porque da bolsa de mestrado doutorado né
+
+[43:15] porque se aumentar o número de
+
+[43:16] iniciações vai aumentar o interesse das
+
+[43:19] pessoas depois né é muito ruim convencer
+
+[43:22] alguém no final da graduação fazer
+
+[43:23] pesquisa os caras bons que eu conheço
+
+[43:25] mesmo são os caras e começaram desde a
+
+[43:27] graduação assim tiveram interesse
+
+[43:28] começar a fazer estágio e aí a coisa foi
+
+[43:30] desenrolando é muito mais fácil de fazer
+
+[43:32] isso em na área de biológicas do que
+
+[43:33] outras áreas né mas é um incentivo
+
+[43:36] interessante e aí tem uma coisa final
+
+[43:39] que só experiência maior em pesquisa
+
+[43:41] possibilita eu acho que assim de fato eu
+
+[43:43] vi essa os resultados assim são bem
+
+[43:46] promissores de fato é um equipamento
+
+[43:48] barato fácil você vai conseguir ver o
+
+[43:51] tempo de coagulação com certeza vai
+
+[43:53] salvar vidas com isso mas ao mesmo tempo
+
+[43:55] de forma um pouco dialética você vai
+
+[43:57] expor outras pessoas ao risco por conta
+
+[43:59] da própria relação entre sensibilidade e
+
+[44:01] valor preditivo positivo então por
+
+[44:03] exemplo seu tira o seu sangue
+
+[44:05] e aqui no laboratório então não são
+
+[44:07] todas as pessoas que vão no laboratório
+
+[44:09] mesmo o teste clássico tem uma
+
+[44:11] sensibilidade alta ele não tem um valor
+
+[44:13] preditivo positivo tão alto porque não é
+
+[44:15] todo mundo que vai você vai depois do
+
+[44:18] médico indicar se eu pegar esse teste de
+
+[44:20] coagulação e transformaram teste de
+
+[44:21] farmácia eu vou aumentar o valor
+
+[44:23] preditivo positivo do teste mas gente
+
+[44:25] vai procurar mas ao mesmo tempo vai
+
+[44:27] aumentar o número de falso-positivo de
+
+[44:29] gente que vai se assustar porque tu acha
+
+[44:31] que tá com problema de coagulação aí vai
+
+[44:33] no médico e vai ver não tem da e aí você
+
+[44:36] vai sobrecarregar o serviço público de
+
+[44:38] saúde então é muito legal você quer a
+
+[44:40] patente desenvolver novas técnicas mas
+
+[44:43] isso não pode virar marketing de
+
+[44:44] marketing e vamos ganhar no volume e
+
+[44:46] aplicar para todo mundo não você vai
+
+[44:48] gerar custo lá na frente a ideia desse
+
+[44:51] exame principalmente é você melhorar o
+
+[44:54] fluxo ea rotina mais fácil dentro de
+
+[44:56] instituições médicas clínica isso em vez
+
+[45:00] de esperar 8:00 tô sem um exame só em 8
+
+[45:02] minutos ótimo se é para o médico
+
+[45:05] é bom estao no caso mais grave
+
+[45:07] monitoramento fica até mais fácil se o
+
+[45:09] paciente por exemplo ele tem que ficar
+
+[45:10] monitorando ele tem um diagnóstico aí
+
+[45:12] ele compra então por exemplo esse é um
+
+[45:14] tipo de teste mesmo rápido se for
+
+[45:17] vendido na farmácia tem que ser vendido
+
+[45:18] com receita você tem que ter o
+
+[45:20] diagnóstico de uma doença de coagulação
+
+[45:22] para usar o teste não pode não é igual
+
+[45:24] um teste de gravidez por exemplo essa é
+
+[45:26] a única ressalva né ela é importante
+
+[45:29] vamos deixar na descrição o artigo que é
+
+[45:30] uma uma revisão de estudos rápidos e
+
+[45:34] inclusive ponto é isso que às vezes você
+
+[45:36] diagnosticar muito rápido aumenta o
+
+[45:38] número de falso positivo é falso
+
+[45:40] negativo e sobrecarrega o sistema
+
+[45:41] público você tem colonizando a ligação
+
+[45:44] do outro né e aí entra a importância da
+
+[45:47] formação do médico como médico é mal
+
+[45:49] formado por somente em estatística ele
+
+[45:51] desconsidera a prevalência da doença tão
+
+[45:54] doenças muito prevalentes tanto isso é
+
+[45:57] muito comum mesmo que o teste não seja
+
+[45:59] tão bom ele vai pegar claro né agora se
+
+[46:02] você a doença rara e o teste tem
+
+[46:05] o motivo eu posso aumenta a chance de eu
+
+[46:08] dizer que a pessoa tem a doença e na
+
+[46:09] verdade ela não tem tanto
+
+[46:10] sobrecarregando falso alarme de tudo
+
+[46:12] isso por isso que o médico tem que
+
+[46:14] sempre fazer boas perguntas antes de
+
+[46:16] pedir o teste recomendo fortemente nossa
+
+[46:19] episódio sobre o teorema de vez tá uma
+
+[46:21] coisa é se eu não pergunto nada para
+
+[46:23] você você faz parte da população geral
+
+[46:25] se você faz parte da população geral o
+
+[46:28] risco de você tá doente em geral mais
+
+[46:29] baixo se eu faço algumas perguntas de
+
+[46:32] screening eu pergunto tem um histórico
+
+[46:34] familiar você tem tal sintoma antes de
+
+[46:37] pedir o teste e eu vejo que dá positivo
+
+[46:39] que você disse para essas respostas você
+
+[46:41] já não faz parte mais da população geral
+
+[46:44] você faz parte da população de risco
+
+[46:46] onde a prevalência da doença é maior
+
+[46:48] logo a chance de dar falso positivo é
+
+[46:50] melhor entendeu então um médico ele aí
+
+[46:53] temos uma planta claro exemplo de que o
+
+[46:56] conhecimento de estatística por exemplo
+
+[46:59] de mensagem ou liga faz com que a
+
+[47:01] medicina existe o diagnóstico muito
+
+[47:03] antes de um teste diagnóstico
+
+[47:05] e não é o diagnóstico começa muito antes
+
+[47:07] de você tirar sangue de uma pessoa nas
+
+[47:09] suas perguntas né as duas perguntas você
+
+[47:11] refina as prevalências e aí aumenta a
+
+[47:13] ciência do teste dá certo independente
+
+[47:15] da qualidade dele você escolher para
+
+[47:17] quem aplicar o teste e ainda atende da
+
+[47:19] formação clínica do médico é fundamental
+
+[47:22] para o sucesso desses testes rápidos
+
+[47:24] então assim a júlia fez um trabalho
+
+[47:25] muito legal com a universidade tem
+
+[47:27] méritos por isso mas se o médico não foi
+
+[47:29] bem informado de perceber essa relação
+
+[47:31] entre variáveis próximas do indivíduo
+
+[47:33] variáveis distantes o a eficácia e
+
+[47:35] efetividade dessa prática é menor então
+
+[47:38] juntamente com isso recomendamos que os
+
+[47:41] médicos sejam melhor formados e ouça
+
+[47:42] nossa episódio sobre tenho medo de vez
+
+[47:44] verdade eu queria antes de terminar aqui
+
+[47:47] deixar de novo os parabéns para a júlia
+
+[47:51] e a gente teve a a privilégio de
+
+[47:54] conhecer falamos pessoalmente e
+
+[47:56] conversar e de facto ela é um exemplo de
+
+[48:02] como a iniciação científica
+
+[48:05] o conhecimento científico pode de fato
+
+[48:08] transformar vidas naruto rodou
+
+[48:11] ilustríssimo 20 e você já sabe aqui no
+
+[48:16] naru rodou quem faz a pauta é você você
+
+[48:18] tem alguma pergunta para a gente o que é
+
+[48:20] comentar algum episódio escreva para nós
+
+[48:23] podcast arroba narodów a.com.br
+
+[48:26] repetindo podcast arroba andar o rodolfo
+
+[48:28] ponto com.br e lembre-se mande nome
+
+[48:31] completo idade profissão e a cidade de
+
+[48:34] onde você está falando é isso aí ó
+
+[48:37] [Música]
+
+[48:40] é mais uma nova apresentado b9.com.br
+
+[48:52] e aí

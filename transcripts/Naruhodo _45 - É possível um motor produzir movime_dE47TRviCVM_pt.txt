@@ -1,0 +1,1291 @@
+Title: Naruhodo #45 - É possível um motor produzir movimento do nada?
+URL: https://www.youtube.com/watch?v=dE47TRviCVM
+Language: pt
+Extracted on: 2025-04-06 16:50:15
+================================================================================
+
+[00:00] é possível um motor produzir movimentos
+
+[00:03] em interagir com nada
+
+[00:06] [Música]
+
+[00:07] na roupa
+
+[00:09] [Música]
+
+[00:21] cel
+
+[00:23] bem vindo ao rolo podcast para quem tem
+
+[00:26] fome de aprender eu sou ken fujioka
+
+[00:27] nilson ataíde de souza e hoje é dia de
+
+[00:30] que derrotando estudos
+
+[00:36] ao sair à pergunta de hoje ela choveu
+
+[00:39] aqui nos nossos e mails mesmo é muita
+
+[00:42] gente mandou e meio sobre essa notícia
+
+[00:44] são os nossos nerds de plantão entre os
+
+[00:47] nossos ouvintes não foram por run para
+
+[00:50] aqui é mandou e mail tarcísio valente de
+
+[00:53] 42 anos que é administrador de são paulo
+
+[00:55] capital
+
+[00:56] ele fala quem está aí parabéns pelo
+
+[00:58] podcast um dos meus favoritos desde a
+
+[00:59] primeira vez que escutei ele uma notícia
+
+[01:02] que achei interessante e aí ele manda o
+
+[01:05] link para a matéria que saiu no site da
+
+[01:08] superinteressante 1
+
+[01:10] o título da matéria é nasa comprova o
+
+[01:13] motor impossível funciona a matéria foi
+
+[01:16] publicada no dia 21 de novembro deste
+
+[01:19] ano 2016 até aí é recente ainda coloca
+
+[01:22] aqui no subtítulo o em drive é o nome do
+
+[01:25] device aqui no dispositivo o em drive
+
+[01:28] produz movimento sem interagir com nada
+
+[01:31] os livros de física terão que ser
+
+[01:33] reescritos para explicar como a gente
+
+[01:36] vai colocar o link no post para que as
+
+[01:38] pessoas possam ler essa matéria super
+
+[01:42] interessante porque na nossa avaliação
+
+[01:44] não tá aí hein
+
+[01:46] a matéria foi bacana né sem ela parece
+
+[01:48] que descreve bem o experimento os
+
+[01:49] resultados não ficou uma matéria ruim
+
+[01:51] não óbvio que pra gente fazer esse
+
+[01:52] programa a gente foi a fundo não é alta
+
+[01:56] e foi estudar
+
+[01:57] o artigo original sin toma um tempo e
+
+[02:01] super científico e por isso a gente
+
+[02:03] levou algum tempo para gravar esse
+
+[02:05] episódio tenha uma secção enroladas pra
+
+[02:08] deduzir é verdade mas deu certo eu acho
+
+[02:10] mas além do tássio aí como a gente falou
+
+[02:13] muita gente mandou mesma pergunta
+
+[02:15] o matheus alves né de base lucas de 19
+
+[02:20] anos que é estudante de história de
+
+[02:22] curitiba paraná
+
+[02:23] andou aqui essa pergunta eu estava
+
+[02:25] tranquilamente tomando chá em minha sala
+
+[02:27] de chá quando as 43
+
+[02:30] de repente entra uma revista
+
+[02:31] sensacionalista dizer que a nasa teria
+
+[02:33] comprovado a existência de um
+
+[02:35] é impossível e que este motor produzir
+
+[02:37] movimentos e interagir com nada e ainda
+
+[02:39] gerar um movimento nas gráficas que
+
+[02:41] teriam que receber ver os livros de
+
+[02:43] física para explicar isso é o quanto
+
+[02:45] isso é verdade
+
+[02:46] o anderson leite de 35 anos de itaocara
+
+[02:50] no rio de janeiro
+
+[02:52] manda assim o lá comecei esse melodia do
+
+[02:54] trabalho de vocês com esse podcast
+
+[02:56] mas essa altura acha desnecessário pelo
+
+[02:58] contrário só amanhã a favor o elogio são
+
+[03:01] bem vindos à críticas mais bem-vindos aí
+
+[03:03] por favor em uma rede social com o tema
+
+[03:06] azul cujo logo a letra inicial de seu
+
+[03:09] nome
+
+[03:10] a gente sabe de que rede social ele está
+
+[03:12] se referindo né
+
+[03:13] está circulando link abaixo onde nada é
+
+[03:16] explicado e tudo é exaltado como
+
+[03:17] inovador e ele manda a mesma matéria
+
+[03:20] outro que mandou também essa mesma
+
+[03:22] pergunta o filipe ballast de 27 anos que
+
+[03:25] é publicitário de são paulo capital no
+
+[03:27] dia seguinte gosto muito das explicações
+
+[03:29] científicas que vocês fazem e lendo uma
+
+[03:31] matéria sobre o motor impossível algo me
+
+[03:34] parece um pouco estranho sensacionalista
+
+[03:36] fui atrás das matérias hoje por
+
+[03:38] originais e do estudo da eagle o ex é da
+
+[03:40] nasa é publicado na arc e parece que
+
+[03:43] está tudo correto porém um artigo da
+
+[03:45] exame fala em jogar fora terceira lei de
+
+[03:47] newton e um outro site que ele vai
+
+[03:50] acabar com a teoria de conservação de
+
+[03:52] movimento e aí eu fiquei com nozinho na
+
+[03:54] cachola vamos mesmo precisar rever os
+
+[03:57] livros de física ou calma lá então é
+
+[04:00] isso aí
+
+[04:00] na verdade esse estudo chama a atenção
+
+[04:02] de bastante gente e diferentes níveis de
+
+[04:05] dúvidas surgiram em mim
+
+[04:06] a partir dele que a gente pode falar
+
+[04:08] sobre isso para tentar esclarecer os
+
+[04:10] nossos ouvintes e mostrar o que é fato
+
+[04:13] que que é uma dose de humor aqui um da
+
+[04:17] própria revista super interessante vamos
+
+[04:19] lá
+
+[04:19] a primeira coisa vamos construir algumas
+
+[04:21] coisas a primeira é o que é um motor
+
+[04:23] impossível já existe há mais quase 200
+
+[04:26] anos essa idéia de inventores tentarem
+
+[04:30] construir motores que precisariam de uma
+
+[04:33] quantidade muito pequena de energia uma
+
+[04:35] quantidade inicial de energia ea partir
+
+[04:37] daí ele que ela continuasse regulando e
+
+[04:40] gerando um movimento por conta própria
+
+[04:41] se você colocar por exemplo no youtube
+
+[04:43] motores impossíveis você acha vários
+
+[04:45] exemplos desses motores supostos motores
+
+[04:48] eles não são impossíveis é às vezes
+
+[04:50] atração ou a própria resistência do ar
+
+[04:53] vai diminuindo a energia cinética desses
+
+[04:56] instrumentos transformando em de energia
+
+[04:59] potencial e isso já muita gente tentou
+
+[05:01] fazer por quase 200 anos ninguém
+
+[05:04] conseguiu fazer um motor que segundo as
+
+[05:06] leis da nossa física palpável na terra
+
+[05:09] seja impossível que ele consiga gerar
+
+[05:12] movimento ou energias em uma fonte
+
+[05:15] contínua também de energia isso não é
+
+[05:18] possível
+
+[05:19] tá esse motor que foi descrito neste pp
+
+[05:21] da nasa não é um motor impossível ele
+
+[05:23] não usa princípios físicos que a gente
+
+[05:26] conhece né regularmente então para
+
+[05:28] explicar melhor como este motor o
+
+[05:30] suposto motor funciona
+
+[05:31] primeiro vamos pensar na dimensão é qual
+
+[05:34] é o tamanho enquanto isso o motorista
+
+[05:35] pisa motor de carro o motor de moto
+
+[05:37] nesta imagina esse tamanho não é desse
+
+[05:40] tamanho o motor ele é pequeno
+
+[05:41] ele tem coisa de 30 cm x 40 centímetros
+
+[05:44] né ele é pequeno e o que seria o
+
+[05:47] combustível dele ele é composto de uma
+
+[05:49] uma pequena bateria que gera uma
+
+[05:51] corrente elétrica e essa corrente
+
+[05:54] elétrica alimenta um um aparelhinho que
+
+[05:57] emite uma freqüência de rádio
+
+[05:59] tá então imagine uma câmera é como se
+
+[06:02] fosse um cilindro de alumínio dentro de
+
+[06:05] cilindros você tem vácuo eles tiram o ar
+
+[06:07] você não tem nada de cilindro é um
+
+[06:10] cilindro mesmo na parte da frente você é
+
+[06:12] vedado né pra isolar o o vácuo
+
+[06:15] você coloca uma pequena entrada onde
+
+[06:17] você liga um aparelhinho que joga uma
+
+[06:19] onda de rádio uma onda de rádio em ondas
+
+[06:21] eletromagnéticas as pessoas não vêem né
+
+[06:24] mas a característica de uma onda de
+
+[06:26] rádio que ela tem uma freqüência baixa
+
+[06:28] ondas que têm freqüências baixas
+
+[06:30] costumam ter uma propriedade de
+
+[06:33] percorrer grandes distâncias
+
+[06:35] então ondas de rádio ou ondas com
+
+[06:37] frequências ainda mais baixas como ondas
+
+[06:39] gama raio x em frequências muito baixas
+
+[06:43] e essa propriedade permite com que ela
+
+[06:45] percorra uma grande distância na então
+
+[06:47] as ondas que por exemplo estrelas ou com
+
+[06:49] as áreas emitem são longas de muita
+
+[06:52] baixa freqüência então só conseguem
+
+[06:53] chegar até nós mesmo estando em uma
+
+[06:55] distância muito grande dá um exemplo a
+
+[06:57] gente uma onda
+
+[06:58] ap uma onda de alta freqüência uma onda
+
+[07:01] de atual alta freqüência por exemplo a
+
+[07:02] onda do seu celular
+
+[07:04] então é por isso que por exemplo você
+
+[07:06] pode estar numa sala que não pega sinal
+
+[07:08] de celular porque a onda para um sinal
+
+[07:10] sair de um lugar para o outro com uma
+
+[07:12] alta freqüência em geral quando você
+
+[07:14] está dentro de um quarto que tem uma
+
+[07:15] parede muito grossa não passa o sinal
+
+[07:17] wifi é outro exemplo ele tem uma
+
+[07:19] freqüência alta também né
+
+[07:22] a onda de rádio passa então por exemplo
+
+[07:23] você pode estar numa sala que não tem
+
+[07:25] sinal de celular mas tem sinal de rádio
+
+[07:30] porque a onda de rádio que ela tem uma
+
+[07:32] freqüência mais baixa consegue passar
+
+[07:34] uma maior quantidade de materiais do que
+
+[07:37] a onda de vai fai ou de celular
+
+[07:39] perfeita' esse motor aquele começa com
+
+[07:42] uma onda de rádio mas com um toque
+
+[07:44] rápido e isso conta de rádio embora a
+
+[07:46] foto da matéria da superinteressante e
+
+[07:48] koné de metal ele seja meio bronzeados e
+
+[07:52] vamos dá a sensação de que de bronze e
+
+[07:54] cobre ele é é de alumínio perfeito né
+
+[07:58] tem um certo tratamento especial para
+
+[07:59] isso o que acontece
+
+[08:01] a onda de rádio ela tem uma propriedade
+
+[08:02] como eu comentei de cruzar muitas coisas
+
+[08:05] né
+
+[08:06] qual foi a particularidade aí o que
+
+[08:07] seria esperado que a onda de rádio
+
+[08:09] passasse por esse ícone o cilindro
+
+[08:11] cruzasse o cone e saísse sem gerar
+
+[08:14] nenhuma interferência isso era esperado
+
+[08:16] só que o que aconteceu quando a onda
+
+[08:18] passa pelo coni
+
+[08:19] ela deixou uma energia residual em
+
+[08:22] sentido oposto então imagina você tá
+
+[08:24] indo numa direção
+
+[08:25] você passa por um certo local e você tem
+
+[08:29] uma energia resultante em sentido oposto
+
+[08:31] isso funciona como uma propulsão de um
+
+[08:34] motor por exemplo uma turbina de avião
+
+[08:36] como que os aviões voam não os
+
+[08:38] planadores mas os aviões muito mais
+
+[08:40] pesado que o ar é como que um bonde voa
+
+[08:42] que a turbina do avião faz e capta a
+
+[08:44] área da parte da frente do avião e cospe
+
+[08:47] pela parte de trás e isso gera uma
+
+[08:48] propulsão não viam consegue se manter em
+
+[08:50] movimento
+
+[08:51] então ele capta um elemento da parte da
+
+[08:53] frente joga para trás o foguete
+
+[08:55] o foguete evitar por exemplo no vácuo
+
+[08:57] que não tem nada mas dentro dele tem
+
+[08:59] substâncias que geram uma reação já era
+
+[09:01] um propelente esse provavelmente faz com
+
+[09:04] que o foguete e saia é e viaja pelo
+
+[09:06] espaço e tal
+
+[09:07] principalmente sair da atmosfera consome
+
+[09:09] uma grande quantidade de combustível mas
+
+[09:11] depois ele porém
+
+[09:12] se ele vai mantendo o movimento de lino
+
+[09:14] no vácuo esse motor
+
+[09:16] nessa espécie de motor é baseado nessa
+
+[09:18] onda de rádio isso não seria esperado
+
+[09:21] gerou se essa propulsão para trás de uma
+
+[09:23] onda de rádio foi pra frente e gerou uma
+
+[09:25] energia resultante para trás
+
+[09:27] para você ter uma idéia do grau de
+
+[09:28] energia que isso gera nessa energia
+
+[09:30] resultante é da ordem de 1 ponto 2 mil
+
+[09:34] tons por quilowatt que significa isso
+
+[09:36] você precisa de um quilowatt de energia
+
+[09:39] um quilowatt por exemplo se você pensar
+
+[09:42] o seu chuveiro chuveiro deve consumir
+
+[09:45] algo em torno de 600 watts para gerarmos
+
+[09:48] kenta água tá você precisa de mil watts
+
+[09:51] não é pouca energia de uma quantidade
+
+[09:54] razoável de energia para ter como
+
+[09:56] resultante 1.2 mil e milton cipis na
+
+[09:59] verdade mil 1.000 e r 2.000 quilowatts e
+
+[10:03] isso sempre é verdade mil muito bem
+
+[10:05] cerca de 1000 mil r 1 milhão é de 1
+
+[10:08] milhão de watts para gerar uma energia
+
+[10:10] de 1.2 mil e newton que é muito pequena
+
+[10:13] então o sistema não é eficiente para
+
+[10:17] gastar muita energia para ter um
+
+[10:18] resultado muito baixo
+
+[10:19] graças a esse experimento ainda não não
+
+[10:22] tem a ver com eficiência nessa geração
+
+[10:23] de energia não é
+
+[10:25] demonstrando uma possibilidade
+
+[10:27] importante isso é extremamente
+
+[10:28] introdutório por isso que não tem a ver
+
+[10:30] com essa idéia de motor impossível e
+
+[10:32] nada disso foi só para atrair a atenção
+
+[10:34] para a notícia a chover como leigo deixa
+
+[10:37] eu ver se entendi está falando aqui é um
+
+[10:40] motor que começa com uma onda de rádio
+
+[10:43] um essa onda de rádio ela atravessa
+
+[10:47] se o vasco positivo o vácuo que está
+
+[10:50] contido dentro de um dispositivo de
+
+[10:52] alumínio num e acaba gerando ainda não
+
+[10:57] se sabe bem porquê mas acaba gerando uma
+
+[11:00] força em sentido oposto propulsora isso
+
+[11:04] então ela passa pelo cilindro ela já era
+
+[11:06] uma resultante em sentido oposto mais ou
+
+[11:08] menos parecido com a turbina de um avião
+
+[11:09] lá ainda por um lado gera propulsão para
+
+[11:12] o outro
+
+[11:12] tá e aí o que seria importante disso né
+
+[11:15] vamos explicar o que é o newtom
+
+[11:17] nilton é uma medida de força para quem
+
+[11:19] está no vestibular na no colegial lembra
+
+[11:21] aquela fórmula é igual e mil vezes a
+
+[11:23] força igual à massa vezes aceleração
+
+[11:25] isso vem da segunda lei de newton é a
+
+[11:28] lei da dinâmica que mostra que força é
+
+[11:30] igual à massa vezes aceleração
+
+[11:32] então o que seria a força é uma
+
+[11:34] resultante de uma uma quantidade de
+
+[11:36] massa acelerada por uma certa energia
+
+[11:38] então força significa movimento força
+
+[11:42] significa aceleração
+
+[11:44] se você parar pra pensar nós estamos no
+
+[11:45] planeta terra eo planeta terra está em
+
+[11:47] movimento
+
+[11:48] ele está caminhando nós temos uma massa
+
+[11:51] nosso corpo tem uma certa massa em
+
+[11:53] queluz né
+
+[11:54] só que essa massa está sendo
+
+[11:55] continuamente acelerada dado que estamos
+
+[11:58] dentro da terra então a terra tem uma
+
+[12:00] aceleração constante nós estamos nessa
+
+[12:02] celebração por isso que a gente não
+
+[12:04] percebe que a gente está em movimento
+
+[12:06] porque a gente está na mesma aceleração
+
+[12:07] e velocidade da terra
+
+[12:09] a gente devia ser medido em newton
+
+[12:11] sentam exato então o nilton é uma medida
+
+[12:13] de peso
+
+[12:14] você tem uma certa massa em quilos só
+
+[12:16] que essa massa recebe uma influência
+
+[12:18] gravitacional que é uma aceleração é 9.8
+
+[12:22] metros por segundo ao quadrado em é a
+
+[12:24] aceleração da gravidade da terra
+
+[12:26] então se você tem um corpo de um quilo
+
+[12:28] com o massa de um quilo
+
+[12:30] ele tem um peso né o gera uma força de
+
+[12:33] 9.8 newtons que seria massa desse peso
+
+[12:36] vez a aceleração da gravidade
+
+[12:38] então nilton também podem servir como
+
+[12:40] medidas de peso e na verdade são medidas
+
+[12:42] de aceleração de movimento
+
+[12:44] ele gera aqui 1.282 milênio millennium
+
+[12:48] tower é muito pouquinho é uma energia
+
+[12:50] muito pequena
+
+[12:51] e aí vem finalmente né a parte final que
+
+[12:54] por que isso acontece é porque isso
+
+[12:56] acontece aí uma coisa importante que as
+
+[12:58] pessoas têm que pensar quando você fala
+
+[13:00] do motor impossível você está pensando
+
+[13:02] no motor que gera energia infinita
+
+[13:05] segundo as leis da nossa física comum
+
+[13:08] nem no do do ambiente andreas kopke não
+
+[13:11] é do tamanho das pessoas está
+
+[13:13] quando você fala de partículas
+
+[13:15] sub-atômicas existe uma regra ou leis as
+
+[13:18] leis newtonianos não se aplicam tanto
+
+[13:20] quando você fala de partículas
+
+[13:21] sub-atômicas e aí você tenha física
+
+[13:23] quântica vale um esclarecimento aqui
+
+[13:26] física quântica não tem nada a ver com o
+
+[13:28] segredo nada a ver com pessoas estarem
+
+[13:31] conectadas com a energia que liga as
+
+[13:33] pessoas com intuição não tem nada a ver
+
+[13:35] com isso
+
+[13:36] nada a gente vai fazer um programa
+
+[13:38] esse tipo de visão só por favor vamos
+
+[13:40] fazer um programa sobre isso mas eu
+
+[13:41] quero deixar um pequeno exemplo do que
+
+[13:43] representa mais ou menos a física
+
+[13:45] quântica
+
+[13:45] quando eu tenho um elemento macroscópico
+
+[13:48] por exemplo tem uma pedra eu consigo
+
+[13:49] saber a dimensão dessa pedra consigo ver
+
+[13:53] as propriedades dessa pedra e tal porque
+
+[13:55] eu tenho acesso direto a ela e o tamanho
+
+[13:57] dela me permite ter acesso a ela
+
+[13:59] agora imagina que eu tenho uma partícula
+
+[14:01] subatômica eu tenho um quark que é um
+
+[14:03] pedaço de um átomo
+
+[14:05] essa partícula é tão pequena que
+
+[14:07] primeiro eu não consigo vê-la segundo
+
+[14:10] para medir o movimento dessa partícula
+
+[14:12] tenho que usar um instrumento algum
+
+[14:14] método de medina e esse método de medida
+
+[14:17] é o instrumento que estou usando é muito
+
+[14:19] grande em relação ao elemento ou seja
+
+[14:23] quando eu fui tentar medir
+
+[14:25] eu já não vou conseguir gerar uma
+
+[14:26] perturbação porque o elemento muito
+
+[14:28] pequeno então quem usasse uma uma régua
+
+[14:31] para medir um negócio que um grão de
+
+[14:33] areia menor do que eu quero que a
+
+[14:35] unidade mínima só eu quero uma régua
+
+[14:38] para medir um grão de areia quando eu
+
+[14:39] coloco a régua perto o próprio
+
+[14:41] deslocamento de ar da régua mexe
+
+[14:43] por exemplo um grão de areia ou seja tem
+
+[14:45] uma dificuldade de medida e agora que
+
+[14:47] ele já está em movimento também era
+
+[14:49] agora que está em constante movimento
+
+[14:50] não pensa tem todas as dificuldades na
+
+[14:53] então a física quântica ela não é uma
+
+[14:55] física experimental você faz
+
+[14:57] experimentos mas você não faz
+
+[14:59] experimentos para medir as propriedades
+
+[15:00] reais você médias propriedades
+
+[15:03] estatísticas dessas partículas então por
+
+[15:05] exemplo eu não sei onde a partícula tá
+
+[15:07] mas eu crio uma área onde a
+
+[15:09] probabilidade dessa partícula está é a
+
+[15:12] maior possível então é um chute
+
+[15:14] eu faço um experimento coleta uma
+
+[15:16] quantidade de dados e na análise desses
+
+[15:18] dados o cálculo a probabilidade dessa
+
+[15:20] partícula estar ali sim
+
+[15:22] então imagina a dificuldade técnica de
+
+[15:24] coletar dados de estar ali naquele
+
+[15:26] momento exato ou não ser um ruído
+
+[15:29] qualquer tanto é uma coisa que a
+
+[15:31] superinteressante não fala mas está no
+
+[15:33] artigo original o artigo muito bom
+
+[15:35] assim o artigo realmente bom eles têm
+
+[15:37] muito cuidado são físicos experimentais
+
+[15:39] muito bons assim e eles descrevem o
+
+[15:42] experimento explicam como foi feito o
+
+[15:44] que foi medido quais são os resultados
+
+[15:46] no final do artigo eles colocam tipo
+
+[15:48] limitações que ele chama de fontes de
+
+[15:50] erro
+
+[15:51] ele falou eu tentei controlar esse
+
+[15:53] experimento máximo possível mas pode ser
+
+[15:55] que tenha dado ruim porque a energia que
+
+[15:58] conseguir gerar de propulsão é 1.2 mil
+
+[16:01] ton é extremamente pequena essa energia
+
+[16:03] poderia ter sido gerada por qualquer
+
+[16:05] outra coisa qualquer alteração do
+
+[16:08] ambiente
+
+[16:08] algumas fontes de erro eles conseguiram
+
+[16:11] controlar mas eu quero deixar claro três
+
+[16:13] delas três fontes de erro que podem ter
+
+[16:15] eles falam a gente não conseguiu
+
+[16:16] controlar a gente não sabe se isso pode
+
+[16:19] ser um problema ou não então a gente
+
+[16:20] está falando
+
+[16:21] a primeira é a interação magnética então
+
+[16:24] por mais controlado que você faça uma
+
+[16:26] câmara de vácuo não é um vácuo do espaço
+
+[16:29] né e mais gente está dentro da terra
+
+[16:31] você tenha a interação gravitacional da
+
+[16:34] terra e isso pode gerar um desvio que
+
+[16:37] seja maior do que esse 1.2 mil tons
+
+[16:40] então a gente tem o nosso máximo isolou
+
+[16:41] aqui mas pode ser que dê um ruim por
+
+[16:43] causa disso pode ser que essa energia
+
+[16:45] não seja de propulsão seja por causa da
+
+[16:47] terra
+
+[16:48] segunda coisa o controle da expansão do
+
+[16:50] metal
+
+[16:51] então você tem o alumínio alumínio pode
+
+[16:53] expandir se você mudar um pouco a
+
+[16:54] temperatura e às vezes o metal pode
+
+[16:57] expandir por conta do experimento em se
+
+[16:59] isso pode gerar um ruído
+
+[17:00] a gente tentou controlar mais por isso
+
+[17:02] que o metal ele é meio parece cobre
+
+[17:05] porque tem um tratamento eu respondi -
+
+[17:07] enfim eo terceiro a vibração a gente
+
+[17:09] tentou controlar mesa tal vibração mas
+
+[17:11] pode ter uma vibração qual que é que
+
+[17:14] pode gerar um ruído e esse ruído gera
+
+[17:16] uma energia no sentido contrário
+
+[17:17] então esses são os três grandes perigos
+
+[17:19] mas os dados que eles geraram com o
+
+[17:22] cuidado que eles fizeram faz sentido né
+
+[17:24] mostra que vale a pena continuar fazendo
+
+[17:27] experimentos e testando aí a última
+
+[17:29] parte que é o porquê porque isso
+
+[17:31] acontece no antigo da superinteressante
+
+[17:33] eles explicam uma coisa que é exatamente
+
+[17:34] isso mesmo que o artigo coloca o setor
+
+[17:37] gerando uma proporção pensa no avião eu
+
+[17:39] preciso pegar o ar e jogar para a parte
+
+[17:42] de trás do avião para gerar propulsão
+
+[17:44] então tem que pegar alguma coisa jogar
+
+[17:45] num vácuo e não tenho nada
+
+[17:47] como é que eu vou pegar nada e jogar
+
+[17:49] atrás né
+
+[17:50] na verdade eles colocam a hipótese de
+
+[17:52] que o vasco seja alguma coisa que na
+
+[17:54] interação subir atômica né o vaco possui
+
+[17:58] propriedades que transmitem alguma
+
+[18:00] energia
+
+[18:01] então essa interação gerou um meio que
+
+[18:03] um puxo e
+
+[18:04] e isso é uma teoria que vem na física
+
+[18:06] mesmo mas nessa questão subir atômica
+
+[18:08] não tem nada a ver com a sua vida normal
+
+[18:10] que é chamada de teoria da onda piloto
+
+[18:14] já a teoria da honda piloto é uma teoria
+
+[18:15] que na década de 30 tinha alguma força
+
+[18:17] quando o einstein tinha várias teorias
+
+[18:19] junto do einstein na época tinha essa
+
+[18:21] ela foi desacreditada e agora por causa
+
+[18:24] desses experimentos ela está meio que
+
+[18:26] voltando que diz a teoria a teoria da
+
+[18:29] onda piloto é uma teoria de interação
+
+[18:31] com ética ou seja acontece entre essas
+
+[18:32] partículas bem pequenas com um nível
+
+[18:34] subatômico isso nessas propriedades bem
+
+[18:37] especiais aí com certa quantidade de
+
+[18:39] energia e tal a teoria da honda piloto
+
+[18:41] aqui quando uma no caso a onda de rádio
+
+[18:44] passa por um meio imagine o seguinte
+
+[18:46] imagina como se o vácuo fosse um trilho
+
+[18:48] de trem ea onda fosse um treino então o
+
+[18:51] trem só vai passar pelo trilho né então
+
+[18:54] mesmo que você não veja o trilho ele tem
+
+[18:56] que passar por um trilho
+
+[18:58] então há hipótese dessa onda piloto é
+
+[19:00] que quando uma onda passa por um meio no
+
+[19:02] vácuo existe um certo trilho por onde
+
+[19:05] ele passa
+
+[19:05] se ele passa fora deste trilho isso gera
+
+[19:08] um resíduo sabe quando imagina um trem
+
+[19:10] passando na grama vai gerar um atrito
+
+[19:12] diferente então já era uma perturbação
+
+[19:15] então essa perturbação a que foi
+
+[19:17] detectada no experimento
+
+[19:19] aí você entra numa numa ideia então se
+
+[19:21] tem que ter esse trilho esse trio tem
+
+[19:22] que ser formado por alguma coisa logo
+
+[19:24] tem alguma coisa dentro vai isso e aí
+
+[19:26] vem a idéia da energia negra né da
+
+[19:29] matéria negra e tal que são matérias que
+
+[19:32] são substâncias não são nem substância
+
+[19:34] são elementos que não transmitem nenhuma
+
+[19:36] energia então não conseguiu detectar
+
+[19:38] adequadamente então eu eu tenho indício
+
+[19:41] de que ele existe mas eu também não sei
+
+[19:42] se existe eu não consigo eu não tenho é
+
+[19:45] não consigo ver instrumento pra provar
+
+[19:47] sua existência e isso eu consigo eu
+
+[19:49] consigo talvez perceber ele pela
+
+[19:52] ausência então eu tenho elementos que eu
+
+[19:54] consigo enxergar e pela dinâmica desses
+
+[19:56] elementos que consigo pensar não tem que
+
+[19:57] ter alguma coisa então você percebe a
+
+[19:59] sombra por isso é uma matéria escura
+
+[20:01] porque você sempre vê a sombra dela você
+
+[20:03] não vê ela é a grande dificuldade é você
+
+[20:06] fantasmas e isso eu vejo objetos se
+
+[20:09] movendo tem alguma coisa que brasília é
+
+[20:11] uma coisa que está movendo e também por
+
+[20:13] aí vem por aí ea dificuldade é
+
+[20:15] é na verdade uma questão técnica como eu
+
+[20:17] queria um equipamento porque a matéria
+
+[20:20] que a gente usa né a matéria presente
+
+[20:23] ela não reage com essa matéria negra
+
+[20:25] ela não reagiu então como eu construo em
+
+[20:27] uma máquina para analisar a matéria
+
+[20:30] negra sendo que a matéria negra não
+
+[20:32] reage com nada entendeu então tem muitas
+
+[20:34] dificuldades técnicas aí eu gosto de
+
+[20:37] física experimental por exemplo acho
+
+[20:39] sensacional essa essa discussão no
+
+[20:41] entanto não utilize essa
+
+[20:44] esse arcabouço é toda essa discussão
+
+[20:45] para alimentar sua teoria ligado ao
+
+[20:48] segredo e todas essas políticas aí tá
+
+[20:50] não tem nada a ver com isso
+
+[20:52] por isso que tomam muito tempo pra você
+
+[20:54] deduzir é tipo destrinchar o artigo
+
+[20:57] mas realmente esse artigo é válido esse
+
+[20:59] motor ele tem um potencial muito grande
+
+[21:00] e o grande potencial desse motor no
+
+[21:03] futuro melhorando a eficiência dele com
+
+[21:06] uma quantidade pequena de energia
+
+[21:07] elétrica
+
+[21:08] eu consigo gerar esse tipo de impulso
+
+[21:10] sem precisar de combustível adicional
+
+[21:13] então por exemplo ao invés de utilizar
+
+[21:15] centenas de quilos de combustível para
+
+[21:18] alimentar um foguete eu consegui pegar
+
+[21:20] uma pilha que é muito mais leve
+
+[21:22] mesmo que eu já era um impulso mais
+
+[21:24] baixo mas eu consigo gerar um avião ou
+
+[21:26] uma nave espacial mais leve e com muito
+
+[21:29] mais eficiência e não consigo ficar
+
+[21:30] muito mais longe
+
+[21:31] no final do artigo ele comenta que se o
+
+[21:34] aparte na verdade do peso no de um
+
+[21:38] automóvel de um foguete
+
+[21:41] ele é como se o próprio combustível e
+
+[21:43] boa parte desse combustível se perdes
+
+[21:45] pra sair da atmosfera ou uma bateria
+
+[21:48] também pode ser assim também eu como
+
+[21:50] bastante espaço e peso num carro e só
+
+[21:52] quando você precisa só de uma pequena
+
+[21:54] bateria para dar start nesse motor que
+
+[21:59] consegue depois se manter ativa chega
+
+[22:03] através dessa proporção
+
+[22:05] aí você vai conseguir chegar muito longe
+
+[22:06] tem um ganho de eficiência médio prazo
+
+[22:09] muito grande
+
+[22:09] agora tudo isso então num plano teórico
+
+[22:11] né
+
+[22:12] assim o momento em que a gente vai
+
+[22:16] conseguir fazer com que um carro um
+
+[22:18] foguete seja movido a 1
+
+[22:21] o touro nesse princípio ativado por uma
+
+[22:24] pequena carga elétrica sim mas porque
+
+[22:26] hoje o nível de eficiência que o
+
+[22:28] experimento trouxe ainda tá longe de sua
+
+[22:30] casa muito longe não vão algumas décadas
+
+[22:32] aí até isso tem um certo ganho de
+
+[22:34] eficiência nós para o universo
+
+[22:36] científico é um avanço porque assim
+
+[22:39] sobretudo teórico a pergunta que os
+
+[22:41] ouvintes de alguns dos ouvintes deixaram
+
+[22:43] de as leis de newton têm que ser
+
+[22:45] revistas e os livros de física 13 vezes
+
+[22:47] faz sentir bobagem bobagem a nossa
+
+[22:50] físicas nossas três leis de newton
+
+[22:51] servindo muito bem fiquei muito feliz
+
+[22:53] com elas
+
+[22:54] os livros não vão precisar ser revistos
+
+[22:56] porque a parte física quântica a gente
+
+[22:58] não vê no colégio vem muito pouquinho na
+
+[23:01] faculdade de física assim talvez algumas
+
+[23:02] coisas mudem
+
+[23:03] mas aí na universidade sempre as coisas
+
+[23:05] estão sendo atualizadas ainda bem
+
+[23:07] mas para você estudante de colégio não
+
+[23:09] se preocupe continua estudando sua
+
+[23:10] física sua dinâmica que vai dar tudo
+
+[23:12] certo
+
+[23:13] é legal legal né na o rodo no 30º 20 e
+
+[23:19] lembre se aquilo não era um robô que faz
+
+[23:21] a pauta é você você discorda do que
+
+[23:23] ouviu tem alguma pergunta quer
+
+[23:25] compartilhar uma curiosidade que a
+
+[23:27] lançar um desafio escreva pra gente
+
+[23:29] podcast a roubar o rodo ponto com.br
+
+[23:32] repetindo aí pode cast a rodar rodar
+
+[23:34] ponto com.br
+
+[23:36] então até o próximo na rodada final
+
+[23:38] [Música]
+
+[23:42] nada mudou
+
+[23:45] [Música]
+
+[23:47] isso pode é gênio é apresentado o olho p
+
+[23:51] 9 ponto com.br
+
+[23:55] ah

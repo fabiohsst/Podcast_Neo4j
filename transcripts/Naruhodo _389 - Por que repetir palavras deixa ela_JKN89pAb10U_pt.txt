@@ -1,0 +1,2497 @@
+Title: Naruhodo #389 - Por que repetir palavras deixa elas estranhas?
+URL: https://www.youtube.com/watch?v=JKN89pAb10U
+Language: pt
+Extracted on: 2025-04-06 16:39:36
+================================================================================
+
+[00:00] porque repetir palavras deixa elas
+
+[00:04] estranhas
+
+[00:06] [Música]
+
+[00:13] bem-vindo ao Naru rodou podcast para
+
+[00:15] quem tem fome de aprender eu sou quem
+
+[00:17] Fujioka
+
+[00:20] [Música]
+
+[00:24] você quer apoiar a ciência quer apoiar o
+
+[00:28] pensamento científico quer ajudar o naro
+
+[00:30] robô se manter no ar ouvir os episódios
+
+[00:33] e espalhar a palavra já é um grande
+
+[00:35] Passo mas existe um outro jeito quem
+
+[00:39] possibilita isso é a ourelo você escolhe
+
+[00:41] um valor de contribuição mensal e tem
+
+[00:44] acesso a conteúdos exclusivos conteúdos
+
+[00:46] antecipados e vantagens especiais Além
+
+[00:49] disso você pode ter acesso ao nosso
+
+[00:51] grupo fechado no telegram e conversar
+
+[00:53] comigo com Altair com outros apoiadores
+
+[00:55] Toda vez que você ouviram fizer download
+
+[00:58] de um episódio pelo orello vai também
+
+[01:00] estar pingando os trocadinhos para o
+
+[01:03] nosso projeto Combinado então Baixe
+
+[01:06] agora mesmo App orello no endereço
+
+[01:08] orello.cc ou na sua loja de aplicativos
+
+[01:11] e ajude a fortalecer o conhecimento
+
+[01:13] científico
+
+[01:15] [Música]
+
+[01:24] aquele do ouvinte querido ouvinte você
+
+[01:27] quer dar um verdadeiro mergulho no mundo
+
+[01:29] da tecnologia migrar para uma nova
+
+[01:31] carreira
+
+[01:32] aprofundar-se nessa carreira então
+
+[01:34] assine a lura agora mesmo você vai
+
+[01:37] estudar praticar discutir e se
+
+[01:40] aprofundar em uma plataforma que respira
+
+[01:42] tecnologia
+
+[01:43] você terá acesso completo ao
+
+[01:45] conhecimento onde e quando você quiser
+
+[01:48] com novos cursos todas as semanas e
+
+[01:51] ainda tem vantagem ou 20 narrou tem
+
+[01:54] desconto especial mas para isso é
+
+[01:56] preciso acessar a seguinte URL anota aí
+
+[01:59] a
+
+[02:01] lura.com.br/promo
+
+[02:03] nesse endereço além de desconto especial
+
+[02:06] você vai conhecer histórias reais de
+
+[02:08] transformação de pessoas que estudaram
+
+[02:10] na aluna então repetindo acesse a
+
+[02:14] lura.com.br/promoção/narrro
+
+[02:18] [Música]
+
+[02:27] Altair temos perguntas perguntas
+
+[02:30] perguntas de ouvintes Altair Como é que
+
+[02:34] escreve agora a pergunta
+
+[02:39] [Risadas]
+
+[02:43] olha tente tem vários e-mails em torno
+
+[02:47] desse tema mas o primeiro e-mail é do
+
+[02:51] Rodrigo
+
+[02:52] langovisk que é professora na lista de
+
+[02:55] ti na ONG escoteiros do Brasil e
+
+[02:58] doutorando em bioinformatica pela
+
+[03:00] Federal do Paraná ele é de Curitiba
+
+[03:04] [Aplausos]
+
+[03:05] manda essa pergunta por algo que me
+
+[03:08] ocorreu agora mesmo e já havia percebido
+
+[03:10] o tamanho estranhamento antes
+
+[03:12] eis que estou desenvolvendo um código
+
+[03:15] para meu serviço e tive que criar uma
+
+[03:17] variável com o nome de arquivo porém a
+
+[03:20] variável está sendo recorrentemente
+
+[03:22] chamada no código
+
+[03:24] a estranhar se a grafia estava correta
+
+[03:27] Pois me pareceu completamente errada ao
+
+[03:29] ler tantas vezes a ponto de ir no Google
+
+[03:31] para conferir também tive esse
+
+[03:34] sentimento ao falar uma palavra
+
+[03:36] repetidas vezes eu não sei se esqueci de
+
+[03:40] em algum episódio terem abordado o tema
+
+[03:42] mas já ouvi todos
+
+[03:45] O importante que tenha ouvido todos o
+
+[03:48] Rodrigo Muito obrigado temos também o
+
+[03:52] e-mail do Gabriel França que é estudante
+
+[03:54] de ciência da computação e mora em Natal
+
+[03:56] Rio Grande do Norte até eu prefiro estar
+
+[03:59] em Natal do que em São Paulo Terra do
+
+[04:02] Sol né não é E aí ele diz o seguinte
+
+[04:05] recentemente enquanto estava programando
+
+[04:07] ali mais um programador tá vendo mais um
+
+[04:10] escrevendo o código e escrevi várias
+
+[04:13] vezes a mesma palavra no meu código que
+
+[04:15] neste caso era a palavra Esporte e
+
+[04:18] depois de um tempo essa palavra passou a
+
+[04:20] sua estranha para mim quando eu repeti a
+
+[04:23] letra por letra mentalmente parecia sua
+
+[04:25] diferente e ao Leila as letras pareciam
+
+[04:28] desconexas entre si até mesmo eu não
+
+[04:30] conseguia mas lembrar do seu significado
+
+[04:33] parei de mexer no código por 5 minutos e
+
+[04:36] quando voltei tudo estava normal a
+
+[04:38] palavra Esporte parecia muito clara para
+
+[04:40] mim então minha pergunta é porque quando
+
+[04:42] repetimos a mesma palavra várias vezes
+
+[04:45] ela parece estranha desconexa finalmente
+
+[04:49] temos o e-mail do José Henrique
+
+[04:51] Benedetti Picoli Ferreira mais conhecido
+
+[04:55] pelo Altair como Garça é seu amigo
+
+[04:58] Altair de muitos anos tá certo ele é
+
+[05:02] mestre cervejeiro e uma micro cervejaria
+
+[05:05] mas é também biólogo de formação e
+
+[05:08] contemporâneo do Altair no mestrado e
+
+[05:11] doutorado em psicologia
+
+[05:13] [Música]
+
+[05:13] [Aplausos]
+
+[05:15] um abraço Garça primeiramente diz ele
+
+[05:20] gostaria de parabenizar o trabalho de
+
+[05:22] vocês eu conheço o Altair há muitos anos
+
+[05:24] anos já fizemos muitas viagens juntos e
+
+[05:27] vivenciamos muitas aventuras rituais
+
+[05:29] xamânticos e situações bizarras e
+
+[05:33] divertidas juntos com nossa turma fico
+
+[05:35] feliz em ver um ótimo trabalho de vocês
+
+[05:37] e como ele vem dando certo dentro da
+
+[05:39] divulgação Científica
+
+[05:41] rituais teamânicos
+
+[05:48] [Risadas]
+
+[05:52] uma fase muito muito interessante da
+
+[05:55] vida poder ter pessoas muito legais para
+
+[05:56] dividir ela esses momentos como garçom
+
+[05:59] Marcola e todo mundo que era da nossa do
+
+[06:02] nosso grupo de pós-graduação né foi uma
+
+[06:04] época que a gente teve muita sorte assim
+
+[06:05] né então você tinha amigos só com um
+
+[06:08] apelido de traficante
+
+[06:11] tinha pistoleira também né
+
+[06:16] com a gente vai ter que abordar em algum
+
+[06:19] outro Episódio
+
+[06:21] Herança da Unesp Botucatu que todo mundo
+
+[06:24] tinha apelido e os apelidos eram
+
+[06:25] engraçados mesmo tem uma pergunta para
+
+[06:27] vocês quando eu presto atenção em termo
+
+[06:29] nome ou apelido eu estranho muito aquela
+
+[06:32] palavra como se houvesse um erro se como
+
+[06:35] se eu nunca tivesse visto prestado
+
+[06:36] atenção nela o que me dificulta por
+
+[06:38] alguns instantes usar essa palavra eu
+
+[06:40] comecei a perceber isso Já faz alguns
+
+[06:42] anos e talvez tenha a ver com
+
+[06:44] aprendizagem de novas línguas mas não
+
+[06:47] tenho certeza para mim esse
+
+[06:48] estranhamento acontece somente com
+
+[06:50] português mas não tenho problema com o
+
+[06:52] inglês ou italiano Porque será que
+
+[06:54] muitas vezes é estranho será que é
+
+[06:56] somente uma questão de estranhamento por
+
+[06:57] falta de uso talvez perda de memória
+
+[06:59] simplesmente por nunca ter prestado
+
+[07:01] atenção nessas palavras um exemplo
+
+[07:03] prático alguns meses atrás foi escrever
+
+[07:06] uma mensagem para uma amiga e abrevia o
+
+[07:08] seu nome Sá naquele momento me veio uma
+
+[07:11] sensação estranha como se eu não tivesse
+
+[07:13] certeza de que aquele era o modo correto
+
+[07:16] de me referir sem saber se normalmente
+
+[07:18] me referia sim isso virou uma constante
+
+[07:20] quando eu tenho que parabenizar alguém
+
+[07:22] pelo aniversário no Facebook que
+
+[07:24] estranho esse jeito de me referir a
+
+[07:26] pessoa Será que era assim mesmo outro
+
+[07:29] exemplos vamos dizer que eu tivesse que
+
+[07:30] escrever algo que usasse a palavra
+
+[07:32] prédio no momento em que iniciasse a
+
+[07:35] escrever surgiria uma sensação de
+
+[07:37] estranheza quanto ao som e forma de
+
+[07:40] escrever a palavra Eu morei na Itália
+
+[07:42] por mais de três anos é a primeira vez
+
+[07:44] que moro fora do país mesmo que essa
+
+[07:47] sensação tenha se iniciado antes de vir
+
+[07:50] parece que se intensificou durante meu
+
+[07:54] período fora do Brasil
+
+[08:00] [Música]
+
+[08:06] E aí Altair a ciência consegue explicar
+
+[08:11] esse fenômeno da repetição aqui que
+
+[08:15] esses três ouvintes de escrever Altair
+
+[08:19] tem o fenômeno comum em programadores e
+
+[08:21] Viajantes na verdade
+
+[08:24] todo mundo pode vivenciar esse fenômeno
+
+[08:28] é isso aí todo mundo vai vivenciar assim
+
+[08:30] é inescapável
+
+[08:33] bem clássico assim né vem do começo do
+
+[08:36] século 20 Ele é bem conhecido e mostra é
+
+[08:38] um jeito muito legal de mostrar como
+
+[08:39] nosso cérebro funciona mesmo né você já
+
+[08:42] teve isso quem
+
+[08:44] eu já tive essa sensação Eu só não
+
+[08:49] percebi ou não me lembro de ter a vida
+
+[08:53] esse processo de repetição quando eu
+
+[08:56] vivenciei isso
+
+[09:00] técnica da palavra acho que não ouve mas
+
+[09:02] talvez uma repetição aqui neural
+
+[09:06] mas sim teve momentos em que eu travei e
+
+[09:09] falou assim ué mas as palavras se
+
+[09:11] escreve assim mesmo né Eu cheguei a
+
+[09:13] recorrer dicionário para e certeza e é
+
+[09:17] uma palavra que assim não era uma
+
+[09:18] palavra muito estranha sabe que eu nunca
+
+[09:21] tinha usado às vezes uma palavra comum
+
+[09:23] até você dar uma bugada assim né então
+
+[09:25] primeira coisa né primeiro primeiro
+
+[09:28] informação de utilidade pública você não
+
+[09:29] tá com problema não é Alzheimer Não é
+
+[09:31] nada disso quando quando dá esse bug e
+
+[09:34] você não sabe como é que escreve mesmo
+
+[09:36] exceção sabe exceção até hoje você
+
+[09:38] estava bugado sempre né porque é uma
+
+[09:39] palavra aquelas palavras difíceis né mas
+
+[09:42] às vezes uma palavra simples prédio né
+
+[09:45] como citaram ou Esporte né dá essa
+
+[09:48] bugada aí você quer conferir mesmo você
+
+[09:50] confere no Google para ver se a palavra
+
+[09:51] tá escrito assim e mesmo vendo no Google
+
+[09:53] você ainda acha estranho tá isso é
+
+[09:55] normal acontece é como a nossa cérebro
+
+[09:57] funciona Então a primeira coisa tá então
+
+[10:00] assim não é ligado ao estresse e tal mas
+
+[10:02] tem uma questão importante que é a idade
+
+[10:04] Você lembra quem se você tinha esse esse
+
+[10:07] tipo de bugada com palavras quando será
+
+[10:09] mais novo e foi diminuindo ou foi
+
+[10:12] aumentando qual a idade Você sabe eu
+
+[10:14] tenho a sensação de que aumentou porque
+
+[10:18] eu não me eu me lembro muito mais de
+
+[10:21] episódios recentes do que antigos para
+
+[10:23] te falar a verdade e você acha que esses
+
+[10:26] eventos eram maiores quando você
+
+[10:27] trabalhava por exemplo na agência em
+
+[10:29] escritório você passava muito tempo numa
+
+[10:31] sala porque agora Sua rotina é mais
+
+[10:33] dinâmica você sai faz mais coisas quando
+
+[10:36] sua rotina era mais monótona assim de
+
+[10:38] ficar dentro de um mesmo prédio o dia
+
+[10:39] inteiro Se achava que acontecia mais ou
+
+[10:41] menos acho que acontecia mais essa é a
+
+[10:43] ideia tá então assim tem a ver com o
+
+[10:46] ambiente tem a ver com os assuntos que a
+
+[10:47] gente tem contato né e tem a ver com a
+
+[10:50] repetição também tá bom então assim para
+
+[10:52] quem é programador temos um contingente
+
+[10:53] de pessoas que trabalha com programação
+
+[10:55] que ouvem andar eventualmente
+
+[10:57] se você bugou às vezes com uma palavra
+
+[10:59] que é muito recorrente no seu código
+
+[11:01] normal dá 5 minutos vai no banheiro
+
+[11:03] volta melhor tá bom é assim mesmo o nome
+
+[11:06] desse fenômeno né é chamado saciação
+
+[11:08] semântica saciedade
+
+[11:14] da fome é isso dá fome
+
+[11:18] apesar do mecanismo não ser igual tá mas
+
+[11:20] mas tem essa coisa sacia chega num
+
+[11:23] limite né E aí apropriado desse universo
+
+[11:27] aí do comer e beber Exatamente é essa
+
+[11:30] ideia está saciado tipo eu não quero
+
+[11:32] mais Sabe tem tem a ver com essa
+
+[11:34] sensação de fome não na onde você tá
+
+[11:36] cheio de você não querer mais sabe não
+
+[11:37] tá bom né chega né e a semântica porque
+
+[11:41] é o significado então a associação
+
+[11:42] semântica que acontece quando você
+
+[11:45] repete algo por uma quantidade razoável
+
+[11:48] de vezes de forma grande o suficiente
+
+[11:50] até ter uma desconexão entre o
+
+[11:52] significante o significado ou a palavra
+
+[11:54] perder o sentido né o comum é a palavra
+
+[11:58] perder o sentido gráfico então ah como é
+
+[12:00] que escreve mesmo isso é o mais comum tá
+
+[12:02] Às vezes você pode principalmente
+
+[12:04] dependendo da palavra você pode esquecer
+
+[12:06] o que que ela significa né Você pode
+
+[12:09] perder a você pode esquecer o
+
+[12:11] significado da palavra você pode
+
+[12:13] esquecer a ortografia da palavra ou às
+
+[12:16] vezes você perde a capacidade de
+
+[12:17] relacionar palavras também então por
+
+[12:20] exemplo pega a palavra móvel e vai
+
+[12:23] repetindo móvel móvel móvel móvel móvel
+
+[12:25] móvel aí eu peço para você pensar por
+
+[12:28] exemplo em imóveis Às vezes você tem
+
+[12:30] mais dificuldade você demora um
+
+[12:31] pouquinho mais então eu pego eu pego por
+
+[12:33] exemplo duas palavras a palavra móvel e
+
+[12:35] a palavra casa tá a palavra móvel você
+
+[12:38] repete várias vezes móvel móvel móvel
+
+[12:40] móvel nos experimentos eles pedem para
+
+[12:42] você repetir e quando eu falo repetir
+
+[12:43] não é repetir mentalmente é falar você
+
+[12:46] fala a palavra mesmo é falar em voz alta
+
+[12:48] você fala a palavra 30 vezes 9 vai
+
+[12:52] repetindo e eu pego uma outra palavra
+
+[12:54] que não que você não repete nenhuma vez
+
+[12:55] ou se repetir repete só que é tipo casa
+
+[12:58] então móvel repetiu um monte de vezes o
+
+[13:00] caso é só uma Aí eu pergunto para você
+
+[13:02] onde uma cadeira é mais relacionada com
+
+[13:06] móvel ou com a casa em geral as pessoas
+
+[13:08] respondem a casa porque vai mais rápido
+
+[13:10] né onde a cadeira fica né ou com que um
+
+[13:15] outro substantivo é relacionado pelo
+
+[13:17] fato de você ter repetido muito móvel
+
+[13:19] deu uma saturada E aí meio que por um
+
+[13:22] instante por um período de tempo perde a
+
+[13:24] conexão entre essa palavra móvel e a
+
+[13:26] cadeira é mais fácil relacionar com a
+
+[13:28] casa porque é uma outra coisa que você
+
+[13:30] não tá usando tanto então a ideia básica
+
+[13:31] é essa esse fenômeno né da associação
+
+[13:34] semântica foi descrito pela primeira vez
+
+[13:36] em 1900 tem bastante tempo mas de 100
+
+[13:39] anos pelo Eduardo teacher né então foi
+
+[13:42] aluno do vumdget que é um dos Pais da
+
+[13:44] Psicologia então ele foi muito o teacher
+
+[13:46] tem um livro de psicologia experimental
+
+[13:48] muito famoso clássico assim né ele tem
+
+[13:51] uma importância na história da
+
+[13:52] Psicologia muito grande assim né e ele
+
+[13:54] falava que uma das Sensações mais
+
+[13:55] aterrorizantes para ele
+
+[13:57] a perder o significado de uma palavra
+
+[13:59] ele ficava realmente bolado com isso ele
+
+[14:01] era docente né pesquisador ele tá tava
+
+[14:04] sempre escrevendo pensando em alguma
+
+[14:05] coisa aí chegava a hora que ele chegava
+
+[14:07] uma hora que ele Perdia o significado de
+
+[14:09] uma certa palavra e ele ficava muito
+
+[14:10] incomodado com Isso incomoda mesmo né
+
+[14:13] assim
+
+[14:14] e aí o que que acontece quanto mais você
+
+[14:17] fica tentando resgatar a palavra pior
+
+[14:18] fica né aí vai dando uma angústia mesmo
+
+[14:21] sabe
+
+[14:22] que que é diferente por exemplo do a
+
+[14:24] gente já tem um naru do antigo né que é
+
+[14:26] sobre o Déjà Vu nesse Episódio sobre o
+
+[14:28] Dejavú a gente descreve um outro uma
+
+[14:30] outra variação do Djavú que é o parece
+
+[14:32] que vvo né o parece que voo é quando
+
+[14:35] você tem uma palavra na ponta da língua
+
+[14:36] sabe aí como que era o nome daquilo
+
+[14:39] mesmo você fica na ponta da língua
+
+[14:40] tentando lembrar
+
+[14:42] esse fenômeno da saciação semântica é
+
+[14:45] exatamente o contrário do parece que voo
+
+[14:47] o Parece que foi assim eu não sei uma
+
+[14:50] coisa como que era mesmo aí você fica
+
+[14:52] lembrando de tudo em volta é certo eu
+
+[14:54] sei eu sei o significado mas não lembro
+
+[14:56] da palavra agora né isso né tá perdido
+
+[15:00] ali né Você lembra de tudo em volta
+
+[15:01] menos da palavra Associação semântica é
+
+[15:04] o contrário você sabe a palavra só que
+
+[15:05] se repete tanto que ela perde o sentido
+
+[15:07] mas esquece do significado isso é o
+
+[15:10] contrário Tá sim mas a angústia é
+
+[15:12] parecida né
+
+[15:13] angústia parecida angústia parecida mas
+
+[15:17] do pior era tipo você tá usando uma
+
+[15:19] coisa de repente você perde ela assim é
+
+[15:22] horrível né E aí assim ele foi o
+
+[15:25] primeiro que descreveu né fez uma
+
+[15:27] descrição e tal mas nos anos 60 do
+
+[15:30] século passado teve um pum de pesquisa
+
+[15:32] sobre essa situação selântica Então foi
+
+[15:34] uma coisa que foi muito estudada nos
+
+[15:37] anos 60 70 depois deu uma parada hoje é
+
+[15:40] uma coisa que também baixa Ô hoje o que
+
+[15:41] eu tô falando até os anos 2020 assim né
+
+[15:43] depois agora parece que tá começando a
+
+[15:46] voltar de novo Tem um pesquisador que
+
+[15:47] escreveu uma tese de doutorado em 1962
+
+[15:49] né que é o G1 Leão Jacobus ele escreveu
+
+[15:54] uma testa de doutorado está na descrição
+
+[15:55] em que ele define realmente o que essa
+
+[15:58] sessão semântica ele cunho o nome
+
+[16:00] certinho Ele descreve circunscreve
+
+[16:02] Teoricamente o conceito e faz os
+
+[16:05] primeiros experimentos assim para testar
+
+[16:06] bonitinho né ele monta o primeiro
+
+[16:08] protocolo experimental e aí nos anos 60
+
+[16:11] e 70 muita gente estudou assim Foi um
+
+[16:14] tema bem bem interessante assim então os
+
+[16:16] artigos são um pouco mais antigos mas é
+
+[16:18] um negócio bem bem curioso o Leon né foi
+
+[16:21] o primeiro que gerou o protocolo e o
+
+[16:23] protocolo é basicamente esse tem vamos
+
+[16:25] pegar como exemplo um artigo de 1990
+
+[16:27] pegou um grupo de pessoas e pediu para
+
+[16:30] elas repetirem como eu falei
+
+[16:31] anteriormente repete a palavra móvel 30
+
+[16:34] vezes aí a pessoa fica lá repetindo
+
+[16:35] móvel móvel móvel móvel e tal 30 vezes e
+
+[16:39] depois eu dava uma lista de uma lista de
+
+[16:41] palavras e a pessoa tinha que dizer
+
+[16:43] quais palavras eram relacionadas com um
+
+[16:45] móvel né que era a palavra que ela
+
+[16:47] estava repetindo então um grupo repetia
+
+[16:49] 30 vezes o outro grupo repetia três
+
+[16:51] vezes 10% das vezes só três e aí o que
+
+[16:55] que eu tinha que avaliar o tempo de
+
+[16:56] reação
+
+[16:57] então entre você depois que você repetiu
+
+[17:00] lá o móvel 30 vezes você tinha uma lista
+
+[17:02] de palavras você tinha que dizer se uma
+
+[17:05] certa palavra por exemplo cadeira era
+
+[17:07] relacionada com móvel ou não em cada um
+
+[17:09] dos grupos Então tinha um grupo que
+
+[17:11] repetiu três vezes tinha o grupo que
+
+[17:12] repetiu 30 vezes o grupo que repetiu 30
+
+[17:15] vezes tinha mais tempo levava mais tempo
+
+[17:18] tinha uma latência de tempo maior para
+
+[17:21] associar a cadeira com mesa né do que
+
+[17:23] por exemplo pedra que é uma palavra não
+
+[17:25] relacionada com móvel pedra eu tinha que
+
+[17:27] dizer não sabe então quando a palavra
+
+[17:28] não era relacionada com móvel eu
+
+[17:30] respondia rápido quando a palavra era
+
+[17:32] relacionada com móvel eu respondi
+
+[17:33] devagar porque deu essa saciedade e isso
+
+[17:36] acontecia no grupo que repetiu 30 vezes
+
+[17:38] no grupo com três o tempo era era menor
+
+[17:40] a pessoa te associava mais rápido então
+
+[17:43] esse é o protocolo básico assim é rápido
+
+[17:45] mesmo né Foi um experimento simples né E
+
+[17:48] aí você só conta o tempo de reação
+
+[17:49] falando disso de tempo de reação para
+
+[17:51] quem é da área comportamental e tal
+
+[17:54] praticamente é que da área de urex e o
+
+[17:57] zero Experience né É que agora tem muita
+
+[18:00] interface com psicologia experimental
+
+[18:01] coisas do tipo esse estudo de tempos de
+
+[18:04] reação né de você eu te dou um estímulo
+
+[18:07] e eu conto né o cronometro Quanto tempo
+
+[18:09] você leva para responder né Depende de
+
+[18:12] diferentes situações é uma coisa que vem
+
+[18:13] do século 19 de uma área que chama
+
+[18:16] cronometria mental Como como que você
+
+[18:18] quantifica tempo no cérebro o cara que
+
+[18:20] criou essa área e isso nos anos 1900 era
+
+[18:23] um optometrista optometrista quem faz
+
+[18:27] óculos não é o o médico do olho é quem
+
+[18:30] faz o óculos mesmo o médico do olho
+
+[18:32] oftalmologista ou optometrista é aquele
+
+[18:35] que confecciona o óculos a partir da
+
+[18:37] Receita Federal né Isso faz as lentes
+
+[18:39] estudam essas coisas refrativas e tal né
+
+[18:41] então ele é mais um pouquinho mais
+
+[18:43] próximo da física e da fisiologia até do
+
+[18:46] que da Medicina e esse eu também Cristo
+
+[18:48] ele ele gostava de fazer experimentos
+
+[18:50] mesmo ele tinha um interesse nisso né e
+
+[18:52] ele é chamado ele foi era chamado
+
+[18:54] donders né donkers o do ele foi o
+
+[18:57] primeiro cara que usava tempo de reação
+
+[18:59] então ele fazia um experimento ele
+
+[19:01] cronometrava quanto tempo você levava
+
+[19:03] para fazer a tarefa depois ele repetiu o
+
+[19:05] mesmo experimento e mudava um detalhe
+
+[19:06] mudava a cor mudava forma alguma coisa e
+
+[19:10] pedia para você responder e subtrair o
+
+[19:12] tempo que você levou na tarefa a pelo
+
+[19:15] tempo que você levou na tarefa B isso é
+
+[19:17] chamado método da subtração a subtração
+
+[19:19] Entre esses dois tempos de reação seria
+
+[19:22] o tempo adicional que a pessoa levou
+
+[19:23] para processar a informação numa
+
+[19:26] condição em relação a outra então esse
+
+[19:28] tempinho de reação ele fazia com
+
+[19:29] cronômetros bem bem simples mesmo né o
+
+[19:32] donder foi o primeiro um dos primeiros
+
+[19:34] caras que criou um protótipo de um ai
+
+[19:37] Tracker isso em 1900 hein quem né como é
+
+[19:39] que você vai ver onde seu olho tá
+
+[19:41] olhando ai Tracker olha só é então já
+
+[19:45] naquela época já naquela época 18 anos
+
+[19:48] sensacional sensacional o donder viveu
+
+[19:52] na Holanda né tanto que um dos maiores
+
+[19:54] centros de neurociência da Holanda chama
+
+[19:55] centro dondes né graças ao legado que
+
+[19:59] ele deixou infelizmente na psicologia é
+
+[20:01] um cara que vai ser muito estudado
+
+[20:01] infelizmente não é porque
+
+[20:04] psicofísica na psicologia as pessoas têm
+
+[20:06] medo de fazer conta e não gerou igreja
+
+[20:09] né para ter profeta para vender curso de
+
+[20:12] como fazer curso né então foi triste uma
+
+[20:14] partida da psicologia da inteligenciada
+
+[20:15] terrível todo mundo Devia saber né
+
+[20:18] faltou espírito startapeira Altair é
+
+[20:22] pois é é complicado viu complicado mas
+
+[20:24] enfim né veio da escola do vundit né lá
+
+[20:27] atrás um dos Pais da psicologia e tal
+
+[20:29] infelizmente muito negligenciado da
+
+[20:31] Faculdades assim é muito triste mas
+
+[20:33] então temos um artigo na descrição que
+
+[20:35] conta esse método da subtração de
+
+[20:36] donders né vocês podem dar uma olhada e
+
+[20:39] esse pesquisador o leão né em 1960 tem
+
+[20:42] uma geração principalmente na Europa ali
+
+[20:45] Alemanha é Países Baixos as coisas do
+
+[20:48] tipo Finlândia Noruega o donder deixou
+
+[20:51] uma herança grande ali e aí tem muita
+
+[20:53] gente que vem da Psicologia matemática
+
+[20:54] da psicofísica
+
+[20:57] surgiu ali faz experimentos com isso né
+
+[20:59] E aí parece que para muitas áreas é uma
+
+[21:01] área que morreu mas não ela ela voltou
+
+[21:03] com muita força principalmente na área
+
+[21:05] de tecnologia né então hoje tipo
+
+[21:08] multiverso essas coisas aí do Povo de
+
+[21:11] tecnologia com óculos rifting esses
+
+[21:13] negócio aí tem muita gente formado em
+
+[21:15] psicofísica que é contratada para
+
+[21:17] trabalhar com isso né em fisiologia da
+
+[21:19] visão e tal então a área efecente
+
+[21:21] sobretudo ali na Europa tá você que é
+
+[21:24] psicólogo deveria ter mais interesse por
+
+[21:26] essa área clássica porque quer arrumar
+
+[21:28] um trampo bacana na área de tecnologia e
+
+[21:30] o X por exemplo né Eu quero saber quanto
+
+[21:32] tempo você leva pra processar uma
+
+[21:33] informação num site né E aí eu eu monto
+
+[21:37] um site e e conto né cronometro que
+
+[21:40] agora no computador dá para cronometrar
+
+[21:42] tudo né bem fácil então eu eu
+
+[21:44] cronometrio quanto tempo você leva para
+
+[21:46] entrar num site e depois não muda a cor
+
+[21:48] do site lá fonte ou o tamanho da letra e
+
+[21:52] veja quanto tempo você leva subtraio
+
+[21:53] você vai ter o tempo de cronometria
+
+[21:55] mental e a ideia descobrir quais
+
+[21:57] condições tem uma menor cronometria
+
+[22:00] mental Ou seja a pessoa processa mais
+
+[22:01] rápido né porque aí comportamentalmente
+
+[22:03] da sensação de conforto isso isso é a
+
+[22:06] medida do que é usabilidade usabilidade
+
+[22:09] para sistema computação tal parece uma
+
+[22:12] coisa muito vaga né o quão intuitivo é
+
+[22:15] uma coisa eu odeio essa palavra assim
+
+[22:17] com o intuitivo é o uso de um celular
+
+[22:19] qualquer variável crítica relacionado
+
+[22:21] com isso tempo de reação é o tempo de
+
+[22:24] reação Então como é que você estuda
+
+[22:25] usabilidade é fazendo o grupo focal com
+
+[22:28] as pessoas isso é para ver a estratégia
+
+[22:29] de marca comunicação preferência coisa
+
+[22:32] do tipo é muito mais observacional
+
+[22:35] dá para ver assim no duro
+
+[22:36] fisiologicamente é tempo de reação né
+
+[22:39] então a área florescente hoje em dia
+
+[22:41] muito interessante tanto que em pesquisa
+
+[22:44] de usabilidade de produto de serviço né
+
+[22:47] ou tá aí a gente tentam menos possível
+
+[22:50] entrar no modo feedback assim sabe é
+
+[22:52] tentar
+
+[22:54] observar mais e
+
+[22:57] medir os tempos né e registrar o que a
+
+[23:00] pessoa faz né do que ficar fazendo
+
+[23:04] perguntas né isso exatamente e daí essas
+
+[23:07] medidas indiretas que na verdade são
+
+[23:10] medidas diretas mas em muitas áreas
+
+[23:11] chamam de indireto porque não é verbal
+
+[23:13] né que
+
+[23:14] ele fica olhando às vezes quando o
+
+[23:17] câncer da pele coisas do tipo são
+
+[23:19] métricas legais né mas se você não tiver
+
+[23:21] dinheiro para tudo isso e tal método da
+
+[23:24] subtração de donder eles é fantástico
+
+[23:25] assim é muito implementável fácil só
+
+[23:27] fazer uma subtração dois neurônios e
+
+[23:29] vontade e os neurônios não são causas
+
+[23:31] necessária nem suficiente só à vontade
+
+[23:33] né então é só estudar Os Clássicos é bem
+
+[23:36] legal vamos deixar na descrição o livro
+
+[23:38] do Tite né que é sobre psicologia
+
+[23:40] experimental compõem um livro Fantástico
+
+[23:42] aliás né precisarem uma olhadinha nos
+
+[23:44] clássicos e vale até hoje você só troca
+
+[23:47] experimentos físicos por coisas no
+
+[23:48] computador é fantástico é muito legal tá
+
+[23:51] esse fenômeno da associação semântica
+
+[23:53] foi sendo estudado de forma mais
+
+[23:55] sistemática e esse com algumas
+
+[23:57] características interessantes né Tudo
+
+[23:59] bem então quando eu repito uma palavra
+
+[24:00] muitas vezes parece que dá uma saciedade
+
+[24:03] dessa palavra E aí ela perde o
+
+[24:05] significado eu não consigo leva mais
+
+[24:07] tempo eu tenho mais dificuldade de
+
+[24:08] relacionar essa palavra com outras né
+
+[24:10] parece que dá uma gastada uma metáfora
+
+[24:13] não é uma boa analogia mas uma metáfora
+
+[24:15] que a gente pode fazer Imagina você por
+
+[24:17] exemplo quem que você tem que pegar o
+
+[24:18] ônibus e aí você tem que dar um pique
+
+[24:21] Porque o ônibus está chegando sabe e
+
+[24:22] você tem você tem que dar um pique de 50
+
+[24:25] metros mas imagina você precisa pegar o
+
+[24:27] ônibus você tá atrasado tá você não pode
+
+[24:29] perder então o que que você faz você sai
+
+[24:31] correndo corre corre quando chega lá no
+
+[24:33] ônibus você sobe no ônibus aí você tá
+
+[24:36] ofegante né puxa eu consegui pegar Ufa
+
+[24:38] né você tá ofegante dificilmente você
+
+[24:41] vai dar outro pique de novo Você
+
+[24:42] concorda sim então quando você dá um
+
+[24:44] pique você gasta sua energia ali depois
+
+[24:46] você tem um perdido um período
+
+[24:48] refratário né que você tipo fica lá
+
+[24:51] ofegante e aí você vai vai melhorando e
+
+[24:54] se preparando para um próximo pique caso
+
+[24:56] precise O que acontece no cérebro é meio
+
+[24:58] parecido quando você repete muitas vezes
+
+[25:00] a mesma palavra ou mesmo assunto ou no
+
+[25:03] caso do código quando você digita muitas
+
+[25:05] vezes a mesma palavra e você ficar
+
+[25:07] olhando para ela né no caso do arquivo
+
+[25:09] Esporte e tal né o que acontece é como
+
+[25:12] se seu cérebro tivesse dando um pique
+
+[25:14] porque o que que acontece no cérebro não
+
+[25:16] é principalmente na área associativa que
+
+[25:18] é a parte mais externa do cérebro são
+
+[25:20] criadas assim toda vez que você vê a
+
+[25:21] palavra por exemplo arquivo arquivo
+
+[25:23] arquivo arquivo é criado uma coisa que é
+
+[25:26] chamado nódulo associativo o que que é o
+
+[25:29] nódulo associativo é um padrão de
+
+[25:31] ativação dos neurônios no momento que
+
+[25:33] você tá vendo aquela palavra então eu tô
+
+[25:35] vendo aquela palavra arquivo ativa esse
+
+[25:37] nódulo né que é uma Network de neurônios
+
+[25:40] na área associativa aí você vem de novo
+
+[25:42] arquivo arquivo arquivo onde o neurônio
+
+[25:45] ele é um uma célula que passa um ponto
+
+[25:48] elétrico e quando passa um poço elétrico
+
+[25:50] ele tem uma velocidade máxima de
+
+[25:52] estimulação Então imagina é como se o
+
+[25:55] neurônio fizesse então assim você vê a
+
+[25:58] palavra arquivo uma vez beleza aí você
+
+[26:00] vê de novo Beleza você vai vendo de novo
+
+[26:02] de novo de novo para você gerar o mesmo
+
+[26:05] grau de ativação neuronal o sinal
+
+[26:07] elétrico tem que passar mais rápido cada
+
+[26:10] vez mais rápido sabe então arquivo
+
+[26:12] arquivo arquivo arquivo arquivo cada vez
+
+[26:14] mais rápido chega uma hora que o nó do
+
+[26:17] neuronaldo não dá mais conta ele não
+
+[26:19] consegue dar um pulso mais rápido do que
+
+[26:20] ele já tá dando aí ele trava entendi ele
+
+[26:23] deu o pique cansou é o que acontece
+
+[26:25] quando ele cansa você perde o
+
+[26:27] significado da palavra né mas é
+
+[26:29] momentâneo neurônio precisa parar um
+
+[26:31] pouco dá uma respirada sabe então eu
+
+[26:33] ligo ou calma peguei o ônibus né agora
+
+[26:36] tá vamos dar um tempo eu recuperar sabe
+
+[26:38] então essa metáfora ajuda né E esse e
+
+[26:42] essa informação né de que os nossos
+
+[26:44] neurônios eles não trabalham
+
+[26:46] continuamente assim eles são ativados
+
+[26:47] continuamente mas se você estimula muito
+
+[26:50] um certo nódulo né neuronal é
+
+[26:53] associativo ele cansa entre aspas né
+
+[26:56] muito relacionado com o nosso Episódio
+
+[26:58] 377 que é sobre pausas né Porque que a
+
+[27:01] gente aprende fazendo pausa a pausa esse
+
+[27:04] momento de dar uma descansada também né
+
+[27:06] para ir depois você ativar de novo então
+
+[27:08] não adianta se ficar repetindo o tempo
+
+[27:10] todo esse seria o fenômeno fisiológico
+
+[27:13] assim da associação semântica Porque
+
+[27:15] quanto mais você entra em contato com
+
+[27:17] uma informação maior a necessidade de
+
+[27:19] pulso nervoso de uma mesma área para que
+
+[27:23] essa palavra tenha
+
+[27:25] reforçado o seu significado chega uma
+
+[27:28] hora que você vê tantas vezes que o
+
+[27:29] neurônio satura E aí ele para de
+
+[27:31] responder você perde o significado por
+
+[27:32] um tempo Ah é basicamente isso isso já
+
+[27:35] foi descrito fisiologicamente né Tem um
+
+[27:38] sinal específico né um gráfico elemento
+
+[27:41] do eg do Alerta elefalograma que é
+
+[27:44] chamado n400 né O que que é o n400 n é
+
+[27:48] de negativo é uma despolarização o n400
+
+[27:51] é uma despolarização que acontece 400
+
+[27:54] milissegundos depois de você palavra
+
+[27:57] então eu te mostrei a palavra arquivo
+
+[27:58] você viu lá arquivo numa certa área do
+
+[28:01] seu córtex associativo vai gerar um
+
+[28:03] nódulo associativo que viu agora vi
+
+[28:06] agora a palavra arquivo 400
+
+[28:07] milissegundos depois vai ter uma
+
+[28:09] despolarização aí beleza via arquivo de
+
+[28:11] novo vai ter a despolarização de novo de
+
+[28:13] novo de novo vai chegar uma hora que
+
+[28:15] esses 400 milissegundos começa a ser
+
+[28:17] muito tempo então quando você já dá um
+
+[28:19] n400 aparece o sinal de novo e aí o
+
+[28:22] neurônio não dá conta aí ele começa a
+
+[28:23] encavalar e ele diminui a quantidade de
+
+[28:26] n400 é quando a pessoa tá tendo saciação
+
+[28:28] semântica né então assim hoje hoje ainda
+
+[28:32] é caro tá hoje ainda é caro mas
+
+[28:34] confiamos na tecnologia no futuro
+
+[28:36] próximo a ideia é se você tiver lá no
+
+[28:39] computador com eg na sua cabeça né com
+
+[28:41] uma variação do eixo em nossa cabeça se
+
+[28:43] na área associativa começar a diminuir a
+
+[28:45] quantidade de n400 é um sinal de que
+
+[28:48] você tá tendo essa situação semântica aí
+
+[28:51] na tela pode aparecer um outro assunto
+
+[28:52] fala ó você já tá você já cansou de ver
+
+[28:54] isso vou te mostrar uma outra coisa para
+
+[29:04] e e o quão ainda é caro essa tecnologia
+
+[29:07] né para ser aplicada em massa se eu até
+
+[29:11] no nível individual o parentes É o
+
+[29:13] seguinte como é que anda o
+
+[29:15] desenvolvimento tecnológico de RG ela
+
+[29:18] caminha para ser um device né um
+
+[29:21] aparelho um equipamento de uso massivo
+
+[29:24] assim de uso individual cada um tem um
+
+[29:26] eixo em casa como tem um laptop em casa
+
+[29:29] essa é uma boa pergunta
+
+[29:31] sabe o que assim eu conheço tem muitos
+
+[29:34] colegas né aliás abraço todo mundo da
+
+[29:35] Federal do ABC né Tem um amigos que
+
+[29:37] trabalham com energia há muitos anos eu
+
+[29:39] mexi um pouco também meio doutorado eu
+
+[29:41] posso doutorado não sei mexer aplicado
+
+[29:44] ao sono né poderosonografia
+
+[29:45] Tem um negócio assim o maior gargalo do
+
+[29:48] egê usa Usa o massivo do RG sabia o
+
+[29:51] maior gargalo não é a tecnologia não é
+
+[29:54] a teoria
+
+[29:56] sabe por quê Porque por exemplo Ah eu
+
+[29:58] quero saber se você tá prestando atenção
+
+[30:00] numa tarefa né você tem que aí assim
+
+[30:03] Existem várias teorias elas brigam sobre
+
+[30:05] quais tipos de sinal eu tenho que pegar
+
+[30:07] quais gráficos gráfico elementos do ege
+
+[30:11] eu tenho que relacionar o córtex frontal
+
+[30:13] com a septal eu tenho que fazer a
+
+[30:15] diferença entre eles então é uma briga
+
+[30:16] de foice no escuro a parte teórica mesmo
+
+[30:19] uma vez que isso foi resolvido por
+
+[30:21] exemplo para um certo fenômeno tiver um
+
+[30:24] consenso dizendo ó o melhor gráfico
+
+[30:26] elemento ou a melhor forma de analisar o
+
+[30:29] dado do ege para para aferir um certo
+
+[30:32] comportamento é a métrica x aí a
+
+[30:35] tecnologia avança já houve uma redução
+
+[30:37] absurda né do equipamento de captação
+
+[30:41] sei lá antigamente era uns eletrodos
+
+[30:44] gigantes
+
+[30:46] com os materiais que você precisava
+
+[30:48] alguma coisa para colar né ele na cabeça
+
+[30:51] e hoje eu já vejo assim algumas malhas
+
+[30:54] que você simplesmente deposita em cima
+
+[30:56] da cabeça assim uma toquinha muito menos
+
+[30:59] invasiva assim né mas então não é o
+
+[31:02] equipamento em si o problema sim óbvio
+
+[31:05] que assim ainda não é barato enfim dá
+
+[31:07] sempre para baratinhar um pouco mais
+
+[31:09] isso mas tem uma coisa mais Ampla aí né
+
+[31:13] não é uma questão tecnológica é uma
+
+[31:15] questão científica falta evoluir a
+
+[31:17] teoria do uso do egg Quais são as
+
+[31:19] grandes variáveis dependentes assim me
+
+[31:21] dá um monte de dado mas o que que aquele
+
+[31:23] dado quer dizer isso na literatura mesmo
+
+[31:26] o povo muito muito versado em reger tal
+
+[31:29] treta louca né Tem até uma galera uns
+
+[31:32] colegas meus amigos meus que eu vou
+
+[31:34] parar de usar ele um pouco vou usar
+
+[31:36] outras coisas vou esperar tipo a poeira
+
+[31:39] baixar pra gente né evoluir um pouco tá
+
+[31:41] então assim a barreira é teórica E aí é
+
+[31:44] interessante né porque você vê a
+
+[31:45] tecnologia avançando as pessoas acham né
+
+[31:47] Ah agora que a tecnologia está avançando
+
+[31:49] vamos resolver muitos dos problemas não
+
+[31:51] é questão teórica né É porque o ritmo de
+
+[31:54] avanço da tecnologia
+
+[31:57] acaba sendo mais rápido porque para
+
+[32:00] avançar tecnologia basta dinheiro né na
+
+[32:02] para avançar o pensamento científico só
+
+[32:06] dinheiro não resolve né não você tem que
+
+[32:08] ter boas ideias exatamente você tem que
+
+[32:10] fazer uma boa descrição teórica
+
+[32:12] comportamental fenomenológica coletar
+
+[32:14] aquele dado fazer testes fazer bons
+
+[32:16] experimentos isso leva tempo não adianta
+
+[32:18] você pode ter com dinheiro se quiser
+
+[32:19] pode ser o Facebook injetar dinheiro não
+
+[32:21] adianta por isso científico Vale aquela
+
+[32:24] máxima de que nove mulheres grávidas não
+
+[32:28] fazem um filho em um mês né Exatamente
+
+[32:30] exatamente é ótimo ótimo ótima analogia
+
+[32:34] né e por isso que a gente tem que formar
+
+[32:36] mais gente para versado em métodos que
+
+[32:38] gosta de pensar né para ter boas ideias
+
+[32:41] Porque a partir das boas ideias a ideia
+
+[32:43] a implementação da ideia ou uma
+
+[32:45] descoberta isso é a ciência a partir do
+
+[32:47] momento que você teve uma boa ideia
+
+[32:48] publicou ela e as pessoas começam a usar
+
+[32:51] já não é mais ciência a tecnologia é a
+
+[32:54] aplicação da ideia Inicial então isso
+
+[32:56] acontece em poucos momentos né Toda
+
+[32:59] decorrência da de um de uma inovação
+
+[33:01] científica é tecnologia então que as
+
+[33:03] pessoas veem hoje em dia esses óculos
+
+[33:05] esses negócios nada disso
+
+[33:07] é tecnologia óbvio que se utilizou de
+
+[33:11] Várias Vários estudos científicos de
+
+[33:14] várias áreas etc e tal né mas vamos
+
+[33:18] voltar então para o nosso fio da meada
+
+[33:19] aqui fechando parênteses mas aí um ponto
+
+[33:22] importante assim a ciência do White
+
+[33:25] Tracker por exemplo nasceu lá com o
+
+[33:26] donders lá século 19 o dono desse que
+
+[33:30] jogou essa pedra na água a coisa começou
+
+[33:32] a avançar e gerou várias tecnologias tá
+
+[33:34] então a gente tem que educar e
+
+[33:36] desenvolver pessoas para que elas tenham
+
+[33:39] boas ideias que sirvam como inovação
+
+[33:40] para o impacto disso gerar tecnologias
+
+[33:43] hoje você faz aí tracking com uma webcam
+
+[33:47] doméstica isso nossa própria computador
+
+[33:49] e tal as variáveis que o Tracker gera
+
+[33:53] Por que que elas são mais úteis porque a
+
+[33:55] teoria tem 100 anos já tá mais madura é
+
+[33:59] já tá mais madura já relacionado com
+
+[34:00] comportamento então é por isso é eu
+
+[34:03] odeio o povo do mar que tinha exatamente
+
+[34:04] por isso né que ele vem com esse negócio
+
+[34:06] mas ele não sabe explicar a teoria sabe
+
+[34:08] tipo porque que não entra que era melhor
+
+[34:10] de usar do que o engenheiro porque o
+
+[34:11] desgraçado não sabe a teoria o povo do
+
+[34:13] mar não quer nem saber da teoria tá ele
+
+[34:17] só quer saber do resultado
+
+[34:24] Mas enfim e aí assim uma outra coisa
+
+[34:28] importante dessa ideia dessa sessão
+
+[34:29] semântica tudo bem quando eu meu cérebro
+
+[34:32] está saciado daquela semântica eu perco
+
+[34:34] ela né e passou um tempinho em geral
+
+[34:37] dois minutos não é muito tempo Volta Mas
+
+[34:39] eles começaram a estudar decorrências
+
+[34:41] disso né Umas uma decorrência muito
+
+[34:44] interessante E aí a partir dos anos 1990
+
+[34:47] e tal que é para onde os artigos estão
+
+[34:49] indo hoje eles achavam até os anos 60 70
+
+[34:52] eles achavam assim se repete uma palavra
+
+[34:55] várias vezes você perde o significado
+
+[34:57] dela e a capacidade de relacionar ela
+
+[34:59] semanticamente com outras tá depois eles
+
+[35:02] começaram a ver experimentos a partir
+
+[35:04] dos anos 2000 que você perde também a
+
+[35:06] capacidade de relacionar com emoção
+
+[35:08] também Então olha que experimento
+
+[35:10] interessante eles pegavam um grupo né eu
+
+[35:14] tinha Tinham dois grupos de pessoas né o
+
+[35:16] grupo controle ele repetia a palavra
+
+[35:18] alegria três vezes alegria alegria e
+
+[35:21] alegria né o outro grupo o grupo
+
+[35:23] experimental repetia 30 vezes alegria
+
+[35:25] alegria e ficava lá 30 vezes em voz alta
+
+[35:28] repetir beleza aí depois eu mostrava
+
+[35:31] para você fotos de pessoas com
+
+[35:33] diferentes expressões faciais de Emoções
+
+[35:36] aí o que que acontece as pessoas do
+
+[35:39] grupo B que falaram alegria 30 vezes
+
+[35:42] demoravam mais para decodificar As Faces
+
+[35:45] de alegria demorava mais para reconhecer
+
+[35:48] aquele rosto de alegria em relação a um
+
+[35:50] grupo controle e um resultado que para
+
+[35:52] mim até mais interessante eles tinham
+
+[35:54] mais erros eles erravam também então o
+
+[35:58] rosto que era de alegria eles achavam
+
+[35:59] que era de outra coisa dava mais erro e
+
+[36:01] por quê Porque a palavra né também é
+
+[36:04] associada com emoção né isso quem é da
+
+[36:07] linguística vai tem umas treta nervosa
+
+[36:09] na linguística também né se a linguagem
+
+[36:11] estrutura emoção aí tem um povo que
+
+[36:13] discorda e tal mas esse trabalho em
+
+[36:15] particular é uma evidência interessante
+
+[36:17] disso De que a não é que a palavra
+
+[36:19] estrutura emoção mas a palavra ela é
+
+[36:22] meio que uma Âncora da emoção né porque
+
+[36:25] por exemplo Toda vez que você tá alegre
+
+[36:27] né comportamentalmente alegre você fala
+
+[36:29] essa palavra alegria né ou outras
+
+[36:31] palavras relacionadas então assim não
+
+[36:34] não é que a palavra constrói a emoção o
+
+[36:37] corpo gera emoção mas a palavra ela vira
+
+[36:40] era vira meio que um estímulo
+
+[36:41] discriminativo ela é um estímulo que na
+
+[36:44] presença dele você discrimina um estado
+
+[36:47] seu né ela afirmar é uma numa analogia
+
+[36:50] numa espécie de tag assim isso mas
+
+[36:54] pegando um termo da sua área tem que é
+
+[36:56] um primer sabe é um primer sim é um
+
+[37:01] primer isso então a palavra alegria é um
+
+[37:03] primer da sensação quando dá saciedade
+
+[37:06] dessa palavra alegria você tem
+
+[37:08] dificuldade de decodificar a emoção não
+
+[37:10] quer dizer que você não sinta a emoção
+
+[37:11] não quer dizer que você não reconheça
+
+[37:13] mas dá uma travada sim dá uma limitada
+
+[37:16] né essa parte tem a ver com um episódio
+
+[37:19] anterior que a gente gravou que é o 201
+
+[37:21] que é porque nosso cérebro às vezes
+
+[37:23] falha né dá uma bugada então tem mais
+
+[37:25] sincronia diárias ali né porque tem área
+
+[37:29] o nódulo associativo da área emocional e
+
+[37:32] o modo associativo da palavra né quando
+
+[37:34] você repete muita palavra e já já é
+
+[37:38] esperada ter uma conexão entre a emoção
+
+[37:39] e a o significado da palavra quando você
+
+[37:42] sacia a palavra dá um bug nessas duas
+
+[37:44] áreas E aí você dá uma falhada né aí
+
+[37:47] você leva um pouco mais de tempo para
+
+[37:49] decodificar a emoção né no rosto Sim
+
+[37:52] esse trabalho é fantástico porque ele
+
+[37:54] tem aplicações de artigos agora de 2023
+
+[37:58] por exemplo quem você você em relação
+
+[38:01] aos últimos anos sei lá os últimos 10
+
+[38:03] anos hoje você passa muito mais tempo no
+
+[38:05] computador sim sem dúvida é antes de
+
+[38:08] passar mais tempo em reuniões assim
+
+[38:09] interagindo né mas agora você passa
+
+[38:11] muito mais tempo no computador e aí a
+
+[38:13] gente volta nos exemplos dos nossos dois
+
+[38:15] ouvintes programadores né que é o
+
+[38:17] Rodrigo e o Gabriel eles devem passar
+
+[38:20] ainda mais tempo não pois é então isso
+
+[38:23] para deves mas isso tem acontecido com
+
+[38:25] as pessoas em geral é porque é verdade
+
+[38:28] imagina que você fica muito tempo
+
+[38:30] escorolando coisas não precisa ser um
+
+[38:31] computador pode ser o celular tá porque
+
+[38:34] a associação semântica ela não vale só
+
+[38:36] para palavra ela vale para palavras que
+
+[38:38] você vê palavras que você escreve e
+
+[38:41] palavras que você ouve também dá essa
+
+[38:44] Associação semântica Então imagina que
+
+[38:46] você tá escrolando Qualquer coisa né no
+
+[38:49] celular e onde isso acontece muito no
+
+[38:51] Tik Tok né porque porque o algoritmo da
+
+[38:55] desgraça do Tik Tok funciona muito bem
+
+[38:56] né e exatamente por isso que ele né A
+
+[39:00] empresa bilionária né porque funciona
+
+[39:01] muito bem e o que quer dizer
+
+[39:02] funcionários
+
+[39:06] e mais vem do mesmo assunto né quando
+
+[39:09] vem um certo assunto que você deu um
+
+[39:11] like mas vai vir daquele mesmo assunto
+
+[39:13] ou seja o que que vai acontecer quando
+
+[39:15] você tiver no vigésimo Tik Tok vai dar
+
+[39:18] saciação semântica
+
+[39:19] vai dar essa sensação semântica e aí
+
+[39:22] você vai precisar ao invés de você parar
+
+[39:24] um pouco né porque não vai dar aquele
+
+[39:26] desespero que ai o que que era a palavra
+
+[39:28] mesmo não vai dar isso vai dar essa vai
+
+[39:31] embotar a sua emoção isso que é o
+
+[39:34] perverso do Tik Tok porque vai mostrando
+
+[39:36] o mesmo assunto o assunto vai saciando
+
+[39:38] né aí vai chegar uma hora que você vai
+
+[39:40] ficar insensível a ele você não vai que
+
+[39:43] ele é assunto aquele assunto para de
+
+[39:46] gerar sentimentos em você para de gerar
+
+[39:49] o sentimento uau E aí só que assim ele
+
+[39:52] para ele para de gerar o sentimento e ao
+
+[39:55] mesmo tempo não fica desesperado porque
+
+[39:57] não é uma palavra específica é uma ideia
+
+[39:59] você não tem aquela angústia de quando
+
+[40:02] você esquece e tal isso não sabe
+
+[40:04] escrever a palavra né E aí o que que
+
+[40:07] Como como você tá saciado o que que você
+
+[40:09] quer você quer ativar Mais e aí você
+
+[40:11] continua escrotando mais então é um é um
+
+[40:14] efeito de droga mas do ponto de vista de
+
+[40:16] semântico sabe por isso que não é
+
+[40:19] diferente de uma droga que substitui um
+
+[40:21] receptor ou cria uma substância
+
+[40:23] diferente porque a droga depois que você
+
+[40:26] consome e gera o efeito desejado de
+
+[40:29] saciedade você não precisa mais tomar
+
+[40:33] que depois você começa a ter que tomar
+
+[40:36] cada vez mais para ter o mesmo a mesma
+
+[40:38] saciedade né mas assim é como se a gente
+
+[40:42] não parasse de comer depois que a fome
+
+[40:45] já acabou e aí você não você não sente
+
+[40:48] nem mais o gosto da comida nem o prazer
+
+[40:50] de comer isso você vira você vira um
+
+[40:53] autônomo você perde a capacidade de você
+
+[40:56] vira um autônomato Você só fica
+
+[40:58] respondendo respondendo respondendo com
+
+[40:59] a emoção embotada Agora imagina você
+
+[41:02] fazer isso todo dia você vai passar cada
+
+[41:05] vez períodos maiores do seu dia sem
+
+[41:08] sentir as coisas hum Então imagina cada
+
+[41:10] vez períodos maiores do seu dia você não
+
+[41:12] vai ter a capacidade de sentir emoção
+
+[41:15] que que isso vai acontecer no médio a
+
+[41:16] longo prazo você vai começar a entrar em
+
+[41:18] desamparo aprendido vai ficar deprimido
+
+[41:19] Olha que mecanismos zoado não é muito
+
+[41:22] zoado e eu me levou uma a um outro lugar
+
+[41:25] aqui que depois não perguntar para você
+
+[41:28] se tem alguma algum paralelo né ou
+
+[41:32] alguma proximidade
+
+[41:33] crianças pequenas que ficam hipnotizadas
+
+[41:37] diante de uma tela de TV de celular Seja
+
+[41:40] lá o que for assim mas crianças
+
+[41:42] realmente pequenas bebês tá bebês de até
+
+[41:46] 3 anos que ficam hipnotizados elas se
+
+[41:49] querem entendem o que está sendo dito
+
+[41:51] Mas ela ficou hipnotizadas e parecem
+
+[41:54] zumbis mesmo assim parecem zumbis Parece
+
+[41:57] que eles estão capturadas assim e só
+
+[42:00] consumindo aquela imagem sabe é parecida
+
+[42:03] esse fenômeno então não não é o mesmo
+
+[42:06] fenômeno porque não a criança pequena
+
+[42:08] ali tem tem as letrinhas tem as
+
+[42:10] musiquinhas então tem uma estimulação né
+
+[42:12] o problema da criança da criança ficar
+
+[42:15] muito tempo principalmente criança
+
+[42:16] pequena até 2 anos o ideal é que não
+
+[42:18] ficasse na tela né mas a gente sabe que
+
+[42:20] criança é um Satanás na terra e as vezes
+
+[42:22] você precisa ir no banheiro vamos fazer
+
+[42:24] um episódio sobre isso mais tarde é mas
+
+[42:26] está está no caminho tá Às vezes você
+
+[42:29] tem que ir no banheiro você deixa a
+
+[42:30] criança com o celular tá não é para você
+
+[42:31] ficar se matando por causa disso também
+
+[42:32] tá o problema da tela é que assim a
+
+[42:35] criança ela
+
+[42:37] Quanto mais tempo você deixa ali mais
+
+[42:38] tempo ela fica ela entra numa inércia né
+
+[42:41] E aí ela perde a oportunidade de fazer
+
+[42:43] outras tarefas então o problema não é o
+
+[42:46] celular o problema é o tempo que ela
+
+[42:48] fica no celular se ela ficar lá 15
+
+[42:50] minutos tudo bem aí os outros 45 de
+
+[42:53] crianças que ficam horas assim né então
+
+[42:56] o problema não tá nem na tela o problema
+
+[42:59] está no que ela deixou de fazer por
+
+[43:00] estar lá que aí são tarefas em que ela
+
+[43:04] desenvolveria a competências que são
+
+[43:05] mais úteis depois tá certo
+
+[43:09] para abrir outro parênteses vamos fechar
+
+[43:11] e voltar para encerramento do episódio
+
+[43:15] sim não tranquilo tranquilo faz parte a
+
+[43:17] ideia é essa mesmo voltando nessa ideia
+
+[43:19] da associação semântica ela como ela tem
+
+[43:21] essa capacidade de durante um tempinho
+
+[43:23] né é pouco tempo ela inibe a capacidade
+
+[43:25] de você relacionar uma palavra com uma
+
+[43:27] emoção e se você tiver na rede social e
+
+[43:29] você vê isso o tempo muitas vezes você
+
+[43:31] vai passar um certo período do tempo uma
+
+[43:33] hora às vezes mais sem sentir coisas né
+
+[43:37] E se você pegar no seu no diariamente
+
+[43:40] você passar períodos do tempo sem sentir
+
+[43:43] coisas isso vai gerar ao longo do tempo
+
+[43:45] um estado de desamparo em que parece que
+
+[43:47] a vida não faz tanto sentido mas é
+
+[43:50] criado completamente de forma artificial
+
+[43:51] completamente né pela capacidade
+
+[43:54] atencional do Tik Tok esses e outras
+
+[43:57] redes sociais isso é muito para adulto
+
+[43:59] você que já tem seu cérebro adulto
+
+[44:01] passou dos 25 E isso acontece bem como
+
+[44:03] você tá Então veja que a um fenômeno
+
+[44:07] estudado desde anos 1900 né hoje a gente
+
+[44:10] consegue usar ele como uma variável
+
+[44:12] dependente né para des
+
+[44:15] uma série de fenômenos complexos até
+
+[44:18] inclusive incórrem problemas de saúde
+
+[44:20] pública para encerrar o Episódio tem um
+
+[44:23] artigo 2021 né Muito interessante que
+
+[44:26] que mostra a importância da associação
+
+[44:29] semântica para poesia muito interessante
+
+[44:32] esse trabalho viu que assim isso é um
+
+[44:35] recurso antigo né um recurso estilístico
+
+[44:38] antigo usar essa Associação semântica
+
+[44:40] para gerar um estado diferente no leitor
+
+[44:44] né então assim isso é muito usado em
+
+[44:47] ritos né Falando ritual xamânico né
+
+[44:49] muitos ritos xamânicos enfim religiosos
+
+[44:53] utilizam repetição Então as pessoas
+
+[44:55] ficam repetindo palavras mantras coisas
+
+[44:57] do tipo né um efeito do mantra né é
+
+[45:01] gerar um estado alterado de percepção né
+
+[45:03] e eu não tô nem falando de você fazer
+
+[45:06] mantra os fumando coisas tomando coisas
+
+[45:08] nem isso só repetiu mantra mesmo né você
+
+[45:12] repetir muito o que que acontece gera
+
+[45:14] negociação semântica e aí como vai gerar
+
+[45:17] saciação semântica porque você fica
+
+[45:19] repetindo a mesma coisa várias vezes
+
+[45:20] gera uma desconexão as coisas parece que
+
+[45:23] perdem o significado né só que como você
+
+[45:26] tá num contexto religioso você começa a
+
+[45:29] associar essa falta de significado a um
+
+[45:31] significado transcendente Olha que
+
+[45:33] bonito então Associação semântica no Tik
+
+[45:36] Tok serve para você deixar você
+
+[45:37] desamparado na religião serve para você
+
+[45:39] transcender e encontrar o Divino olha só
+
+[45:42] que beleza né E aí quem fazia muito isso
+
+[45:45] era os gregos na Ilíada né é um texto é
+
+[45:50] longo assim né contar história de uma
+
+[45:52] viagens e tal mas tem muitas sem recurso
+
+[45:54] Então esse artigo de 2021 é um texto que
+
+[45:57] faz uma análise da Ilíada por meio da
+
+[46:00] associação semântica e ele viu que é um
+
+[46:03] uma estratégia muito utilizada para
+
+[46:06] gerar Sensações no leitor né tipo da de
+
+[46:11] palavras parece que a palavra perde o
+
+[46:13] sentido depois que você ler o texto
+
+[46:14] porque ela foi repetida tantas vezes né
+
+[46:16] E aí dá uma sensação estranha né E essas
+
+[46:19] palavras são escolhidas a dedo por
+
+[46:21] exemplo a palavra Zeus Zeus grande de
+
+[46:24] Deus né Deus do Olimpo e tal né tinha
+
+[46:27] vários jogos de palavras com isso então
+
+[46:29] vou pedir para o final desse Episódio
+
+[46:31] que quem ler um pequeno excerto da
+
+[46:34] Ilíada né
+
+[46:37] fonoplastia do nosso grande Reginaldo
+
+[46:39] por favor quem
+
+[46:42] [Música]
+
+[46:44] Zeus nasceu primeiro Zeus do relâmpago
+
+[46:47] reluzente foi o último Zeus é o chefe
+
+[46:51] Zeus é o centro todas as coisas são
+
+[46:54] feitas a partir de Zeus
+
+[46:56] Zeus é o sopro de tudo Zeus é o destino
+
+[47:00] de todos Zeus é o rei Zeus do relâmpago
+
+[47:03] reluzente ao Senhor de todos
+
+[47:09] para quem ouviu com atenção vai perceber
+
+[47:11] que a palavra Zeus ao longo do texto é
+
+[47:13] que o texto é um pouco mais longo vai
+
+[47:14] mudando o som o som você alterando
+
+[47:17] porque vai sendo repetido repetido
+
+[47:18] repetido né então parece que Deus está
+
+[47:21] chegando perto para mim para mim que tá
+
+[47:23] valendo já ela fica diferente isso não
+
+[47:26] dá uma enrola a língua esse enrola a
+
+[47:28] língua tem uma hora que eu não tenho uma
+
+[47:31] hora que parece que eu não tô mais
+
+[47:32] falando dos Zeus parece que eu tô
+
+[47:33] falando Zeus e sabe assim
+
+[47:37] então no contexto do texto né quando
+
+[47:39] você tá lendo o texto anterior de
+
+[47:40] posterior o que que aparece que Deus
+
+[47:42] está entrando na história e tá se
+
+[47:45] aproximando de você a intervenção divina
+
+[47:46] não é bonito é um recurso estilístico
+
+[47:49] Fantástico poético que eu já usei alguns
+
+[47:52] textos É verdade é então parece que vai
+
+[47:54] mudando né você pega lá o slogan vai
+
+[47:56] repetindo repetindo repetindo a pessoa
+
+[47:57] buga né Então veja como desde os gregos
+
+[48:00] né e outras culturas e tal esse fenômeno
+
+[48:03] da associação semântico ele é visto
+
+[48:05] felizmente Hoje em dia a gente tem uma
+
+[48:07] explicação fisiológica para ele pela
+
+[48:08] maneira como nosso cérebro funciona daí
+
+[48:10] a importância das pausas primeiro para
+
+[48:13] você conseguir perceber né vou parar um
+
+[48:16] pouco com angústia de que ah esqueci o
+
+[48:17] significado da palavra você para não é
+
+[48:19] nenhum problema ai se eu se eu tenho
+
+[48:21] essa sessão semântica com frequência é
+
+[48:23] algum problema não né só dava relaxada
+
+[48:26] para um pouco vai no banheiro e tal
+
+[48:27] melhora tá é normal é como a gente
+
+[48:30] funciona mas por exemplo se você tiver
+
+[48:32] num contexto religioso você parar um
+
+[48:34] pouco mantra talvez você entra em
+
+[48:36] contato com a realidade como ela é de
+
+[48:37] verdade né pare de se ligar tanto a
+
+[48:39] estrutura ascendentes que às vezes levam
+
+[48:42] aceitar ideologias não muito legais mas
+
+[48:44] enfim mas no contexto poético é muito
+
+[48:46] legal né gera uma sensação estranha né
+
+[48:48] agradecemos antes de tudo a a todos os
+
+[48:51] primeiros fisiologistas Né desde lá do
+
+[48:52] voo de começo da Psicologia uma área
+
+[48:54] vipidiada no Brasil infelizmente muito
+
+[48:56] pouco estudada né só estudado porque
+
+[48:58] quem quer ganhar dinheiro aí usa isso
+
+[49:00] como ferramenta e não como ciência
+
+[49:01] infelizmente então dedica esse episódio
+
+[49:04] grande
+
+[49:05] e o Leon né
+
+[49:08] Jacobs que escreveu esse artigo e deram
+
+[49:11] todas as bases para que substanciemos
+
+[49:13] este Episódio de hoje e também é uma
+
+[49:16] homenagem a todos os fisólogos e
+
+[49:18] psicofísicos do Brasil né uma área aí
+
+[49:20] muito pequena infelizmente mas que
+
+[49:23] espero que seja uma das bases da
+
+[49:25] psicologia do Futuro onde não se tenha
+
+[49:27] mais igrejas e se construa a ciência de
+
+[49:29] verdade tá certo tem um abraço pro Garça
+
+[49:34] certamente um abraço que esse colega de
+
+[49:39] classe do altar e amigo do altar e
+
+[49:42] revelope pra gente a participação do
+
+[49:44] atair rituais xamânicos que a gente vai
+
+[49:46] ter que investigar no futuro hein
+
+[49:49] de um jeito completamente alheio O que
+
+[49:52] foi de verdade mas falaremos sobre isso
+
+[49:54] falaremos sobre isso é um abração Garça
+
+[49:56] e todo o pessoal da turma lá da da
+
+[49:59] psicologia da USP da biologia da Unesp e
+
+[50:01] tal né de Botucatu e foi sempre foi uma
+
+[50:04] época é uma época Ainda muito muito rica
+
+[50:07] da minha vida assim a gente eu aprendi
+
+[50:08] muito e espero que eles tenham aprendido
+
+[50:10] comigo também assim foi Fantástico é
+
+[50:13] isso daí eram rodou ilustríssimo vinte
+
+[50:18] e você já sabe aqui no Naruto quem faz a
+
+[50:22] pauta é você Você tem alguma pergunta
+
+[50:24] pra gente ou Quer comentar algum
+
+[50:25] episódio escreva pra nós podcast @nar o
+
+[50:29] rodolfo.com.br
+
+[50:34] e lembre-se mande nome completo idade
+
+[50:37] profissão e a cidade de onde você está
+
+[50:39] falando é isso aí
+
+[50:42] [Música]
+
+[50:47] .br
+
+[50:53] [Música]

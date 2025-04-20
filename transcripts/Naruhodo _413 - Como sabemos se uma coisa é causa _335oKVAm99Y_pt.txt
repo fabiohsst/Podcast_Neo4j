@@ -1,0 +1,2649 @@
+Title: Naruhodo #413 - Como sabemos se uma coisa é causa de outra?
+URL: https://www.youtube.com/watch?v=335oKVAm99Y
+Language: pt
+Extracted on: 2025-04-06 16:38:51
+================================================================================
+
+[00:00] [Música]
+
+[00:01] como sabemos se uma coisa é causa de
+
+[00:05] [Aplausos]
+
+[00:09] [Música]
+
+[00:11] outra bem-vindo ao narod podcast para
+
+[00:14] quem tem fome de aprender eu sou quem
+
+[00:16] fioca eu sou Souza e hoje é dia de qu
+
+[00:20] ciência e senso
+
+[00:23] comum você quer apoiar a ciência quer
+
+[00:26] apoiar o pensamento científico quer
+
+[00:29] audar o rodou a se manter no ar ouvir os
+
+[00:32] episódios e espalhar a palavra já é um
+
+[00:34] grande Passo mas existe um outro jeito
+
+[00:38] quem possibilita isso é a orelo você
+
+[00:40] escolhe um valor de contribuição mensal
+
+[00:42] e tem acesso a conteúdos exclusivos
+
+[00:45] conteúdos antecipados e vantagens
+
+[00:47] especiais Além disso você pode ter
+
+[00:49] acesso ao nosso grupo fechado no
+
+[00:51] telegram e conversar comigo com alí com
+
+[00:54] outros apoiadores Toda vez que você
+
+[00:56] ouvir ou fizer download de um episódio
+
+[00:58] pelo aurelo vai vai também estar
+
+[01:00] pingando uns trocadinhos para o nosso
+
+[01:02] projeto Combinado então baixa agora
+
+[01:05] mesmo o app orelo no endereço orelo.cc
+
+[01:08] ou na sua loja de aplicativos e ajude a
+
+[01:12] fortalecer o conhecimento procure o link
+
+[01:14] na descrição do
+
+[01:18] episódio
+
+[01:20] aaí temos pergunta de ouvinte aaí essa é
+
+[01:24] uma pergunta bem epistemológica É raro
+
+[01:26] ter perguntas assim né mas de vez em
+
+[01:28] quando são elas aparecem são importantes
+
+[01:30] quem ouve naroda há bastante tempo sabe
+
+[01:32] que a gente fala muito das quatro causas
+
+[01:34] de Aristóteles né E aí como esse esse
+
+[01:36] episódio fala de causas é diretamente
+
+[01:38] relacionado com aquele a gente vai
+
+[01:40] expandir o conceito das quatro causas
+
+[01:42] para outros âmbitos e mostrar como é
+
+[01:44] difícil na verdade testar causalidade
+
+[01:47] verdade é uma um conceito importante no
+
+[01:50] método científico né al é que devia
+
+[01:53] estar presente na vida das pessoas
+
+[01:55] cotidianamente é um jeito de evitar
+
+[01:56] vários tipos de negacionismo assim aliás
+
+[01:59] exato ion ismo sofismas né exato bom o
+
+[02:04] e-mail Taí veio de uma ouvinte a Fabiana
+
+[02:07] Marques Dutra que é bancária e é de
+
+[02:11] garça no interior de São Paulo alí e o
+
+[02:14] e-mail diz o seguinte olá quem alí tudo
+
+[02:17] bem Obrigada pelo nalo rodô acompanho já
+
+[02:20] alguns anos e ele sempre foi uma grande
+
+[02:22] fonte de conhecimento durante meus dias
+
+[02:24] um tanto quanto chatos de trabalho por
+
+[02:27] favor continue com podcast como eu ouço
+
+[02:30] alguns anos episódios e às vezes reço
+
+[02:33] alguns episódios mais antigos também eu
+
+[02:35] comecei a notar que fui mudando aos
+
+[02:37] pouquinhos é como se os episódios não
+
+[02:39] fossem algo que você ouve e logo depois
+
+[02:42] esquece eles ficam ressoando às vezes
+
+[02:44] por muito tempo não sei se outros
+
+[02:47] ouvintes têm essa sensação mas eu tenho
+
+[02:49] e sou muito grata por isso obrigada a
+
+[02:52] gente que agradece Fabiana pela
+
+[02:55] audiência e por essa insistência de de
+
+[02:58] ouvir os episódios mais de uma vez não é
+
+[03:00] isso e pela paciência também
+
+[03:03] né mas vamos à minha pergunta retoma a
+
+[03:06] Fabiana sempre tem uma nova dieta ou
+
+[03:09] tratamento ou método milagroso que cura
+
+[03:12] Ou trata alguma doença surgindo todo dia
+
+[03:14] e muitos desses tratamentos supostamente
+
+[03:17] tratam das causas de uma doença ou
+
+[03:19] enfermidade mas um dia eu comecei a me
+
+[03:22] perguntar o que queremos dizer quando
+
+[03:24] uma coisa causa a outra causalidade é
+
+[03:28] uma coisa fácil de tem uma definição
+
+[03:31] única seria plausível dizer que o naro
+
+[03:34] rodô causa de fato mudanças na maneira
+
+[03:36] como as pessoas pensam quando ouvem os
+
+[03:39] episódios ou isso é algo impossível eu
+
+[03:42] espero que vocês Leiam A Minha
+
+[03:45] cartinha já denunciou a idade né É já
+
+[03:49] deu até a saudade né Na época que a
+
+[03:51] gente mandava e recebia cartinhas É
+
+[03:54] verdade ô alí que que a ciência pode
+
+[03:58] dizer né para explicar o que é a
+
+[04:02] causalidade e como é que a gente testa
+
+[04:05] se uma coisa causa uma outra na verdade
+
+[04:09] dessa vez só a ciência pode falar sobre
+
+[04:11] isso não é outra área é verdade em
+
+[04:14] causalidade Olha eu trabalho muito com
+
+[04:16] pesquisa mesmo eu sou cientista né e e
+
+[04:18] causalidade é uma coisa que vira e mexe
+
+[04:20] e volta assim eu eu falo muito em aulas
+
+[04:23] é um problema muito grande assim definir
+
+[04:24] causalidade a própria pergunta da da
+
+[04:26] Fabiana né nosso ouvinte seria plausível
+
+[04:28] dizer que o Naru Rod causa de fato
+
+[04:30] mudanças na maneira como as pessoas
+
+[04:31] pensam se a gente chegar por exemplo no
+
+[04:33] grupo de apoiadores que que são as
+
+[04:35] pessoas que ouvem o Naru rodô com
+
+[04:36] frequência e chega para elas assim você
+
+[04:38] acha que o fato de você ouvir o Naru
+
+[04:40] rodau eventualmente com alguma
+
+[04:41] frequência muda o jeito como você pensa
+
+[04:44] a pessoa Responde sim porque ela já é
+
+[04:46] apoiadora isso é um viés na verdade ela
+
+[04:48] não tem controle sobre o processo
+
+[04:50] gerador de eventos que fez ela ter
+
+[04:52] alguma mudança e a vida de uma pessoa é
+
+[04:54] regida por muitas variáveis Às vezes a
+
+[04:56] pessoa pode dizer que foi o podcast Mas
+
+[04:58] é uma outra coisa que é aconteceu na
+
+[05:00] vida dela ela não tem controle ela não
+
+[05:02] tem capacidade de separar a rede causal
+
+[05:04] de eventos ali para dizer que é o
+
+[05:06] podcast então isso isso é muito
+
+[05:08] importante assim é às vezes as pessoas
+
+[05:10] falam Ah eu tomei esse remédio e esse
+
+[05:12] remédio foi a causa da minha melhora
+
+[05:14] muitas vezes a pessoas não sabe medir
+
+[05:16] ela não sabe observar quais variáveis
+
+[05:18] estão envolvidas e tal é muito muito
+
+[05:20] muito muito difícil E aí o o quem como
+
+[05:23] publicitário que já ganhou prêmios de
+
+[05:24] Publicidade pode falar muito bem sobre
+
+[05:26] isso é igual o Naru rodô Naru rodô não
+
+[05:28] deixa de ser Apesar não pode podc e tal
+
+[05:30] fala de ciência qualquer coisa mas e eh
+
+[05:32] não deixa de ser uma mídia e essa mídia
+
+[05:34] é como uma garrafa solta no mar né a
+
+[05:36] pessoa ouve de backgrounds diferentes
+
+[05:39] com expectativas diferentes não tem mais
+
+[05:41] a ver com a gente é uma outra coisa se a
+
+[05:43] gente fosse fazer um estudo de
+
+[05:44] efetividade do naru rodou se fosse
+
+[05:47] pensar numa mídia Qual que é o impacto
+
+[05:49] eu ignoro completamente mas se fosse
+
+[05:51] pensar num planejamento de mídia mesmo
+
+[05:53] sabe se fosse uma empresa é muito
+
+[05:55] difícil de medir isso né o quem tem
+
+[05:57] experiências com isso né gostaria agora
+
+[05:59] da sua expertise nessa Seara não é nada
+
+[06:02] fácil viu a gente tem algumas premiações
+
+[06:05] na área de Publicidade que ao invés de
+
+[06:09] ter um critério digamos puramente
+
+[06:12] criativo como é a maioria dos prêmios
+
+[06:14] publicitários tem alguns que são
+
+[06:18] bastante focados em resultados né ou que
+
+[06:23] se convencionou chamar de
+
+[06:25] efetividade existem dois prêmios
+
+[06:28] mundialmente
+
+[06:29] famosos né que tem foco em efetividade
+
+[06:32] tá um se chama F Awards e outro se chama
+
+[06:36] Ipa Awards o f Awards foi criado nos
+
+[06:39] Estados Unidos e acontece em vários
+
+[06:42] países do mundo o Ipa Awards ele é
+
+[06:45] originado no Reino Unido e também recebe
+
+[06:48] inscrições do mundo inteiro mas o f
+
+[06:51] Awards ele tem critérios muito menos
+
+[06:54] rigorosos para avaliar se uma
+
+[06:58] determinada campanha publicitária por
+
+[07:00] exemplo gerou de fato um resultado ou
+
+[07:03] seja e eh foi de fato a causa de um
+
+[07:07] efeito eh nas pessoas ou no mercado
+
+[07:11] enquanto que o Ipa Awards Ele é bem mais
+
+[07:13] rigoroso ou seja ele tem a
+
+[07:15] preocupação de tentar isolar variáveis
+
+[07:19] externas à campanha por exemplo vou aqui
+
+[07:22] dar um exemplo Bem óbvio né consumo de
+
+[07:25] cerveja por exemplo ele é a afetado por
+
+[07:30] muitas variáveis externas né É óbvio que
+
+[07:33] uma campanha publicitária impactando as
+
+[07:36] pessoas tem o seu efeito mas o clima tem
+
+[07:41] efeito né se aquele dia choveu ou não
+
+[07:43] choveu tem efeito tem futebol tem
+
+[07:46] futebol não a qualidade da distribuição
+
+[07:49] e a presença do produto no ponto de
+
+[07:51] venda a política de preço que aquela
+
+[07:54] rede de varejo praticou ou seja muitas
+
+[07:56] variáveis podem afetar né A venda por
+
+[08:00] exemplo de cerveja num determinado dia
+
+[08:03] até num determinado horário é possível
+
+[08:05] medir isso e no no nesse prêmio IP
+
+[08:08] Awards eles são bastante rigorosos nisso
+
+[08:11] né Ou seja você De certa forma precisa
+
+[08:14] exercitar a O isolamento de determinadas
+
+[08:17] variáveis externas Para comprovar que de
+
+[08:20] fato uma campanha publicitária teve eh
+
+[08:24] um efeito forte né no resultado que ela
+
+[08:27] gerou né então dá para se dizer que a
+
+[08:31] causalidade ela é mais fortemente
+
+[08:35] comprovada nessa premiação enquanto que
+
+[08:37] no f a coisa já não é tão rigorosa assim
+
+[08:40] né é bastante subjetiva por isso IP
+
+[08:43] Awards ele acaba sendo um prêmio eh eh
+
+[08:47] muito muito respeitado entre
+
+[08:50] principalmente entre profissionais de
+
+[08:52] estratégia de comunicação que é a sua
+
+[08:55] área né de planejamento e tal né então o
+
+[08:58] povo que faz coisas bonitas não liga
+
+[09:00] muito para isso né mas o povo faz as
+
+[09:02] coisas que importam aí é o que vale né É
+
+[09:04] tá É isso aí uma coisa do seu comentário
+
+[09:06] é muito importante assim toda
+
+[09:08] causalidade é ligada a um método a
+
+[09:10] primeira coisa para começar a esclarecer
+
+[09:11] causalidade não é uma coisa só não
+
+[09:13] existe causalidade existem causalidades
+
+[09:16] e cada causa cada método causal é ligado
+
+[09:19] e até eu já falei o nome né cada tipo de
+
+[09:21] causalidade é ligado a um método sim né
+
+[09:24] que esse é um problema que a gente tem
+
+[09:25] hoje então por exemplo quando você
+
+[09:27] descreveu a lógica do prêmio isolava
+
+[09:29] variáveis eu fiquei pensando os caras
+
+[09:31] fizeram o modelo econométrico você vai
+
+[09:33] fazer o modelo econométrico você tem que
+
+[09:34] fazer o modelo de regressão E aí você
+
+[09:36] tem que coletar as variáveis ter que ver
+
+[09:37] a qualidade das variáveis que variáveis
+
+[09:40] você vai selecionar qual qual a
+
+[09:41] especificação das variáveis
+
+[09:42] independentes e dependentes do modelo
+
+[09:44] como é que você analisa os erros do
+
+[09:46] modelo para poder separar lá as
+
+[09:48] variâncias e pegar a variância da
+
+[09:50] variável que você quer né então assim o
+
+[09:52] o o método quando você fala testar eu
+
+[09:55] quero saber quantos por cento das vendas
+
+[09:57] de cerveja Foi por causa propaganda né
+
+[10:00] Uhum aí você vai ver uma relação causal
+
+[10:02] então assim uma coisa importante para
+
+[10:04] todos os tipos de causalidade todos os
+
+[10:06] tipos de causalidade tem uma premissa
+
+[10:08] que é se a causa b a tem que acontecer
+
+[10:11] antes e isso é meio Óbvio aqui é
+
+[10:14] importante separar a causa e
+
+[10:16] consequência né quando você fala que a
+
+[10:18] causa b e a é consequência de B né nos
+
+[10:22] dois casos quando você fala a causa b a
+
+[10:25] tem que acontecer antes não tem como o b
+
+[10:28] acontecer e o a acontecer depois pois aí
+
+[10:29] não dá para falar em causa tem que ter
+
+[10:30] uma temporalidade né na consequência
+
+[10:33] também então quando você pensa que B é
+
+[10:36] consequência de a a acontece antes e B
+
+[10:39] acontece depois então quando você fala
+
+[10:41] causa tá indo num sentido né
+
+[10:43] consequência é oo contrário Então a
+
+[10:45] causa b b é consequência de A tá então é
+
+[10:48] meio parecido só que consequência é uma
+
+[10:51] palavra um pouco mais fraca consequência
+
+[10:54] você tá falando de algo mais
+
+[10:55] argumentativo tá então e e por exemplo
+
+[10:58] se eu tiver falando descrevendo um
+
+[11:00] cenário histórico então a certa a guerra
+
+[11:03] tal foi a a consequência de um certo
+
+[11:05] evento histórico é a guerra x você não
+
+[11:08] tá aferindo causalidade Direto você tá
+
+[11:10] falando uma você tá fazendo uma uma
+
+[11:12] apresentação de um cenário histórico com
+
+[11:14] vários eventos e aí você diz que um
+
+[11:16] evento foi consequência do outro mas
+
+[11:18] você não fala tanta causa causa é mais
+
+[11:20] difícil de testar tá por exemplo no
+
+[11:23] modelo histórico em geral tá eu tô eu tô
+
+[11:25] pegando o modelo científico histórico em
+
+[11:27] geral tem tem especificidades Por
+
+[11:29] exemplo quando a gente trata de eventos
+
+[11:31] históricos muito próximos muito recentes
+
+[11:34] dá para você coletar os dados E aí a
+
+[11:36] partir dos dados dá para fazer um modelo
+
+[11:38] causal né O que gerou sei lá revolução
+
+[11:40] de tal coisa você pode fazer um modelo
+
+[11:42] estatístico até para tentar prever
+
+[11:44] alguma coisa né Mas pensa por exemplo
+
+[11:46] sei lá Guerra do Peloponeso sabe na na
+
+[11:49] Grécia antiga você não tem mais como
+
+[11:51] coletar os dados né então não tem como
+
+[11:53] fazer o modelo causal de verdade da
+
+[11:54] Guerra do Peloponeso aí você trata o
+
+[11:57] contrário você fala da consequência
+
+[11:58] então a Guerra do Peloponeso foi
+
+[12:00] consequência de outras coisas tá então
+
+[12:03] quando você fala de eventos muito
+
+[12:04] antigos ou que você não tem os dados
+
+[12:06] você olha do presente pro passado Então
+
+[12:09] o que aconteceu a Guerra aconteceu por
+
+[12:11] causa é uma consequência de coisas que
+
+[12:13] aconteceram antes e é uma coisa mais
+
+[12:15] hipotética descritiva quando chega mais
+
+[12:18] perto a um evento mais próximo em geral
+
+[12:20] você tem dados você tem e argumentos
+
+[12:22] mais convincentes ou evidências E aí
+
+[12:25] você vai organizando isso numa rede
+
+[12:26] causal aí você vai você vai dar causa
+
+[12:28] você fala do presente pro futuro a causa
+
+[12:31] agora a consequência é o que vai
+
+[12:32] acontecer tudo bem quem fez sentido sim
+
+[12:35] fez todo sentido e e aliás eu queria
+
+[12:37] colocar uma outra palavra que já que
+
+[12:39] você colocou consequência queria colocar
+
+[12:41] a palavra também coincidência Ah sim
+
+[12:45] muitas vezes a gente acha que houve um
+
+[12:47] efeito de né um efeito de causa e efeito
+
+[12:51] mas na verdade foi só uma coincidência é
+
+[12:54] isso isso isso e muitas vezes a gente
+
+[12:56] não tem como discriminar tem tem um
+
+[12:58] termo em latim que fala disso né um
+
+[13:00] termo é post rock ergo propter rock post
+
+[13:03] Roque é depois disso ergo quer dizer
+
+[13:06] entretanto entretanto depois daquilo né
+
+[13:08] propter rock então post rock ergo
+
+[13:11] propter rock né Depois disso entretanto
+
+[13:14] antes daquilo e aí os gregos faziam
+
+[13:16] troça com isso eles faziam piada eles
+
+[13:18] falavam assim se um dia você espirrou e
+
+[13:21] E logo depois que você espirrou na mesma
+
+[13:23] hora cai um raio é porque Deus Zeus
+
+[13:26] disse saúde para você sabe você infere
+
+[13:29] causalidade né Por você ter espirrado
+
+[13:31] Caiu um raio depois o raio Caiu porque
+
+[13:33] você espirrou não é verdade então eles
+
+[13:35] faziam uma troa fal não poste rock erg o
+
+[13:37] próprio Ter rock não é porque duas
+
+[13:38] coisas acontecem juntas que elas têm uma
+
+[13:41] relação de causa efeito é uma
+
+[13:42] coincidência sim que tem aquela que nos
+
+[13:45] leva aquela frase também do eh que que
+
+[13:49] uma correlação forte não significa
+
+[13:51] causalidade né isso exatamente Então
+
+[13:54] tudo isso é imbricado tá então assim eh
+
+[13:56] eh causalidade você fala de a para B
+
+[13:59] consequência você fala de B para a o b é
+
+[14:01] a consequência do a né é a
+
+[14:03] direcionalidade a coincidência para você
+
+[14:06] dizer se uma coisa fo coincidente ou não
+
+[14:08] se dois eventos foram coincidentes você
+
+[14:10] tem que ter informações sobre os dados e
+
+[14:12] você tem que ter um método que avalie
+
+[14:14] que não tem causalidade não tem relação
+
+[14:16] entre eles apesar de Por acaso eles
+
+[14:18] terem acontecido no mesmo tempo então
+
+[14:20] assim a temporalidade é causa necessária
+
+[14:23] para causalidade mas não é suficiente
+
+[14:25] então a temporalidade é necessário é
+
+[14:27] importante mas não não é a a única razão
+
+[14:30] tanto é que temporalidade é importante
+
+[14:32] pra causalidade mas causalidade não
+
+[14:34] necessariamente depende da temporalidade
+
+[14:36] a volta não vale e E aí esse é um ponto
+
+[14:39] importante para para por exemplo no caso
+
+[14:41] do exemplo do Ken com publicidade e tal
+
+[14:43] você vai ter que usar um modelo de
+
+[14:45] regressão uma coisa mais quantitativa
+
+[14:46] alguma coisa assim como eu falei para
+
+[14:49] você saber se uma coisa causa outra você
+
+[14:51] tem que entender o método que você
+
+[14:53] utilizou para testar causalidade então
+
+[14:55] por exemplo você vai você quer saber se
+
+[14:57] um anti-inflamatório reduz dor você tá
+
+[15:00] lá com uma dor um inchaço você quer
+
+[15:02] saber se o antiinflamatório funciona
+
+[15:03] então primeira coisa tem que tomar o
+
+[15:05] antiinflamatório você não adianta não
+
+[15:06] vai reduzir sem o remédio toma antes vê
+
+[15:09] o efeito depois mas não é só isso não é
+
+[15:11] só tomar você pode tomar água e depois
+
+[15:13] melhora né porque o seu corpo tem um uma
+
+[15:15] questão imunológica que depois de um
+
+[15:17] certo tempo Poxa eu tomei água hoje uma
+
+[15:19] semana depois não tenho mais inchaço
+
+[15:21] Claro agradeço seu sistema imunológico e
+
+[15:23] não a água então isso é importante então
+
+[15:26] você tem que ter uma hipótese teórica do
+
+[15:28] composto ativo
+
+[15:29] do remédio você supõe tem uma teoria que
+
+[15:31] aquilo vai funcionar dá um remédio para
+
+[15:33] um grupo de pessoas mas você tem que ter
+
+[15:35] o grupo controle você tem que ter um
+
+[15:37] grupo que toma um Placebo também para
+
+[15:38] comparar o efeito porque na no longo
+
+[15:40] prazo No que diz respeito a uma
+
+[15:42] inflamação todo mundo melhora então a
+
+[15:44] questão não é se o o remédio melhora em
+
+[15:46] quanto tempo se o remédio melhora a
+
+[15:48] inflamação mais rápido do que o ciclo
+
+[15:50] natural do seu sistema imunológico tá
+
+[15:53] que é por exemplo tomar água né alguma
+
+[15:55] coisa assim como é que você testa isso
+
+[15:56] na Indústria Farmacêutica tem um método
+
+[15:59] né de aferir causalidade que é chamado o
+
+[16:01] ensaio Clínico randomizado uhum o ensaio
+
+[16:04] clínico randomizado é basicamente isso
+
+[16:05] um grupo de pessoas toma o efeito né o
+
+[16:08] remédio um grupo não toma e você observa
+
+[16:10] longitudinalmente então o o ensaio
+
+[16:13] Clínico randomizado ele tem dois efeitos
+
+[16:15] ele tem o efeito do remédio um grupo
+
+[16:17] toma o remédio outro grupo não e tem o
+
+[16:19] efeito do tempo que é antes e depois
+
+[16:21] você avalia a pessoa antes e avalia a
+
+[16:23] pessoa depois né então antes a pessoa
+
+[16:25] que tomou o remédio tinha um nível de
+
+[16:27] dor nove e depois do do remédio depois
+
+[16:29] de um dia teve caiu para quatro essa
+
+[16:32] queda é a medida de eficácia do remédio
+
+[16:35] e aí você tem que comparar essa queda
+
+[16:36] com Ah o tomar o Placebo se a pessoa
+
+[16:39] tinha dor nove caiu para oito então você
+
+[16:41] vê que a eficácia do remédio é maior do
+
+[16:43] que a do Placebo Então esse é o estudo
+
+[16:45] aí é um estudo quantitativo onde que tá
+
+[16:47] o problema não tá errado esse é um
+
+[16:49] estudo causal né tal onde que tá o
+
+[16:51] problema a nossa formação eh a nossa
+
+[16:53] educação voltada pro trabalho gera esse
+
+[16:55] tipo de miopia intelectual né que por
+
+[16:59] exemplo se eu sou da área farmacêutica
+
+[17:01] eu conheço o método causal para testar
+
+[17:03] medicamentos que é o ensaio Clínico
+
+[17:04] randomizado que não é usado só para
+
+[17:06] medicamento para várias coisas na área
+
+[17:07] médica em psicologia até e tal A questão
+
+[17:10] é eu chegar na pro Historiador e dizer
+
+[17:13] você não pode aferir causalidade Porque
+
+[17:15] você não sabe usar ensaio Clínico
+
+[17:17] randomizado né na sua área como
+
+[17:19] Historiador aí o historiador Fala mano
+
+[17:21] eu estudo história antiga como é que eu
+
+[17:23] vou saber os caras morreu velho não tem
+
+[17:25] ninguém vivo como é que eu vou pegar os
+
+[17:27] dados você tá tirando de comédia né
+
+[17:30] então assim o grande que é uma asneira
+
+[17:33] Hoje é você pegar o método causal de uma
+
+[17:35] área e aplicar em outra dá para testar
+
+[17:37] causalidade por exemplo em história em
+
+[17:39] economia ah pensa em economia eu quero
+
+[17:41] saber o impacto do aumento do preço do
+
+[17:44] feijão né Aí eu eu vou pegar um um um
+
+[17:47] país aumentar o preço do feijão outro
+
+[17:49] não eu não tenho controle disso como é
+
+[17:51] que eu vou fazer isso a política de
+
+[17:52] preço você você acha que eu vou deixar
+
+[17:54] os produtores de feijão feliz Claro que
+
+[17:55] não né Tipo eu não consigo fazer issso
+
+[17:57] igual um laboratório Sabe igual um
+
+[17:59] ratinho ou um ensaio Clínico não dá para
+
+[18:01] fazer então existem outros métodos
+
+[18:03] causais e a ideia desse Episódio É
+
+[18:05] apresentar esses outros métodos também e
+
+[18:07] isso vale muito para não só pros alunos
+
+[18:09] de pós-graduação de graduação pras
+
+[18:10] pessoas que TM interesse mesmo então
+
+[18:12] você dizer que a causa b a pergunta que
+
+[18:15] você tem que se fazer antes é que método
+
+[18:17] você tá usando que método você tá usando
+
+[18:19] para testar que a causa b a partir desse
+
+[18:22] método eu vou supor a noção de
+
+[18:24] causalidade que você tem e aí eu vejo a
+
+[18:26] validade externa dessa noção de
+
+[18:28] causalidade
+
+[18:29] então por exemplo quando eu vou testar
+
+[18:30] um remédio e uso um ensaio Clínico
+
+[18:32] randomizado Beleza então o método bate
+
+[18:35] com a área então você vai conseguir
+
+[18:37] afirmar se tiver um tamanho de efeito
+
+[18:39] bom tal vai conseguir afirmar que o
+
+[18:40] remédio Tem uma eficácia legal então em
+
+[18:43] média o remédio funciona só que quando
+
+[18:45] você joga no no mercado as no mercado as
+
+[18:49] pessoas usando mesmo o público que usa o
+
+[18:51] remédio coletivamente em geral é muito
+
+[18:55] mais heterogêneo do que o grupo de
+
+[18:57] pessoas que fez o ensaio clínico em
+
+[18:59] geral eles são controlados logo tem uma
+
+[19:01] maior chance de efeito adverso na
+
+[19:03] população e é por isso que você tem que
+
+[19:04] monitorar né Isso é a fase quatro de
+
+[19:06] ensaio clínico é você ficar monitorando
+
+[19:08] no mercado Será que Alguém teve um
+
+[19:10] problema para poder captar esse esse
+
+[19:13] esse eh resíduo de variabilidade né que
+
+[19:16] também ajuda a a tratar a a faz parte do
+
+[19:19] estudo de causalidade tá então falando
+
+[19:23] da dos tipos de causalidade tem uma
+
+[19:24] questão histórica que é muito
+
+[19:26] interessante né no nir Rod a gente fala
+
+[19:28] bastante de causa né Quais são as quatro
+
+[19:29] causas de alguma coisa e tal e tem
+
+[19:31] muitos tem alguns Episódios que são bem
+
+[19:33] bonitinhos assim a gente conseguiu
+
+[19:35] amarrar as quatro causas bonitinho do
+
+[19:37] episódio né um exemplo é um episódio que
+
+[19:39] eu achei bem amarrado ficou bom que é
+
+[19:40] Porque soluçamos é esse episódio Porque
+
+[19:43] soluçamos se quem não ouviu tiver
+
+[19:45] interesse pode ouvir e a gente fala
+
+[19:47] exatamente das quatro causas é material
+
+[19:49] formal eficiente final do soluçar ficou
+
+[19:52] bem amarradinho assim né Tem desde a
+
+[19:53] questão fisiológica e eh anatômica do
+
+[19:57] soluço né Eh até a questão evolutiva do
+
+[20:00] Por que a gente porque que soluçar é
+
+[20:01] adaptativo né Então esse é um episódio
+
+[20:04] que a gente fala das causas só que é um
+
+[20:05] tipo de causao é uma definição de causa
+
+[20:08] que vem do Aristóteles então a a ideia
+
+[20:10] das quatro causas de Aristóteles tem uma
+
+[20:13] definição do que é causa que isso a
+
+[20:15] gente não atacou no episódio sobre as
+
+[20:16] quatro causas de Aristóteles mesmo agora
+
+[20:18] a gente tá ampliando tá por o
+
+[20:20] Aristóteles Então você tem que pensar no
+
+[20:22] contexto dele lá 4000 anos atrás né pro
+
+[20:25] Aristóteles causa era quando a a forma
+
+[20:29] Segue o objetivo do objeto então a a
+
+[20:32] forma daquilo que você tá vendo tem que
+
+[20:34] seguir o objetivo último do objeto tá
+
+[20:38] então por exemplo Qual a causa do olho a
+
+[20:40] causa do olho é para enxergar parece
+
+[20:43] meio idiota então a causa de uma coisa é
+
+[20:45] o uso que você faz dela essa é uma
+
+[20:47] definição de causalidade tá então essa
+
+[20:50] noção causal do Aristóteles a causa é é
+
+[20:53] uma forma que segue o objetivo do objeto
+
+[20:55] né Eh quem quem é da área de biológia
+
+[20:59] e fez assim matéria de bioquímica na
+
+[21:01] primeira aula de bioquímica você ouve
+
+[21:04] sem saber o Aristóteles a noção de causa
+
+[21:06] de Aristóteles porque todo mundo que fez
+
+[21:09] uma matéria uma semana de bioquímica
+
+[21:11] Houve essa frase forma é função forma é
+
+[21:14] função você pega uma molécula Você
+
+[21:17] lembra que acho que você não teve no
+
+[21:18] colégio muita química que você fez
+
+[21:20] Colégio Federal Mas lembra negócio que
+
+[21:21] chamava
+
+[21:23] isomeria Então você tem uma molécula
+
+[21:26] Você tem uma certa molécula dependendo
+
+[21:28] dos ângulos das partes dessa molécula a
+
+[21:31] função dela muda imagina como se fosse
+
+[21:33] uma chave que tem um lado pra direita e
+
+[21:36] uma outra chave que tem um lado pra
+
+[21:37] Esquerda São duas Chaves diferentes
+
+[21:40] Apesar delas serem do mesmo material tá
+
+[21:42] então tem tem moléculas Sis que são
+
+[21:45] giradas para um lado Elas têm uma certa
+
+[21:47] função quando encaixa na na célula e
+
+[21:50] outra a mesma célula é ela é invertida
+
+[21:53] ela tem o bracinho dela por outro lado
+
+[21:54] então quando ela encaixa ela gera uma
+
+[21:56] função diferente na bioquímica a noção
+
+[21:59] de causa da bioquímica é a noção de
+
+[22:01] causa aristotélica forma é função a
+
+[22:04] forma que você tem vai determinar a
+
+[22:05] função que você vai ter é é direto e é
+
+[22:08] Direto e Reto tá teve essa forma vai ter
+
+[22:11] a função e e e isso vale na bioquímica
+
+[22:14] isso vale em vários aspectos da seleção
+
+[22:16] natural né então quando eu falo que o
+
+[22:18] olho serve para enxergar por quê Porque
+
+[22:20] o organismo que enxerga melhor tem mais
+
+[22:22] sucesso reprodutivo passa o gênes dele
+
+[22:24] pra frente aí o olho melhora o olho fica
+
+[22:26] mais adaptado então o olho serve para
+
+[22:28] enxergar e enxergando o olho melhora E
+
+[22:30] aí cria um ciclo tá Então essa é a
+
+[22:32] primeira noção de causa ela é usada hoje
+
+[22:35] em várias áreas do conhecimento né
+
+[22:37] química bioquímica uma partezinha da
+
+[22:40] física biologia evolutiva usa muito essa
+
+[22:42] primeira noção de causa Tá mas é um tipo
+
+[22:45] de causa Tá bom então isso isso durou
+
+[22:47] muito tempo né e e tem fenômenos que não
+
+[22:50] encaixam nessa noção de causa que não dá
+
+[22:52] para testar que forma não é função que
+
+[22:54] não vale Tem tem fenômenos que são assim
+
+[22:57] então assim uma coisa importante um
+
+[22:58] disclaimer desse Episódio é que causa é
+
+[23:01] ligada a um método e uma certa definição
+
+[23:03] de causa não vale Para tudo tem coisas
+
+[23:05] que não não não não entram nessa
+
+[23:08] definição de causa e daí você tem que
+
+[23:09] criar uma outra definição por exemplo
+
+[23:11] Qual a causa do sono por que que a gente
+
+[23:14] dorme sono é uma coisa presente em todos
+
+[23:17] os organismos até bactéria tem algo
+
+[23:19] ligado a sono tem um período de mais
+
+[23:21] atividade e Menor atividade só que é um
+
+[23:23] comportamento tão antigo tão antigo que
+
+[23:25] você não consegue achar a forma inicial
+
+[23:28] que gerou a função você não tem como
+
+[23:30] rastrear sabe não tem como fazer
+
+[23:32] engenharia reversa então tem uma
+
+[23:33] discussão grande qual é a causa última
+
+[23:36] do sono não se sabe não se sabe tem
+
+[23:38] hipóteses né Então essa noção de causa
+
+[23:40] do Aristóteles não vale por exemplo pro
+
+[23:42] fenômeno do sono por exemplo tá então
+
+[23:45] por consciência consciência da onde
+
+[23:47] emerge a consciência humana né como é
+
+[23:49] que você faz a engenharia reversa para
+
+[23:51] achar a a forma que deu origem a função
+
+[23:54] da consciência não dá para fazer isso tá
+
+[23:56] então o o para estudar molécula para
+
+[23:59] estudar pressão seletiva evolutiva a a
+
+[24:03] noção de causa do Aristóteles funciona
+
+[24:05] mas tem várias coisas que não funcionam
+
+[24:07] e não dá tá só que aí a gente tá 2000
+
+[24:09] anos atrás né aí a coisa foi avançando
+
+[24:11] né Então tinha lá discussões sobre causa
+
+[24:13] tal tal tal chegou descart descart 1700
+
+[24:16] quebrado né ele ele deu uma outra noção
+
+[24:19] de causalidade do discurso do método ele
+
+[24:21] fala assim ó tudo bem obrigado
+
+[24:23] Aristóteles né então tem áreas que já
+
+[24:25] são resolvidas por você vão dar avançada
+
+[24:27] né E aí ele coloca uma outra a noção de
+
+[24:28] causa a noção de causa do descart a
+
+[24:31] ideia dele é que você tem que ser capaz
+
+[24:34] de explicar um fenômeno por meio de um
+
+[24:36] objeto físico e ele dá um nome disso de
+
+[24:39] naturalismo tá por exemplo a ideia do
+
+[24:42] descart era assim eu quero estudar um
+
+[24:44] fenômeno para eu conseguir estudar esse
+
+[24:46] fenômeno lembra muito do que você falou
+
+[24:47] kem eu tenho que pegar esse fenômeno e
+
+[24:48] decompor em partes menores eu vou
+
+[24:50] decompor esse esse fenômeno Sei lá eu eu
+
+[24:53] eu quero estudar a fisiologia do seu
+
+[24:54] braço eu quero saber por que seu braço
+
+[24:56] dobra né aí o eu vejo o seu braço
+
+[24:59] dobrando mas aí eu tenho que quebrar a
+
+[25:00] fisiologia do braço em partes menores o
+
+[25:02] osso o músculo o tendão né a a a a
+
+[25:06] substâncias tudo né então você pega um
+
+[25:08] fenômeno complexo diminui divide em
+
+[25:11] pedacinhos e vai estudando cada
+
+[25:13] pedacinho então cada pedacinho contribui
+
+[25:15] com um pedacinho de causalidade uhum tá
+
+[25:18] então então por exemplo você ter um osso
+
+[25:20] no braço é necessário para você mexer o
+
+[25:22] braço mas não é suficiente se você só
+
+[25:24] tiver o osso não adianta tem que ter o
+
+[25:26] músculo tem que ter o tendão tem que ter
+
+[25:27] tudo tá tá então essa noção do do do
+
+[25:29] descart você só consegue explicar
+
+[25:32] causalmente de forma causal certos
+
+[25:34] fenômenos se você conseguir decompor ele
+
+[25:37] em partes menores tá então ele avançou
+
+[25:40] um pouco a discussão do do Aristóteles
+
+[25:42] ele fala não porque o Aristóteles falava
+
+[25:44] ah forma é função se não tem forma eu
+
+[25:46] não sei a função não dá para aferir
+
+[25:48] causalidade o decat falou não tem umas
+
+[25:51] coisas complexas por exemplo circulação
+
+[25:52] e e tipo qual que é como que funciona o
+
+[25:55] sistema circulatório dentro do organismo
+
+[25:58] você tem que olhar os pedaços né olha a
+
+[26:00] veia Olha a artéria olha o coração vai
+
+[26:02] vendo tal e aí você vai criando pequenos
+
+[26:04] pedacinhos de causalidade até testar o
+
+[26:06] fenômeno né então o descart ele ele
+
+[26:09] inaugura né um dos inauguradores dessa
+
+[26:11] ideia da ciência experimental você testa
+
+[26:14] fenômenos de forma causal por meio de
+
+[26:16] uma série de experimentos Uhum você vai
+
+[26:18] fazendo vários experimentos testando
+
+[26:20] pedacinhos e no final da junção desses
+
+[26:22] experimentos Você tem uma assertiva
+
+[26:24] causal final a CC a circulação funciona
+
+[26:27] desse jeito por causa dessas coisas
+
+[26:30] sendo que é o resultado de cada um dos
+
+[26:32] experimentos o modelo causal do descart
+
+[26:34] ele existe hoje nas biológicas em
+
+[26:37] abundância biologia molecular eh
+
+[26:40] genética e pesquisa clínica mesmo né o
+
+[26:44] decart não falava do estudo com teste
+
+[26:46] Cego Tá ele ele não não mostrava disso
+
+[26:49] ele estudava coisas mais fisiológicas e
+
+[26:51] o modelo do decart vale muito para
+
+[26:53] engenharia então por exemplo eu vou
+
+[26:54] construir um prédio Aí tem um pilar como
+
+[26:57] é que eu sei se esse Pilar vai aguentar
+
+[26:59] o peso você tem que fazer um experimento
+
+[27:00] menor Então você pega o Pilarzinho menor
+
+[27:03] uma dimensão menor Coloca ele sobre
+
+[27:05] teste de força de Cis alento você faz
+
+[27:07] vários experimentos com os pilares com o
+
+[27:10] mesmo material e aí você vai ter uma
+
+[27:11] ideia de que quando você fizer o prédio
+
+[27:13] grande a a chance dele sofrer um um um
+
+[27:18] uma queda é menor um um rompimento
+
+[27:20] alguma coisa do tipo tá então toda essa
+
+[27:22] área da engenharia engenharia básica
+
+[27:24] engenharia civil né engenharia mecânica
+
+[27:27] mais a parte da das biológicas vem é
+
+[27:30] inspirado pelo método causal do descart
+
+[27:32] pega um fenômeno complexo divide em
+
+[27:34] pedaços e vai testando cada pedacinho e
+
+[27:36] vai vai fazendo pequenas afirmações
+
+[27:37] causais até no final você tem uma grande
+
+[27:39] assertiva o próprio descart criticava
+
+[27:42] ele mesmo ele falava ó a minha teoria de
+
+[27:44] causalidade ela funciona mas tem um
+
+[27:46] limite Qual que é o limite Tem coisas
+
+[27:49] que não dá para dividir em partes
+
+[27:50] menores não dá para descrever o
+
+[27:52] mecanismo aí ele dava um exemplo da
+
+[27:54] memória como é que você vai decompor
+
+[27:55] memória tipo né quem tipo eu quero
+
+[27:58] estudar sua memória tudo bem tem o seu
+
+[28:00] cérebro tem os neurotransmissores mas
+
+[28:02] tem tem o fenômeno da memória que é você
+
+[28:05] lembrar e na época não existia
+
+[28:06] psicologia então ele não ele falava ó a
+
+[28:09] minha a minha coisa serve para descrever
+
+[28:11] mecanismos mecanismos mecanismos
+
+[28:13] fisiológicos mecanismos físicos legal tá
+
+[28:16] mas coisas mais fenomenológicas já não
+
+[28:19] serve o próprio decat foi muito honesto
+
+[28:21] com ele mesmo falou ó eu chego até aqui
+
+[28:23] vou morrer daqui a pouco e passa pra
+
+[28:25] frente a a bucha agora de vocês né Muito
+
+[28:27] legal você diz que fenômenos psíquicos
+
+[28:30] por exemplo já é mais difícil de isso
+
+[28:33] não dá para usar esse modelo ã né porque
+
+[28:35] você como é que você descreve no
+
+[28:36] mecanismo Por que uma pessoa ficou
+
+[28:38] triste por exemplo difícil de de difícil
+
+[28:42] de de comprovar causalidade né é exato
+
+[28:45] Então você consegue quebrar em algumas
+
+[28:46] partes tem lá o neurotransmissor tem o
+
+[28:48] cérebro mas chega uma uma parte que não
+
+[28:50] pega então você não decompõe o mecanismo
+
+[28:52] completo Beleza não tem problema ótimo
+
+[28:55] aí chegamos século XX né então chegamos
+
+[28:58] no século XX apareceu um rapaz eu não
+
+[29:00] sei se vocês você fazia é que a sua área
+
+[29:03] é é humanas é é humanas Caviar né a sua
+
+[29:05] área publicidade é humas caviar né é
+
+[29:08] humanas de bermuda né com as camisetas
+
+[29:10] Florida uns negócio assim né unas uns
+
+[29:12] negócios né mas tipo o povo povo
+
+[29:14] mundrunga mesmo sociais né e e em geral
+
+[29:18] eu vou fazer troça porque o sociais o
+
+[29:20] povo que faz sociologia não estuda tá
+
+[29:22] que é aquela coisa sabe quando você vai
+
+[29:23] conversar com alguém que não não entende
+
+[29:25] nada de método quantitativo e fala seu
+
+[29:26] positivista né e como se fosse
+
+[29:28] xingamento né É por causa de um cara tá
+
+[29:31] o o xingamento surgiu por causa desse
+
+[29:32] cara porque ele foi zoado ele ele ele
+
+[29:34] foi muito exagerado ele foi muito tiita
+
+[29:35] que é o Carl hempfield o Carl hempfield
+
+[29:37] começo final do século XIX começo do XX
+
+[29:39] ele veio com uma ideia que é o
+
+[29:40] positivismo lógico que é um tipo de
+
+[29:42] causalidade também tá hoje não vale nada
+
+[29:45] do que ele fala vale mas ele foi
+
+[29:47] importante porque ele fez uma certa
+
+[29:49] bagunça e a crítica ele gerou uma
+
+[29:52] revolução então sabe o cara chato
+
+[29:54] ninguém dá razão pro cara mas o cara é
+
+[29:56] tão chato que faz os outros pensarem E
+
+[29:58] aí gera uma mudança ele tem uma
+
+[30:00] importância tá o c rfil entre o 19 e o
+
+[30:02] 20 século X e 20 Ele propôs o modelo
+
+[30:04] dedutivo nomológico que é basicamente o
+
+[30:07] princípio da verificação que não tem
+
+[30:09] nada a ver com o Popper o Popper é o
+
+[30:11] princípio do falseamento ele quer
+
+[30:13] falsear uma afirmação o k hampel não ele
+
+[30:16] quer verificar tá E aí o o o hampel era
+
+[30:19] muito tiita ele falava assim afirmações
+
+[30:21] causais são apenas aquelas que podem ser
+
+[30:24] empiricamente verificáveis tudo aquilo
+
+[30:26] que não é empiricamente ável não é causa
+
+[30:29] não dá para falar e aí ele já dava uma
+
+[30:31] paulada em antropologia uma parte da
+
+[30:33] sociologia uma briga louca né aí o povo
+
+[30:36] Claro foi brigar com ele mas ele tinha
+
+[30:38] um ponto A Crítica dele foi importante
+
+[30:40] por no final do século XIX era uma
+
+[30:43] bagunça A causalidade então ele ele
+
+[30:45] falou não eu vou fazer o que é
+
+[30:47] causalidade de verdade o resto que se
+
+[30:49] lasque sabe ele ele ele quis ter certeza
+
+[30:51] de algumas coisas então assim
+
+[30:53] causalidade é aquilo que é empiricamente
+
+[30:54] verificável e é a relação entre
+
+[30:57] circunstâncias e e regras né
+
+[30:59] circunstâncias e leis na verdade ele
+
+[31:01] falava assim que causalidade é apenas as
+
+[31:04] leis naturais então por exemplo
+
+[31:06] gravidade a as leis de Newton física tá
+
+[31:09] física eh pega a terceira lei de Newton
+
+[31:11] né que é aquela da gravitação então a f
+
+[31:14] igual a constante da gravidade vezes M1
+
+[31:16] vezes e M1 x m2 dividido pela distância
+
+[31:19] ao quadrado a terceira lei de Newton ele
+
+[31:22] chama de lei é uma lei né Ela é a é a
+
+[31:25] descrição de um fenômeno físico da
+
+[31:27] gravidade por exemplo então a relação
+
+[31:30] entre dois objetos causa um efeito e
+
+[31:33] esse efeito é a gravidade como é que eu
+
+[31:35] verifico isso então eu tenho que fazer
+
+[31:37] uma verificação desse fenômeno natural
+
+[31:39] que eu tô vendo toda vez que eu vejo um
+
+[31:41] objeto um planeta ele tem gera uma
+
+[31:43] relação com outro gravitacional né E
+
+[31:46] isso eu tô vendo tá essa é a
+
+[31:47] circunstância eu vejo a relação de dois
+
+[31:50] objetos Essa é a circunstância a partir
+
+[31:52] da circunstância empiricamente observada
+
+[31:54] porque eu meço e tal eu quero criar uma
+
+[31:56] lei né e E aí você cria lá por por
+
+[31:59] experimento né tal vai medindo medindo
+
+[32:00] medindo E cria uma equação por exemplo a
+
+[32:02] terceira lei de Newton então a terceira
+
+[32:04] lei de Newton é uma verificação do
+
+[32:06] fenômeno logo ele é causal se eu consigo
+
+[32:09] uma equação que descreve o fenômeno o
+
+[32:11] fenômeno é causal
+
+[32:13] hum Então essa é a pegada hoje do Povo
+
+[32:15] de exatas o o exatas raiz raiz mesmo
+
+[32:19] sabe pesquisa operacional tem chegar
+
+[32:20] numa equação tem que chegar num equação
+
+[32:22] se não chegar na equação não é causal
+
+[32:24] não tem a lei não tem a circunstância é
+
+[32:26] radical isso
+
+[32:28] então é então ele já né então
+
+[32:30] antropologia é abraçar árvore não tem
+
+[32:33] nada a ver né é psicanálise que
+
+[32:35] psicanálise psicanálise isso aí não é
+
+[32:36] [ __ ] nenhuma né E aí Claro que todo
+
+[32:38] mundo bateu nele inclusive o Popper o
+
+[32:40] próprio Popper não não é assim também né
+
+[32:42] sabe mas ele foi importante ele tem uma
+
+[32:45] importância que assim ele era tão chato
+
+[32:47] que a galera de Fora começou a pensar
+
+[32:49] Poxa mas tudo bem sabe o cara chato que
+
+[32:51] tem razão ele tem razão pras coisas que
+
+[32:53] ele fala ele fala ó tô mostrando o
+
+[32:55] método para testar causalidade agora
+
+[32:58] olha para você e vê se você consegue aí
+
+[32:59] o povo ficou mordido porque p agora eu
+
+[33:02] quero eu vou vou desmentir ele vou
+
+[33:04] mostrar que o meu negócio é causal aí
+
+[33:06] não conseguia sabe não conseguia percebe
+
+[33:09] a importância do cara chato né teve essa
+
+[33:11] importância mesmo tá e obviamente
+
+[33:14] causalidade não dá para não não é só
+
+[33:16] relacionada a coisas empiricamente
+
+[33:18] verificáveis não não é só isso Tá Mas
+
+[33:20] isso é muito comum nas aulas nas áreas
+
+[33:22] de exatas nas áreas de exatas você né
+
+[33:25] até otimização pesquisa oper ional ou
+
+[33:29] métodos matemáticos métodos numéricos
+
+[33:31] você sempre vai chegar numa aproximação
+
+[33:32] por meio de uma equação e é um é um
+
+[33:35] método de verificação tá quando eu
+
+[33:37] desenvolvo uma equação relacionado com a
+
+[33:38] resistência de um material isso é usado
+
+[33:41] para construir coisa você tá verificando
+
+[33:42] né é importante também é um outro tipo
+
+[33:45] de causalidade restrita a algumas áreas
+
+[33:47] do conhecimento Então essa esse
+
+[33:49] histórico todo é para mostrar que
+
+[33:52] existem causalidades e cada noção de
+
+[33:54] causalidade vai se completando uma
+
+[33:56] completa o buraco da outra né tem o
+
+[33:59] Aristóteles lá forma é função beleza
+
+[34:01] povo da bioquímica Obrigado né a gente
+
+[34:03] fica por aqui descart falou não a gente
+
+[34:06] consegue estabelecer relação causal
+
+[34:07] entre mecanismos se a gente consegue
+
+[34:09] decompor o mecanismo em partes menores
+
+[34:11] estuda cada uma das partes eí junta
+
+[34:13] beleza né inclusive esse modelo do
+
+[34:15] descart ele ele deu origem à ideia do
+
+[34:18] Frankenstein na na cultura surgiu a
+
+[34:20] ideia por o Frankenstein uma máquina de
+
+[34:22] máquinas né ele ele é exatamente a prova
+
+[34:25] causal do descart E aí e é uma crítica
+
+[34:28] também o próprio decart não não a
+
+[34:30] criítica ao Frankenstein mas é a própria
+
+[34:31] crítica porque assim se você imaginar
+
+[34:33] que o homem é uma máquina de máquinas
+
+[34:35] Então você você quem é o seu cérebro seu
+
+[34:37] coração tal você são as suas partes e se
+
+[34:40] eu fizer uma uma réplica das suas partes
+
+[34:43] e juntar vai ficar esquisito é igual o
+
+[34:45] Frankenstein fica esquisito falta alguma
+
+[34:47] coisa né ou seja Tem uma parte não
+
+[34:49] mensurável diretamente Ali pela pela
+
+[34:52] pelos mecanismos que você tá vendo Então
+
+[34:54] o k foi mais rigoroso ainda né nessa
+
+[34:57] coisa empiricamente e tal a critica a
+
+[34:59] ele foi uma coisa importante várias uma
+
+[35:01] galera criticou ele né o Popper foi um
+
+[35:03] mas teve um cara que criticou de um
+
+[35:05] jeito legal já era século XX E aí é uma
+
+[35:07] coisa muito importante já era século XX
+
+[35:09] o Hans reichenbach pesquisador um um um
+
+[35:13] sociólogo filósofo da ciência ele falou
+
+[35:15] velho não né não é assim mas ele o Hans
+
+[35:18] hasbach ele ele fez um negócio legal que
+
+[35:21] ele observou bem o tempo de vida dele o
+
+[35:23] que tava acontecendo ali no tempo de
+
+[35:24] vida dele tá eu não sei se eu já te
+
+[35:26] falei isso que eu acho que e nenhum
+
+[35:28] episódio eu falei isso mas quando que
+
+[35:30] você acha que surgiu a definição do que
+
+[35:31] é probabilidade esse esse conceito
+
+[35:34] probabilidade você acha que surgiu
+
+[35:35] quando o conceito matemático não é
+
+[35:37] chance chance é diferente probabilidade
+
+[35:39] Você tem uma ideia tem tipo 500 anos que
+
+[35:42] existe probabilidade você acha né nessa
+
+[35:43] escala de tempo uns 500 anos acho que
+
+[35:46] até mais sabe quando probabilidade foi
+
+[35:48] definido matematicamente
+
+[35:51] 1906 1906 meu Deus foi ontem foi ontem
+
+[35:55] na Rússia né o o kog morov kog morov foi
+
+[35:58] um cara que definiu matematicamente as
+
+[36:00] leis básicas da probabilidade né
+
+[36:02] probabilidade uma Tríade onde você tem
+
+[36:04] um espaço de eventos uma Sigma álgebra e
+
+[36:06] uma função de probabilidade ele definiu
+
+[36:08] o que é um objeto probabilidade 1906 tá
+
+[36:11] k hamp via um pouco antes o hasbach já
+
+[36:14] tava depois do século XX mais pra frente
+
+[36:17] então ele ele a sacada que ele fez para
+
+[36:19] quebrar o rfi também e e avançar essa
+
+[36:21] noção de causalidade ele ele descreveu
+
+[36:24] assim vou resumir bastante ó o problema
+
+[36:26] é o seguinte existem coisas que são de
+
+[36:28] fato causais que são coisas físicas
+
+[36:30] coisas químicas biológicas e tal né Por
+
+[36:33] quê Porque ele criou esse conceito
+
+[36:35] Fantástico que é causalidade estrita a
+
+[36:38] causalidade estrita é tipo a gravidade
+
+[36:40] você pode ser o maior negacionista do
+
+[36:41] mundo ah eu não acredito na gravidade
+
+[36:43] Você joga da janela a realidade se impõe
+
+[36:46] você vai virar mingal tá não tem jeito
+
+[36:48] tá bom não tem não importa quão
+
+[36:50] onipotente você seja você ache a a a né
+
+[36:53] Por quê Porque é uma causa estrita Toda
+
+[36:55] vez você joga o objeto da janela ele vai
+
+[36:57] cair não vai ter uma chance que ele vai
+
+[36:58] cai para cima não vai ter tá isso é
+
+[37:00] chamado causalidade estrita E aí Ele
+
+[37:03] propôs um conceito graças à ideia de
+
+[37:05] probabilidade que existe a causalidade
+
+[37:08] regular existem isso isso é uma coisa de
+
+[37:11] 1940 tá que é hoje à tarde também
+
+[37:13] pensando cientificamente tá existem
+
+[37:16] coisas que acontecem não sempre mas por
+
+[37:19] regularidade ou seja são coisas que
+
+[37:21] aumentam a probabilidade de outra coisa
+
+[37:23] acontecer então por exemplo quem Ó você
+
+[37:26] gosta de frango Sei lá tá eu quero saber
+
+[37:29] causalmente se você gosta de frango para
+
+[37:32] eu saber isso pensando na noção de
+
+[37:34] causalidade estrita você tinha que comer
+
+[37:36] frango todo dia você não podia comer
+
+[37:37] outra coisa a causa do gostar de comida
+
+[37:40] do quem é o frango então ele tem que
+
+[37:41] comer todo dia igual a gravidade tem que
+
+[37:43] acontecer toda vez a partir do século XX
+
+[37:45] surgiu a noção de regularidade então
+
+[37:47] você não precisa comer frango todo dia
+
+[37:49] mas você pode comer 40% das vezes mais
+
+[37:52] do que qualquer outra coisa aí a noção
+
+[37:54] de probabilidade ajuda então a noção de
+
+[37:57] caus modna dependeu do surgimento da
+
+[37:59] noção de probabilidade porque surge a
+
+[38:01] noção de causalidade regular e aí outras
+
+[38:04] áreas entram aí a sociologia vira entra
+
+[38:06] na ciência dá tem método a economia a
+
+[38:09] antropologia Tudo começa a entrar né É
+
+[38:12] fantástico fantástico dependendo da
+
+[38:15] noção de probabilidade né é um negócio
+
+[38:17] [ __ ] né [ __ ] ou seja quanto mais longe
+
+[38:20] da ciência
+
+[38:22] exata mais regular são as relações m boa
+
+[38:25] observa
+
+[38:27] ante das ciências exatas os fenômenos
+
+[38:29] estudados são mais regulares e menos
+
+[38:31] estritos Daí depende de outro método
+
+[38:33] Então você Babaca de exatas coió né que
+
+[38:37] fica falando Ah mas essas coisas aí é
+
+[38:39] muito simbólico Claro que tem a a a por
+
+[38:42] exemplo eu falo da minha área a
+
+[38:43] psicologia mal feita subjetividade
+
+[38:45] subjetivante da subjetivação dá vontade
+
+[38:46] de dar um tapa mesmo a camaçada de pau
+
+[38:48] tá mas existe muita ciência psicológica
+
+[38:51] pena que não tá na universidade mas
+
+[38:52] existe muita ciência psicológica que
+
+[38:54] utiliza métodos para estudar fenômenos
+
+[38:56] que tem causalidade eh regular e não
+
+[38:59] estrita né um um desses métodos é por
+
+[39:02] exemplo E aí agora a gente entra
+
+[39:04] finalmente para acabar o episódio na
+
+[39:05] definição moderna de causalidade né
+
+[39:08] nesse caminho a definição mais inclusiva
+
+[39:11] de causalidade né não é que eu tô
+
+[39:12] jogando as outras Fora as outras se
+
+[39:14] aplicam a algumas áreas do conhecimento
+
+[39:16] tá hoje a noção de causalidade regular
+
+[39:19] Ela diz que por exemplo causalidade tem
+
+[39:21] que ter três aspectos tem que ter
+
+[39:23] direcionalidade né a causa B O a tem que
+
+[39:26] vir antes tem que ter a direção a
+
+[39:28] direcionalidade leva temporalidade Então
+
+[39:30] tem que ter um tempo Ah tem que
+
+[39:32] acontecer antes né e eh direcionalidade
+
+[39:34] temporalidade é relacionado E
+
+[39:36] reprodutibilidade então você tem que um
+
+[39:38] dia ver que a aconteceu a gerou B no
+
+[39:40] outro dia você tem que voltar a não
+
+[39:42] gerou B tudo bem Mas no terceiro dia tem
+
+[39:44] que acontecer tem que ter a regularidade
+
+[39:46] né a cada 100 vezes que você vê a
+
+[39:48] relação de a com B em quantas teve essa
+
+[39:51] relação de fato causal tem a
+
+[39:53] regularidade também tá E aí a gente
+
+[39:55] entra numa parte importante que é o o o
+
+[39:57] o o erro do Povo da classe médica e
+
+[39:59] principalmente epidemologia E aí dá para
+
+[40:02] mostrar com um exemplo muita gente
+
+[40:04] principalmente epidemiologista mais
+
+[40:06] antigo ou ou pesquisador da área médica
+
+[40:08] da área Clínica mais antigo assim tem
+
+[40:10] essa premissa é escrita em livro hoje
+
+[40:12] ainda né que você só pode inferir
+
+[40:14] causalidade por meio de estudos
+
+[40:16] longitudinais longitudinais eu tenho que
+
+[40:19] olhar você quem hoje e você Daqui a uma
+
+[40:20] semana e ver o efeito né para ver o
+
+[40:23] efeito causal você tem que fazer um
+
+[40:24] estudo longitudinal até o até mais menos
+
+[40:27] os anos 1950 não até 1980 era fazia
+
+[40:31] sentido apenas estudos de cortte
+
+[40:33] longitudinais dava para inferir
+
+[40:35] direcionalidade e temporalidade né
+
+[40:37] quando eu for fazer por exemplo eu quero
+
+[40:39] ver a a associação entre fumar e câncer
+
+[40:42] de pulmão como é que eu testo
+
+[40:44] causalidade eu pego Dois grupos de
+
+[40:45] pessoas um grupo fuma e o grupo não
+
+[40:48] então os dois grupos foram expostos um
+
+[40:49] grupo é exposto ao cigarro e o outro Não
+
+[40:51] no momento zero tá todo mundo pronto vai
+
+[40:54] viver sua vida nenhum deles está com
+
+[40:55] câncer no momento zero um tá com câncer
+
+[40:58] e aí eu pego os dois grupos vai lá viver
+
+[41:00] sua vida vou te acompanhando e a ideia é
+
+[41:02] ver ao longo do tempo a incidência de
+
+[41:05] Câncer em cada um dos grupos ver a
+
+[41:08] velocidade de infecção a velocidade de
+
+[41:10] aparecimento da doença isso é chamado
+
+[41:12] incidência você vai verificar a
+
+[41:13] incidência de pessoas com câncer em Quem
+
+[41:16] fuma e quem não fuma e comparar isso e
+
+[41:19] ver onde tem mais se se você tiver três
+
+[41:21] vezes mais pessoas com câncer em Quem
+
+[41:24] fuma em relação a quem não fuma a
+
+[41:26] incidência vezes maior Isso é uma medida
+
+[41:28] de causalidade beleza só que E aí é uma
+
+[41:31] coisa final do episódio dá para inferir
+
+[41:34] causalidade em estudo transversal eu não
+
+[41:37] preciso ver ao longo do tempo dá para
+
+[41:38] ver em estudo transversal também aí o
+
+[41:41] povo da epidemiologia meu Deus que
+
+[41:42] mentira que que pecado que que vai ser
+
+[41:46] queimado aí tem um livro deixamos um
+
+[41:48] livro na descrição muito bom eu dou aula
+
+[41:50] disso inclusive né muito usado em
+
+[41:51] economia computação enfim né que chama
+
+[41:54] causality inclusive é um modelo bem
+
+[41:56] moderno de causalidade que é baseado em
+
+[41:58] um método chamado Dag gráficos acíclicos
+
+[42:01] diretos você monta uma rede causal E aí
+
+[42:04] você testa a a qualidade dessa rede
+
+[42:06] causal é bem complicado mas eu vou dar
+
+[42:08] um exemplo de como você consegue testar
+
+[42:10] causalidade num estudo transversal então
+
+[42:12] eu não preciso ver você ao longo do
+
+[42:14] tempo Ken para ver a coisa acontecendo
+
+[42:16] Eu posso ver você uma vez tá E e a
+
+[42:19] sacada que o judea Pearl deu é
+
+[42:21] fantástica que ele fala o seguinte é
+
+[42:23] possível testar causalidade se você
+
+[42:25] tiver uma rede baseada no conceito de
+
+[42:27] probabilidade condicional que isso eu
+
+[42:30] sei que você lembra do nome você não
+
+[42:31] lembra muito bem o que é mas tá no seu
+
+[42:33] hipocampo esse nome esse significante tá
+
+[42:35] aí tá então o que que é uma
+
+[42:37] probabilidade condicional é a
+
+[42:39] probabilidade de um evento dado que
+
+[42:41] aconteceu outro então por exemplo qual a
+
+[42:43] probabilidade do Corinthians ganhar o
+
+[42:45] jogo dado que choveu tem dois eventos né
+
+[42:48] só que para você então a probabilidade
+
+[42:50] de Corinthians barra choveu Você
+
+[42:52] concorda comigo que para você avaliar
+
+[42:54] essa probabilidade tem que ter chovido
+
+[42:56] antes do Corinthians jogar
+
+[42:57] sim Você concorda então probabilidade a
+
+[42:59] dado b o b tem que acontecer antes ou
+
+[43:02] seja você já tá atacando a temporalidade
+
+[43:04] Quando você estuda a probabilidade
+
+[43:06] condicional você já tá atacando a
+
+[43:07] temporalidade e já tá atacando a
+
+[43:09] direcionalidade ao mesmo tempo a única
+
+[43:12] coisa que você tem que testar é
+
+[43:13] reprodutibilidade i Mas aí você faz no
+
+[43:15] experimento né então com com esse método
+
+[43:18] é totalmente possível testar causalidade
+
+[43:20] em estudos transversais não precisa do
+
+[43:22] longitudinal que é mais caro né é mais
+
+[43:24] caro Às vezes você perde as pessoas ah
+
+[43:26] por por exemplo eu quero fazer um estudo
+
+[43:28] de efetividade da propaganda não dá para
+
+[43:30] mostrar uma vez eu tenho que ver ao
+
+[43:32] longo do tempo ao longo dos dias e vou
+
+[43:34] vendo lá o consumo de cerveja né para
+
+[43:36] fazer um gráfico e depois vai excluindo
+
+[43:38] outros efeitos tem que fazer
+
+[43:39] longitudinalmente mas se você não tiver
+
+[43:41] se só tiver uma medida se você tiver uma
+
+[43:43] boa hipótese teórica e fazer uma rede
+
+[43:45] causal dá para testar com uma vez só com
+
+[43:48] uma vez só verificar a causalidade da
+
+[43:50] propaganda dá também tá será que você
+
+[43:53] vai ganhar outro prêmio hein que he
+
+[43:54] Tomara que não né esses prêmio aí não
+
+[43:56] importa tô indo atrás viu isso muito bem
+
+[44:00] muito bem mas tô cantando uma pedra tá
+
+[44:02] tô cantando uma pedra é um método que a
+
+[44:03] gente hoje em dia eu uso muito em
+
+[44:05] algumas pesquisas assim sobretudo em
+
+[44:07] ambientes complexos né então por exemplo
+
+[44:10] tem muito estudo em epidemologia que usa
+
+[44:11] Dag eh eu por exemplo tem um trabalho na
+
+[44:13] Holanda em que você monitora
+
+[44:15] adolescentes para verificar risco de
+
+[44:18] doenças mentais E aí você tem que ter
+
+[44:20] uma hipótese teórica de como os
+
+[44:22] comportamentos se relacionam com
+
+[44:24] sintomas gerando a doença mental então
+
+[44:26] tem uma hipótese tem teórica tem uma
+
+[44:27] rede causal antes e aí você vai
+
+[44:30] entrevistando os adolescentes e
+
+[44:32] coletando dados por meio de aplicativo E
+
+[44:34] aí você vai testando a qualidade causal
+
+[44:36] dessa rede né ao longo do tempo e aí
+
+[44:38] você consegue identificar a a qualidade
+
+[44:40] causal para cada indivíduo ao longo do
+
+[44:42] tempo também então você vê indivíduos
+
+[44:44] que tem uma maior predisposição a ter um
+
+[44:46] desfecho de doença antes dele
+
+[44:48] desenvolver E aí você já trabalha com
+
+[44:50] ele os estudos causais hoje tem uma
+
+[44:52] importância muito grande nesse sentido
+
+[44:53] de prevenção sobretudo em saúde pública
+
+[44:55] em coisas do tipo dá para epidemiologia
+
+[44:58] não não para você indivíduo mas para
+
+[45:00] públicos grandes contingentes tem tem um
+
+[45:03] impacto muito grande né é uma coisa que
+
+[45:05] devia estar mais aqui no na na linha de
+
+[45:07] pesquisa do Ministério da Saúde coisas
+
+[45:08] do tipo dúvida é mas em alguns países
+
+[45:11] por exemplo a Holanda tem um um time
+
+[45:13] focado em pesquisa causal né a
+
+[45:15] Universidade de Aren heim é muito
+
+[45:17] especializada nisso e é muito legal eles
+
+[45:21] pega um grupo pequeno de pequeno assim
+
+[45:22] 1000 adolescentes vão monitorando vê o
+
+[45:25] impacto e melhora a qualidade de vida
+
+[45:27] desses adolescentes muito assim porque
+
+[45:28] ele você começa a melhorar nas variáveis
+
+[45:30] da rede causal dele antes dele
+
+[45:32] desenvolver de fato o problema
+
+[45:33] psiquiátrico ou se envolver com algum
+
+[45:35] problema é muito ligado a um aspecto da
+
+[45:38] teoria de jogos tem uma uma frase da
+
+[45:40] teoria de jogos eu não sei se foi do vão
+
+[45:42] Newman é uma frase da teoria de jogos
+
+[45:43] que eu gosto muito assim que teoria de
+
+[45:45] jogos não conversa com você conversa com
+
+[45:48] os agentes da população toda né então a
+
+[45:51] teoria dos jogos não serve para dizer o
+
+[45:52] que você deve fazer ela só descreve o
+
+[45:55] que vai acontecer essa uma frase muito
+
+[45:57] poderosa então eh tipo você quando você
+
+[46:00] toma suas decisões quem você não sabe o
+
+[46:02] que o outro tá tomando as as decisões
+
+[46:04] que o outro toma você não sabe você não
+
+[46:05] tem você tem acesso às hipóteses o que
+
+[46:07] que ele deve estar fazendo mas a teoria
+
+[46:09] dos jogos mexe de longe com todo mundo
+
+[46:12] né ela serve para descrever o que vai
+
+[46:14] acontecer não o que você deve fazer você
+
+[46:16] faz o que você quiser já tá tudo meio
+
+[46:18] que descrito na rede né assim é tema por
+
+[46:21] outro Episódio Mas é uma paulada
+
+[46:23] razoável na ideia de livre arbítrio
+
+[46:25] também tá é uma palavra né então uma
+
+[46:28] grande discussão que se tem nessa coisa
+
+[46:29] de causalidade modelos modernos de
+
+[46:31] causalidade é que a causalidade hoje dos
+
+[46:34] fenômenos históricos sociais e até de
+
+[46:37] fenômenos psicológicos são causalidades
+
+[46:40] regulares não é causalidade estrita
+
+[46:42] causalidade estrita é física química uma
+
+[46:45] parte da biologia coisas do tipo Então
+
+[46:47] você tem que adequar o método a cada
+
+[46:49] tipo de causalidade que você tem né E aí
+
+[46:52] o que que seria uma ciência baseada em
+
+[46:54] evidência a ciência baseada em evidência
+
+[46:57] não é baseada em evidência é baseada No
+
+[46:58] método quanto mais métodos diferentes
+
+[47:01] você conhecer mais evidências diferentes
+
+[47:03] você gera E aí você tem uma uma
+
+[47:05] compreensão mais integrativa dos
+
+[47:06] fenômenos se você fizer uma medicina
+
+[47:09] baseada em evidência uma psicologia
+
+[47:11] baseada em evidência qualquer coisa
+
+[47:12] baseada em evidência na verdade você
+
+[47:13] está defendendo a igreja de um método e
+
+[47:17] falando que tudo aquilo que não usa o
+
+[47:18] meu método é lixo tá tudo errado né
+
+[47:21] então A ideia é que você acabe com essa
+
+[47:24] maldita diferença de novo de exatas
+
+[47:25] humanas biológicas e o cara lá nerdola
+
+[47:29] de exatas tem que aprender a estudar
+
+[47:31] métodos de causalidade e regular e não
+
+[47:34] estrita né E o povo muito na Master ter
+
+[47:37] gratidão tem que também estudar um pouco
+
+[47:38] da parte exata entender os métodos
+
+[47:40] incorporar diferentes níveis de
+
+[47:42] causalidade para você entender e dar
+
+[47:43] conta da complexidade do ambiente como
+
+[47:45] ele é de verdade né e não ficar só preso
+
+[47:47] a certas crenças reducionistas isso tem
+
+[47:49] a ver com o trabalho do planejador aham
+
+[47:51] o diferente do criativo atendimento eu
+
+[47:53] não conheço muito bem mas mas o ou a
+
+[47:55] tarefa do planejador assim planejador
+
+[47:57] bom sabe planejador comprometido com a
+
+[47:59] área é é que assim o planejador
+
+[48:01] comprometido com a área da publicidade
+
+[48:03] ele é um bom planejador isso é ruim
+
+[48:05] porque a publicidade É zoada mas mas
+
+[48:06] tudo bem Um bom planejador no lugar
+
+[48:08] errado né Isso é uma pessoa bacana
+
+[48:10] fazendo um bagulho zoado Mas tudo bem
+
+[48:13] vai mas mas assim o bom planejador se
+
+[48:15] você parar para pensar você sabe disso
+
+[48:16] do seu histórico é um cara que está
+
+[48:18] sempre aprendendo do método sim o tempo
+
+[48:20] inteiro ele aprend como assim ele se
+
+[48:22] formou quando você se forma você é meio
+
+[48:23] liso não sabe muito né das coisas aí
+
+[48:25] você se joga no mercado a a busca é
+
+[48:27] fazer pequenos cursos aí você aprende Ah
+
+[48:30] tá me faltando isso esse jeito esse
+
+[48:31] método tá me faltando aquilo aí você
+
+[48:33] aprende a fazer uma entrevista aprende a
+
+[48:34] analisar dpr de fazer uma coisa você vai
+
+[48:36] juntando a caixinha de ferramentas de
+
+[48:37] método por quê Porque o fenômeno que o
+
+[48:39] publicitário estuda é um fenômeno
+
+[48:41] complexo que tem causalidades estritas e
+
+[48:43] causalidades regulares Então você tem
+
+[48:45] que ter você tem que ser
+
+[48:46] interdisciplinar o problema é que o fim
+
+[48:48] é uma desgraça podia servir para alegria
+
+[48:51] da humanidade Esse é o problema pois é a
+
+[48:54] ideia é que todo mundo seja formado e
+
+[48:56] tenha ade de um publicitário Mas faça
+
+[48:58] coisas que importam de
+
+[49:00] verdade aí o problema tá na origem aí o
+
+[49:05] problema tá no fim o problema tá no uso
+
+[49:07] final dessa educação pro trabalho saco
+
+[49:10] tá certo então tá aí acho que tivemos aí
+
+[49:13] um Panorama excelente aí sobre
+
+[49:16] causalidade hein í é e espero que a
+
+[49:19] nossa ouvinte Fabiana não não não acha
+
+[49:22] os seus dias tão chatos apesar de
+
+[49:23] trabalhar em banco também é bem
+
+[49:24] regressivo mas né pelo menos Esperamos
+
+[49:27] que o o o episódio sirva para dar um
+
+[49:29] pouco de ânimo para ela não para
+
+[49:31] continuar trabalhando lá mas para
+
+[49:32] procurar outra vez um trampo melhor né É
+
+[49:34] verdade aaí inaro rodou ilustríssimo
+
+[49:40] ouvinte e você já sabe aqui no naro
+
+[49:42] rodol quem faz a pauta é você Você tem
+
+[49:45] alguma pergunta pra gente ou Quer
+
+[49:47] comentar algum episódio escreva para nós
+
+[49:49] podcast @naruto comom.com.br
+
+[49:56] e lembre-se mande nome completo idade
+
+[49:59] profissão e a cidade de onde você está
+
+[50:01] falando é isso
+
+[50:03] [Música]
+
+[50:13] aí apresent b9.com.br
+
+[50:19] [Música]

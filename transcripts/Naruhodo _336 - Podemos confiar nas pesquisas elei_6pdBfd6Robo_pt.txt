@@ -1,0 +1,3029 @@
+Title: Naruhodo #336 - Podemos confiar nas pesquisas eleitorais? - Parte 1 de 2
+URL: https://www.youtube.com/watch?v=6pdBfd6Robo
+Language: pt
+Extracted on: 2025-04-06 16:41:13
+================================================================================
+
+[00:00] não
+
+[00:01] podemos confiar nas pesquisas eleitorais
+
+[00:04] parte 1
+
+[00:08] E aí
+
+[00:09] [Música]
+
+[00:12] olá
+
+[00:12] bem-vindo ao mar Rodolfo podcast para
+
+[00:15] quem tem fome de aprender eu sou fake
+
+[00:17] Joca eu sou tem Souza e hoje é dia de
+
+[00:19] que ele tem senso comum
+
+[00:22] você quer apoiar a ciência quer apoiar o
+
+[00:26] pensamento científico quero ajudar o mal
+
+[00:29] rodou a se manter no ar ouvir os
+
+[00:31] episódios e espalhar a palavra já é um
+
+[00:33] grande Passo mas existe um outro jeito
+
+[00:36] apoiar o nado rodou a partir de 15 reais
+
+[00:40] por mês quem possibilita isso é a orelo
+
+[00:43] a plataforma de apoio a criadores de
+
+[00:45] conteúdo mais legal do Brasil e em junho
+
+[00:47] Aurélio preparou uma promoção especial
+
+[00:50] para novas apoiadores e novos apoiadores
+
+[00:53] que iniciaram o apoio de um e 30 de
+
+[00:56] junho vai receber de volta a primeira
+
+[00:58] parcela é isso mesmo Aurélio Vai bancar
+
+[01:02] a primeira mensalidade
+
+[01:04] estornando o valor contribuído a bacana
+
+[01:07] lá rodou E a bacana para você e você
+
+[01:10] sabe só quem apoia o galo tem acesso a
+
+[01:13] conteúdos exclusivos conteúdos
+
+[01:15] antecipados vantagens especiais e acesso
+
+[01:19] ao grupo fechado no telegram Então vem
+
+[01:22] piorando você também
+
+[01:25] bit.li/nao rodou traço novo braço
+
+[01:28] Corello
+
+[01:29] E chegamos ao momento a loira que ele
+
+[01:33] não 20 querido ouvinte você quer dar um
+
+[01:36] verdadeiro mergulho no mundo da
+
+[01:37] tecnologia
+
+[01:38] migrar para uma nova carreira
+
+[01:41] aprofunda-se nessa carreira então assine
+
+[01:44] a loira agora mesmo você vai estudar
+
+[01:47] praticar discutir e se aprofundar em uma
+
+[01:50] plataforma que respira tecnologia na
+
+[01:53] lura você terá acesso completo ao
+
+[01:55] conhecimento onde e quando você quiser
+
+[01:57] com novos cursos todas as semanas e
+
+[02:01] ainda tem vantagem ouvinte não rodou tem
+
+[02:04] desconto especial mas para isso é
+
+[02:07] preciso acessar a seguinte URL anota aí
+
+[02:09] alura.com.br
+
+[02:12] e são barra narudo nesse endereço além
+
+[02:16] do desconto especial você vai conhecer
+
+[02:18] histórias reais de transformação de
+
+[02:20] pessoas que estudaram na loira então
+
+[02:23] repetindo acesse
+
+[02:26] alura.com.br/promoção Barra na Rodolfo a
+
+[02:31] o Altair temos perguntas de ouvintes
+
+[02:34] Altair essa é uma pergunta que alguns
+
+[02:37] ouvintes mandaram mas eu tenho certeza
+
+[02:39] que dentre o público do podcast na do
+
+[02:41] motor em outras pessoas interessadas
+
+[02:43] nesse tipo de tema esse episódio ele na
+
+[02:46] verdade é informativo e entre aspas de
+
+[02:49] utilidade pública explicando alguns
+
+[02:50] conceitos que as pessoas têm muita
+
+[02:52] dificuldade mesmo as pessoas que fazem
+
+[02:53] graduação em áreas e tem aquela matéria
+
+[02:56] de estatística que morre de medo e
+
+[02:58] também esse episódio é dedicado a grande
+
+[03:01] perda que tivemos nessa semana né da
+
+[03:03] gravação desse Episódio que é de um dos
+
+[03:05] grandes estatísticos no Brasil não sei
+
+[03:07] se o quem soube eu no Júlio Singer né E
+
+[03:12] infelizmente nos deixou né E foi
+
+[03:16] responsável pela geração de gerações de
+
+[03:19] estatísticos no Brasil é inclusive esse
+
+[03:21] que vos fala e teve um papel muito
+
+[03:23] importante nisso e ele também trabalhou
+
+[03:25] um tempinho com estatística aplicada e
+
+[03:28] tal e eu lembro que um conceito que eu
+
+[03:30] vou explicar eu aprendi graças a ele
+
+[03:32] olha só e nada mais providencial do que
+
+[03:35] o episódio sobre esse tema no ano de
+
+[03:39] eleições né O pai foi também a primeira
+
+[03:42] pergunta veio do Everton Maxwell que é
+
+[03:46] de Conselheiro Lafaiete em Minas Gerais
+
+[03:49] ele curso Engenharia de Produção e
+
+[03:51] trabalha no setor de planejamento de
+
+[03:52] manutenção de uma Siderúrgica E o
+
+[03:55] Everton disse o seguinte a pai eu
+
+[03:57] conheci o nosso rodou em 2021 fiquei
+
+[03:59] viciado em poucos meses ouvir todos os
+
+[04:01] episódios tem várias perguntas que
+
+[04:03] gostaria de fazer mas no momento uma
+
+[04:05] intriga mais eu estudei estatística na
+
+[04:08] faculdade mas nunca consegui ser
+
+[04:10] convicto de que pesquisas com pouco mais
+
+[04:13] de duas mil pessoas possa representar a
+
+[04:16] real vontade de milhões de brasileiros
+
+[04:18] como é o caso das pesquisas eleitorais
+
+[04:20] estamos em ano de eleições e sempre
+
+[04:22] vemos vinculados em noticiários sobre
+
+[04:24] pesquisas eleitorais destacando os
+
+[04:26] candidatos que supostamente estão
+
+[04:28] liderando e afirmam ter uma margem de
+
+[04:30] erro BA e dois por cento e não vejo
+
+[04:33] tanto debate sobre a confiabilidade
+
+[04:34] dessas pesquisas que acabam por ser um
+
+[04:37] fator determinante na escolha do voto de
+
+[04:39] muitas pessoas
+
+[04:40] Altair e quem a minha pergunta mais
+
+[04:43] direta É podemos confiar em pesquisas
+
+[04:46] eleitorais temos também a mensagem do
+
+[04:49] Daniel Melo que diz o seguinte
+
+[04:50] primeiramente parabéns pelo brilhante
+
+[04:52] trabalho acompanha vocês lá anos e sou
+
+[04:55] ouvinte fiel
+
+[04:56] trabalho viajando bastante de carro e
+
+[04:58] vocês são sempre nos companheiros de
+
+[05:00] viagem obrigado Daniel muito legal a uma
+
+[05:04] analisar os resultados de mais uma
+
+[05:06] rodada de eleições Brasil afora me veio
+
+[05:09] um questionamento o vários sobre o papel
+
+[05:11] das pesquisas baseadas em algumas
+
+[05:13] experiências pessoais EA observação de
+
+[05:16] resultados Brasil afora o quantas
+
+[05:18] pesquisas influenciam as intenções de
+
+[05:21] voto moro em Recife via na metodologia
+
+[05:23] das pesquisas uma média de mil 2500
+
+[05:27] pessoas sendo entrevistadas em cada
+
+[05:28] espaço amostral e no dia em São Paulo
+
+[05:32] mais
+
+[05:33] 883 mil votantes fora abstenção é
+
+[05:36] mensurável pensar o quanto o resultado
+
+[05:38] das eleições na verdade é influenciado
+
+[05:40] pelas pesquisas e não necessariamente
+
+[05:42] refletir o cenário de votos para
+
+[05:44] eleitoral EA assertividade das pesquisas
+
+[05:46] se dá justamente pela influência que
+
+[05:48] elas têm Diego isso porque como micro
+
+[05:51] empresário tem muito contato com pessoas
+
+[05:53] de classe mais baixas e os com muita
+
+[05:54] frequência a questão do vou votar no
+
+[05:57] Fulano porque ele está ganhando não vou
+
+[05:58] perder meu voto e por mais que eu tenho
+
+[06:01] explicar e convencer dificilmente muda
+
+[06:03] essa mentalidade e por fim mas não menos
+
+[06:06] importante se não houvesse em pesquisas
+
+[06:08] como será que seriam os resultados das
+
+[06:10] eleições se todo mundo votasse de fato
+
+[06:12] em quem se identifica mais sem pesar
+
+[06:14] aquela coisa do a mas ele não tem
+
+[06:16] chances vou votar nesse outro que não é
+
+[06:19] bom mas é o menos pior Porque
+
+[06:20] infelizmente só existem Chances não
+
+[06:23] seria mais saudável para a Democracia
+
+[06:24] para os votos serem de fato identitários
+
+[06:27] para nossa mente finalmente ficar em paz
+
+[06:30] de que votamos o acreditamos de fato
+
+[06:32] esse sistema com toda essa coisa de voto
+
+[06:35] útil não acaba fazendo com que os
+
+[06:36] políticos que lá estão acabam por não
+
+[06:38] representar quase ninguém de fato e
+
+[06:41] finalmente a pergunta do Vitor me
+
+[06:43] acústica de São Bernardo do Campo e a
+
+[06:46] médica
+
+[06:47] gostaria de sugerir como o tema de
+
+[06:49] programa explicação estatística das
+
+[06:51] pesquisas eleitorais como funciona a
+
+[06:53] coleta de dados a distribuição dessas
+
+[06:55] coletas o número de pesquisados
+
+[06:58] necessários e análises estatísticas
+
+[07:00] necessárias para conseguir prever os
+
+[07:02] resultados das eleições
+
+[07:04] Altair o que é que a ciência pode nos
+
+[07:07] dizer sobre tudo isso relacionado à
+
+[07:10] pesquisas eleitorais Na verdade só a
+
+[07:13] ciência pode dizer alguma coisa né
+
+[07:15] pesquisa eleitoral de fato não é uma
+
+[07:17] coisa polêmica como as pessoas não
+
+[07:18] entendem o método como é feito é claro
+
+[07:20] que nós vamos confiar é meio Óbvio se
+
+[07:22] você não sabe como uma coisa funciona e
+
+[07:24] ela entre aspas te atrapalha eu te
+
+[07:26] influencia você vai reagir contra ela já
+
+[07:28] com jeito né seja tentando e funciona ou
+
+[07:32] seja tipo rejeitando ela então por
+
+[07:35] exemplo é pense o seu celular 95% as
+
+[07:38] coisas do seu celular você ignora
+
+[07:39] completamente como foram feitas né Você
+
+[07:42] sabe usar o celular como todo mas você
+
+[07:44] não sabe por quê que o celular tem
+
+[07:46] transistores capacitores como que
+
+[07:48] funciona a bateria Como que o sinal vai
+
+[07:50] e volta a gente ignora a maior parte
+
+[07:52] dessas coisas mas por que que mesmo
+
+[07:54] assim a gente aceita usar celulares
+
+[07:56] porque eles nos ajudam em média ele
+
+[07:58] ajuda assistiu o celular que
+
+[08:00] atrapalhasse se fosse por exemplo uma
+
+[08:01] coisa que te monitória ou que pede
+
+[08:03] coisas de você o tempo todo você
+
+[08:05] reagiria como contra ele fala porque que
+
+[08:07] eu tenho que responder isso por esse
+
+[08:08] negócio Como é que ele funciona deve ser
+
+[08:10] mentira né então assim as coisas que nos
+
+[08:13] ajudam a gente tende a ignorar o
+
+[08:16] processo gerador deles dessas coisas as
+
+[08:19] coisas que nos atrapalham os que nos
+
+[08:21] enche o saco a gente tende a questionar
+
+[08:24] o processo gerador dessas coisas essa
+
+[08:26] parte tem a ver com o episódio que a
+
+[08:27] gente gravar um tempo atrás que é sobre
+
+[08:29] o efeito cumbuca e homenagens É sim o
+
+[08:33] efeito cubo que a gente discutir bem a
+
+[08:34] questão da aleatoriedade né Porque é tão
+
+[08:37] difícil para a gente perceber
+
+[08:39] aleatoriedade mas nesse caso as
+
+[08:41] pesquisas eleitorais o processo de
+
+[08:43] amostragem aleatório até um certo. A
+
+[08:46] ideia aqui a gente te explicar como a
+
+[08:48] pesquisa eleitoral funciona então a
+
+[08:50] pesquisa eleitoral lá tem dois aspectos
+
+[08:51] que se misturam o primeiro aspecto é a
+
+[08:53] amostragem como a gente constrói a
+
+[08:56] amostra e como a gente constrói com base
+
+[08:58] em que tamanho de amostra Esse é um
+
+[09:00] aspecto mais estatístico técnico por
+
+[09:02] exemplo responder à pergunta de 2 os
+
+[09:03] nossos ouvintes por quê que uma pesquisa
+
+[09:05] com duas mil pessoas em média você
+
+[09:08] consegue ter uma boa estimativa da
+
+[09:10] prevalência real da intenção de voto das
+
+[09:13] pessoas do Brasil inteiro são milhões é
+
+[09:15] válido esses dois mil sim é uma dá certo
+
+[09:18] a conta a minha ideia aqui em áudio eu
+
+[09:21] explicar conta então Esse aspecto
+
+[09:22] técnico uma resposta a gente já tem
+
+[09:24] fácil aqui depois eu tenho que
+
+[09:25] justificar mas a resposta é fácil com
+
+[09:28] duas mil pessoas eu consigo detectar uma
+
+[09:30] prevalência e não é uma certa
+
+[09:32] porcentagem de algum evento populacional
+
+[09:35] mesmo quando a população tem milhões de
+
+[09:37] pessoas sim consegue Tem muita gente que
+
+[09:39] tem o seu sustento baseado nisso uma
+
+[09:41] parte importante da estatística é
+
+[09:43] baseado nisso que as técnicas de
+
+[09:44] amostragem vão deixei a descrição no
+
+[09:47] livro inteiro de amostragem E isso não
+
+[09:49] faz diferença está falando de uma
+
+[09:51] população de 100 200 ou um bilhão de
+
+[09:54] pessoas rapaz a Rigor não o que a gente
+
+[09:56] faz no Brasil por exemplo em alguns
+
+[09:58] casos para algumas prevalências a gente
+
+[10:00] coloca duas mil pessoas no Brasil
+
+[10:01] inteiro só que tem que distribuir isso e
+
+[10:04] essa aqui é a dificuldade é considerar
+
+[10:06] estratos onde você vai dividir essas
+
+[10:08] duas mil pessoas aí a gente se entende
+
+[10:10] aumentar um pouquinho à mostra então por
+
+[10:12] exemplo no caso da pesquisa eleitoral a
+
+[10:14] gente não pega só duas mil pessoas você
+
+[10:16] pega duas mil pessoas em cada principal
+
+[10:18] capital por exemplo então ele final fica
+
+[10:21] maior mas por exemplo uma uma pesquisa
+
+[10:24] eleitoral para Governador ou Prefeito só
+
+[10:26] de São Paulo duas mil pessoas já dá
+
+[10:28] desde que você distribua elas bem
+
+[10:31] a parte também do processo amostral e
+
+[10:33] para você fazer essa distribuição bem
+
+[10:36] feita você trocou de dados sobre aquele
+
+[10:39] universo né e isso é exatamente você tem
+
+[10:42] que ter as características do seu
+
+[10:43] universo da população para onde você
+
+[10:45] quer generalizar os dados para a partir
+
+[10:47] daí criar Extratus então assim porque
+
+[10:49] uma coisa as pessoas acham que a
+
+[10:52] amostragem aleatória de baixo eu coloco
+
+[10:55] todas as pessoas no saco e sorteio Então
+
+[10:57] eu queria um processo amostral onde
+
+[10:59] todas as pessoas têm a mesma chance de
+
+[11:01] serem selecionadas e o sorteio uma
+
+[11:03] depois sorteio outro sorteio outro e tal
+
+[11:05] as pessoas acham que esse é o melhor
+
+[11:07] método para construir uma amostragem e
+
+[11:10] não é imagina que eu criei um método em
+
+[11:13] que cada pessoa tem o seu CPF numa
+
+[11:15] bolinha não tenha anotado se o CPF de
+
+[11:17] uma bolinha e eu tenho lá 20 milhões de
+
+[11:19] bolinhos aqui é toda a população no
+
+[11:22] Estado de São Paulo a gente tem em torno
+
+[11:23] de 40 milhões de pessoas não tem 40
+
+[11:25] milhões de bolinhas aí eu queria um
+
+[11:27] sorteio né em que todas as cada bolinha
+
+[11:29] têm a mesma chance de ser e sempre
+
+[11:31] selecionada aí o sorteio 2000 bolinhas
+
+[11:33] desses 40 milhões Ou seja eu fiz uma
+
+[11:36] amostragem aleatória como todas as
+
+[11:39] bolinhas tem a mesma chance de ser
+
+[11:40] selecionada não pode acontecer por acaso
+
+[11:42] de outras sorteado uma proporção muito
+
+[11:45] grande de idosos em relação à população
+
+[11:47] não pode acontecer de ao selecionar
+
+[11:49] muito mais mulheres do que homens ou
+
+[11:51] seja se o meu processo for aleatório
+
+[11:53] desde o começo isso gera viesse né
+
+[11:56] porque porque eu sei por exemplo que a
+
+[11:58] idade da pessoa o gênero da pessoa pode
+
+[12:01] afetar a decisão eleitoral dela E aí
+
+[12:03] quando eu tenho os dados do universo
+
+[12:06] relacionados por exemplo o gênero
+
+[12:08] relacionado a faixa etária e até
+
+[12:11] localização
+
+[12:14] geográfica mais específica eu consigo
+
+[12:16] criar esses estratos isso para fazer
+
+[12:20] essa distribuição mais bem feio vamos
+
+[12:22] assim então a primeira coisa no momento
+
+[12:24] de construir a amostra é você saber os
+
+[12:27] vieses que podem afetar a variável que
+
+[12:29] você quer detectar que no caso e a
+
+[12:31] proporção de pessoas que votam no
+
+[12:33] candidato por exemplo da primeira coisa
+
+[12:35] é um esforço teórico eu tenho que saber
+
+[12:37] Será que a idade afeta as pessoas Então
+
+[12:39] tem estudos para isso iniciais né hoje
+
+[12:42] em dia como como já tivemos muitas
+
+[12:43] eleições a gente já sabe que tem faixa
+
+[12:47] etária
+
+[12:48] gênero região renda essas coisas afetam
+
+[12:52] então isso são variáveis que a gente já
+
+[12:54] tem que controlar antes da amostragem e
+
+[12:57] o que que você ia controlar antes da
+
+[12:58] amostragem é você pegar a população toda
+
+[13:00] e dividir em quadradinhos então por
+
+[13:03] exemplo imagina que a população toda um
+
+[13:05] quadrado e eu divido no meio aí você
+
+[13:07] para os homens e as mulheres ou seja eu
+
+[13:09] tenho dois estratos aí depois eu separo
+
+[13:11] em faixa etária de 20 a 40 de 40 60 e
+
+[13:15] mais que 60 Ou seja eu vou ter seis
+
+[13:18] quadradinhos eu voltei os homens de com
+
+[13:21] três faixas etárias e as mulheres com 33
+
+[13:23] faixas etárias a dívida por renda eu
+
+[13:26] pego o celular suas rendas ainda alto e
+
+[13:28] renda baixa Vocês conseguem imaginar que
+
+[13:30] eu o quadrado e dividido em doze pedaços
+
+[13:33] os homens de uma faixa etária com uma
+
+[13:35] certa renda as mulheres de uma certa
+
+[13:37] idade como uma certa renda você vai ter
+
+[13:40] 12 Extratus ou seja o que que acontece
+
+[13:43] quando você cria os estratos quando você
+
+[13:45] pega a população toda tem uma certa
+
+[13:47] variabilidade das pessoas em si então se
+
+[13:50] eu pegar a população toda sortear uma a
+
+[13:52] probabilidade de eu pegar um homem por
+
+[13:54] exemplo é menor do que se eu pegar
+
+[13:57] dentro de um extrato que todo mundo é
+
+[13:59] homem é claro Então imagina a população
+
+[14:02] toda o sorteio uma pessoa qual é a
+
+[14:04] chance de pegar um homem é maior que
+
+[14:06] zero mas não é 100 porcento agora se
+
+[14:08] dentro de um extrato que são homens de
+
+[14:11] 30 anos com renda baixa ali eu ter
+
+[14:13] certeza de que eu vou coletar homens
+
+[14:15] pelo menos então o critério dos estratos
+
+[14:17] ele permite que todas as variáveis que
+
+[14:20] você sabe que geram viés na pesquisa
+
+[14:22] sejam representados igualmente
+
+[14:25] então imaginei 12 grupinhos Então você
+
+[14:29] tem dois gêneros por as três faixas
+
+[14:31] etárias e duas faixas de renda então cê
+
+[14:35] tem 12 e extratos dentro de cada estrato
+
+[14:37] como a população ali dentre mais
+
+[14:40] homogênea do que a população geral
+
+[14:42] porque tô restringindo as pessoas né se
+
+[14:44] você é um homem com uma certa idade e
+
+[14:46] uma certa renda você fica nesse grupinho
+
+[14:48] dentro de cada estrato a amostra é mais
+
+[14:51] homogênea ou seja se eu sortear
+
+[14:53] aleatoriamente uma pessoa ali não gera
+
+[14:55] tanto problema porque toda já são
+
+[14:57] parecidas eu diminuo esse viés você
+
+[15:00] diminui o viés porque diminui a
+
+[15:02] variabilidade das pessoas dentro de cada
+
+[15:04] estrato E aí em vez de fazer uma
+
+[15:07] amostragem aleatória dentro da população
+
+[15:09] toda que eu sei que eu posso gerar viés
+
+[15:11] eu faço uma amostra aleatória dentro de
+
+[15:14] cada estrato né Então as minhas duas mil
+
+[15:16] pessoas vão ser selecionadas em 12
+
+[15:19] grupos sendo que um grupo é um grupinho
+
+[15:22] de pessoas dentro de cada estrato já
+
+[15:24] dizer quando quando a gente lê a notícia
+
+[15:26] não é divulgação de uma pesquisa de
+
+[15:30] intenção de voto eu falo de duas mil
+
+[15:32] pessoas o que a gente não está
+
+[15:34] enxergando aqui na verdade essas duas
+
+[15:36] mil pessoas estão distribuídas em
+
+[15:39] estratos diferentes gerando quotas
+
+[15:41] amostrais diferentes aí que somando dão
+
+[15:43] as duas mil pessoas e isso então se a
+
+[15:47] gente tiver 12 Extratus né você vai
+
+[15:49] pegar mais ou menos 167 pessoas por
+
+[15:51] extrato então eu vou pegar lá em cada
+
+[15:53] bloquinho cada quadradinho e o sorteio
+
+[15:56] 167 pessoas são dos estratos tomando
+
+[15:59] todo mundo dá umas duas mil pessoas e
+
+[16:01] isso é um problema da divulgação
+
+[16:02] Científica desta informação a pesquisa é
+
+[16:05] feita com duas mil pessoas tudo bem Mas
+
+[16:07] quais são os estratos teve extrato essa
+
+[16:10] informação que devia ser divulgada pelo
+
+[16:11] jornalista na TV enfim é porque quando a
+
+[16:14] gente pega o relatório completo dessa
+
+[16:17] pesquisa de intenção de voto esses
+
+[16:19] estratos estão lá sabe só que isso que
+
+[16:21] eu tenho interesse de ir atrás do
+
+[16:23] detalhe né isso mas é uma coisa que o
+
+[16:25] jornalista podia divulgar Porque toda
+
+[16:27] pesquisa eleitoral tem extrato de idade
+
+[16:30] renda eu pelo menos tenho pelo menos
+
+[16:32] esses três então é uma informação a mais
+
+[16:34] que é útil não custa nada O Povo na TV
+
+[16:37] já explicar errado o que que é intervalo
+
+[16:38] de confiança mesmo né porque que não
+
+[16:40] pode pôr mais informação para ajudar na
+
+[16:41] verdade então já viu eu até desistir de
+
+[16:44] tentar ajudar o povo a entender
+
+[16:46] intervalo de confiança assim jornalista
+
+[16:48] eu desisti aliás existem dois conceitos
+
+[16:51] que vem junto com a divulgação da
+
+[16:54] pesquisa na intervalo de confiança e
+
+[16:57] margem de erro antes como é que a gente
+
+[17:00] pode
+
+[17:01] explicar Num Episódio de Podcast que é
+
+[17:05] totalmente em áudio
+
+[17:07] explicar esses conceitos que as pessoas
+
+[17:09] não é então é Um Desafio né Tem outro
+
+[17:13] episódio que a gente fez uma tentativa
+
+[17:14] Aparecida e acho que foi bem sucedida tá
+
+[17:17] que é um episódio não sei se você lembra
+
+[17:19] alguém que a gente gravar um tempo atrás
+
+[17:20] que a sobre a lei de bem forte que o
+
+[17:22] Episódio 15 primeiro né que eu fiquei
+
+[17:25] tentando explicar o que que é o
+
+[17:26] logaritmo em áudio né e deu certo né
+
+[17:28] vamos ver né para quem a atacar esse
+
+[17:32] desafio né de entendeu que tem o
+
+[17:33] logaritmo sem o papel né eu Episódio 154
+
+[17:36] além de bem forte que inclusive foi
+
+[17:38] inspirado por uma pergunta de cunho
+
+[17:39] eleitoral também então vamos tentar
+
+[17:41] então assim não processo eleitoral tem
+
+[17:44] uma coisa que a amostragem né falta mais
+
+[17:46] Uns detalhes então assim em geral a
+
+[17:48] amostragem é feita de forma
+
+[17:49] estratificada né então esse nome
+
+[17:52] amostragem estratificada É porque eu
+
+[17:54] queria extratos e dentro de cada estrato
+
+[17:56] as pessoas são mais homogêneas aí o
+
+[17:58] sorteio um pouquinho lá dentro tá tem um
+
+[18:00] outro tipo de amostragem aqui também é
+
+[18:02] estratificada É um tipo né que é chamado
+
+[18:05] à mostra por cluster né Qual que é a
+
+[18:07] diferença entre amostragem estratificada
+
+[18:09] amostragem por clusters os dois criam os
+
+[18:11] estratos só que na amostragem por
+
+[18:14] cluster existe um critério geográfico
+
+[18:17] então por exemplo logo um dos um dos
+
+[18:20] estratos é a geografia então por exemplo
+
+[18:23] eu vou coletando em São Paulo uma
+
+[18:25] proporção de pessoas na na zona norte
+
+[18:27] zona sul zona leste Zona Oeste e Centro
+
+[18:29] então o sexo idade renda eu vou ter a
+
+[18:34] localização o bairro onde a pessoa está
+
+[18:36] Então porque eu acho que a Geografia
+
+[18:38] gera um efeito também naquilo que eu
+
+[18:40] quero medir Então amostragem por cluster
+
+[18:43] ela também é uma amostragem
+
+[18:44] estratificada só que ela tem essa
+
+[18:46] questão da geografia e aí chama cluster
+
+[18:49] porque um extrato tá dentro do outro
+
+[18:52] pensa comigo eu tenho São Paulo dentro
+
+[18:55] de São Paulo eu não tenho a zona norte
+
+[18:56] de São Paulo dentro da zona norte eu não
+
+[18:59] tenho as pessoas ou seja no extrato tá
+
+[19:01] dentro do outro então dentro da zona
+
+[19:04] norte eu tenho homens ou uma certa idade
+
+[19:07] como uma certa renda que moram num certo
+
+[19:09] bairro por isso que amostragem é porque
+
+[19:11] ela seria mais cara porque eu tenho que
+
+[19:14] eu tenho que acessar o Distrito de São
+
+[19:15] Paulo depois do bairro aí sortear uma
+
+[19:17] rua na rua tem que sortear uma casa
+
+[19:20] batendo à porta da casa pessoa atender
+
+[19:23] só tinha uma pessoa tá muito trabalho
+
+[19:25] então amostragem por câncer ela é o tipo
+
+[19:28] mais caro de amostragem nada é um
+
+[19:31] exemplo está maior corte longitudinal
+
+[19:34] que a gente tem no Brasil que é
+
+[19:35] organizado há décadas pela Universidade
+
+[19:38] Federal de Pelotas que é um grande
+
+[19:40] centro em epidemiologia e eles fazem
+
+[19:42] amostragem por clusters então a 40 anos
+
+[19:44] Eles seguem grupos de pessoas e as
+
+[19:46] amostragens são assim então tem várias
+
+[19:49] coisas em epidemiologia que a gente faz
+
+[19:50] amostragem por cluster por quê Porque a
+
+[19:52] geografia é importante na pesquisa
+
+[19:54] eleitoral não dá para fazer isso tá
+
+[19:57] porque porque é muito caro e leva muito
+
+[20:00] tempo para fazer porque por exemplo se
+
+[20:02] você não tá em casa eu tenho que bater
+
+[20:04] na porta do outro e leva um tempo que
+
+[20:06] logisticamente fica proibitivo seria
+
+[20:08] importante também se alimentar por por
+
+[20:11] pela geografia certamente seria mas
+
+[20:13] muitas vezes não dá porque quando a
+
+[20:15] gente faz pesquisa eleitoral quando tá
+
+[20:16] perto da eleição é uma pesquisa por
+
+[20:18] semana e não dá para fazer uma
+
+[20:19] amostragem dessa por semana então é uma
+
+[20:21] questão logística mesmo tá que não dá
+
+[20:23] certo canto mais variáveis a gente
+
+[20:26] coloca nessa estratificação mais cara
+
+[20:30] vai ficar na pesquisa O mais difícil de
+
+[20:32] operacionalizar né mais tempo né E às
+
+[20:34] vezes o tempo ela limitante importante
+
+[20:36] tá então algumas pesquisas eleitorais
+
+[20:38] são feitas de forma estratificada o peso
+
+[20:41] da geografia não é tão grande mas muitas
+
+[20:44] pesquisas eleitorais é usado um método
+
+[20:45] que é chamado método por cota tá o
+
+[20:48] método por cota ele não é probabilístico
+
+[20:51] esse método estratificado e por cluster
+
+[20:53] ele é probabilístico porque dentro de
+
+[20:55] cada grupinho todas as pessoas têm a
+
+[20:57] mesma chance de serem selecionadas é
+
+[20:59] sortear o método por cota quando você
+
+[21:02] faz muitas pesquisas Toda semana é o
+
+[21:04] único que dá para fazer por critério de
+
+[21:06] tempo mesmo é você deve saber isso muito
+
+[21:09] bem quem lembra daquelas pesquisas de
+
+[21:11] mercado por ponto de fluxo e você coloca
+
+[21:13] uma pessoa na rua e uma região
+
+[21:14] movimentada e as pessoas vão passando né
+
+[21:17] E aí você por exemplo eu quero fazer uma
+
+[21:20] amostra de pessoas aí eu vou no bairro
+
+[21:22] na Zona Norte no bairro na Zona Sul na
+
+[21:25] zona leste na zona oeste então ao invés
+
+[21:27] de fazer uma amostragem por clusters eu
+
+[21:29] ponho uma pessoa em cada BA e o em cada
+
+[21:32] região aí as pessoas vão passando na rua
+
+[21:34] eu por favor que a participar de uma
+
+[21:35] pesquisa quem você vai votar em vez de
+
+[21:38] ir na casa da pessoa porque isso
+
+[21:39] logisticamente é bem difícil né Então
+
+[21:42] amostragem por cotas ela tem esse entre
+
+[21:45] "essa dificuldade que ela não é
+
+[21:47] probabilística então assim não é que
+
+[21:49] todas as pessoas dentro do de um extrato
+
+[21:52] têm a mesma chance de ser selecionada eu
+
+[21:54] vou numa região né eu falo aí eu tenho
+
+[21:57] uma tabelinha aí eu preciso pegar um
+
+[21:59] homem de 30 40 anos como a renda tal e
+
+[22:02] aí as pessoas estão fazendo na rua e aí
+
+[22:05] quando eu passo um homem mais ou menos
+
+[22:06] localidade ou por favor eu tenho que
+
+[22:08] completar o meu esquema né de hidratos
+
+[22:11] então assim eu não vou atrás da pessoa
+
+[22:14] né eu fico esperando a pessoa passar né
+
+[22:16] E como eu fico dentro de um ponto de
+
+[22:18] fluxo Pode ser que algumas pessoas com
+
+[22:21] certas características não passem aqui
+
+[22:23] ali naquela rua acontece E aí para
+
+[22:25] minimizar esse efeito Dakota o que que
+
+[22:28] eu faço Eu repito a pesquisa várias
+
+[22:29] vezes em os prints né então durante um
+
+[22:34] mês eu faço quatro pesquisas eleitorais
+
+[22:36] aí eu vou numa dentro de um bairro vou
+
+[22:39] numa rua tal depois eu vou em outra
+
+[22:40] depois um outro e outra né para garantir
+
+[22:43] que eu vou reduzir esse ruído né da
+
+[22:46] amostragem por cotas ser não aleatória
+
+[22:48] tudo bem quem faz sentido daquilo que tô
+
+[22:51] bem tranquilo Inclusive eu acho que vai
+
+[22:54] ficar difícil quando a gente falar de
+
+[22:55] intervalo de confiança e margem de erro
+
+[22:57] podem tirar conta exata né então essa
+
+[23:00] parte fecha a questão da amostragem
+
+[23:02] então por exemplo uma das críticas que
+
+[23:04] se pode fazer a pesquisa eleitoral então
+
+[23:07] assim de novo já respondendo à pergunta
+
+[23:09] Direta do ponto de vista metodológico
+
+[23:12] científico podemos confiar nas pesquisas
+
+[23:14] eleitorais sim como um todo no Brasil
+
+[23:17] podemos porque em geral as pessoas que
+
+[23:20] planejam a pesquisa montam coleta os
+
+[23:22] dados são de institutos e muitos deles
+
+[23:25] eu conheço pessoas idôneas para roubar
+
+[23:27] Qualquer coisa dá para roubar E aí uma
+
+[23:29] forma de evitar essa o ruído é explicar
+
+[23:32] para as pessoas os métodos então assim
+
+[23:34] são são conceitos que não são tão fáceis
+
+[23:36] de pegar de primeira mas não quer dizer
+
+[23:38] que você meditar cinco minutos eu não
+
+[23:39] consigo entender e aí tem as nossas
+
+[23:41] referências para isso então assim a
+
+[23:43] primeira parte que eu cobrei a partir da
+
+[23:44] amostragem então onde tem um ponto de
+
+[23:47] crítica das pesquisas eleitorais é que a
+
+[23:49] maior parte das pesquisas eleitorais é
+
+[23:51] feita por amostragem por cotas e
+
+[23:53] amostragem por cotas ela não é
+
+[23:55] probabilística então eu não pego todas
+
+[23:57] as pessoas de um extrato e elas têm a
+
+[23:59] mesma chance de serem selecionadas o
+
+[24:01] sorteio uma em geral eu fico no lugar
+
+[24:04] espera A pessoa passar isso pode induzir
+
+[24:06] um viés pode só que esse como eu não tem
+
+[24:09] o controle de se viesse eu não forço o
+
+[24:13] viés se eu conectar cada em a cada
+
+[24:16] eleição é a cada pesquisa eleitoral eu
+
+[24:19] fui coletando no ponto de fluxo
+
+[24:21] diferente isso reduz bastante o viés tá
+
+[24:24] de novo Tem um livro sobre pesquisa
+
+[24:26] amostral que tem como calcular esse viés
+
+[24:28] O importante das pessoas saberem e não
+
+[24:32] tem problema você fazer uma pesquisa via
+
+[24:34] usada desde que tenha como você calcular
+
+[24:36] o tamanho do viesse porque se tiver como
+
+[24:39] calcular o tamanho você consegue
+
+[24:40] incorporar e isso na pesquisa depois né
+
+[24:43] seja no tamanho de amostra aumentando um
+
+[24:45] pouco a mostra ou seja controlado por
+
+[24:47] outras variáveis como a região por
+
+[24:50] exemplo Então isso é importante por
+
+[24:52] exemplo quando eu quero mapear uma
+
+[24:53] doença onde a geografia é importante eu
+
+[24:57] não posso deixar de contar geografia
+
+[24:58] Então tem que fazer uma amostragem por
+
+[25:00] plantas ter que é mais demorada e mais
+
+[25:02] cara lá no caso de uma doença no caso da
+
+[25:05] pesquisa eleitoral tem uma volatilidade
+
+[25:06] maior do resultado então fazer a
+
+[25:10] amostragem por cotas da Tá certo aumenta
+
+[25:12] um pouquinho as pessoas Dá uma
+
+[25:13] controlada No método de coleta dar certo
+
+[25:15] então fizemos a primeira apreciação do
+
+[25:18] primeiro nível que determina as
+
+[25:20] pesquisas eleitorais né que é o nível da
+
+[25:22] amostragem agora vão para conta então
+
+[25:24] assim porque duas mil pessoas tudo bem
+
+[25:26] Eu entendi que para pegar as duas mil
+
+[25:28] pessoas eu tenho que dividir lá nos
+
+[25:29] extratos enfim está bom pô é da onde sai
+
+[25:32] mais ou menos esse número aí que é
+
+[25:34] dificuldade coragem vamos lá quem é o
+
+[25:37] seguinte 30 da estatística tem poucas
+
+[25:39] leis Então você vai para física por
+
+[25:41] exemplo tem as leis de Newton tanto é
+
+[25:43] que chama leite que é muito estável né
+
+[25:45] em sobre certas circunstâncias a equação
+
+[25:48] é muito estável na estatística a gente
+
+[25:50] não tem muitas dessas leis mas não tem
+
+[25:52] uma que é muito importante já que
+
+[25:54] possibilita as pesquisas eleitorais que
+
+[25:56] a chamada no teorema central do limite
+
+[25:58] ou o teorema central do limite ele diz o
+
+[26:00] seguinte agora a gente precisa de uma de
+
+[26:03] uma meditação isso acontece tá bom não é
+
+[26:06] um por que isso acontece é uma
+
+[26:08] propriedade natural tá o teorema central
+
+[26:11] do limite ele funciona o seguinte
+
+[26:12] imagina que a população de São Paulo 40
+
+[26:15] milhões de pessoas eu quero descobrir a
+
+[26:18] média da altura das pessoas de São Paulo
+
+[26:20] eu quero descobrir isso Qual é a média
+
+[26:22] da altura das pessoas de São Paulo
+
+[26:24] primeira pergunta a média de altura das
+
+[26:26] pessoas de São Paulo ela existe Não faço
+
+[26:29] ideia não o número a média da altura
+
+[26:32] existe a provavelmente existe em algum
+
+[26:34] lugar né mas voltar um pouco mais São
+
+[26:37] Paulo é uma região geográfica São Paulo
+
+[26:39] existe sim dentro de São Paulo tem
+
+[26:42] pessoas sim sim é óbvio tá então volta
+
+[26:46] pessoas cada pessoa não tem uma altura
+
+[26:48] se sim Se eu pegar a altura de todas as
+
+[26:51] pessoas somar e dividir pelo número
+
+[26:53] delas eu não vou chegar na média de
+
+[26:55] altura sim então a média da altura um
+
+[26:58] valor que existe Eu só não sei quanto é
+
+[27:00] mas o número existe ele tá lá então a
+
+[27:04] média da altura das pessoas que são
+
+[27:06] Paulo é um valor determinístico ele
+
+[27:08] existe ele pode variar ele pode não ser
+
+[27:11] o mesmo mas ele existe o que eu quero
+
+[27:13] descobrir esse valor é feito eu quero eu
+
+[27:16] quero ter uma ideia de quanto é esse
+
+[27:18] valor porque as pessoas pensariam a para
+
+[27:20] você achar a média da altura das pessoas
+
+[27:22] de São Paulo eu tenho que pegar todas as
+
+[27:24] pessoas de pegar 40 milhões de pessoas é
+
+[27:27] verdade né só que assim é impraticável
+
+[27:31] hoje e vamos supor que eu tenho todo
+
+[27:33] dinheiro do mundo e eu colete hoje todas
+
+[27:35] as 40 milhões de pessoas eu fui na rua
+
+[27:38] em todos os lugares e peguei a altura de
+
+[27:40] todo mundo aí eu somei as alturas das
+
+[27:42] pessoas dividido por 40 milhões e deu a
+
+[27:44] média da altura né esse valor que eu
+
+[27:47] encontrei ele vai ser útil só naquele
+
+[27:50] dia só no dia que eu fiz a pesquisa
+
+[27:51] porque porque no dia seguinte nasceu
+
+[27:54] gente morreu gente teve gente que caiu
+
+[27:56] de uma lordose perdeu altura ou seja a
+
+[28:00] muitas vezes não é importante encontrar
+
+[28:01] o exato valor daquilo que eu quero saber
+
+[28:04] mas encontrar um intervalo em torno
+
+[28:07] daquele valor sabe um palpite de quanto
+
+[28:09] seria aquele valor né então o teorema
+
+[28:12] central do limite ali surgiu no começo
+
+[28:13] do século 21 grego é uma grande inovação
+
+[28:16] tecnológica é que as pessoas associam a
+
+[28:18] tecnologia para um carro com celular com
+
+[28:20] essas coisas mas descobri que métodos
+
+[28:22] quantitativos novos também é uma uma
+
+[28:24] descoberta tecnológica tá E aí o teorema
+
+[28:27] central do limite funciona assim então
+
+[28:29] ele surgiu por e não consegue coletar
+
+[28:32] toda a população todo tempo né E mesmo
+
+[28:35] que a gente tenha toda a população todo
+
+[28:37] tempo o valor que a gente coleta da
+
+[28:39] Média não é relevante porque a população
+
+[28:41] muda né Então a primeira intuição que as
+
+[28:44] pessoas tem que ter que isso vale muito
+
+[28:46] para pesquisa eleitoral é que a
+
+[28:48] estimativa da altura das pessoas ou
+
+[28:51] estimativa da proporção de pessoas que
+
+[28:53] votariam no candidato ao longo do tempo
+
+[28:55] é um dado que varia né isso tem a ver
+
+[28:58] com um comentário de um dos nossos
+
+[29:00] ouvintes naquele fala eu saber o
+
+[29:03] resultado de uma pesquisa eleitoral hoje
+
+[29:05] não influencia a minha intenção de voto
+
+[29:07] influencia influência assim né então a
+
+[29:11] proposição de pessoas que votam no
+
+[29:13] candidato a ao longo do tempo ela oscila
+
+[29:15] ela oscila é uma oscilação não é um
+
+[29:18] valor fixo só que isso vale também para
+
+[29:20] a altura das pessoas altura das pessoas
+
+[29:23] de uma cidade oscila também porque fica
+
+[29:26] para sua cresce a pessoa diminuir morre
+
+[29:28] nasce a média também oscila todo os
+
+[29:31] leitos populacionais eles oscilam em
+
+[29:34] média por quê Porque as pessoas mudam
+
+[29:35] por isso que quando a gente pensa em
+
+[29:38] média populacional ela é chamada de
+
+[29:40] variável aleatória porque ela varia
+
+[29:42] então o parâmetro que descreve a média
+
+[29:45] populacional não pode ser uma um valor
+
+[29:47] fixo tem que ser um valor que varia né
+
+[29:50] primeiro porque eu não tenho acesso a
+
+[29:51] toda a população e segundo porque porque
+
+[29:54] a população multa ela varia Então essa
+
+[29:57] primeira sensibilidade é importante tá
+
+[29:59] eu não preciso ter toda a população para
+
+[30:02] saber uma Estimativa de algo que eu
+
+[30:05] quero prever porque na verdade essa
+
+[30:07] estimativa varia ao longo do tempo então
+
+[30:10] é muito mais poderoso ter um intervalo
+
+[30:12] saber o intervalo de variação dessa
+
+[30:15] estimativa da Média pensa comigo que tem
+
+[30:17] como publicidade já foi de agência então
+
+[30:19] por exemplo imagina que eu contratei a
+
+[30:21] sua agência porque eu quero saber a
+
+[30:23] proporção de pessoas do de São Paulo que
+
+[30:25] mascam chiclete e eu tenho uma empresa
+
+[30:27] de chiclete Tá ok a imagina que você
+
+[30:31] o dinheiro e você coletou todas as
+
+[30:33] pessoas de São Paulo e perguntou a
+
+[30:35] proporção de pessoas que mascam chiclete
+
+[30:37] e setenta por cento das pessoas
+
+[30:38] respondeu que masca chiclete aí você vai
+
+[30:41] falar para mim ó como eu peguei toda a
+
+[30:42] população de São Paulo 40 milhões de
+
+[30:44] pessoas setenta por cento das pessoas
+
+[30:46] mas com Chiclete esse é o nosso target
+
+[30:47] esse é o nosso alvo de uma estratégia de
+
+[30:50] publicitário filho só que por que que
+
+[30:53] esse dado setenta por cento não é tão
+
+[30:54] útil porque no dia seguinte pode ter
+
+[30:56] alguém que quebrou o dente aí não marcar
+
+[30:58] mais ou tem gente que enjoou varia essa
+
+[31:01] oscilação então você não pode usar
+
+[31:03] setenta por cento como um valor fechado
+
+[31:05] para tudo né porque depois de 10 anos da
+
+[31:08] sua pesquisa pode ter mudado muito
+
+[31:10] aquela proporção então eu quero eu quero
+
+[31:12] defender um ponto aqui que você tem a
+
+[31:14] população inteira em um momento não é o
+
+[31:16] suficiente é muito mais poderoso você
+
+[31:19] calcular um intervalo onde o possível
+
+[31:22] valor da verdadeira média instalar e ter
+
+[31:25] controle sobre esse intervalo então se
+
+[31:27] eu chegar para você e falar assim o que
+
+[31:28] que é mais poderoso que você como
+
+[31:30] público Olá eu sou da pesquisa de
+
+[31:32] mercado quero te vender um projeto né O
+
+[31:35] que que é mais poderoso eu eu vou te
+
+[31:37] mostrar que eu vou conseguir coletar
+
+[31:38] toda a população uma vez e te dará a
+
+[31:41] estimativa correta uma vez ou eu vou te
+
+[31:45] dar um intervalo onde como a certa
+
+[31:47] confiança o verdadeiro valor da média
+
+[31:50] vai estar ali dentro só que você pode
+
+[31:52] usar esse método várias vezes ao longo
+
+[31:54] do tempo então você não vai saber quanto
+
+[31:57] é verdadeira média Mas você vai saber
+
+[31:59] que vai estar entre x e y Independente
+
+[32:01] de quando você coletar qual dos dois
+
+[32:04] produtos você compraria segunda
+
+[32:06] evidentemente outro intervalo certo
+
+[32:08] então daí que vem o poder do uso dos
+
+[32:10] intervalos de confiança é a partir da
+
+[32:12] pressuposição de que as médias
+
+[32:14] populacionais sempre mudam Então não é
+
+[32:16] tão interessante saber o verdadeiro
+
+[32:18] valor mas eles sabem o intervalo onde
+
+[32:20] ele varia porque aí eu consigo fazer
+
+[32:21] previsões é essa premissa porque você
+
+[32:24] parte da premissa que essa média varia
+
+[32:27] isso então é por isso que aí você passa
+
+[32:30] achar a confiança mais interessante do
+
+[32:33] que uma média estanque muito bem e
+
+[32:35] exatamente por isso que assim no caso da
+
+[32:37] pesquisa eleitoral é é óbvio que muda né
+
+[32:40] mas muda para outras variáveis altura
+
+[32:42] das pessoas a renda das pessoas o seu
+
+[32:45] colesterol Colesterol uma variável que
+
+[32:47] não tem tanto controle direto assim né
+
+[32:49] na população como um todo muda né a
+
+[32:52] média populacional então saber o
+
+[32:53] intervalo é mais poderoso do que saber o
+
+[32:55] valor fechado tá então detectar
+
+[32:57] oscilações é muito mais poderoso do que
+
+[33:00] detectar valores discretos tá nesse
+
+[33:03] sentido Então essa primeira intuição é
+
+[33:05] super importante então onde saiu a
+
+[33:07] tecnologia que gerou a geração desses
+
+[33:09] intervalos aí finalmente já saiu a
+
+[33:11] partir do teorema central do limite que
+
+[33:13] é uma propriedade da estatística da
+
+[33:16] natureza mesmo tá ela acontece vou
+
+[33:19] deixar até o site que mostra simulações
+
+[33:21] você colocar lá os dados e tal ele gera
+
+[33:23] a turma o teorema central do limite ele
+
+[33:27] acontece ele é o que criou a faculdade
+
+[33:29] estatística por exemplo era tu a
+
+[33:31] estimação de parâmetros método de
+
+[33:33] estimação sai da do teorema central do
+
+[33:36] limite ele funciona assim quem ó Coragem
+
+[33:38] eu tenho uma população eu tenho o por
+
+[33:41] exemplo a média da altura é o dado que
+
+[33:43] eu quero detectar e essa média existe eu
+
+[33:47] quero descobrir qual é só que eu não
+
+[33:48] quero pegar todo mundo aí o que que eu
+
+[33:50] vou fazer dessa população eu vou sortear
+
+[33:52] uma amostra vamos imaginar que a sua tia
+
+[33:54] em 20 pessoas de forma aleatória dessas
+
+[33:57] 20 pessoas eu tiro a média só dela sim
+
+[34:00] tá pegando gente pessoas peguei a altura
+
+[34:02] somente 20 por 20 e guarda esse valor tá
+
+[34:05] aí eu devolvo as pessoas na população e
+
+[34:08] sorteio outras 20 pessoas vocês vão
+
+[34:11] repetir o processo amostral peguei em
+
+[34:13] outras 20 pessoas algumas podem ser as
+
+[34:16] mesmas isso mas colas grande é muito
+
+[34:20] dificilmente serão isso porque o a
+
+[34:23] população total a grande tá aí o sorteio
+
+[34:25] outras 20 pessoas somo as médias delas
+
+[34:28] devido por 20 pega outra média então o
+
+[34:30] que que o que que eu fiz as duas
+
+[34:31] amostragens e o meu resultado final
+
+[34:33] foram duas médias de altura devolve as
+
+[34:36] pessoas coleta um terceiro uma terceira
+
+[34:38] mostra calcula a média das 20 pessoas e
+
+[34:41] salva o valor Tudo bem eu vou repetir
+
+[34:43] esse processo de devolver pessoas e
+
+[34:45] coletar pelo menos 30 vezes então no
+
+[34:49] final o que que eu vou ter eu voltei 600
+
+[34:51] pessoas em grupinhos de 20 eu vou ter
+
+[34:54] 600 pessoas em trinta grupos de 20
+
+[34:57] pessoas tá eu repeti-la amostra com 20
+
+[35:00] pessoas 30 vezes então vou ter 600
+
+[35:03] pessoas que eu coletei né eu coloquei
+
+[35:05] 600 pessoas em trinta grupos de 20 no
+
+[35:08] final o que que eu salvei 30 valores de
+
+[35:11] média assim não é para cada monstrinho
+
+[35:13] não Salvei a média eu vou ter 30 valores
+
+[35:15] de média o que que o teorema central do
+
+[35:17] limite diz que acontece se eu pegar
+
+[35:20] esses 30 valores de média e colocar ele
+
+[35:23] sem valor de uma ordem crescente da
+
+[35:25] menor média para a maior média e algumas
+
+[35:27] vezes pode acontecer de dar a mesma
+
+[35:29] média então eu pego é a média da altura
+
+[35:32] é um e setenta depois eu posso pegar uma
+
+[35:34] outra mostra de pessoas diferentes e
+
+[35:36] altura da um e setenta também pode
+
+[35:38] acontecer né Aí quando eu for agrupar as
+
+[35:41] pessoas que têm a mesma altura vamos vou
+
+[35:43] empilhar uma nas outras levam elas vão
+
+[35:46] ocupar o mesmo lugar ou seja vou fazer
+
+[35:47] um gráfico que chama histograma né é o
+
+[35:50] padrão de distribuição dessas 30 médias
+
+[35:53] de altura que eu coletei o teorema
+
+[35:55] central do limite diz que não importa
+
+[35:58] como é distribuição da população Não
+
+[36:00] importa se eu fizer pelo menos 30
+
+[36:03] sorteios uma quantidade a partir de 20
+
+[36:07] pessoas mais ou menos né uma quantidade
+
+[36:09] de pessoas salvar a média de cada
+
+[36:12] amostragem e fizer a distribuição das
+
+[36:15] médias a distribuição das médias sempre
+
+[36:18] sempre vai ser normal vai ter uma
+
+[36:21] distribuição de ensino simétrica sempre
+
+[36:24] tá e se eu pegar a média das médias ou
+
+[36:28] seja se eu pegar esses 30 valores de
+
+[36:30] média
+
+[36:31] em média eu vou ter exatamente o valor
+
+[36:34] da média da população
+
+[36:35] Ou seja eu vou descobrir o valor da
+
+[36:39] média da população não pegando 40
+
+[36:41] milhões de pessoas pegando uma 600 né
+
+[36:43] Isso é muito poderoso sentido quem você
+
+[36:46] tá vivo total sentido for a ideia do
+
+[36:50] teorema central do limite é essa só que
+
+[36:51] agora pensa comigo quem ó em vez de
+
+[36:54] saber a altura das pessoas eu quero
+
+[36:55] saber a proporção de pessoas que votam
+
+[36:57] no candidato esse dado existe da
+
+[36:59] população eu posso fazer a mesma coisa
+
+[37:01] sorteio uma amostrinha de 20 pessoas
+
+[37:02] quantos de vocês votam no candidato a
+
+[37:04] salvo a proposição de pessoas e repita o
+
+[37:07] nosso processinhos né Se eu pegar a
+
+[37:09] média das proporções de cada pessoa vai
+
+[37:11] dar uma distribuição se der tempo em
+
+[37:13] torno da média e se eu pegar a média das
+
+[37:15] médias vai dar a proporção média real da
+
+[37:19] população de pessoas que votariam no
+
+[37:21] candidato naquele momento só que pensa
+
+[37:24] comigo quando eu faço uma pesquisa
+
+[37:25] eleitoral Eu repito a mesma pesquisa
+
+[37:28] eleitoral 30 vezes então tipo eu tenho
+
+[37:30] que fazer a pesquisa e para detectar
+
+[37:32] quantas pessoas votam no candidato
+
+[37:35] normalmente a gente não faz 30 pesquisas
+
+[37:37] toda semana e tira média disso não é
+
+[37:40] porque isso que seria o correto a gente
+
+[37:42] não faz o que não dá tempo não atende
+
+[37:44] lugar divulgando cada uma delas e obra
+
+[37:47] mas Olá da mente isso então o que a
+
+[37:50] gente faz na pesquisa eleitoral em
+
+[37:52] qualquer pesquisa na verdade tá qualquer
+
+[37:53] pesquisa de Mestrado doutorado por
+
+[37:54] exemplo vai fazer seu doutorado você vai
+
+[37:56] repetir seu doutorado 30 vezes o seu
+
+[37:59] experimento para pegar a verdadeiro
+
+[38:00] valor não você faz uma vez e olhe lá né
+
+[38:03] então eu não tenho nenhuma centrador de
+
+[38:04] mente ele vale só que o se você imaginou
+
+[38:07] essas 30 amostras cada amostra com uma
+
+[38:10] média né Aí quando eu faço a
+
+[38:12] distribuição dessas médias da simétrico
+
+[38:14] e a média das médias é a média da
+
+[38:16] população como eu não fiz a minha
+
+[38:18] pesquisa 30 vezes o resultado que eu
+
+[38:21] encontrei na minha pesquisa é uma das
+
+[38:24] médias não é a média das médias é uma
+
+[38:27] das grandes só por isso que é mais
+
+[38:29] importante do que ver uma hoje
+
+[38:31] especificamente
+
+[38:32] é ver a sequência das pesquisas isso por
+
+[38:37] isso que é muito importante a isso vale
+
+[38:39] para área científica é fazer metanálise
+
+[38:41] o que que é porque que existe metanálise
+
+[38:43] metanálise imagina que eu tenho vários
+
+[38:46] artigos que testam uma droga e cada
+
+[38:48] grupo de pesquisa no lugar do mundo
+
+[38:49] escreveu o seu artigo cada artigo tem a
+
+[38:52] sua importância só que eu não estudo
+
+[38:54] mais robusto aí eu pegar todos esses
+
+[38:56] artigos que usaram o mesmo método em
+
+[38:58] populações diferentes em amostras
+
+[39:00] diferentes e tirar uma média das médias
+
+[39:02] uma média da média de todos esses
+
+[39:04] artigos quando eu tiro a média das
+
+[39:06] médias o que que eu vou ter uma
+
+[39:07] estimativa melhor do verdadeiro valor da
+
+[39:10] média da população geral ou seja a
+
+[39:13] existência da metanálise do da técnica
+
+[39:15] de metanálise só acontece por causa do
+
+[39:18] teorema central do limite é porque ele
+
+[39:20] existe existe a metanálise é por isso
+
+[39:22] que as pessoas dizem que metanálise tem
+
+[39:24] um papel mais robusto é uma evidência
+
+[39:26] mais robusta porque na verdade ele é
+
+[39:28] greve outros estudos só que aí tem um
+
+[39:30] problema o estudo são ruídos a
+
+[39:33] metanálise fica ruim certo então assim é
+
+[39:36] um depende do outro tem que fazer os
+
+[39:38] estudos bem feito para mim trabalho você
+
+[39:39] tem feita então assim não é que Analise
+
+[39:41] a metanálise já era uma evidência melhor
+
+[39:43] ela gera uma evidência melhor se os
+
+[39:45] estudos forem bem feitos pensa de novo
+
+[39:47] cada pesquisador faz sua pesquisa tem o
+
+[39:49] seu tijolinho o cara da metanálise ele
+
+[39:52] vai agregar todos esses estudos para
+
+[39:54] gerar uma evidência maior que é um outro
+
+[39:55] tijolinho tá então assim do ponto de
+
+[39:58] vista da evidência um depende do outro
+
+[39:59] dois são importantes mas isso ajuda
+
+[40:02] muito a entender a ideia da pesquisa
+
+[40:03] eleitoral então o que que seria ideal eu
+
+[40:06] repeti a mesma pesquisa eleitoral 30
+
+[40:08] vezes pegar a média de ver a proporção
+
+[40:11] de vezes que o candidato a foi
+
+[40:12] selecionado e tirar a média desses 30 aí
+
+[40:15] a melhor estimativa só quem praticava de
+
+[40:17] fazer isso convenhamos não não dá Então
+
+[40:20] eu só tenho um valor né como eu só tenho
+
+[40:22] um valor por semana e se você imaginar
+
+[40:25] distribuição na sua cabeça você só teve
+
+[40:27] um dos valores de média e você não sabe
+
+[40:30] se esse valor de média Esse é um
+
+[40:32] verdadeiro valor né você precisa
+
+[40:34] calcular o intervalo de confiança em
+
+[40:36] torno do seu experimento com uma certa
+
+[40:39] confiança de que o verdadeiro valor da
+
+[40:42] população vai passar ali entendi tá
+
+[40:45] então é para isso que serve o intervalo
+
+[40:47] de confiança seu repetir a minha
+
+[40:48] pesquisa várias vezes eu não preciso do
+
+[40:50] intervalo de confiança só pegar a média
+
+[40:52] das mentes como eu só faço a minha
+
+[40:54] pesquisa uma vez eu tenho que pegar a
+
+[40:56] média da minha pesquisa e transformar no
+
+[40:58] intervalo com uma certa esperança de que
+
+[41:01] o verdadeiro valor da Média passa ali né
+
+[41:03] então se trinta por cento das pessoas
+
+[41:06] votam no candidato a na minha mostra eu
+
+[41:09] tenho que criar um intervalo em torno
+
+[41:11] disso para dizer que por exemplo entre
+
+[41:13] 26 e 35 por cento das pessoas na verdade
+
+[41:16] então você na minha mostra trinta por
+
+[41:18] cento das pessoas votam no candidato a
+
+[41:20] né quando eu transpor isso na população
+
+[41:24] não quer dizer que trinta por cento das
+
+[41:25] pessoas votam no candidato a massa eu
+
+[41:27] construir o intervalo de confiança em
+
+[41:29] torno né quer dizer com uma certo Um
+
+[41:33] Certo grau de confiança que o verdadeiro
+
+[41:35] valor de proporção de pessoas que votam
+
+[41:38] no candidato é entre 26 e 35 por cento
+
+[41:41] por exemplo não vão te dizer quanto é o
+
+[41:44] verdadeiro valor mas vou te dizer um
+
+[41:46] intervalo onde esse valor pode estar
+
+[41:49] contido em noventa e cinco porcento das
+
+[41:52] vezes que eu fizer a pesquisa e aí Aqui
+
+[41:54] começa a ver a possibilidade de
+
+[41:59] empate mesmo que a média represente a
+
+[42:03] vitória de um dos dois candidatos porque
+
+[42:05] você começa a cruzar intervalos de
+
+[42:08] confiança certo muito bem isso então
+
+[42:10] quando se eu tenho dois candidatos Eu
+
+[42:12] vou ter um intervalo de confiança dos
+
+[42:14] dois candidatos se o intervalo dos dois
+
+[42:16] cruza Isso quer dizer o seguinte que a
+
+[42:18] verdadeira média pode ser uma só ou seja
+
+[42:21] Um empate Porque a verdadeira média pode
+
+[42:23] coexistir na intersecção dos dois
+
+[42:25] intervalos então eu não consigo dizer se
+
+[42:28] a proporção de pessoas que votam no
+
+[42:30] candidato o outro então para para a
+
+[42:33] proporção de candidatos que volta no ar
+
+[42:35] e no de ser diferente os intervalos não
+
+[42:38] podem cruzar porque aí eu sei que são
+
+[42:41] duas médias populacionais diferentes que
+
+[42:44] geram cada intervalo de cada candidato
+
+[42:46] alguns gráficos de Pesquisas começaram a
+
+[42:50] usar uma área hachurada se ela usa um
+
+[42:53] ela usar o gráfico de linha mostrando a
+
+[42:56] tendência né mostrando as últimas
+
+[42:59] pesquisas realizadas
+
+[43:01] mas essa linha ela tem uma área para
+
+[43:04] cima e para baixo sim acho jurada
+
+[43:07] tentando ilustrar de alguma forma que
+
+[43:09] ali é o intervalo de confiança Qual é a
+
+[43:12] diferença entre intervalo de confiança
+
+[43:14] então e margem de erro aí um ponto
+
+[43:16] importante porque é que tem que ter essa
+
+[43:18] área achurada é por causa da premissa
+
+[43:20] anterior que eu fiquei batendo porque
+
+[43:21] todas as médias populacionais oscilam
+
+[43:23] Então você não quer detectar um valor
+
+[43:25] fechado você tem que ter detectado uma
+
+[43:26] oscilação todos os dados populacionais
+
+[43:29] são aleatórios para gente e não para
+
+[43:31] natureza para natureza eles são
+
+[43:33] determinismos para a gente eles são
+
+[43:34] aleatórios então mais importante do que
+
+[43:36] saber o valor é saber o padrão de
+
+[43:39] oscilação desse valor por que isso me
+
+[43:41] permite previsibilidade ao longo do
+
+[43:42] tempo tá esse detalhe super importante
+
+[43:44] então qualquer diferença básica entre
+
+[43:47] intervalo de confiança e margem de erro
+
+[43:50] um sai do outro um sai do outro da
+
+[43:52] fórmula do intervalo de confiança se
+
+[43:54] você manipular essa fórmula você cai no
+
+[43:56] cálculo de amostra e na margem de erro
+
+[43:58] tá então assim tudo sai do intervalo de
+
+[44:01] confiança você pegar a fórmula do
+
+[44:03] intervalo de confiança e manipulá-la
+
+[44:04] você consegue calcular a fórmula do
+
+[44:07] tamanho de amostra
+
+[44:08] necessário para gerar o intervalo que
+
+[44:10] você tem interesse e também da margem de
+
+[44:12] erro então os dois valores são
+
+[44:14] conectados Então pensa comigo ó aquela
+
+[44:17] coisa da margem de erro de dois pontos
+
+[44:18] para mais ou para menos quando você
+
+[44:21] estabelece: para mais ou para menos você
+
+[44:23] tá focando no quanto você quer errar né
+
+[44:25] Eu quero saber a proporção de pessoas
+
+[44:27] que votam no candidato e eu quero errar
+
+[44:30] só do e para mais ou para menos é o
+
+[44:32] quanto de erro eu aceito errar Para eu
+
+[44:36] terminar isso Você concorda comigo que o
+
+[44:38] tamanho de amostra Importa sim então são
+
+[44:41] aumentar o tamanho da minha mostra o que
+
+[44:43] que acontece com a margem de erro
+
+[44:44] diminui diminui tá isso tem a ver com um
+
+[44:48] conceito que chama erro padrão né O que
+
+[44:51] que é erro padrão o erro padrão é a
+
+[44:53] distância entre a média da sua mostra e
+
+[44:56] o verdadeiro valor da média da população
+
+[44:58] pensa comigo quem ó eu tenho uma amostra
+
+[45:01] de 20 pessoas essa mostra de 20 pessoas
+
+[45:03] têm uma média lá né E tem uma
+
+[45:05] variabilidade dentro dessa média desse
+
+[45:08] grupo né Essa variabilidade dentro do
+
+[45:10] meu grupinho 20 pessoas é chamado desvio
+
+[45:13] padrão tá desvio padrão não é o mesmo
+
+[45:15] que erro padrão o que que é o desvio
+
+[45:17] padrão O desvio padrão é o quanto os
+
+[45:20] dados se distanciam da minha média em
+
+[45:22] média tá então dizia o patrão ele é uma
+
+[45:25] medida de precisão Então imagina eu
+
+[45:28] tenho uma amostra não sei se a minha
+
+[45:30] amostra
+
+[45:31] e ativa da população essa mostra tem uma
+
+[45:33] média e essa mente eu tenho uma
+
+[45:35] variabilidade em torno dela é normal né
+
+[45:37] então eu quero saber o com precisa é a
+
+[45:41] minha mostra o precisa em torno da Média
+
+[45:43] eu não sei se essa média da população só
+
+[45:45] da minha mostra Eu uso o desvio padrão
+
+[45:47] então o desvio padrão ele é um indicador
+
+[45:50] de confiabilidade da Média da minha
+
+[45:53] Nostra então por exemplo imagina que eu
+
+[45:54] tenho um conjunto de pessoas que têm
+
+[45:57] média de altura 1,70 e tem um desvio
+
+[46:00] padrão de 10 cm ou seja em média os
+
+[46:04] dados se distanciam 10 cm para mais ou
+
+[46:06] para menos a média Mas na minha mostra
+
+[46:08] eu não sei se isso acontece com a
+
+[46:09] população tá então desvio padrão
+
+[46:12] conversa com a minha mostra como a
+
+[46:14] variabilidade da minha mostra tá se eu
+
+[46:16] tiver um grupo de pessoas com média umas
+
+[46:19] 70 e desvio padrão 10 cm Esse é o grupo
+
+[46:22] A e eu tiver um grupo B com a mesma
+
+[46:25] média uns 70 só que o desvio padrão é 40
+
+[46:28] cm o que que acontece
+
+[46:31] e tirar uma pessoa do grupo A né e uma
+
+[46:34] pessoa do grupo do grupo B eu vou chutar
+
+[46:36] que as duas têm um e setenta de altura
+
+[46:38] porque a média Mas onde eu tenho mais
+
+[46:40] chance de errar no grupo Ao no grupo b o
+
+[46:43] b não tem por que a variância e o desvio
+
+[46:46] padrão é maior né ou seja o desvio
+
+[46:49] padrão é uma medida de confiabilidade da
+
+[46:51] Média que você está olhando esse é o
+
+[46:53] desvio padrão é uma medida de precisão o
+
+[46:55] erro padrão é diferente o erro padrão é
+
+[46:58] uma medida de acurácia é o quanto você
+
+[47:00] tá acertando a média real a média da
+
+[47:03] população tá então pensa comigo esse é o
+
+[47:06] último o raciocínio geométrico
+
+[47:08] geográfico Você tem uma amostra tem uma
+
+[47:10] bolinha de pessoas e ela tem a média ela
+
+[47:12] desvio padrão dela beleza e ela tem lá
+
+[47:15] precisão Zinho dela aí você vai começar
+
+[47:17] aumentar o tamanho de amostra começa a
+
+[47:18] aumentar as pessoas entra mais pessoas
+
+[47:20] da sua bolinha que que vai acontecer o
+
+[47:22] desvio padrão pode aumentar ou diminuir
+
+[47:24] ele vai variar só que é o mesmo tempo
+
+[47:26] conforme você vai aumentando o tamanho
+
+[47:28] de amostra amostra toda vai a começar e
+
+[47:31] ela vai começar a andar para perto da
+
+[47:34] média da população
+
+[47:34] consegue imaginar quanto maior o tamanho
+
+[47:37] de amostra amostra não só cresce ela
+
+[47:40] anda ela vai andando até se aproximar do
+
+[47:43] verdadeiro valor da média da população o
+
+[47:45] tamanho de amostra não é infinito ele
+
+[47:48] aumenta até ele virar a população Porque
+
+[47:50] eu peguei todas as pessoas e aí quando
+
+[47:52] eu pegar todas as pessoas o erro padrão
+
+[47:54] e 0 ou seja a média da amostra é igual à
+
+[47:57] média da população então assim é muito é
+
+[47:59] praticamente impossível você sortear uma
+
+[48:02] amostra que o desvio padrão e 0 todos os
+
+[48:04] dados variam pouco em torno da média é
+
+[48:06] normal tá só que é possível coletar uma
+
+[48:09] amostra que o erro padrão é zero quando
+
+[48:11] você coleta toda a população porque aí a
+
+[48:14] distância entre a média da amostra EA
+
+[48:16] média da população ficou zero mas aí ele
+
+[48:18] deixou de ser uma pesquisa e passa a ser
+
+[48:20] um senso muito bem muito bem muito bem e
+
+[48:23] é por isso que nos dados de Censo a
+
+[48:25] gente apresenta os dados em média erro
+
+[48:27] padrão e nos dados a mostrar a gente
+
+[48:30] apresenta os dados em média desvio
+
+[48:32] padrão muito bem aqui é isso aí então
+
+[48:34] erro patrão é fundamentalmente diferente
+
+[48:35] do desvio-padrão uma medida de precisão
+
+[48:38] o outro é uma medida de acurácia para o
+
+[48:41] cálculo do intervalo de confiança eu uso
+
+[48:43] o erro padrão então eu vou ter a minha
+
+[48:45] média ou a minha proporção tanto faz a
+
+[48:48] minha média mais ou menos então é média
+
+[48:52] mais ou menos por quê que é o intervalo
+
+[48:53] acima e abaixo média mais ou menos o
+
+[48:56] quanto de confiança eu quero né 67
+
+[49:01] 95/99 por cento de confiança e ou seja
+
+[49:04] multiplicado e o erro padrão da amostra
+
+[49:07] tá o erro padrão Tá bom então a fórmula
+
+[49:10] do intervalo de confiança é basicamente
+
+[49:11] isso é o parâmetro que você quer estimar
+
+[49:13] mais ou menos o quanto você tem de
+
+[49:16] confiança que você quer estabelecer e
+
+[49:19] regra de probabilidade multiplica o erro
+
+[49:22] padrão e o erro padrão é a distância
+
+[49:24] daquela mostra para o verdadeiro valor
+
+[49:27] que você quer detectar pensa comigo se
+
+[49:29] você entender essa fórmula o que a
+
+[49:31] amostra é igual a população o erro
+
+[49:33] padrão meu vai ser zero se ele for zero
+
+[49:36] ele vai cancelar ele a confiança só vai
+
+[49:39] ficar média
+
+[49:40] sacaram tá quando a minha mostra não é
+
+[49:43] tão grande quanto a população aquele
+
+[49:45] erro padrão possa ser alguma coisa ou
+
+[49:47] seja eu coloco uma incerteza Então vamos
+
+[49:50] vamos por uma coisa prática quando um
+
+[49:52] candidato então ou quando uma pesquisa
+
+[49:55] afirma que um candidato a ele tá com
+
+[49:59] cinquenta por cento das intenções de
+
+[50:02] voto e essa pesquisa evidentemente tem
+
+[50:05] lá seu sem intervalo de confiança e seu
+
+[50:07] e sua margem de erro usa dados
+
+[50:10] hipotéticos em cima de cinquenta por
+
+[50:12] cento e me explica o que que significa
+
+[50:13] cada coisa então cinquenta por cento e a
+
+[50:15] média que ele encontrou na amostra dele
+
+[50:17] isso é o 50 por cento né eu quero ficar
+
+[50:20] ocular o intervalo em torno disso lá no
+
+[50:22] Procura lá no intervalo em torno disso
+
+[50:24] eu vou colocar 50 por cento mais ou
+
+[50:26] menos o quanto de confiança eu quero
+
+[50:29] essa confiança ar condicionado em termos
+
+[50:32] de desvio padrão desvios-padrões da
+
+[50:34] Média tal quanto que eu espero que meus
+
+[50:36] dados valem ou não tá esse existem
+
+[50:38] valores padronizados para isso então por
+
+[50:40] exemplo é uma tabela se eu quero noventa
+
+[50:43] e cinco porcento de confiança o meu
+
+[50:45] valor ali da confiança e 1.96 é o valor
+
+[50:48] mais utilizado né noventa e cinco
+
+[50:50] porcento de sem criança é o mais
+
+[50:53] utilizado nas pesquisas ninguém porque a
+
+[50:56] confiança é relacionada com o tamanho de
+
+[50:57] amostra né só confiança relacionada com
+
+[51:00] o tamanho de amostra aí tem a ver com
+
+[51:02] custo da pesquisa e tal então 95% É um
+
+[51:05] trem dof eu não levo muito o tamanho de
+
+[51:08] amostra não é tão grande não fica tão
+
+[51:10] caro nem proibitivo então eu não
+
+[51:12] consenso é por isso que se usa 95 Então
+
+[51:14] significa o que significa que em noventa
+
+[51:17] e cinco porcento das vezes que eu tirar
+
+[51:19] aquela mostra vai dar cinquenta por
+
+[51:21] cento é isso isso e noventa e cinco
+
+[51:23] porcento das vezes que você repetir a
+
+[51:24] pesquisa o verdadeiro valor vai cair
+
+[51:26] dentro do intervalo não é vai se não
+
+[51:28] bastasse perfeito a imprensa Inter e vai
+
+[51:31] disse cinquenta por cento mais ou menos
+
+[51:34] o que então imagina eu tenho 50 por
+
+[51:36] cento mais ou menos 1,96 vezes o erro
+
+[51:40] padrão e o erro patrão sai da minha
+
+[51:42] mostra o qual que é a fórmula do erro
+
+[51:45] padrão ela é o desvio padrão da minha
+
+[51:47] mostra né dos dados que eu tenho
+
+[51:49] dividido pela raiz do tamanho da amostra
+
+[51:51] né então o que acontece complicou
+
+[51:55] O desvio padrão é uma medida de precisão
+
+[51:57] da Nostra tá o desvio padrão a medida de
+
+[52:00] precisão eu vou dividir isso pela raiz
+
+[52:02] quadrada do n do tamanho da amostra tá
+
+[52:05] bem só que é uma divisão Tá e o Enem é o
+
+[52:08] tamanho de amostra o que acontece quando
+
+[52:09] vem aumenta conforme o iene aumenta eu
+
+[52:12] não vou dividir o desvio padrão por um
+
+[52:14] valor cada vez maior sim né Ou seja
+
+[52:17] quando ele é grande o valor do
+
+[52:19] desvio-padrão dividido pela raiz do ele
+
+[52:21] vai para zero Essa é a propriedade do
+
+[52:23] erro padrão né então o erro padrão ele
+
+[52:26] tem que levar em conta o desvio-padrão
+
+[52:27] eu tamanho de amostra Porque quanto
+
+[52:30] maior a amostra você não vai aproximando
+
+[52:32] da população não vai então a fórmula do
+
+[52:35] desvio padrão tem que levar em conta o
+
+[52:37] tamanho de amostra né quanto maior o
+
+[52:39] tamanho de amostra você vai dividindo o
+
+[52:41] desvio padrão por pelo tamanho de
+
+[52:43] amostra quanto maior ele vai ficando O
+
+[52:45] valor vai tendendo a zero Tá mas vamos
+
+[52:47] pegar então voltando ao caso real o caso
+
+[52:50] hipotético
+
+[52:52] cinquenta por cento deu a média é de
+
+[52:54] noventa e cinco porcento ao margem de a
+
+[52:57] confiança e oitenta por cento e lá os
+
+[53:01] dois mil os dois mil entrevistados para
+
+[53:04] Brasil que é o que geralmente se utiliza
+
+[53:07] nos institutos isso então cinquenta por
+
+[53:10] cento mais ou menos 1.96 que é o quanto
+
+[53:13] você tá dizendo para fórmula é noventa e
+
+[53:14] cinco porcento de confiança e aí eu vou
+
+[53:17] pegar o desvio-padrão daquela mostra que
+
+[53:19] varia de amostra para amostra dividido
+
+[53:22] pela raiz quadrada de dois mil tá quando
+
+[53:24] eu fiz essa conta eu vou ter eu não vou
+
+[53:26] explicar em 1.96 pelo pelo resto não vai
+
+[53:30] dar uma quantidade Ah então eu vou ter
+
+[53:32] cinquenta por cento mais ou menos uma
+
+[53:33] quantidade né uma quantidade vamos
+
+[53:36] imaginar que essa quantidade de 18 por
+
+[53:38] cento então eu vou ter cinquenta por
+
+[53:40] cento mais oito por cento menos oito por
+
+[53:44] cento ou seja vai de 42 a 58 por cento
+
+[53:48] Esse é o intervalo de confiança em torno
+
+[53:50] dos 50 então o que que eu consigo
+
+[53:52] afirmar se eu reproduzir essa pesquisa
+
+[53:54] sem vezes e noventa e cinco porcento
+
+[53:57] dessas vezes o verdadeiro valor da
+
+[53:59] preferência das pessoas que eu não sei
+
+[54:01] quanto é vai estar entre 52 e 42 e 58
+
+[54:07] por cento até dentro desse intervalo uma
+
+[54:09] o Instituto afirma então que ao margem
+
+[54:11] de erro tá entre mais ou menos dois por
+
+[54:15] cento significa esse intervalo de
+
+[54:17] confiança Então tá em quatro porcento é
+
+[54:19] isso ele vai variar de 48 ao 52 é isso
+
+[54:22] isso isso só que assim o intervalo de
+
+[54:26] confiança é isso né é quando é qual que
+
+[54:29] é a margem de incerteza eu tenho Oi fixo
+
+[54:32] para um tamanho de amostra fixo a margem
+
+[54:34] de erro é outra coisa Tá amar gente é um
+
+[54:37] pouco diferente eu quero descobrir
+
+[54:38] quantas pessoas eu preciso pegar para
+
+[54:40] ter os dois pontos para mais ou para
+
+[54:41] menos então você pode pensar no
+
+[54:44] intervalo de confiança em dois aspectos
+
+[54:45] se o intervalo de confiança é muito
+
+[54:47] grande quer dizer que eu tenho muita
+
+[54:49] incerteza o valor da população vai tá
+
+[54:51] passando ali mas eu tenho muita
+
+[54:52] incerteza onde que tá o problema no
+
+[54:54] tamanho de amostra se eu aumentar o
+
+[54:56] tamanho de amostra o erro padrão diminui
+
+[54:58] o intervalo diminui Então eu tenho
+
+[55:01] calcular o tamanho da amostra ideal para
+
+[55:02] bater nisso né para para chegar nisso a
+
+[55:05] margem de erro você já tá começando do
+
+[55:07] erro eu quero errar dois por cento para
+
+[55:09] mais ou para menos se eu quero errado
+
+[55:11] dois por cento para mais ou para menos
+
+[55:12] quantas pessoas eu preciso para chegar
+
+[55:14] naquele erro a margem de erro é
+
+[55:17] equivalente é o erro padrão o com
+
+[55:19] distante você quer estar do verdadeiro
+
+[55:21] valor da Média quatro pontos: para mais
+
+[55:23] ou para menos tô com do Instituto ele
+
+[55:25] escolhe fazer uma pesquisa com uma
+
+[55:28] margem de erro demais demais ou menos
+
+[55:31] dois ela decidiu que o tamanho da
+
+[55:35] amostra tem que ser um determinado por
+
+[55:36] aqui O desvio padrão corresponda a
+
+[55:39] margem de erro é isso o erro padrão
+
+[55:41] corresponde a margem de erro o erro
+
+[55:43] padrão corresponda mais gente e você já
+
+[55:45] distância do verdadeiro valor que seja
+
+[55:46] só dois por cento em média né Eu quero
+
+[55:49] errar só esse tanto da Média
+
+[55:50] populacional quantas pessoas eu preciso
+
+[55:52] o intervalo de confiança ele diz uma
+
+[55:54] outra coisa ele crava o valor mais
+
+[55:57] preciso da intenção de voto mantendo o
+
+[55:59] mesmo tamanho de amostra imagina uma
+
+[56:01] situação assim você só tem 500 pessoas
+
+[56:04] você não você não tem dinheiro para
+
+[56:06] coletar mais então se eu e fixo seu
+
+[56:09] tamanho amostral e fixo Qual que é o
+
+[56:10] intervalo de confiança que você consegue
+
+[56:12] da da sua renda o quanto de dinheiro tem
+
+[56:14] para gastar isso é uma coisa tá o
+
+[56:17] intervalo de confiança se usa quando o
+
+[56:18] tamanho de amostra fixo é o que você
+
+[56:20] consegue coletar a margem de erro é
+
+[56:22] quando eu quero não me importo o
+
+[56:24] dinheiro eu quero errar dois por cento
+
+[56:25] quantas pessoas eu preciso tá então a
+
+[56:28] margem de erro quando você quer se
+
+[56:29] distanciado o verdadeiro valor Oi e aí
+
+[56:32] você vai ver quanto dinheiro você vai
+
+[56:33] gastar Eu n a o intervalo de confiança
+
+[56:35] eu só tenho esse n é o que eu tenho o
+
+[56:38] quanto que eu consigo errar em torno da
+
+[56:40] Média da doença que eu tenho a margem de
+
+[56:43] erro não quantas pessoas eu preciso dado
+
+[56:45] o fato de que eu quero errar só tanto do
+
+[56:48] verdadeiro valor da Média os institutos
+
+[56:50] eles têm usado qual dessas escolhas a
+
+[56:53] margem de erro a margem de erro é mais
+
+[56:55] comumente usada porque ele no fundo é o
+
+[56:57] conta você quer se distanciar do
+
+[56:58] verdadeiro valor da Média né e Em geral
+
+[57:00] os institutos tem um pouco mais de
+
+[57:02] dinheiro para coletar duas mil pessoas
+
+[57:03] Então imagina você no seu laboratório no
+
+[57:06] com paciente do hospital você não vai
+
+[57:08] coletar 2.000 pacientes é muito difícil
+
+[57:09] então nós cientistas trabalhamos com
+
+[57:12] intervalo de confiança Porque que as
+
+[57:14] nossas amostras são limitadas né
+
+[57:16] pesquisa de mercado quer a pouco porque
+
+[57:19] eles têm mais dinheiro então eles
+
+[57:21] trabalham com a margem de erro mas tudo
+
+[57:23] isso é conectado Eu vou deixar também
+
+[57:24] como extra uma a uma aula que eu dou
+
+[57:27] sobre isso da minha disciplina lá de
+
+[57:29] estatística aplicada psicobiologia da é
+
+[57:31] que escreve todo isso bonitinho com
+
+[57:33] simulação e tal mas para encerrar esse
+
+[57:36] primeiro episódio longo já explicamos
+
+[57:38] basicamente a matemática da coisa né
+
+[57:40] nesse primeiro episódio Vamos retomar um
+
+[57:42] pouquinho no próximo episódio mas tem
+
+[57:44] outros critérios que afetam as pesquisas
+
+[57:46] eleitorais outros critérios são
+
+[57:48] critérios humanos que ele tá assim para
+
+[57:50] além da conta quem vota não é um robô né
+
+[57:53] Então quais são os outros critérios que
+
+[57:55] podem afetar os resultados das pesquisas
+
+[57:56] eleitorais que não são quantitativos mas
+
+[57:59] sim são humanos e aí mostra muitas
+
+[58:02] coisas da Psicologia que tem a ver com a
+
+[58:05] subjetividade humanas isso E aí como a
+
+[58:08] psicologia mais as estatísticas são
+
+[58:10] fundamentais para entender um processo
+
+[58:11] complexo como como esse é o aguardamos
+
+[58:14] todos vocês no próximo episódio Tá certo
+
+[58:17] então aguardamos vocês na segunda parte
+
+[58:20] desse Episódio e até lá na rodô
+
+[58:23] ilustríssimo 20
+
+[58:26] e você já sabe aqui no não rodou quem
+
+[58:29] faz a pauta é você Você tem alguma
+
+[58:31] pergunta para a gente o que é comentar
+
+[58:33] algum episódio escreva para nós
+
+[58:35] podcast@nao rodou a.com.br repetindo
+
+[58:39] podcast@Naru Rodolfo. Com.br e lembre-se
+
+[58:43] mande nome completo idade profissão e a
+
+[58:46] cidade de onde você está falando é isso
+
+[58:48] aí ó
+
+[58:50] Oi
+
+[58:52] Nádia Rodolfo 1
+
+[58:55] E aí
+
+[58:57] o
+
+[58:59] apresentador
+
+[59:02] b9.com.br e
+
+[59:05] [Música]

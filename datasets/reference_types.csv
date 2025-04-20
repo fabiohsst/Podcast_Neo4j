@@ -1,0 +1,10 @@
+type_id,type_name,description
+1,Video,"Video content (YouTube, Vimeo, etc.)"
+2,Scientific_Paper,Academic papers and research articles
+3,News_Article,News articles and blog posts
+4,Book,Book references
+5,Social_Media,Social media content
+6,Academic_Website,Educational and academic websites
+7,Government_Website,Government and official websites
+8,Episode,Naruhodo episode reference
+9,Unknown,Unclassified reference type
