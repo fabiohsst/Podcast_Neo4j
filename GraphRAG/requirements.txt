@@ -1,0 +1,13 @@
+# requirements-graphrag.txt for GraphRAG modules
+# To install all dependencies, run:
+# pip install -r requirements-graphrag.txt
+#
+# Default LLM model: gpt-4o-mini-2024-07-18
+
+neo4j
+python-dotenv
+numpy
+pandas
+scikit-learn
+tiktoken
+openai 
