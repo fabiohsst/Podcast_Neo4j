@@ -1,3 +1,7 @@
-Update graph_database_analysis
-Update similarity_search
-Start GraphRAG project 
+----------- TO DO LIST ------------
+
+- Update graph_database_analysis - done
+- Update similarity_search - done
+- Start GraphRAG project 
+- Organize repository
+- Make linkedIn post about meeting
