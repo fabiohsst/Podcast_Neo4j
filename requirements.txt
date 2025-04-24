@@ -1,20 +1,17 @@
-# Core dependencies for Naruhodo Podcast project
-requests
-beautifulsoup4
-pandas
-python-dotenv
+# requirements-graphrag.txt for GraphRAG modules
+# To install all dependencies, run:
+# pip install -r requirements.txt
+#
+# Default LLM model: gpt-4o-mini-2024-07-18
+
+streamlit
+# Backend dependencies
+openai
+# Add any other dependencies your backend uses, e.g.:
 neo4j
-
-# NLP and embeddings
-sentence-transformers
-transformers
-
-# YouTube and Google API
-youtube-transcript-api
-google-api-python-client
-
-# Optional: logging is part of the standard library, but you may want to use rich for better logs
-# rich
-
-# If you use Jupyter notebooks for exploration
-# jupyter 
+python-dotenv
+numpy
+pandas
+scikit-learn
+tiktoken
+gradio 
