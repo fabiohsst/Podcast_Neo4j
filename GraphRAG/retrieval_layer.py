@@ -15,6 +15,14 @@ from dotenv import load_dotenv
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
+import logging
+
+# --- Set up error logging for problematic segments ---
+# logging.basicConfig(
+#     filename="retrieval_layer_errors.log",
+#     level=logging.ERROR,
+#     format="%(asctime)s | %(message)s"
+# )
 
 # --- Load environment variables and connect to Neo4j ---
 load_dotenv()
