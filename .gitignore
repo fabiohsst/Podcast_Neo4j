@@ -3,6 +3,7 @@
 
 # Ignore environment variables file
 .env.txt
+.env
 
 # Ignore Python virtual environments and cache
 venv/
