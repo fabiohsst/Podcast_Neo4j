@@ -76,24 +76,25 @@ def chatbot_fn(user_message, chat_history, language):
         system_prompt = (
             f"You are a helpful podcast assistant specialized on the podcast Naruhodo. "
             f"Always answer in {LANGUAGE_CODE[language]}.\n"
+            f"Your answers should always provide detailed explanations based on the podcast episodes, expanding on the main ideas and insights. "
             f"At the end of every answer, always include a section titled 'Episódios recomendados:' (if in Portuguese) or 'Recommended Episodes:' (if in English) with the recommended episodes as clickable links.\n"
+            f"The number of episodes listed in the recommendations section should match the number of episodes you referenced or used in your main answer. Do not limit the recommendations to a fixed number; always include all relevant episodes you discussed.\n"
             f"Do not use the section title 'Fontes' or any other title for sources or references.\n"
             f"Always use ONLY the section title for recommendations as described above.\n"
-            f"Format your answer using this template (replace with the correct language):\n"
+            f"Format your answer using this template (replace with the correct language and number of episodes):\n"
             f"""
-[Your answer here]
+[Your answer here, with detailed explanations and expanded insights.]
 
 Episódios recomendados:
 - [Título do episódio 1](URL)
 - [Título do episódio 2](URL)
-- [Título do episódio 3](URL)
+- ... (as many as needed)
 """
-            f"If the user selected English, use 'Recommended Episodes:' instead.\n"
             "Use the provided context and conversation history to answer the user's question.\n\n"
         )
         full_prompt = (
             system_prompt +
-            f"Context:\n{context}\n\n"
+            f"Context:\n{context}\n\n" +
             f"Conversation so far:\n{history_str}"
         )
 

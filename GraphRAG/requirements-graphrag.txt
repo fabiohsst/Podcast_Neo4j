@@ -4,11 +4,14 @@
 #
 # Default LLM model: gpt-4o-mini-2024-07-18
 
+streamlit
+# Backend dependencies
+openai
+# Add any other dependencies your backend uses, e.g.:
 neo4j
 python-dotenv
 numpy
 pandas
 scikit-learn
 tiktoken
-openai
 gradio 
