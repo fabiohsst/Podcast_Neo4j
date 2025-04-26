@@ -16,7 +16,7 @@ load_dotenv()
 NEO4J_URI = os.getenv('NEO4J_URI')
 NEO4J_USER = os.getenv('NEO4J_USER')
 NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD')
-DATA_DIR = 'data/processed/'
+DATA_DIR = 'Podcast_Neo4j/data/processed/'
 
 def connect_to_neo4j(uri, user, password):
     return GraphDatabase.driver(uri, auth=(user, password))

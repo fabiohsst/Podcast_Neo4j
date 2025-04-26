@@ -11,7 +11,7 @@ load_dotenv()
 NEO4J_URI = os.getenv('NEO4J_URI')
 NEO4J_USER = os.getenv('NEO4J_USER')
 NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD')
-TRANSCRIPTS_DIR = 'transcripts'
+TRANSCRIPTS_DIR = 'Podcast_Neo4j/transcripts'
 
 MODEL_NAME = 'sentence-transformers/all-MiniLM-L6-v2'
 embedding_model = SentenceTransformer(MODEL_NAME)
