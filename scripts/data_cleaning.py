@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-DATA_DIR = 'data/processed/'
+DATA_DIR = 'Podcast_Neo4j/data/processed/'
 
 def clean_and_prepare_datasets():
     logger.info("Loading original dataset...")
@@ -31,6 +31,10 @@ def clean_and_prepare_datasets():
     # Remove "Podcast das Minas" references
     df = df[~df['Reference'].str.contains('Podcast das #Minas|Podcasts das #Minas', na=False, regex=True)]
     logger.info(f"Dataset size after removing 'Podcast das Minas': {len(df)} rows")
+
+    # Remove episodes with "Desafio Naruhodo" in the name
+    df = df[~df['Episode'].str.contains('Desafio Naruhodo', na=False, case=False)]
+    logger.info(f"Dataset size after removing 'Desafio Naruhodo' episodes: {len(df)} rows")
 
     # --- Title/URL Separation ---
     def separate_title_url(text):

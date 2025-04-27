@@ -153,7 +153,7 @@ def hybrid_retrieve(user_message, top_k=5, expand_depth=1):
     all_segments = { (seg['episode_number'], seg.get('chunk_index', 0)): seg for seg in (keyword_segments + embedding_segments + expanded_segments) }
     return list(all_segments.values())
 
-def recommend_episodes(current_episode, user_history=None, top_n=3):
+def recommend_episodes(current_episode, user_history=None, top_n=5):
     """
     Recommend episodes based on :SIMILAR_TO relationships and community.
     - current_episode: episode number to base recommendations on
@@ -172,7 +172,7 @@ def recommend_episodes(current_episode, user_history=None, top_n=3):
             RETURN other.episode_number AS episode_number, other.title AS title, r.score AS score
             ORDER BY r.score DESC
             LIMIT $top_n
-        """, ep=current_episode, history=list(user_history), top_n=top_n*2)  # Fetch extra in case of filtering
+        """, ep=current_episode, history=list(user_history), top_n=top_n*3)  # Fetch extra in case of filtering
         for record in result:
             if record["episode_number"] not in user_history:
                 recommendations.append({
@@ -191,7 +191,7 @@ def recommend_episodes(current_episode, user_history=None, top_n=3):
             """, ep=current_episode)
             comm = comm_result.single()
             if comm and comm["community"] is not None:
-                comm_eps = get_community_episodes(comm["community"], limit=top_n*2)
+                comm_eps = get_community_episodes(comm["community"], limit=top_n*3)
                 for ep in comm_eps:
                     if ep["episode_number"] not in user_history and ep["episode_number"] != current_episode:
                         recommendations.append({
