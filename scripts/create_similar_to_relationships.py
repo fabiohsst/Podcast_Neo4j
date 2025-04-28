@@ -120,20 +120,49 @@ with driver.session() as session:
     result = session.run("MATCH ()-[r:SIMILAR_TO]->() RETURN count(r) AS rel_count")
     print("Number of SIMILAR_TO relationships in the database:", result.single()["rel_count"])
 
+    # --- Step 5: Run Louvain community detection ---
+    print("Running Louvain community detection using GDS...")
+    # Required for Neo4j Aura: authenticate GDS usage
+    session.run("CALL gds.aura.api.credentials()")
+    louvain_result = session.run("""
+        CALL gds.louvain.write(
+          'Episode',
+          {
+            relationshipProjection: {
+              SIMILAR_TO: {
+                type: 'SIMILAR_TO',
+                orientation: 'UNDIRECTED',
+                properties: {
+                  score: {
+                    property: 'score',
+                    defaultValue: 1.0
+                  }
+                }
+              }
+            },
+            relationshipWeightProperty: 'score',
+            writeProperty: 'community'
+          }
+        )
+        YIELD communityCount, modularity, modularities
+    """)
+    louvain_stats = louvain_result.single()
+    print(f"Louvain community detection complete. Community count: {louvain_stats['communityCount']}, Modularity: {louvain_stats['modularity']}")
+
 driver.close()
 
 # --- Example: How to explore the relationships in Python ---
-def print_most_similar_episodes(target_episode, top_n=10):
-    with driver.session() as session:
-        result = session.run("""
-            MATCH (e:Episode {episode_number: $ep})- [r:SIMILAR_TO]-> (other:Episode)
-            RETURN other.episode_number AS episode_number, other.title AS title, r.score AS score
-            ORDER BY r.score DESC
-            LIMIT $top_n
-        """, ep=target_episode, top_n=top_n)
-        print(f"\nTop {top_n} most similar episodes to {target_episode}:")
-        for record in result:
-            print(record)
+# def print_most_similar_episodes(target_episode, top_n=10):
+#     with driver.session() as session:
+#         result = session.run("""
+#             MATCH (e:Episode {episode_number: $ep})- [r:SIMILAR_TO]-> (other:Episode)
+#             RETURN other.episode_number AS episode_number, other.title AS title, r.score AS score
+#             ORDER BY r.score DESC
+#             LIMIT $top_n
+#         """, ep=target_episode, top_n=top_n)
+#         print(f"\nTop {top_n} most similar episodes to {target_episode}:")
+#         for record in result:
+#             print(record)
 
 # Example usage (uncomment to use):
 # print_most_similar_episodes(280, top_n=10)

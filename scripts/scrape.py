@@ -1,14 +1,9 @@
-import os
-import pandas as pd
-from dotenv import load_dotenv
-from typing import NoReturn, List
-
-
 
 # Updated URL format for pages
 SEARCH_URL: str = 'https://www.b9.com.br/shows/naruhodo/?pagina={}#anchor-tabs'
 
 def get_podcast_posts(page_number: int) -> List[str]:
+    print(f"get_podcast_posts called for page {page_number}", flush=True)
     """
     Retrieve podcast post URLs from a search page.
 
@@ -63,11 +58,12 @@ def get_podcast_posts(page_number: int) -> List[str]:
             seen.add(href)
             unique_links.append(href)
     
-    print(f"Found {len(unique_links)} unique b9.com.br podcast links on page {page_number}")
+    print(f"Found {len(unique_links)} unique b9.com.br podcast links on page {page_number}", flush=True)
     return unique_links
 
 # Updated to iterate from page 1 to 35
 def scrape_references() -> List[List[str]]:
+    print("scrape_references called", flush=True)
     """
     Scrape references from podcast posts across pages 1 to 35.
 
@@ -79,7 +75,7 @@ def scrape_references() -> List[List[str]]:
     
     # Iterate from page 1 to 35
     for page in range(21, 36):
-        print(f"Scraping page {page} of 35...")
+        print(f"Scraping page {page} of 35...", flush=True)
         try:
             post_links = get_podcast_posts(page)
             
@@ -90,26 +86,28 @@ def scrape_references() -> List[List[str]]:
             
             # Process each episode link
             for post_link in post_links:
-                print(f"Scraping post {post_link}...")
+                print(f"Scraping post {post_link}...", flush=True)
                 try:
                     references = extract_references(post_link)
+                    print(f"Extracted {len(references)} references from {post_link}", flush=True)
                     # Prepend the post URL to the list of references.
                     all_references.append([post_link] + references)
                     # Pause for 1-2 seconds to be respectful to the server.
                     time.sleep(random.uniform(1, 2))
                 except Exception as e:
-                    print(f"Error scraping {post_link}: {str(e)}")
+                    print(f"Error scraping {post_link}: {str(e)}", flush=True)
                     continue
 
         except Exception as e:
-            print(f"Error processing page {page}: {str(e)}")
+            print(f"Error processing page {page}: {str(e)}", flush=True)
             # Continue to the next page instead of breaking
             continue
 
-    print(f"Scraping completed. Processed {len(all_references)} episodes.")
+    print(f"Scraping completed. Processed {len(all_references)} episodes.", flush=True)
     return all_references
 
 def save_to_csv(data: List[List[str]], filename: str = 'references3.csv') -> None:
+    print(f"save_to_csv called with {len(data)} rows", flush=True)
     """
     Save the scraped data to a CSV file with structured columns.
     Each reference will be in its own column (Reference_1, Reference_2, etc.).
@@ -142,14 +140,17 @@ def save_to_csv(data: List[List[str]], filename: str = 'references3.csv') -> Non
     # Save to CSV, handling missing values properly
     df.to_csv(filename, index=False, encoding='utf-8')
     
-    print(f"Saved {len(df)} episodes with up to {max_refs} references each to {filename}")
-    print(f"Column names: {', '.join(columns)}")
+    print(f"Saved {len(df)} episodes with up to {max_refs} references each to {filename}", flush=True)
+    print(f"Column names: {', '.join(columns)}", flush=True)
 
 if __name__ == "__main__":
+    print("Main block started", flush=True)
     # Load environment variables from the .env file (if needed)
     load_dotenv()
+    print("Loaded .env", flush=True)
 
     # Scrape references from the website and save them to a CSV file.
     references = scrape_references()
+    print("scrape_references finished", flush=True)
     save_to_csv(references)
-    print("Data has been saved to references.csv")
+    print("Data has been saved to references.csv", flush=True)

@@ -8,10 +8,11 @@ from neo4j import GraphDatabase
 
 # --- Setup ---
 load_dotenv()
+# This will always point to the transcripts folder inside Podcast_Neo4j
+TRANSCRIPTS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'transcripts')
 NEO4J_URI = os.getenv('NEO4J_URI')
 NEO4J_USER = os.getenv('NEO4J_USER')
 NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD')
-TRANSCRIPTS_DIR = 'Podcast_Neo4j/transcripts'
 
 MODEL_NAME = 'sentence-transformers/all-MiniLM-L6-v2'
 embedding_model = SentenceTransformer(MODEL_NAME)
@@ -77,16 +78,32 @@ def generate_embeddings(text_chunks, batch_size=32):
 # --- Neo4j Driver ---
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
-def delete_all_transcript_segments():
+def delete_all_transcript_segments(batch_size=100):
     with driver.session() as session:
-        session.run("""
-            MATCH (s:TranscriptSegment)
-            DETACH DELETE s
-        """)
-        session.run("""
-            MATCH ()-[r:HAS_SEGMENT]->()
-            DELETE r
-        """)
+        # Delete TranscriptSegment nodes in batches
+        while True:
+            result = session.run("""
+                MATCH (s:TranscriptSegment)
+                WITH s LIMIT $batch_size
+                DETACH DELETE s
+                RETURN count(s) as deleted
+            """, batch_size=batch_size)
+            deleted = result.single()["deleted"]
+            print(f"Deleted {deleted} TranscriptSegment nodes in this batch.")
+            if deleted == 0:
+                break
+        # Delete HAS_SEGMENT relationships in batches
+        while True:
+            result = session.run("""
+                MATCH ()-[r:HAS_SEGMENT]->()
+                WITH r LIMIT $batch_size
+                DELETE r
+                RETURN count(r) as deleted
+            """, batch_size=batch_size)
+            deleted = result.single()["deleted"]
+            print(f"Deleted {deleted} HAS_SEGMENT relationships in this batch.")
+            if deleted == 0:
+                break
 
 def import_to_neo4j(episode_number, text_chunks, embeddings):
     with driver.session() as session:
