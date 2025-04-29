@@ -16,7 +16,7 @@ load_dotenv()
 NEO4J_URI = os.getenv('NEO4J_URI')
 NEO4J_USER = os.getenv('NEO4J_USER')
 NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD')
-DATA_DIR = 'Podcast_Neo4j/data/processed/'
+DATA_DIR = os.path.join('..', 'data', 'processed')
 
 def connect_to_neo4j(uri, user, password):
     return GraphDatabase.driver(uri, auth=(user, password))
@@ -130,6 +130,14 @@ def import_data():
 
         logger.info(f"Connecting to Neo4j at {NEO4J_URI}")
         driver = connect_to_neo4j(NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD)
+
+        # Verify connectivity before proceeding
+        try:
+            driver.verify_connectivity()
+            logger.info("Successfully connected to Neo4j!")
+        except Exception as conn_err:
+            logger.error(f"Could not connect to Neo4j: {conn_err}")
+            return
 
         with driver.session() as session:
             confirmation = input("This will delete all existing data in the database. Proceed? (yes/no): ")

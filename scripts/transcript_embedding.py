@@ -24,6 +24,19 @@ CHUNK_OVERLAP = 100
 # --- Episodes to Skip ---
 SKIP_EPISODES = {129, 130, 131, 7, 18, 23, 26, 28, 37, 39, 41, 44, 48, 49, 50, 54, 57, 67, 70, 73, 76, 84, 85, 90, 92, 97, 99, 100, 104, 112}
 
+# --- Checkpointing Utilities ---
+PROGRESS_FILE = "processed_episodes.txt"
+
+def load_processed_episodes():
+    if os.path.exists(PROGRESS_FILE):
+        with open(PROGRESS_FILE, "r") as f:
+            return set(int(line.strip()) for line in f if line.strip().isdigit())
+    return set()
+
+def save_processed_episode(ep_num):
+    with open(PROGRESS_FILE, "a") as f:
+        f.write(f"{ep_num}\n")
+
 # --- Transcript Loader ---
 def load_transcript(episode_number):
     # Use regex to match the episode number as a complete token after the underscore
@@ -78,91 +91,83 @@ def generate_embeddings(text_chunks, batch_size=32):
 # --- Neo4j Driver ---
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
-def delete_all_transcript_segments(batch_size=100):
+def delete_segments_for_episode(episode_number):
     with driver.session() as session:
-        # Delete TranscriptSegment nodes in batches
-        while True:
-            result = session.run("""
-                MATCH (s:TranscriptSegment)
-                WITH s LIMIT $batch_size
-                DETACH DELETE s
-                RETURN count(s) as deleted
-            """, batch_size=batch_size)
-            deleted = result.single()["deleted"]
-            print(f"Deleted {deleted} TranscriptSegment nodes in this batch.")
-            if deleted == 0:
-                break
-        # Delete HAS_SEGMENT relationships in batches
-        while True:
-            result = session.run("""
-                MATCH ()-[r:HAS_SEGMENT]->()
-                WITH r LIMIT $batch_size
-                DELETE r
-                RETURN count(r) as deleted
-            """, batch_size=batch_size)
-            deleted = result.single()["deleted"]
-            print(f"Deleted {deleted} HAS_SEGMENT relationships in this batch.")
-            if deleted == 0:
-                break
+        session.run("""
+            MATCH (e:Episode {episode_number: $episode_number})-[:HAS_SEGMENT]->(s:TranscriptSegment)
+            DETACH DELETE s
+        """, {"episode_number": episode_number})
 
-def import_to_neo4j(episode_number, text_chunks, embeddings):
-    with driver.session() as session:
-        session.run(
-            """
-            MERGE (e:Episode {episode_number: $episode_number})
-            """,
-            {"episode_number": episode_number}
-        )
-        segment_nodes = [
-            {
-                'id': f"{episode_number}_{i}",
-                'episode_number': episode_number,
-                'chunk_index': i,
-                'text': chunk,
-                'embedding': embedding.tolist() if hasattr(embedding, 'tolist') else list(embedding)
-            }
-            for i, (chunk, embedding) in enumerate(zip(text_chunks, embeddings))
-        ]
-        session.run(
-            """
-            UNWIND $segments AS seg
-            MERGE (s:TranscriptSegment {id: seg.id})
-            SET s.episode_number = seg.episode_number,
-                s.chunk_index = seg.chunk_index,
-                s.text = seg.text,
-                s.embedding = seg.embedding
-            """,
-            {'segments': segment_nodes}
-        )
-        session.run(
-            """
-            UNWIND $segments AS seg
-            MATCH (e:Episode {episode_number: seg.episode_number})
-            MATCH (s:TranscriptSegment {id: seg.id})
-            MERGE (e)-[:HAS_SEGMENT]->(s)
-            """,
-            {'segments': segment_nodes}
-        )
+def import_to_neo4j_with_retries(driver, episode_number, text_chunks, embeddings, retries=3, delay=5):
+    for attempt in range(retries):
+        try:
+            with driver.session() as session:
+                session.run(
+                    """
+                    MERGE (e:Episode {episode_number: $episode_number})
+                    """,
+                    {"episode_number": episode_number}
+                )
+                segment_nodes = [
+                    {
+                        'id': f"{episode_number}_{i}",
+                        'episode_number': episode_number,
+                        'chunk_index': i,
+                        'text': chunk,
+                        'embedding': embedding.tolist() if hasattr(embedding, 'tolist') else list(embedding)
+                    }
+                    for i, (chunk, embedding) in enumerate(zip(text_chunks, embeddings))
+                ]
+                session.run(
+                    """
+                    UNWIND $segments AS seg
+                    MERGE (s:TranscriptSegment {id: seg.id})
+                    SET s.episode_number = seg.episode_number,
+                        s.chunk_index = seg.chunk_index,
+                        s.text = seg.text,
+                        s.embedding = seg.embedding
+                    """,
+                    {'segments': segment_nodes}
+                )
+                session.run(
+                    """
+                    UNWIND $segments AS seg
+                    MATCH (e:Episode {episode_number: seg.episode_number})
+                    MATCH (s:TranscriptSegment {id: seg.id})
+                    MERGE (e)-[:HAS_SEGMENT]->(s)
+                    """,
+                    {'segments': segment_nodes}
+                )
+            return True
+        except Exception as e:
+            print(f"[Retry {attempt+1}/{retries}] Error importing episode {episode_number}: {e}")
+            if attempt < retries - 1:
+                time.sleep(delay)
+                # Try to reconnect driver if needed
+                try:
+                    driver.close()
+                except Exception:
+                    pass
+                globals()['driver'] = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+            else:
+                print(f"Failed to import episode {episode_number} after {retries} attempts.")
+                return False
 
-# --- Main Loop for Jupyter ---
-# 1. Delete all transcript segments before import
-print("Deleting all TranscriptSegment nodes and HAS_SEGMENT relationships...")
-delete_all_transcript_segments()
-print("Done.")
-
-# 2. Import all transcripts except those in SKIP_EPISODES
+# --- Main Loop ---
+# Import all transcripts except those in SKIP_EPISODES and already processed
 all_results = []
+processed_episodes = load_processed_episodes()
 episode_numbers = []
 for fname in os.listdir(TRANSCRIPTS_DIR):
     match = re.search(r'Naruhodo _(\d+)', fname)
     if match:
         ep_num = int(match.group(1))
-        if ep_num in SKIP_EPISODES:
-            print(f"Skipping episode {ep_num} (in skip list).")
+        if ep_num in SKIP_EPISODES or ep_num in processed_episodes:
+            print(f"Skipping episode {ep_num} (in skip list or already processed).")
             continue
         if fname.endswith('.txt'):
             episode_numbers.append(ep_num)
-episode_numbers = sorted(set(episode_numbers))
+episode_numbers = sorted(set(ep_num for ep_num in episode_numbers if ep_num not in processed_episodes))
 
 for episode_number in episode_numbers:
     timings = {}
@@ -180,12 +185,17 @@ for episode_number in episode_numbers:
     t3 = time.time()
     timings['embed'] = t3 - t2
 
-    import_to_neo4j(episode_number, chunks, embeddings)
+    # Delete segments for this episode before importing
+    delete_segments_for_episode(episode_number)
+    success = import_to_neo4j_with_retries(driver, episode_number, chunks, embeddings)
     t4 = time.time()
     timings['import'] = t4 - t3
 
     timings['total'] = t4 - t0
     all_results.append((episode_number, timings))
+
+    if success:
+        save_processed_episode(episode_number)
 
     print(f"  Load:   {timings['load']:.2f}s")
     print(f"  Chunk:  {timings['chunk']:.2f}s")

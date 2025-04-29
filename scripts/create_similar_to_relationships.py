@@ -18,6 +18,7 @@ import pandas as pd
 from neo4j import GraphDatabase
 from dotenv import load_dotenv
 from sklearn.metrics.pairwise import cosine_similarity
+import time
 
 # --- Configuration ---
 THRESHOLD = 0.97
@@ -39,6 +40,40 @@ episode_to_title = pd.Series(
     episodes_df['episode_title'].values,
     index=episodes_df['episode_number']
 ).to_dict()
+
+# --- Checkpointing Utilities ---
+PROGRESS_FILE = "similar_to_progress.txt"
+
+def load_last_completed_batch():
+    if os.path.exists(PROGRESS_FILE):
+        with open(PROGRESS_FILE, "r") as f:
+            line = f.read().strip()
+            return int(line) if line.isdigit() else -1
+    return -1
+
+def save_last_completed_batch(batch_idx):
+    with open(PROGRESS_FILE, "w") as f:
+        f.write(str(batch_idx))
+
+# --- Retry Logic for Neo4j Operations ---
+def run_batch_with_retries(session, batch, retries=3, delay=5):
+    for attempt in range(retries):
+        try:
+            session.run("""
+                UNWIND $batch AS rel
+                MATCH (a:Episode {episode_number: rel.source})
+                MATCH (b:Episode {episode_number: rel.target})
+                MERGE (a)-[r:SIMILAR_TO]->(b)
+                SET r.score = rel.score
+            """, batch=batch)
+            return True
+        except Exception as e:
+            print(f"[Retry {attempt+1}/{retries}] Error inserting batch: {e}")
+            if attempt < retries - 1:
+                time.sleep(delay)
+            else:
+                print(f"Failed to insert batch after {retries} attempts.")
+                return False
 
 # --- Step 1: Extract and aggregate embeddings ---
 def get_episode_embeddings(driver):
@@ -94,9 +129,11 @@ print(f"Number of episode pairs with similarity >= {THRESHOLD}: {len(selected_pa
 
 # --- Step 4: Remove existing SIMILAR_TO relationships and import new ones ---
 with driver.session() as session:
-    # Remove all existing SIMILAR_TO relationships
-    session.run("MATCH ()-[r:SIMILAR_TO]->() DELETE r")
-    print("All existing SIMILAR_TO relationships removed.")
+    last_completed_batch = load_last_completed_batch()
+    if last_completed_batch < 0:
+        # Remove all existing SIMILAR_TO relationships only if starting from scratch
+        session.run("MATCH ()-[r:SIMILAR_TO]->() DELETE r")
+        print("All existing SIMILAR_TO relationships removed.")
 
     # Prepare data for both directions
     relationships = []
@@ -104,50 +141,29 @@ with driver.session() as session:
         relationships.append({'source': epA, 'target': epB, 'score': float(score)})
         relationships.append({'source': epB, 'target': epA, 'score': float(score)})
 
-    # Batch insert new SIMILAR_TO relationships
+    # Batch insert new SIMILAR_TO relationships with checkpointing and retry
+    total_batches = (len(relationships) + BATCH_SIZE - 1) // BATCH_SIZE
     for i in range(0, len(relationships), BATCH_SIZE):
+        batch_idx = i // BATCH_SIZE
+        if batch_idx <= last_completed_batch:
+            print(f"Skipping batch {batch_idx+1} (already completed)")
+            continue
         batch = relationships[i:i+BATCH_SIZE]
-        session.run("""
-            UNWIND $batch AS rel
-            MATCH (a:Episode {episode_number: rel.source})
-            MATCH (b:Episode {episode_number: rel.target})
-            MERGE (a)-[r:SIMILAR_TO]->(b)
-            SET r.score = rel.score
-        """, batch=batch)
-        print(f"Inserted batch {i//BATCH_SIZE + 1} of SIMILAR_TO relationships.")
+        success = run_batch_with_retries(session, batch)
+        if success:
+            print(f"Inserted batch {batch_idx+1} of SIMILAR_TO relationships.")
+            save_last_completed_batch(batch_idx)
+        else:
+            print(f"Batch {batch_idx+1} failed after retries. Exiting.")
+            exit(1)
 
     # Validate the number of relationships created
     result = session.run("MATCH ()-[r:SIMILAR_TO]->() RETURN count(r) AS rel_count")
     print("Number of SIMILAR_TO relationships in the database:", result.single()["rel_count"])
 
-    # --- Step 5: Run Louvain community detection ---
-    print("Running Louvain community detection using GDS...")
-    # Required for Neo4j Aura: authenticate GDS usage
-    session.run("CALL gds.aura.api.credentials()")
-    louvain_result = session.run("""
-        CALL gds.louvain.write(
-          'Episode',
-          {
-            relationshipProjection: {
-              SIMILAR_TO: {
-                type: 'SIMILAR_TO',
-                orientation: 'UNDIRECTED',
-                properties: {
-                  score: {
-                    property: 'score',
-                    defaultValue: 1.0
-                  }
-                }
-              }
-            },
-            relationshipWeightProperty: 'score',
-            writeProperty: 'community'
-          }
-        )
-        YIELD communityCount, modularity, modularities
-    """)
-    louvain_stats = louvain_result.single()
-    print(f"Louvain community detection complete. Community count: {louvain_stats['communityCount']}, Modularity: {louvain_stats['modularity']}")
+    # Clean up progress file after successful completion
+    if os.path.exists(PROGRESS_FILE):
+        os.remove(PROGRESS_FILE)
 
 driver.close()
 

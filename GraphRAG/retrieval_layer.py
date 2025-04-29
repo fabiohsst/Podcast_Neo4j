@@ -112,20 +112,6 @@ def expand_context_from_episode(episode_number, depth=1):
         """, ep=episode_number, depth=depth)
         return [record["node"] for record in result]
 
-# --- 4. Retrieve Community/Cluster Info (Optional) ---
-def get_community_episodes(community_id, limit=20):
-    """
-    Retrieve episodes belonging to a specific community/cluster.
-    """
-    with driver.session() as session:
-        result = session.run("""
-            MATCH (e:Episode)
-            WHERE e.community = $community_id
-            RETURN e.episode_number AS episode_number, e.title AS title
-            LIMIT $limit
-        """, community_id=community_id, limit=limit)
-        return [record.data() for record in result]
-
 # --- 5. Hybrid Retrieval Function ---
 def hybrid_retrieve(user_message, top_k=5, expand_depth=1):
     """
@@ -155,7 +141,7 @@ def hybrid_retrieve(user_message, top_k=5, expand_depth=1):
 
 def recommend_episodes(current_episode, user_history=None, top_n=5):
     """
-    Recommend episodes based on :SIMILAR_TO relationships and community.
+    Recommend episodes based only on :SIMILAR_TO relationships.
     - current_episode: episode number to base recommendations on
     - user_history: set of episode numbers the user has already seen/listened to
     - top_n: number of recommendations to return
@@ -182,25 +168,6 @@ def recommend_episodes(current_episode, user_history=None, top_n=5):
                 })
             if len(recommendations) >= top_n:
                 break
-        # Optionally, add community-based recommendations if not enough found
-        if len(recommendations) < top_n:
-            # Get the community of the current episode
-            comm_result = session.run("""
-                MATCH (e:Episode {episode_number: $ep})
-                RETURN e.community AS community
-            """, ep=current_episode)
-            comm = comm_result.single()
-            if comm and comm["community"] is not None:
-                comm_eps = get_community_episodes(comm["community"], limit=top_n*3)
-                for ep in comm_eps:
-                    if ep["episode_number"] not in user_history and ep["episode_number"] != current_episode:
-                        recommendations.append({
-                            "episode_number": ep["episode_number"],
-                            "title": ep["title"],
-                            "score": None
-                        })
-                    if len(recommendations) >= top_n:
-                        break
     return recommendations[:top_n]
 
 # --- Example usage ---
@@ -211,10 +178,6 @@ def recommend_episodes(current_episode, user_history=None, top_n=5):
 #
 #     # Example: retrieve_segments_by_embedding(query_embedding, top_k=5)
 #     # (You need to generate a query_embedding using your embedding model.)
-#
-#     print("\nEpisodes in community 1:")
-#     for ep in get_community_episodes(1, limit=5):
-#         print(ep)
 #
 #     # Example: hybrid retrieval
 #     print("\nHybrid retrieval for 'fake news':")
