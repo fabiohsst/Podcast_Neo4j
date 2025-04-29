@@ -28,7 +28,7 @@ def chatbot_fn(user_message, chat_history, language):
             f"Discuss the subject of the user's question, making fluid connections between insights from different episodes, and reference episodes inline as citations (e.g., [Ep. 123]). "
             f"At the end of your answer, provide a section titled 'Referências' (if in Portuguese) or 'References' (if in English), listing all episodes you cited, as clickable links using the provided URLs from the context. "
             f"Only include episodes in the references section if you have a valid URL for them (provided in the context).\n"
-            f"If you mention an episode in your answer but do not have a URL for it, write: "(URL not available)" instead of a link.\n"
+            f"If you mention an episode in your answer but do not have a URL for it, write: '(URL not available)' instead of a link.\n"
             f"Never invent or guess URLs. Never repeat references from previous answers unless they are relevant to the current user question.\n"
             f"Format your answer using this template (replace with the correct language and number of episodes):\n"
             f"""
@@ -130,7 +130,7 @@ def main():
         st.markdown(f"<div class='sidebar-tagline'>{UI_TEXT['tagline']['Português']}</div>", unsafe_allow_html=True)
         st.markdown(f"<div class='sidebar-presenter'>{UI_TEXT['presenter']['Português']}</div>", unsafe_allow_html=True)
         language = st.selectbox("Idioma / Language", LANGUAGE_OPTIONS, index=0)
-        st.markdown(f"<div style='margin-top:1em;'><a style='color:white;' href='https://github.com/fabiohsst/Podcast_Neo4j/blob/main/GraphRAG/chatbot_streamlit.py' target='_blank'>Ver código fonte</a></div>", unsafe_allow_html=True)
+        st.markdown(f"<div style='margin-top:1em;'><a style='color:white;' href='https://github.com/fabiohsst/Podcast_Neo4j/blob/main/GraphRAG/chatbot_streamlit.py' target='_blank'>View source code</a></div>", unsafe_allow_html=True)
 
     # No header or divider in main area
 
