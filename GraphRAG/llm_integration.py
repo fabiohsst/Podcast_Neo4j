@@ -21,17 +21,10 @@ DEFAULT_MODEL = "gpt-4o-mini-2024-07-18"
 # Create OpenAI client (for openai>=1.0.0)
 client = openai.Client(api_key=OPENAI_API_KEY)
 
-def query_llm(context, user_query, model=DEFAULT_MODEL, max_tokens=512, temperature=0.2):
-    prompt = (
-        "You are a helpful podcast assistant specialized on the podcast 'Naruhodo'. Use the provided context to answer the user's question.\n\n"
-        f"Context:\n{context}\n\n"
-        f"User question: {user_query}\n"
-        "Answer:"
-    )
+def query_llm(prompt, model=DEFAULT_MODEL, max_tokens=512, temperature=0.2):
     response = client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "system", "content": "You are a helpful podcast assistant specialized on the podcast 'Naruhodo'."},
             {"role": "user", "content": prompt}
         ],
         max_tokens=max_tokens,
