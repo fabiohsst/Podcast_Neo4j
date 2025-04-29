@@ -46,7 +46,7 @@ Referências:
             f"Context:\n{context}\n\n" +
             f"Conversation so far:\n{history_str}"
         )
-        answer = query_llm(context=full_prompt, user_query="", model=DEFAULT_MODEL)
+        answer = query_llm(full_prompt, model=DEFAULT_MODEL)
         return answer
     except Exception as e:
         return (
