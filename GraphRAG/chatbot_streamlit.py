@@ -10,7 +10,7 @@ def chatbot_fn(user_message, chat_history, language):
     LANGUAGE_CODE = {"Português": "Portuguese", "English": "English"}
     start_time = time.time()
     try:
-        segments = hybrid_retrieve(user_message, top_k=6, expand_depth=1)
+        segments = hybrid_retrieve(user_message, top_k=5, expand_depth=1)
         episode_numbers = {seg['episode_number'] for seg in segments}
         episode_metadata = get_episode_metadata_neo4j(episode_numbers)
         context = build_context(segments, episode_metadata, max_tokens=2000, rank_key="similarity", add_urls=True)
@@ -34,7 +34,6 @@ def chatbot_fn(user_message, chat_history, language):
 Referências:
 - [Título do episódio 1](URL)
 - [Título do episódio 2](URL)
-- ... (as many as needed)
 """
             "Use the provided context and conversation history to answer the user's question.\n\n"
         )
