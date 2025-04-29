@@ -40,6 +40,38 @@ def update_episode_urls(driver, updates):
             updated_count += 1
     return updated_count
 
+# Extract episode numbers and titles from transcript files
+def extract_episode_titles(transcripts_dir):
+    episode_title_map = {}
+    skipped = []
+    for fname in os.listdir(transcripts_dir):
+        match = re.search(r'Naruhodo _([0-9]+)', fname)
+        if match:
+            ep_num = int(match.group(1))
+            with open(os.path.join(transcripts_dir, fname), encoding='utf-8') as f:
+                first_line = f.readline()
+                if first_line.startswith('Title:'):
+                    title = first_line[len('Title:'):].strip()
+                    if title:
+                        episode_title_map[ep_num] = title
+                    else:
+                        skipped.append((ep_num, fname, "Empty title"))
+                else:
+                    skipped.append((ep_num, fname, "No title line"))
+    return episode_title_map, skipped
+
+# Update titles in Neo4j for existing episodes only
+def update_episode_titles(driver, title_map):
+    updated_count = 0
+    with driver.session() as session:
+        for ep_num, title in title_map.items():
+            session.run(
+                "MATCH (e:Episode {episode_number: $ep_num}) SET e.title = $title",
+                ep_num=ep_num, title=title
+            )
+            updated_count += 1
+    return updated_count
+
 if __name__ == "__main__":
     load_dotenv()
     NEO4J_URI = os.getenv('NEO4J_URI')
@@ -49,7 +81,25 @@ if __name__ == "__main__":
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
     episode_url_map = extract_episode_urls(TRANSCRIPTS_DIR)
     existing_episodes = get_existing_episodes(driver)
+
+    # Print which episodes are in transcripts but missing in Neo4j
+    transcript_episodes = set(episode_url_map.keys())
+    missing_in_neo4j = transcript_episodes - existing_episodes
+    if missing_in_neo4j:
+        print(f"Episodes in transcripts but missing in Neo4j (not updated): {sorted(missing_in_neo4j)}")
+
     updates = {ep: url for ep, url in episode_url_map.items() if ep in existing_episodes}
     updated_count = update_episode_urls(driver, updates)
+    
+    # --- New logic for updating titles ---
+    episode_title_map, skipped_titles = extract_episode_titles(TRANSCRIPTS_DIR)
+    title_updates = {ep: title for ep, title in episode_title_map.items() if ep in existing_episodes}
+    updated_title_count = update_episode_titles(driver, title_updates)
+    # -------------------------------------
     driver.close()
-    print(f"Updated URLs for {updated_count} episodes in Neo4j.") 
+    print(f"Updated URLs for {updated_count} episodes in Neo4j.")
+    print(f"Updated titles for {updated_title_count} episodes in Neo4j.")
+    if skipped_titles:
+        print("\nEpisodes skipped due to missing or malformed titles:")
+        for ep_num, fname, reason in skipped_titles:
+            print(f"  Episode {ep_num} in file '{fname}': {reason}") 
