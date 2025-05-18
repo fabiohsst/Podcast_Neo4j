@@ -44,7 +44,7 @@ def run_pipeline(user_message, language=None, chat_history=None):
         input_dict["language"] = language
     if chat_history is not None:
         input_dict["chat_history"] = chat_history
-    result = graph.run(input_dict)
+    result = graph.invoke(input_dict)
     return result
 
 if __name__ == "__main__":
