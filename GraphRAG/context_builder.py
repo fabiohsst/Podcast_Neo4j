@@ -17,12 +17,11 @@ def count_tokens(text, model_name="gpt-4o-mini-2024-07-18"):
     enc = tiktoken.encoding_for_model(model_name)
     return len(enc.encode(text))
 
-def build_context(segments, episode_metadata=None, max_tokens=2000, model_name="gpt-4o-mini-2024-07-18", rank_key=None, add_urls=False, summarize_if_too_long=False):
+def build_context(segments, episode_metadata=None, max_tokens=2000, model_name="gpt-4o-mini-2024-07-18", add_urls=False, summarize_if_too_long=False):
     """
     Build a context string for the LLM from transcript segments and optional metadata.
     - segments: list of dicts with 'text', 'episode_number', etc.
     - episode_metadata: dict mapping episode_number to metadata (title, url, ...)
-    - rank_key: optional key to sort segments by (e.g., 'similarity')
     - add_urls: if True, include episode URLs in the context
     - summarize_if_too_long: if True, add a placeholder for future summarization logic
     """
@@ -30,9 +29,9 @@ def build_context(segments, episode_metadata=None, max_tokens=2000, model_name="
     unique_segments = { (seg['episode_number'], seg.get('chunk_index', 0)): seg for seg in segments }
     segments = list(unique_segments.values())
 
-    # Optionally, sort or rank segments by relevance/score
-    if rank_key:
-        segments = sorted(segments, key=lambda x: -x.get(rank_key, 0))
+    # Always sort by similarity if present in any segment
+    if any('similarity' in seg for seg in segments):
+        segments = sorted(segments, key=lambda x: -x.get('similarity', 0))
 
     context_parts = []
     total_tokens = 0
@@ -70,5 +69,5 @@ def build_context(segments, episode_metadata=None, max_tokens=2000, model_name="
 #     episode_metadata = {
 #         280: {"title": "Por Que As Pessoas Compartilham Fake News", "url": "https://www.b9.com.br/shows/naruhodo/naruhodo-280-por-que-as-pessoas-compartilham-fake-news"}
 #     }
-#     context = build_context(segments, episode_metadata, max_tokens=200, rank_key="similarity", add_urls=True)
+#     context = build_context(segments, episode_metadata, max_tokens=200, add_urls=True)
 #     print(context) 

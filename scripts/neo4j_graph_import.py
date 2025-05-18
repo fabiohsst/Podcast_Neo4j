@@ -16,7 +16,8 @@ load_dotenv()
 NEO4J_URI = os.getenv('NEO4J_URI')
 NEO4J_USER = os.getenv('NEO4J_USER')
 NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD')
-DATA_DIR = os.path.join('..', 'data', 'processed')
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(SCRIPT_DIR, '..', 'data', 'processed')
 
 def connect_to_neo4j(uri, user, password):
     return GraphDatabase.driver(uri, auth=(user, password))

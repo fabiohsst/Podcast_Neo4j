@@ -1,0 +1,101 @@
+2025-04-23 14:58:17,963 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 14:58:18,003 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 14:58:18,437 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 14:58:48,534 | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 14:58:48,534 | Query: What other episodes tells us about ADHD? | Latency: 24.64 seconds2025-04-23 18:38:53,834 | Logging test: test_logging.py started
+2025-04-23 18:39:44,741 | Logging test: test_logging.py started
+2025-04-23 18:42:00,447 | Logging test: test_logging.py started
+2025-04-23 18:42:06,427 | Logging test: test_logging.py started
+2025-04-23 19:20:10,943 | Logging test: chatbot_interface.py started
+2025-04-23 19:20:12,126 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 19:21:27,419 | Logging test: chatbot_interface.py started
+2025-04-23 19:21:28,638 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 19:22:47,513 | Logging test: chatbot_interface.py started
+2025-04-23 19:22:48,313 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 19:22:48,357 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 19:22:48,746 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 19:26:41,219 | Logging test: chatbot_interface.py started
+2025-04-23 19:26:41,929 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 19:26:41,977 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 19:26:43,118 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 19:36:55,933 | Logging test: chatbot_interface.py started
+2025-04-23 19:36:57,227 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 19:40:29,864 | Logging test: chatbot_interface.py started
+2025-04-23 19:40:30,461 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 19:40:30,491 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 19:40:31,993 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 19:48:02,613 | Logging test: chatbot_interface.py started
+2025-04-23 19:48:03,496 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 19:48:03,556 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 19:48:03,945 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 19:50:16,320 | Logging test: chatbot_interface.py started
+2025-04-23 19:50:16,979 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 19:50:17,011 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 19:50:17,449 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 19:53:31,464 | Logging test: chatbot_interface.py started
+2025-04-23 19:53:32,252 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 19:53:32,314 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 19:53:32,737 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 19:57:28,380 | Logging test: chatbot_interface.py started
+2025-04-23 19:57:28,949 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 19:57:28,983 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 19:57:29,475 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:03:52,977 | Logging test: chatbot_interface.py started
+2025-04-23 20:03:53,647 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 20:03:53,708 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 20:03:55,248 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:11:36,468 | Logging test: chatbot_interface.py started
+2025-04-23 20:11:37,534 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:13:20,935 | Logging test: chatbot_interface.py started
+2025-04-23 20:13:21,539 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 20:13:21,582 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 20:13:22,017 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:18:40,623 | Logging test: chatbot_interface.py started
+2025-04-23 20:18:41,808 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:21:38,264 | Logging test: chatbot_interface.py started
+2025-04-23 20:21:39,415 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:24:06,661 | Logging test: chatbot_interface.py started
+2025-04-23 20:24:10,128 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:26:39,817 | Logging test: chatbot_interface.py started
+2025-04-23 20:26:40,468 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 20:26:40,517 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 20:26:40,968 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:28:42,105 | Logging test: chatbot_interface.py started
+2025-04-23 20:28:42,792 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 20:28:42,824 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 20:28:44,223 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:30:26,137 | Logging test: chatbot_interface.py started
+2025-04-23 20:30:26,805 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 20:30:26,855 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 20:30:28,541 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:39:47,442 | Logging test: chatbot_interface.py started
+2025-04-23 20:39:48,080 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 20:39:48,113 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 20:39:48,597 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 20:41:02,807 | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 20:41:02,836 | Query: Give me a episode to start | Language: English | Latency: 30.28 seconds
+2025-04-23 21:15:00,713 | Logging test: chatbot_interface.py started
+2025-04-23 21:15:01,294 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 21:15:01,684 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 21:15:01,731 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 21:15:02,656 | HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-24 21:31:59,727 | Logging test: chatbot_interface.py started
+2025-04-24 21:32:00,389 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-24 21:32:00,633 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-24 21:32:00,995 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-24 21:32:01,751 | HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-24 21:33:51,256 | Logging test: chatbot_interface.py started
+2025-04-24 21:33:51,891 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-24 21:33:51,948 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-24 21:33:52,424 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-24 21:33:53,041 | HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-24 21:36:28,623 | Logging test: chatbot_interface.py started
+2025-04-24 21:36:29,454 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-24 21:36:29,485 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-24 21:36:30,156 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-24 21:36:30,888 | HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-24 22:22:35,442 | Logging test: chatbot_interface.py started
+2025-04-24 22:22:36,264 | HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-24 22:22:36,311 | HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-24 22:22:36,655 | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-24 22:22:37,729 | HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"

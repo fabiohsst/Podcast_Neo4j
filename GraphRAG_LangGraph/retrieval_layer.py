@@ -183,6 +183,19 @@ def recommend_episodes(current_episode, user_history=None, top_n=5):
                 break
     return recommendations[:top_n]
 
+# --- LangGraph Node: Retrieval ---
+# This function is designed to be used as a node in a LangGraph pipeline.
+def retrieval_node(inputs):
+    """
+    LangGraph node for retrieval. Expects a dict with 'user_message'.
+    Returns a dict with 'segments' (list of relevant transcript segments).
+    """
+    user_message = inputs.get('user_message')
+    if not user_message:
+        raise ValueError("Input to retrieval_node must include 'user_message'.")
+    segments = hybrid_retrieve(user_message, top_k=5, expand_depth=1)
+    return {'segments': segments}
+
 # --- Example usage ---
 # if __name__ == "__main__":
 #     print("Segments containing 'TDAH':")
