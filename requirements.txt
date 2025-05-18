@@ -22,4 +22,4 @@ beautifulsoup4
 youtube-transcript-api
 google-api-python-client
 altair
-langgraph
+langgraph>=0.0.30
