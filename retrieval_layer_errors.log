@@ -1,0 +1,22 @@
+2025-05-19 09:39:51,144 | Error in retrieval node: Input to retrieval_node must include 'user_message'.
+2025-05-19 09:39:51,171 | Pipeline reported an error: 'NoneType' object has no attribute 'items'
+2025-05-19 09:39:51,172 | Response provided: Error: 'NoneType' object has no attribute 'items'
+2025-05-19 09:40:42,218 | Error in retrieval node: Input to retrieval_node must include 'user_message'.
+2025-05-19 09:40:42,226 | Pipeline reported an error: Pipeline execution failed
+2025-05-19 09:40:42,227 | Response provided: Error: Pipeline returned no result.
+2025-05-19 09:44:15,050 | Pipeline reported an error: StateGraph.__init__() got an unexpected keyword argument 'state_type'
+2025-05-19 09:44:15,054 | Response provided: Error: StateGraph.__init__() got an unexpected keyword argument 'state_type'
+2025-05-19 09:45:20,446 | Error in retrieval node: Input to retrieval_node must include 'user_message'.
+2025-05-19 09:45:20,458 | Pipeline reported an error: Pipeline execution failed
+2025-05-19 09:45:20,460 | Response provided: Error: Pipeline returned no result.
+2025-05-19 09:46:28,432 | Error in retrieval node: Input to retrieval_node must include 'user_message'.
+2025-05-19 09:46:28,451 | Pipeline reported an error: Pipeline execution failed
+2025-05-19 09:46:28,452 | Response provided: Error: Pipeline returned no result.
+2025-05-19 09:49:58,163 | Error in retrieval node: Input to retrieval_node must include 'user_message'.
+2025-05-19 09:49:58,176 | Pipeline reported an error: Pipeline execution failed
+2025-05-19 09:49:58,177 | Response provided: Error: Pipeline returned no result.
+2025-05-19 09:52:54,171 | Pipeline reported an error: No module named 'llm_integration'
+2025-05-19 09:52:54,189 | Response provided: Error: No module named 'llm_integration'
+2025-05-19 09:52:54,271 | Error in retrieval node: Input to retrieval_node must include 'user_message'.
+2025-05-19 09:52:54,279 | Pipeline reported an error: Pipeline execution failed
+2025-05-19 09:52:54,281 | Response provided: Error: Pipeline returned no result.

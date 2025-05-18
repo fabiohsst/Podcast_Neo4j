@@ -1,13 +1,53 @@
 import sys
 import streamlit as st
-from pipeline_langgraph import run_pipeline
+from retrieval_layer import hybrid_retrieve, recommend_episodes
+from context_builder import build_context
+from llm_integration import query_llm, DEFAULT_MODEL
+from test_context_llm import get_episode_metadata_neo4j
 import time
 
 def chatbot_fn(user_message, chat_history, language):
+    LANGUAGE_CODE = {"Português": "Portuguese", "English": "English"}
+    start_time = time.time()
     try:
-        # Use the UI-selected language and pass chat history to the pipeline
-        result = run_pipeline(user_message, language=language, chat_history=chat_history)
-        return result["llm_response"]
+        segments = hybrid_retrieve(user_message, top_k=5, expand_depth=1)
+        episode_numbers = {seg['episode_number'] for seg in segments}
+        episode_metadata = get_episode_metadata_neo4j(episode_numbers)
+        context = build_context(segments, episode_metadata, max_tokens=2000, rank_key="similarity", add_urls=True)
+
+        history_str = ""
+        if chat_history:
+            for user, assistant in chat_history:
+                history_str += f"User: {user}\nAssistant: {assistant}\n"
+        history_str += f"User: {user_message}\nAssistant:"
+
+        system_prompt = (
+            f"You are a highly knowledgeable and friendly assistant specialized in the Naruhodo podcast. "
+            f"Your role is to help users deeply understand the topics discussed in the episodes, using a clear, engaging, and conversational style. "
+            f"Always answer in {LANGUAGE_CODE[language]}.\n"
+            f"Discuss the subject of the user's question, making fluid connections between insights from different episodes, and reference episodes inline as citations (e.g., [Ep. 123]). "
+            f"At the end of your answer, provide a section titled 'Referências' (if in Portuguese) or 'References' (if in English), listing all episodes you cited, as clickable links using the provided URLs from the context. "
+            f"Only include episodes in the references section if you have a valid URL for them (provided in the context).\n"
+            f"If you mention an episode in your answer but do not have a URL for it, write: '(URL not available)' instead of a link.\n"
+            f"Never invent or guess URLs. Never repeat references from previous answers unless they are relevant to the current user question.\n"
+            f"Format your answer using this template (replace with the correct language and number of episodes):\n"
+            f"""
+[Your answer here, making fluid connections between episode insights and referencing episodes inline, e.g., ... [Ep. 123].]
+
+Referências:
+- [Título do episódio 1](URL)
+- [Título do episódio 2](URL)
+- [Título do episódio 3] (URL not available)
+"""
+            "Use the provided context and conversation history to answer the user's question.\n\n"
+        )
+        full_prompt = (
+            system_prompt +
+            f"Context:\n{context}\n\n" +
+            f"Conversation so far:\n{history_str}"
+        )
+        answer = query_llm(full_prompt, model=DEFAULT_MODEL)
+        return answer
     except Exception as e:
         return (
             "Desculpe, ocorreu um erro ao processar sua pergunta. "

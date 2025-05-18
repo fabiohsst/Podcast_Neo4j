@@ -9,9 +9,6 @@ LinkedIn: https://www.linkedin.com/in/fabiohsst/
 """
 
 import tiktoken  # For token counting with OpenAI models
-import os
-from neo4j import GraphDatabase
-from dotenv import load_dotenv
 
 def count_tokens(text, model_name="gpt-4o-mini-2024-07-18"):
     """
@@ -28,7 +25,13 @@ def build_context(segments, episode_metadata=None, max_tokens=2000, model_name="
     - add_urls: if True, include episode URLs in the context
     - summarize_if_too_long: if True, add a placeholder for future summarization logic
     """
-    # Assume segments are already deduplicated and ranked
+    # Deduplicate segments by (episode_number, chunk_index)
+    unique_segments = { (seg['episode_number'], seg.get('chunk_index', 0)): seg for seg in segments }
+    segments = list(unique_segments.values())
+
+    # Always sort by similarity if present in any segment
+    if any('similarity' in seg for seg in segments):
+        segments = sorted(segments, key=lambda x: -x.get('similarity', 0))
 
     context_parts = []
     total_tokens = 0
@@ -54,87 +57,17 @@ def build_context(segments, episode_metadata=None, max_tokens=2000, model_name="
     context = "\n".join(context_parts)
     return context
 
-# --- LangGraph Node: Deduplication ---
-def deduplication_node(inputs):
-    """
-    LangGraph node for deduplication. Expects a dict with 'segments' (list of segment dicts).
-    Returns a dict with deduplicated 'segments'.
-    """
-    segments = inputs.get('segments', [])
-    unique_segments = { (seg['episode_number'], seg.get('chunk_index', 0)): seg for seg in segments }
-    deduped_segments = list(unique_segments.values())
-    return {'segments': deduped_segments}
-
-# --- LangGraph Node: Ranking (by similarity) ---
-def ranking_node(inputs):
-    """
-    LangGraph node for ranking. Expects a dict with 'segments' (list of segment dicts).
-    Returns a dict with segments sorted by 'similarity' (descending).
-    """
-    segments = inputs.get('segments', [])
-    if any('similarity' in seg for seg in segments):
-        ranked_segments = sorted(segments, key=lambda x: -x.get('similarity', 0))
-    else:
-        ranked_segments = segments
-    return {'segments': ranked_segments}
-
-# --- Metadata Retrieval Function ---
-load_dotenv()
-NEO4J_URI = os.getenv('NEO4J_URI')
-NEO4J_USER = os.getenv('NEO4J_USER')
-NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD')
-driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-
-def get_episode_metadata_neo4j(episode_numbers):
-    """
-    Fetch metadata (title, url) for a set of episode_numbers from Neo4j.
-    Returns a dict: {episode_number: {'title': ..., 'url': ...}, ...}
-    """
-    if not episode_numbers:
-        return {}
-    metadata = {}
-    with driver.session() as session:
-        result = session.run(
-            """
-            MATCH (e:Episode)
-            WHERE e.episode_number IN $eps
-            RETURN e.episode_number AS episode_number, e.title AS title, e.url AS url
-            """,
-            eps=list(episode_numbers)
-        )
-        for record in result:
-            metadata[record['episode_number']] = {
-                'title': record['title'],
-                'url': record['url']
-            }
-    return metadata
-
-# --- LangGraph Node: Metadata Enrichment ---
-def metadata_enrichment_node(inputs):
-    """
-    LangGraph node for metadata enrichment.
-    Expects a dict with 'segments' (list of segment dicts).
-    Returns a dict with 'segments' and 'episode_metadata'.
-    """
-    segments = inputs.get('segments', [])
-    episode_numbers = {seg['episode_number'] for seg in segments}
-    episode_metadata = get_episode_metadata_neo4j(episode_numbers)
-    return {
-        'segments': segments,
-        'episode_metadata': episode_metadata
-    }
-
-# --- LangGraph Node: Context Formatting ---
-def context_formatting_node(inputs):
-    """
-    LangGraph node for context formatting. Expects a dict with 'segments' and 'episode_metadata'.
-    Returns a dict with 'context', 'segments', and 'episode_metadata'.
-    """
-    segments = inputs.get('segments', [])
-    episode_metadata = inputs.get('episode_metadata', {})
-    context = build_context(segments, episode_metadata, max_tokens=2000, add_urls=True)
-    return {
-        'context': context,
-        'segments': segments,
-        'episode_metadata': episode_metadata
-    } 
+# Example usage
+# if __name__ == "__main__":
+#     # Example segments for episode 280
+#     segments = [
+#         {"episode_number": 280, "chunk_index": 1, "text": "Por que as pessoas compartilham fake news?", "similarity": 0.98},
+#         {"episode_number": 280, "chunk_index": 2, "text": "Discussão sobre psicologia das redes sociais.", "similarity": 0.95},
+#         {"episode_number": 280, "chunk_index": 3, "text": "Impacto das fake news na sociedade moderna.", "similarity": 0.93},
+#     ]
+#     # Example metadata for episode 280
+#     episode_metadata = {
+#         280: {"title": "Por Que As Pessoas Compartilham Fake News", "url": "https://www.b9.com.br/shows/naruhodo/naruhodo-280-por-que-as-pessoas-compartilham-fake-news"}
+#     }
+#     context = build_context(segments, episode_metadata, max_tokens=200, add_urls=True)
+#     print(context) 
