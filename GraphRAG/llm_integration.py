@@ -32,6 +32,33 @@ def query_llm(prompt, model=DEFAULT_MODEL, max_tokens=512, temperature=0.2):
     )
     return response.choices[0].message.content.strip()
 
+# --- LangGraph Node: LLM ---
+def llm_node(inputs):
+    """
+    LangGraph node for LLM call. Expects a dict with 'context' (and optionally 'user_message' and 'chat_history').
+    Returns a dict with 'llm_response', 'context', and 'user_message'.
+    """
+    context = inputs.get('context', '')
+    user_message = inputs.get('user_message', None)
+    chat_history = inputs.get('chat_history', None)
+    # Format chat history if present
+    history_str = ""
+    if chat_history:
+        for user, assistant in chat_history:
+            history_str += f"User: {user}\nAssistant: {assistant}\n"
+    # Build the prompt
+    prompt = context
+    if history_str:
+        prompt += f"\nConversation so far:\n{history_str}"
+    if user_message:
+        prompt += f"User: {user_message}\nAssistant:"
+    response = query_llm(prompt)
+    return {
+        'llm_response': response,
+        'context': context,
+        'user_message': user_message
+    }
+
 # Example usage
 # if __name__ == "__main__":
 #     # Example context and user query
